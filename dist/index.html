@@ -223,6 +223,46 @@
         margin: 0;
         color: var(--muted);
       }
+      details {
+        margin-top: 14px;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: #fffaf2;
+        overflow: hidden;
+      }
+      summary {
+        cursor: pointer;
+        padding: 14px 16px;
+        font-weight: 600;
+        list-style: none;
+      }
+      summary::-webkit-details-marker {
+        display: none;
+      }
+      .details-body {
+        padding: 0 16px 16px;
+        border-top: 1px solid var(--line);
+      }
+      .table-wrap {
+        overflow-x: auto;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+      th, td {
+        padding: 10px 12px;
+        border-bottom: 1px solid var(--line);
+        text-align: left;
+        vertical-align: top;
+      }
+      th {
+        font-size: 0.82rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--muted);
+      }
       @media (max-width: 768px) {
         .header-row {
           flex-direction: column;
@@ -256,7 +296,7 @@
         <div class="header-row">
           <div>
             <h1>News Push Data</h1>
-            <p class="meta">Generated at 2026-04-13T12:11:50.650Z · 885 articles · 116 active sources</p>
+            <p class="meta">Generated at 2026-04-13T12:48:08.061Z · 509 articles · 91 active sources</p>
           </div>
           <p class="header-note">A stripped-down landing page inspired by <code>latest.html</code>. It keeps the visual system, but only serves the raw dataset surface.</p>
         </div>
@@ -289,50 +329,1580 @@
           <article class="signal-card">
             <p class="signal-meta">Unique build identifier</p>
             <h3>Dataset ID</h3>
-            <p><code>2026-04-13T12:11:50.650Z</code></p>
+            <p><code>2026-04-13T12:48:08.061Z</code></p>
           </article><article class="signal-card">
             <p class="signal-meta">Sources processed</p>
             <h3>Run Health</h3>
-            <p>116 succeeded · 44 failed · 160 total</p>
+            <p>91 succeeded · 69 failed · 160 total</p>
           </article><article class="signal-card">
             <p class="signal-meta">Operational signal</p>
             <h3>Warnings</h3>
-            <p>44 warnings in the latest successful build</p>
+            <p>69 warnings in the latest successful build</p>
           </article><article class="signal-card">
             <p class="signal-meta">Published records</p>
             <h3>Articles</h3>
-            <p>885 normalized articles in the current dataset</p>
+            <p>509 normalized articles in the current dataset</p>
           </article>
         </div>
+      </section>
+
+      <section>
+        <h2>Fetch Diagnostics</h2>
+        <div class="signal-grid">
+          <article class="signal-card">
+            <p class="signal-meta">Fetched and yielded articles</p>
+            <h3>With Data</h3>
+            <p>91 sources</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">Fetched successfully, zero normalized articles</p>
+            <h3>Reachable But Empty</h3>
+            <p>0 sources</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">Request, parse, or access failure</p>
+            <h3>Failed Sources</h3>
+            <p>69 sources</p>
+          </article>
+        </div>
+        <h3 style="margin-top: 20px;">Failure Breakdown</h3>
+        <div class="signal-grid"><article class="signal-card">
+            <p class="signal-meta">36 sources</p>
+            <h3>network_error</h3>
+            <p>berthub.eu: fetch failed · blog.pixelmelt.dev: fetch failed · buttondown.com/hillelwayne: fetch failed</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">25 sources</p>
+            <h3>xml_entity_limit</h3>
+            <p>AWS Blog: Entity expansion limit exceeded: 1160 &gt; 1000 · bernsteinbear.com: Entity expansion limit exceeded: 1665 &gt; 1000 · blog.jim-nielsen.com: Entity expansion limit exceeded: 1044 &gt; 1000</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">7 sources</p>
+            <h3>timeout</h3>
+            <p>antirez.com: Request timed out · arXiv 机器学习: Request timed out · arXiv 计算机视觉: Request timed out</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">1 source</p>
+            <h3>http_error</h3>
+            <p>FreeBuf: HTTP 405</p>
+          </article></div>
+
+        <details open>
+          <summary>Failed Sources (69)</summary>
+          <div class="details-body">
+            <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Source</th>
+            <th>Type</th>
+            <th>Fetched</th>
+            <th>Published</th>
+            <th>Duration</th>
+            <th>Reason</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>
+                <a href="http://antirez.com/rss" target="_blank" rel="noreferrer">antirez.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12002 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.arxiv.org/rss/cs.LG" target="_blank" rel="noreferrer">arXiv 机器学习</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12003 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.arxiv.org/rss/cs.CV" target="_blank" rel="noreferrer">arXiv 计算机视觉</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12003 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://aws.amazon.com/blogs/aws/feed/" target="_blank" rel="noreferrer">AWS Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1249 ms</td>
+              <td>Entity expansion limit exceeded: 1160 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://bernsteinbear.com/feed.xml" target="_blank" rel="noreferrer">bernsteinbear.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>904 ms</td>
+              <td>Entity expansion limit exceeded: 1665 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://berthub.eu/articles/index.xml" target="_blank" rel="noreferrer">berthub.eu</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10341 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.jim-nielsen.com/feed.xml" target="_blank" rel="noreferrer">blog.jim-nielsen.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>410 ms</td>
+              <td>Entity expansion limit exceeded: 1044 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.pixelmelt.dev/rss/" target="_blank" rel="noreferrer">blog.pixelmelt.dev</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10403 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://borretti.me/feed.xml" target="_blank" rel="noreferrer">borretti.me</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>648 ms</td>
+              <td>Entity expansion limit exceeded: 1164 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://buttondown.com/hillelwayne/rss" target="_blank" rel="noreferrer">buttondown.com/hillelwayne</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10332 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/feed.xml" target="_blank" rel="noreferrer">chiark.greenend.org.uk/~sgtatham</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10043 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://developer.chrome.com/blog/feed.xml" target="_blank" rel="noreferrer">Chrome Developer Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10496 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://computer.rip/rss.xml" target="_blank" rel="noreferrer">computer.rip</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12003 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://css-tricks.com/feed/" target="_blank" rel="noreferrer">CSS-Tricks</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10495 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.theatlantic.com/feed/author/derek-thompson/" target="_blank" rel="noreferrer">derekthompson.org</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10400 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://dev.to/feed" target="_blank" rel="noreferrer">Dev.to</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>783 ms</td>
+              <td>Entity expansion limit exceeded: 2714 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.downtowndougbrown.com/feed/" target="_blank" rel="noreferrer">downtowndougbrown.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10503 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.dwarkeshpatel.com/feed" target="_blank" rel="noreferrer">dwarkesh.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>11029 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://eli.thegreenplace.net/feeds/all.atom.xml" target="_blank" rel="noreferrer">eli.thegreenplace.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10504 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://evanhahn.com/feed.xml" target="_blank" rel="noreferrer">evanhahn.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10094 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.filfre.net/feed/" target="_blank" rel="noreferrer">filfre.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10493 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/yang991178/fluent-reader/releases.atom" target="_blank" rel="noreferrer">Fluent Reader Releases</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12003 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.freebuf.com/feed" target="_blank" rel="noreferrer">FreeBuf</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>144 ms</td>
+              <td>HTTP 405</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/FreshRSS/FreshRSS/releases.atom" target="_blank" rel="noreferrer">FreshRSS Releases</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12002 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://garymarcus.substack.com/feed" target="_blank" rel="noreferrer">garymarcus.substack.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10466 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.geoffreylitt.com/feed.xml" target="_blank" rel="noreferrer">geoffreylitt.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>510 ms</td>
+              <td>Entity expansion limit exceeded: 1094 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://gilesthomas.com/feed/rss.xml" target="_blank" rel="noreferrer">gilesthomas.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2296 ms</td>
+              <td>Entity expansion limit exceeded: 1531 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://go.dev/blog/feed.atom" target="_blank" rel="noreferrer">Go Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10214 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://golangweekly.com/rss/" target="_blank" rel="noreferrer">Golang Weekly</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>4170 ms</td>
+              <td>Entity expansion limit exceeded: 1324 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.google/technology/ai/rss/" target="_blank" rel="noreferrer">Google AI Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10411 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://gwern.substack.com/feed" target="_blank" rel="noreferrer">gwern.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10341 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://herman.bearblog.dev/feed/" target="_blank" rel="noreferrer">herman.bearblog.dev</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>942 ms</td>
+              <td>Entity expansion limit exceeded: 1035 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://hey.paris/index.xml" target="_blank" rel="noreferrer">hey.paris</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1393 ms</td>
+              <td>Entity expansion limit exceeded: 1008 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://huggingface.co/blog/feed.xml" target="_blank" rel="noreferrer">Hugging Face 博客</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10403 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://hugotunius.se/feed.xml" target="_blank" rel="noreferrer">hugotunius.se</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1618 ms</td>
+              <td>Entity expansion limit exceeded: 1307 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://it-notes.dragas.net/feed/" target="_blank" rel="noreferrer">it-notes.dragas.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10499 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.ithome.com/rss/" target="_blank" rel="noreferrer">IT之家</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>420 ms</td>
+              <td>Entity expansion limit exceeded: 1001 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://javascriptweekly.com/rss/" target="_blank" rel="noreferrer">JavaScript Weekly</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2350 ms</td>
+              <td>Entity expansion limit exceeded: 1206 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://jyn.dev/atom.xml" target="_blank" rel="noreferrer">jyn.dev</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1963 ms</td>
+              <td>Entity expansion limit exceeded: 1945 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://lcamtuf.substack.com/feed" target="_blank" rel="noreferrer">lcamtuf.substack.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10449 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://linux.do/latest.rss" target="_blank" rel="noreferrer">LinuxDo 最新话题</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10281 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://linux.do/top.rss" target="_blank" rel="noreferrer">LinuxDo 热门话题</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10147 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://matduggan.com/rss/" target="_blank" rel="noreferrer">matduggan.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10131 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://maurycyz.com/index.xml" target="_blank" rel="noreferrer">maurycyz.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10336 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://mjg59.dreamwidth.org/data/rss" target="_blank" rel="noreferrer">mjg59.dreamwidth.org</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2366 ms</td>
+              <td>Entity expansion limit exceeded: 1019 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/Ranchero-Software/NetNewsWire/releases.atom" target="_blank" rel="noreferrer">NetNewsWire Releases</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10383 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://oldvcr.blogspot.com/feeds/posts/default" target="_blank" rel="noreferrer">oldvcr.blogspot.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10502 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/openclaw/openclaw/commits/main.atom" target="_blank" rel="noreferrer">OpenClaw Commits</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10036 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/openclaw/openclaw/releases.atom" target="_blank" rel="noreferrer">OpenClaw Releases</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10498 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://rachelbythebay.com/w/atom.xml" target="_blank" rel="noreferrer">rachelbythebay.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10408 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.righto.com/feeds/posts/default" target="_blank" rel="noreferrer">righto.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>3247 ms</td>
+              <td>Entity expansion limit exceeded: 1342 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.com/DIYgod/RSSHub-Radar/releases.atom" target="_blank" rel="noreferrer">RSSHub Radar Releases</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10499 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.rust-lang.org/feed.xml" target="_blank" rel="noreferrer">Rust Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1785 ms</td>
+              <td>Entity expansion limit exceeded: 1177 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.seangoedecke.com/rss.xml" target="_blank" rel="noreferrer">seangoedecke.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>593 ms</td>
+              <td>Entity expansion limit exceeded: 1104 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://simonwillison.net/atom/everything/" target="_blank" rel="noreferrer">Simon Willison&#39;s Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1894 ms</td>
+              <td>Entity expansion limit exceeded: 1246 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://susam.net/feed.xml" target="_blank" rel="noreferrer">susam.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10495 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.swift.org/atom.xml" target="_blank" rel="noreferrer">Swift Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1006 ms</td>
+              <td>Entity expansion limit exceeded: 1108 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.tedunangst.com/flak/rss" target="_blank" rel="noreferrer">tedunangst.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10359 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://feeds.feedburner.com/TheHackersNews" target="_blank" rel="noreferrer">The Hacker News</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10160 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://this-week-in-rust.org/atom.xml" target="_blank" rel="noreferrer">This Week in Rust</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>628 ms</td>
+              <td>Entity expansion limit exceeded: 1560 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://tomrenner.com/index.xml" target="_blank" rel="noreferrer">tomrenner.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>957 ms</td>
+              <td>Entity expansion limit exceeded: 1060 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.v2ex.com/feed/tab/tech.xml" target="_blank" rel="noreferrer">V2EX 技术</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10115 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://vercel.com/atom" target="_blank" rel="noreferrer">Vercel Blog</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>815 ms</td>
+              <td>Entity expansion limit exceeded: 1001 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.wheresyoured.at/rss/" target="_blank" rel="noreferrer">wheresyoured.at</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>12001 ms</td>
+              <td>Request timed out</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.wired.com/feed/rss" target="_blank" rel="noreferrer">Wired</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10502 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://worksonmymachine.substack.com/feed" target="_blank" rel="noreferrer">worksonmymachine.substack.com</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10092 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://xeiaso.net/blog.rss" target="_blank" rel="noreferrer">xeiaso.net</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>10382 ms</td>
+              <td>fetch failed</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.aishort.top/?type=xlrocket" target="_blank" rel="noreferrer">效率火箭</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>2830 ms</td>
+              <td>Entity expansion limit exceeded: 1038 &gt; 1000</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.aishort.top/?type=AppSolution" target="_blank" rel="noreferrer">爱范儿</a>
+              </td>
+              <td>rss</td>
+              <td>0</td>
+              <td>0</td>
+              <td>1685 ms</td>
+              <td>Entity expansion limit exceeded: 1356 &gt; 1000</td>
+            </tr>
+        </tbody>
+      </table>
+    </div>
+          </div>
+        </details>
+
+        <details>
+          <summary>Reachable But Empty (0)</summary>
+          <div class="details-body">
+            <p class="feed-empty">None.</p>
+          </div>
+        </details>
+
+        <details>
+          <summary>With Data (91)</summary>
+          <div class="details-body">
+            <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Source</th>
+            <th>Type</th>
+            <th>Fetched</th>
+            <th>Published</th>
+            <th>Duration</th>
+            <th>Reason</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+              <td>
+                <a href="https://alistapart.com/main/feed/" target="_blank" rel="noreferrer">A List Apart</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>1379 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.abortretry.fail/feed" target="_blank" rel="noreferrer">abortretry.fail</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>2475 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://anildash.com/feed.xml" target="_blank" rel="noreferrer">anildash.com</a>
+              </td>
+              <td>atom</td>
+              <td>12</td>
+              <td>0</td>
+              <td>1017 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://aresluna.org/main.rss" target="_blank" rel="noreferrer">aresluna.org</a>
+              </td>
+              <td>atom</td>
+              <td>14</td>
+              <td>0</td>
+              <td>3059 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://feeds.arstechnica.com/arstechnica/index" target="_blank" rel="noreferrer">Ars Technica</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>1</td>
+              <td>808 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.arxiv.org/rss/cs.AI" target="_blank" rel="noreferrer">arXiv AI</a>
+              </td>
+              <td>rss</td>
+              <td>289</td>
+              <td>289</td>
+              <td>8553 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://rss.arxiv.org/rss/cs.CL" target="_blank" rel="noreferrer">arXiv NLP</a>
+              </td>
+              <td>rss</td>
+              <td>135</td>
+              <td>69</td>
+              <td>7585 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://beej.us/blog/rss.xml" target="_blank" rel="noreferrer">beej.us</a>
+              </td>
+              <td>rss</td>
+              <td>44</td>
+              <td>0</td>
+              <td>1033 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://bogdanthegeek.github.io/blog/index.xml" target="_blank" rel="noreferrer">bogdanthegeek.github.io</a>
+              </td>
+              <td>rss</td>
+              <td>8</td>
+              <td>0</td>
+              <td>1864 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://brutecat.com/rss.xml" target="_blank" rel="noreferrer">brutecat.com</a>
+              </td>
+              <td>rss</td>
+              <td>4</td>
+              <td>0</td>
+              <td>2658 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.bytebytego.com/feed" target="_blank" rel="noreferrer">ByteByteGo</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>1930 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://chadnauseam.com/rss.xml" target="_blank" rel="noreferrer">chadnauseam.com</a>
+              </td>
+              <td>rss</td>
+              <td>41</td>
+              <td>0</td>
+              <td>7134 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.cloudflare.com/rss/" target="_blank" rel="noreferrer">Cloudflare Blog</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>1</td>
+              <td>1944 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://tympanus.net/codrops/feed/" target="_blank" rel="noreferrer">Codrops</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>2533 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.construction-physics.com/feed" target="_blank" rel="noreferrer">construction-physics.com</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>2892 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://danielchasehooper.com/feed.xml" target="_blank" rel="noreferrer">danielchasehooper.com</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>531 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://danieldelaney.net/feed" target="_blank" rel="noreferrer">danieldelaney.net</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>600 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://danielwirtz.com/rss.xml" target="_blank" rel="noreferrer">danielwirtz.com</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>334 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://daringfireball.net/feeds/main" target="_blank" rel="noreferrer">daringfireball.net</a>
+              </td>
+              <td>atom</td>
+              <td>48</td>
+              <td>3</td>
+              <td>1912 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://devblogs.microsoft.com/oldnewthing/feed" target="_blank" rel="noreferrer">devblogs.microsoft.com/oldnewthing</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>149 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://dfarq.homeip.net/feed/" target="_blank" rel="noreferrer">dfarq.homeip.net</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>1</td>
+              <td>3000 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://dynomight.net/feed.xml" target="_blank" rel="noreferrer">dynomight.net</a>
+              </td>
+              <td>atom</td>
+              <td>30</td>
+              <td>0</td>
+              <td>1063 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://entropicthoughts.com/feed.xml" target="_blank" rel="noreferrer">entropicthoughts.com</a>
+              </td>
+              <td>rss</td>
+              <td>25</td>
+              <td>0</td>
+              <td>3923 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://ericmigi.com/rss.xml" target="_blank" rel="noreferrer">ericmigi.com</a>
+              </td>
+              <td>rss</td>
+              <td>63</td>
+              <td>0</td>
+              <td>445 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.experimental-history.com/feed" target="_blank" rel="noreferrer">experimental-history.com</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>2664 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://fabiensanglard.net/rss.xml" target="_blank" rel="noreferrer">fabiensanglard.net</a>
+              </td>
+              <td>rss</td>
+              <td>139</td>
+              <td>0</td>
+              <td>1292 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://geohot.github.io/blog/feed.xml" target="_blank" rel="noreferrer">geohot.github.io</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>1</td>
+              <td>876 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://github.blog/feed/" target="_blank" rel="noreferrer">GitHub Blog</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>1163 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://deepmind.google/blog/rss.xml" target="_blank" rel="noreferrer">Google DeepMind</a>
+              </td>
+              <td>rss</td>
+              <td>100</td>
+              <td>0</td>
+              <td>3431 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://grantslatton.com/rss.xml" target="_blank" rel="noreferrer">grantslatton.com</a>
+              </td>
+              <td>rss</td>
+              <td>38</td>
+              <td>0</td>
+              <td>1629 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/newest?q=AI" target="_blank" rel="noreferrer">Hacker News AI</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>20</td>
+              <td>3145 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/ask" target="_blank" rel="noreferrer">Hacker News Ask</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>18</td>
+              <td>2271 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/newest?q=LLM" target="_blank" rel="noreferrer">Hacker News LLM</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>14</td>
+              <td>1645 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/newest?q=OpenClaw" target="_blank" rel="noreferrer">Hacker News OpenClaw</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>1</td>
+              <td>411 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/show" target="_blank" rel="noreferrer">Hacker News Show</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>16</td>
+              <td>1228 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/best" target="_blank" rel="noreferrer">Hacker News 最佳</a>
+              </td>
+              <td>rss</td>
+              <td>30</td>
+              <td>11</td>
+              <td>6022 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hnrss.org/frontpage" target="_blank" rel="noreferrer">Hacker News 首页</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>11</td>
+              <td>3674 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://idiallo.com/feed.rss" target="_blank" rel="noreferrer">idiallo.com</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>2</td>
+              <td>2406 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://jayd.ml/feed.xml" target="_blank" rel="noreferrer">jayd.ml</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>0</td>
+              <td>979 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.jeffgeerling.com/blog.xml" target="_blank" rel="noreferrer">jeffgeerling.com</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>864 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://joanwestenberg.com/rss" target="_blank" rel="noreferrer">joanwestenberg.com</a>
+              </td>
+              <td>rss</td>
+              <td>15</td>
+              <td>1</td>
+              <td>3907 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.johndcook.com/blog/feed/" target="_blank" rel="noreferrer">johndcook.com</a>
+              </td>
+              <td>rss</td>
+              <td>30</td>
+              <td>1</td>
+              <td>2084 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://keygen.sh/blog/feed.xml" target="_blank" rel="noreferrer">keygen.sh</a>
+              </td>
+              <td>rss</td>
+              <td>74</td>
+              <td>0</td>
+              <td>977 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.jetbrains.com/kotlin/feed/" target="_blank" rel="noreferrer">Kotlin Blog</a>
+              </td>
+              <td>rss</td>
+              <td>12</td>
+              <td>0</td>
+              <td>1203 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://krebsonsecurity.com/feed/" target="_blank" rel="noreferrer">Krebs on Security</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>4318 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://lucumr.pocoo.org/feed.atom" target="_blank" rel="noreferrer">lucumr.pocoo.org</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>0</td>
+              <td>767 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://martinalderson.com/feed.xml" target="_blank" rel="noreferrer">martinalderson.com</a>
+              </td>
+              <td>rss</td>
+              <td>45</td>
+              <td>1</td>
+              <td>1180 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://matklad.github.io/feed.xml" target="_blank" rel="noreferrer">matklad.github.io</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>0</td>
+              <td>1456 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://engineering.fb.com/feed/" target="_blank" rel="noreferrer">Meta Engineering</a>
+              </td>
+              <td>rss</td>
+              <td>9</td>
+              <td>0</td>
+              <td>1066 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://micahflee.com/feed/" target="_blank" rel="noreferrer">micahflee.com</a>
+              </td>
+              <td>rss</td>
+              <td>15</td>
+              <td>0</td>
+              <td>11340 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://michael.stapelberg.ch/feed.xml" target="_blank" rel="noreferrer">michael.stapelberg.ch</a>
+              </td>
+              <td>atom</td>
+              <td>15</td>
+              <td>0</td>
+              <td>2137 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.miguelgrinberg.com/feed" target="_blank" rel="noreferrer">miguelgrinberg.com</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>2562 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://minimaxir.com/index.xml" target="_blank" rel="noreferrer">minimaxir.com</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>1947 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.technologyreview.com/feed/" target="_blank" rel="noreferrer">MIT Technology Review</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>3</td>
+              <td>812 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://mitchellh.com/feed.xml" target="_blank" rel="noreferrer">mitchellh.com</a>
+              </td>
+              <td>rss</td>
+              <td>48</td>
+              <td>0</td>
+              <td>290 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://hacks.mozilla.org/feed/" target="_blank" rel="noreferrer">Mozilla Hacks</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>2435 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.nature.com/nature.rss" target="_blank" rel="noreferrer">Nature</a>
+              </td>
+              <td>rss</td>
+              <td>75</td>
+              <td>4</td>
+              <td>1851 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://nesbitt.io/feed.xml" target="_blank" rel="noreferrer">nesbitt.io</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>0</td>
+              <td>2165 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://nodejs.org/en/feed/blog.xml" target="_blank" rel="noreferrer">Node.js Blog</a>
+              </td>
+              <td>rss</td>
+              <td>1024</td>
+              <td>0</td>
+              <td>963 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://openai.com/news/rss.xml" target="_blank" rel="noreferrer">OpenAI 博客</a>
+              </td>
+              <td>rss</td>
+              <td>934</td>
+              <td>0</td>
+              <td>4025 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://overreacted.io/rss.xml" target="_blank" rel="noreferrer">overreacted.io</a>
+              </td>
+              <td>rss</td>
+              <td>57</td>
+              <td>0</td>
+              <td>1127 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="http://www.aaronsw.com/2002/feeds/pgessays.rss" target="_blank" rel="noreferrer">paulgraham.com</a>
+              </td>
+              <td>rss</td>
+              <td>219</td>
+              <td>0</td>
+              <td>1159 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://philiplaine.com/index.xml" target="_blank" rel="noreferrer">philiplaine.com</a>
+              </td>
+              <td>rss</td>
+              <td>8</td>
+              <td>0</td>
+              <td>506 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://pluralistic.net/feed/" target="_blank" rel="noreferrer">pluralistic.net</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>1</td>
+              <td>7445 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.producthunt.com/feed" target="_blank" rel="noreferrer">Product Hunt</a>
+              </td>
+              <td>atom</td>
+              <td>50</td>
+              <td>14</td>
+              <td>1643 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.python.org/feeds/posts/default" target="_blank" rel="noreferrer">Python Blog</a>
+              </td>
+              <td>rss</td>
+              <td>50</td>
+              <td>0</td>
+              <td>1803 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://rakhim.exotext.com/rss.xml" target="_blank" rel="noreferrer">rakhim.exotext.com</a>
+              </td>
+              <td>rss</td>
+              <td>35</td>
+              <td>0</td>
+              <td>2804 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://react.dev/rss.xml" target="_blank" rel="noreferrer">React Blog</a>
+              </td>
+              <td>rss</td>
+              <td>23</td>
+              <td>0</td>
+              <td>565 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://refactoringenglish.com/index.xml" target="_blank" rel="noreferrer">refactoringenglish.com</a>
+              </td>
+              <td>rss</td>
+              <td>18</td>
+              <td>0</td>
+              <td>288 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.schneier.com/feed/" target="_blank" rel="noreferrer">Schneier on Security</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>1</td>
+              <td>699 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://shkspr.mobi/blog/feed/" target="_blank" rel="noreferrer">shkspr.mobi</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>1</td>
+              <td>696 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://simone.org/feed/" target="_blank" rel="noreferrer">simone.org</a>
+              </td>
+              <td>rss</td>
+              <td>15</td>
+              <td>0</td>
+              <td>2820 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://skyfall.dev/rss.xml" target="_blank" rel="noreferrer">skyfall.dev</a>
+              </td>
+              <td>rss</td>
+              <td>9</td>
+              <td>0</td>
+              <td>689 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.smashingmagazine.com/feed/" target="_blank" rel="noreferrer">Smashing Magazine</a>
+              </td>
+              <td>rss</td>
+              <td>40</td>
+              <td>0</td>
+              <td>638 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://engineering.atspotify.com/feed/" target="_blank" rel="noreferrer">Spotify Engineering</a>
+              </td>
+              <td>rss</td>
+              <td>5</td>
+              <td>0</td>
+              <td>4748 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://steveblank.com/feed/" target="_blank" rel="noreferrer">steveblank.com</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>0</td>
+              <td>1989 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://stripe.com/blog/feed.rss" target="_blank" rel="noreferrer">Stripe Blog</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>226 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://tailwindcss.com/feeds/feed.xml" target="_blank" rel="noreferrer">Tailwind CSS Blog</a>
+              </td>
+              <td>rss</td>
+              <td>61</td>
+              <td>0</td>
+              <td>536 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://techcrunch.com/feed/" target="_blank" rel="noreferrer">TechCrunch</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>9</td>
+              <td>562 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://feed.tedium.co/" target="_blank" rel="noreferrer">tedium.co</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>0</td>
+              <td>2469 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://terriblesoftware.org/feed/" target="_blank" rel="noreferrer">terriblesoftware.org</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>590 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.theverge.com/rss/index.xml" target="_blank" rel="noreferrer">The Verge</a>
+              </td>
+              <td>atom</td>
+              <td>10</td>
+              <td>10</td>
+              <td>456 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://timsh.org/rss/" target="_blank" rel="noreferrer">timsh.org</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>2000 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.troyhunt.com/rss/" target="_blank" rel="noreferrer">troyhunt.com</a>
+              </td>
+              <td>rss</td>
+              <td>15</td>
+              <td>0</td>
+              <td>1116 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://devblogs.microsoft.com/typescript/feed/" target="_blank" rel="noreferrer">TypeScript Blog</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>0</td>
+              <td>161 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://utcc.utoronto.ca/~cks/space/blog/?atom" target="_blank" rel="noreferrer">utcc.utoronto.ca/~cks</a>
+              </td>
+              <td>atom</td>
+              <td>1</td>
+              <td>0</td>
+              <td>6913 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://blog.vuejs.org/feed.rss" target="_blank" rel="noreferrer">Vue Blog</a>
+              </td>
+              <td>rss</td>
+              <td>15</td>
+              <td>0</td>
+              <td>429 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://xania.org/feed" target="_blank" rel="noreferrer">xania.org</a>
+              </td>
+              <td>atom</td>
+              <td>20</td>
+              <td>0</td>
+              <td>1126 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://api.anquanke.com/data/v1/rss" target="_blank" rel="noreferrer">安全客</a>
+              </td>
+              <td>rss</td>
+              <td>20</td>
+              <td>1</td>
+              <td>6938 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://sspai.com/feed" target="_blank" rel="noreferrer">少数派</a>
+              </td>
+              <td>rss</td>
+              <td>10</td>
+              <td>4</td>
+              <td>297 ms</td>
+              <td>OK</td>
+            </tr><tr>
+              <td>
+                <a href="https://www.ruanyifeng.com/blog/atom.xml" target="_blank" rel="noreferrer">阮一峰的网络日志</a>
+              </td>
+              <td>atom</td>
+              <td>3</td>
+              <td>0</td>
+              <td>1622 ms</td>
+              <td>OK</td>
+            </tr>
+        </tbody>
+      </table>
+    </div>
+          </div>
+        </details>
       </section>
 
       <section>
         <h2>Latest Articles</h2>
         <div class="signal-grid">
           <article class="signal-card">
-            <p class="signal-meta">LinuxDo 最新话题 · 2026-04-13 12:11 UTC</p>
-            <h3><a href="https://linux.do/t/topic/1958465" target="_blank" rel="noreferrer">【抽奖】我也来抽个奖品，华住会金会员季卡 * 2</a></h3>
-            <p>抽奖主题：华住会金会员季卡 *2 奖品详情： [华住会季卡]：华住会金会员季卡 * 2 活动时间： 开始时间： Mon, Apr 13, 2026 12:00 AM CST 截止时间： Tue, Apr 14, 2026 10:00 PM CST 参与方式： 在本贴下回复即可参与。 抽奖规则： 每位用户仅允许参与一次。 将使用 LINUX DO 抽奖工具…</p>
+            <p class="signal-meta">Hacker News AI · 2026-04-13 12:36 UTC</p>
+            <h3><a href="https://00f.net/2026/04/13/swival-ai-agent" target="_blank" rel="noreferrer">Swival is the AI agent I wanted</a></h3>
+            <p>Article URL: https://00f.net/2026/04/13/swival-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=47751092 Points: 1 # Comments: 0</p>
           </article><article class="signal-card">
-            <p class="signal-meta">LinuxDo 最新话题 · 2026-04-13 12:11 UTC</p>
-            <h3><a href="https://linux.do/t/topic/1958458" target="_blank" rel="noreferrer">【CHY API公益站】因佬友支持并且确实有点抗不住，所以注册暂时关闭了</a></h3>
-            <p>大部分佬友都建议先暂时关闭注册，所以就采纳了，毕竟服务器、数据库都有点扛不住，目前还不知道该怎么让没上车的佬友进来（定时开启注册？邀请码制？），佬友们再给个建议呗 1 个帖子 - 1 位参与者 阅读完整话题</p>
+            <p class="signal-meta">Hacker News AI · 2026-04-13 12:29 UTC</p>
+            <h3><a href="https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez" target="_blank" rel="noreferrer">AI could be the end of the digital wave, not the next big thing</a></h3>
+            <p>Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Point…</p>
           </article><article class="signal-card">
-            <p class="signal-meta">LinuxDo 最新话题 · 2026-04-13 12:10 UTC</p>
-            <h3><a href="https://linux.do/t/topic/1958455" target="_blank" rel="noreferrer">【阳明心学】从自我提升开始</a></h3>
-            <p>随着年龄的增长，对曾经不以为意的哲学内容渐渐感兴趣起来，可能更多的是想要向内做自我探寻吧，本贴记录我学习【阳明心学】的笔记。 课程内容来自于：B站王德峰老师【阳明心学与当代人生】 记录下自己学习的内容，坚持做到每天更新。 一、心学开端：先秦孔孟 唐韩愈讨论了 道统 的概念，当前时代中国文化根基依然在儒家思想中。 王阳明（宋明新儒家）思想主体部分为儒家思想。…</p>
+            <p class="signal-meta">Hacker News AI · 2026-04-13 12:27 UTC</p>
+            <h3><a href="https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026" target="_blank" rel="noreferrer">Built my AI agent a custom dashboard. Then replaced it with Fizzy</a></h3>
+            <p>Article URL: https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026 Comments URL: https://news.ycombinator.com/item?id=47751003 Points: 2 # Comments: 0</p>
           </article><article class="signal-card">
-            <p class="signal-meta">LinuxDo 最新话题 · 2026-04-13 12:10 UTC</p>
-            <h3><a href="https://linux.do/t/topic/1958453" target="_blank" rel="noreferrer">AI配音工具</a></h3>
-            <p>最近在研究AI漫剧，佬们有没有推荐的AI配音工具，感觉剪映里面的配音不太好用 1 个帖子 - 1 位参与者 阅读完整话题</p>
+            <p class="signal-meta">Hacker News Show · 2026-04-13 12:24 UTC</p>
+            <h3><a href="http://infinitetolkien.com/" target="_blank" rel="noreferrer">Show HN: The Infinite Tolkien – endless narration of Middle-earth</a></h3>
+            <p>Inspired by The Infinite Conversation ( https://infiniteconversation.com/ ), I built a site where J.R.R. Tolkien endlessly describes the landscapes of Middle-earth — trees, hills,…</p>
           </article><article class="signal-card">
-            <p class="signal-meta">LinuxDo 最新话题 · 2026-04-13 12:10 UTC</p>
-            <h3><a href="https://linux.do/t/topic/1958451" target="_blank" rel="noreferrer">闲鱼Cluade礼品卡翻车率统计!</a></h3>
-            <p>之前在闲鱼买了Claude 礼品卡, 目前稳定了三周, 还有一周左右MAX就要过期了. 想着要不要再买一张, 但是最近从各方面的消息打探来看, 好像大多数几天就会掉订阅? 为了确保安全, 想和各位佬友做个调研, 看看什么样的情况,走低价礼品卡会比较稳. 选项大概分这么几个 新/老号, 我们以三个月为界限 是否稳定使用CLAUDE, 指用低价礼品卡前已经可以…</p>
+            <p class="signal-meta">Hacker News Show · 2026-04-13 12:20 UTC</p>
+            <h3><a href="https://minitube.tv/" target="_blank" rel="noreferrer">Show HN: Turn your favorite YouTube channels into a streaming experience</a></h3>
+            <p>A minimalist way to watch YouTube with cinematic previews, an immersive interface, and zero distractions. Free, no accounts or subscription needed. Comments URL: https://news.ycom…</p>
           </article><article class="signal-card">
-            <p class="signal-meta">Hacker News AI · 2026-04-13 12:07 UTC</p>
-            <h3><a href="https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP" target="_blank" rel="noreferrer">Apple&#39;s AI chief John Giannandrea to exit next week</a></h3>
-            <p>Article URL: https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP Comments URL: https://news.ycombinator.com/item?id=47750828 Po…</p>
+            <p class="signal-meta">Hacker News AI · 2026-04-13 12:15 UTC</p>
+            <h3><a href="https://www.windowscentral.com/microsoft/windows-11/microsoft-finally-begins-removing-copilot-from-notepad-on-windows-11-but-the-ai-still-persists" target="_blank" rel="noreferrer">Microsoft begins removing Copilot from Notepad on Windows 11 but the AI persists</a></h3>
+            <p>Article URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-finally-begins-removing-copilot-from-notepad-on-windows-11-but-the-ai-still-persists Comments URL: https…</p>
           </article>
         </div>
       </section>
@@ -344,19 +1914,19 @@
             <p>AWS Blog Entity expansion limit exceeded: 1160 &gt; 1000</p>
           </article><article class="signal-card">
             <p class="signal-meta">Warning</p>
-            <p>Dev.to Entity expansion limit exceeded: 1134 &gt; 1000</p>
+            <p>CSS-Tricks fetch failed</p>
           </article><article class="signal-card">
             <p class="signal-meta">Warning</p>
-            <p>Fluent Reader Releases Entity expansion limit exceeded: 1012 &gt; 1000</p>
+            <p>Chrome Developer Blog fetch failed</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">Warning</p>
+            <p>Dev.to Entity expansion limit exceeded: 2714 &gt; 1000</p>
+          </article><article class="signal-card">
+            <p class="signal-meta">Warning</p>
+            <p>Fluent Reader Releases timeout</p>
           </article><article class="signal-card">
             <p class="signal-meta">Warning</p>
             <p>FreeBuf HTTP 405</p>
-          </article><article class="signal-card">
-            <p class="signal-meta">Warning</p>
-            <p>FreshRSS Releases Entity expansion limit exceeded: 1807 &gt; 1000</p>
-          </article><article class="signal-card">
-            <p class="signal-meta">Warning</p>
-            <p>Go Blog Entity expansion limit exceeded: 1104 &gt; 1000</p>
           </article></div>
       </section>
 
@@ -367,7 +1937,7 @@
         </div>
         <div class="feed-layout">
           <nav class="feed-sidebar">
-            <a class="sidebar-link" href="#src-0">arXiv AI<span class="badge">289</span></a><a class="sidebar-link" href="#src-1">arXiv 机器学习<span class="badge">160</span></a><a class="sidebar-link" href="#src-2">arXiv 计算机视觉<span class="badge">136</span></a><a class="sidebar-link" href="#src-3">arXiv NLP<span class="badge">69</span></a><a class="sidebar-link" href="#src-4">LinuxDo 最新话题<span class="badge">30</span></a><a class="sidebar-link" href="#src-5">V2EX 技术<span class="badge">27</span></a><a class="sidebar-link" href="#src-6">Hacker News AI<span class="badge">20</span></a><a class="sidebar-link" href="#src-7">OpenClaw Commits<span class="badge">20</span></a>
+            <a class="sidebar-link" href="#src-0">arXiv AI<span class="badge">289</span></a><a class="sidebar-link" href="#src-1">arXiv NLP<span class="badge">69</span></a><a class="sidebar-link" href="#src-2">Hacker News AI<span class="badge">20</span></a><a class="sidebar-link" href="#src-3">Hacker News Ask<span class="badge">18</span></a><a class="sidebar-link" href="#src-4">Hacker News Show<span class="badge">16</span></a><a class="sidebar-link" href="#src-5">Hacker News LLM<span class="badge">14</span></a><a class="sidebar-link" href="#src-6">Product Hunt<span class="badge">14</span></a><a class="sidebar-link" href="#src-7">Hacker News 首页<span class="badge">11</span></a>
           </nav>
           <div class="feed-content">
             <div class="source-group" id="src-0">
@@ -386,36 +1956,6 @@
                     <p>arXiv:2604.08874v1 Announce Type: cross Abstract: This study proposes a temporal modeling framework with a counterfactual policy-simulation layer for student dropout in higher education, using LMS engagement data and ad…</p>
                   </article>
               </div><div class="source-group" id="src-1">
-                <h3 class="source-header">arXiv 机器学习<span class="badge">160</span></h3>
-                <article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2604.09157" target="_blank" rel="noreferrer">A fast and Generic Energy-Shifting Transformer for Hybrid Monte Carlo Radiotherapy Calculation</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2604.09157v1 Announce Type: cross Abstract: We introduce a novel learning framework for accelerated Monte Carlo (MC) dose calculation termed Energy-Shifting. This approach leverages deep learning to synthesize 6 M…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2604.08749" target="_blank" rel="noreferrer">A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2604.08749v1 Announce Type: new Abstract: How many of a neural network&#39;s parameters actually encode task-specific information? We investigate this question with LottaLoRA, a training paradigm in which every backbo…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2604.08935" target="_blank" rel="noreferrer">A novel hybrid approach for positive-valued DAG learning</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2604.08935v1 Announce Type: cross Abstract: Causal discovery from observational data remains a fundamental challenge in machine learning and statistics, particularly when variables represent inherently positive qu…</p>
-                  </article>
-              </div><div class="source-group" id="src-2">
-                <h3 class="source-header">arXiv 计算机视觉<span class="badge">136</span></h3>
-                <article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2604.09244" target="_blank" rel="noreferrer">2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2604.09244v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have emerged as the mainstream of embodied intelligence. Recent VLA models have expanded their input modalities from 2D-only to 2D+3D…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2512.17012" target="_blank" rel="noreferrer">4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2512.17012v3 Announce Type: replace Abstract: Despite advances in Multimodal LLMs (MLLMs), their ability to reason over 3D structures and temporal dynamics remains limited, constrained by weak 4D perception and te…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://arxiv.org/abs/2511.20151" target="_blank" rel="noreferrer">A Compact Hybrid Convolution--Frequency State Space Network for Learned Image Compression</a></h3>
-                    <p class="meta">2026-04-13 04:00 UTC</p>
-                    <p>arXiv:2511.20151v2 Announce Type: replace Abstract: Learned image compression (LIC) has recently benefited from Transformer- and state space models (SSM)- based backbones for modeling long-range dependencies. However, t…</p>
-                  </article>
-              </div><div class="source-group" id="src-3">
                 <h3 class="source-header">arXiv NLP<span class="badge">69</span></h3>
                 <article class="feed-item">
                     <h3><a href="https://arxiv.org/abs/2604.08801" target="_blank" rel="noreferrer">$p1$: Better Prompt Optimization with Fewer Prompts</a></h3>
@@ -430,65 +1970,95 @@
                     <p class="meta">2026-04-13 04:00 UTC</p>
                     <p>arXiv:2604.09466v1 Announce Type: new Abstract: Under the lens of Marr&#39;s levels of analysis, we critique and extend two claims about language models (LMs) and language processing: first, that predicting upcoming linguis…</p>
                   </article>
-              </div><div class="source-group" id="src-4">
-                <h3 class="source-header">LinuxDo 最新话题<span class="badge">30</span></h3>
-                <article class="feed-item">
-                    <h3><a href="https://linux.do/t/topic/1958465" target="_blank" rel="noreferrer">【抽奖】我也来抽个奖品，华住会金会员季卡 * 2</a></h3>
-                    <p class="meta">2026-04-13 12:11 UTC</p>
-                    <p>抽奖主题：华住会金会员季卡 *2 奖品详情： [华住会季卡]：华住会金会员季卡 * 2 活动时间： 开始时间： Mon, Apr 13, 2026 12:00 AM CST 截止时间： Tue, Apr 14, 2026 10:00 PM CST 参与方式： 在本贴下回复即可参与。 抽奖规则： 每位用户仅允许参与一次。 将使用 LINUX DO 抽奖工具 在所有回复中随机抽取中奖者。 注意事项： 本活动将在活动截止时间后关闭回帖，以确…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://linux.do/t/topic/1958458" target="_blank" rel="noreferrer">【CHY API公益站】因佬友支持并且确实有点抗不住，所以注册暂时关闭了</a></h3>
-                    <p class="meta">2026-04-13 12:11 UTC</p>
-                    <p>大部分佬友都建议先暂时关闭注册，所以就采纳了，毕竟服务器、数据库都有点扛不住，目前还不知道该怎么让没上车的佬友进来（定时开启注册？邀请码制？），佬友们再给个建议呗 1 个帖子 - 1 位参与者 阅读完整话题</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://linux.do/t/topic/1958455" target="_blank" rel="noreferrer">【阳明心学】从自我提升开始</a></h3>
-                    <p class="meta">2026-04-13 12:10 UTC</p>
-                    <p>随着年龄的增长，对曾经不以为意的哲学内容渐渐感兴趣起来，可能更多的是想要向内做自我探寻吧，本贴记录我学习【阳明心学】的笔记。 课程内容来自于：B站王德峰老师【阳明心学与当代人生】 记录下自己学习的内容，坚持做到每天更新。 一、心学开端：先秦孔孟 唐韩愈讨论了 道统 的概念，当前时代中国文化根基依然在儒家思想中。 王阳明（宋明新儒家）思想主体部分为儒家思想。 阳明心学 心即理 知行合一 致良知 阳明心学如何形成 从先秦孟子、唐代禅宗到宋…</p>
-                  </article>
-              </div><div class="source-group" id="src-5">
-                <h3 class="source-header">V2EX 技术<span class="badge">27</span></h3>
-                <article class="feed-item">
-                    <h3><a href="https://www.v2ex.com/t/1205576" target="_blank" rel="noreferrer">sa-token + spring cloud gateway 过滤器顺序问题</a></h3>
-                    <p class="meta">2026-04-13 11:51 UTC</p>
-                    <p>执行顺序（从小到大）： 1.TRACE_ID_ORDER - 生成 TraceId （最高优先级） 2.BLACK_LIST_ORDER - 黑名单检查（尽早拦截） 3.REQUEST_CONTEXT_ORDER - 缓存请求体（为后续过滤器提供数据） 4.XSS_INJECTION_ORDER - XSS 注入检查 5.SQL_INJECTION_ORDER - SQL 注入检查 6.RATE_LIMITER_ORDER - 限流检…</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://www.v2ex.com/t/1205572" target="_blank" rel="noreferrer">质谱赔偿我损失！</a></h3>
-                    <p class="meta">2026-04-13 11:22 UTC</p>
-                    <p>今天下午三点开始，所有的模型都不能用了！ 我在一台机器上使用 zread ，结束之后，我在另外一个电脑上开始写代码。结果说我是多人使用。凭什么?我新建一个 key 不行么？有什么证据说我是同时使用的！ 客户没人，凭什么！！！</p>
-                  </article><article class="feed-item">
-                    <h3><a href="https://www.v2ex.com/t/1205568" target="_blank" rel="noreferrer">antigravity 挂了吗</a></h3>
-                    <p class="meta">2026-04-13 10:56 UTC</p>
-                    <p>没有回复了，退出登录后不能登录了...</p>
-                  </article>
-              </div><div class="source-group" id="src-6">
+              </div><div class="source-group" id="src-2">
                 <h3 class="source-header">Hacker News AI<span class="badge">20</span></h3>
                 <article class="feed-item">
-                    <h3><a href="https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP" target="_blank" rel="noreferrer">Apple&#39;s AI chief John Giannandrea to exit next week</a></h3>
-                    <p class="meta">2026-04-13 12:07 UTC</p>
-                    <p>Article URL: https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP Comments URL: https://news.ycombinator.com/item?id=47750828 Points: 1 # Comments: 0</p>
+                    <h3><a href="https://00f.net/2026/04/13/swival-ai-agent" target="_blank" rel="noreferrer">Swival is the AI agent I wanted</a></h3>
+                    <p class="meta">2026-04-13 12:36 UTC</p>
+                    <p>Article URL: https://00f.net/2026/04/13/swival-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=47751092 Points: 1 # Comments: 0</p>
                   </article><article class="feed-item">
-                    <h3><a href="https://getloreo.com/" target="_blank" rel="noreferrer">Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2</a></h3>
-                    <p class="meta">2026-04-13 12:01 UTC</p>
-                    <p>Article URL: https://getloreo.com/ Comments URL: https://news.ycombinator.com/item?id=47750788 Points: 1 # Comments: 1</p>
+                    <h3><a href="https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez" target="_blank" rel="noreferrer">AI could be the end of the digital wave, not the next big thing</a></h3>
+                    <p class="meta">2026-04-13 12:29 UTC</p>
+                    <p>Article URL: https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/ Comments URL: https://news.ycombinator.com/item?id=47751032 Points: 3 # Comments: 0</p>
                   </article><article class="feed-item">
-                    <h3><a href="https://news.ycombinator.com/item?id=47750678" target="_blank" rel="noreferrer">Commitgen – AI-generated Conventional Commit messages from your staged diff</a></h3>
-                    <p class="meta">2026-04-13 11:49 UTC</p>
-                    <p>Hey HN, Built this because I kept writing lazy commit messages like &quot;fix stuff&quot; and &quot;update&quot;. commitgen reads your staged git diff and returns a properly formatted Conventional Commit message (feat/fix/refactor etc) usi…</p>
+                    <h3><a href="https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026" target="_blank" rel="noreferrer">Built my AI agent a custom dashboard. Then replaced it with Fizzy</a></h3>
+                    <p class="meta">2026-04-13 12:27 UTC</p>
+                    <p>Article URL: https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026 Comments URL: https://news.ycombinator.com/item?id=47751003 Points: 2 # Comments: 0</p>
+                  </article>
+              </div><div class="source-group" id="src-3">
+                <h3 class="source-header">Hacker News Ask<span class="badge">18</span></h3>
+                <article class="feed-item">
+                    <h3><a href="https://news.ycombinator.com/item?id=47750504" target="_blank" rel="noreferrer">Ask HN: Why are printers always so unreliable?</a></h3>
+                    <p class="meta">2026-04-13 11:24 UTC</p>
+                    <p>I feel like printers, as a class of technology, have always been unreliable and prone to problems, pretty much since I started using computers 20+ years ago. This doesn&#39;t seem to have changed at all. Is there something…</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://news.ycombinator.com/item?id=47750258" target="_blank" rel="noreferrer">Ask HN: Shouldn&#39;t we increase flagging threshold?</a></h3>
+                    <p class="meta">2026-04-13 10:55 UTC</p>
+                    <p>For some reason there is a huge discrepancy between karma you need to downvote comments (over 500) and flag submissions (31 according to https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md#flaggi…</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://news.ycombinator.com/item?id=47750165" target="_blank" rel="noreferrer">How do you validate your GTM Efforts?</a></h3>
+                    <p class="meta">2026-04-13 10:39 UTC</p>
+                    <p>I am working on couple of my own products which are in the SaaS space. The initial traction was good but now it has become a little flat and want to know if I am doing the right GTM. I tested it with one tool called Rig…</p>
+                  </article>
+              </div><div class="source-group" id="src-4">
+                <h3 class="source-header">Hacker News Show<span class="badge">16</span></h3>
+                <article class="feed-item">
+                    <h3><a href="http://infinitetolkien.com/" target="_blank" rel="noreferrer">Show HN: The Infinite Tolkien – endless narration of Middle-earth</a></h3>
+                    <p class="meta">2026-04-13 12:24 UTC</p>
+                    <p>Inspired by The Infinite Conversation ( https://infiniteconversation.com/ ), I built a site where J.R.R. Tolkien endlessly describes the landscapes of Middle-earth — trees, hills, rivers, ruins, dawns — one scene at a t…</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://minitube.tv/" target="_blank" rel="noreferrer">Show HN: Turn your favorite YouTube channels into a streaming experience</a></h3>
+                    <p class="meta">2026-04-13 12:20 UTC</p>
+                    <p>A minimalist way to watch YouTube with cinematic previews, an immersive interface, and zero distractions. Free, no accounts or subscription needed. Comments URL: https://news.ycombinator.com/item?id=47750946 Points: 2 #…</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://cubismcat.damjanski.com/" target="_blank" rel="noreferrer">Show HN: Turn your cat into a Cubism Cat via an app</a></h3>
+                    <p class="meta">2026-04-13 12:06 UTC</p>
+                    <p>Article URL: https://cubismcat.damjanski.com/ Comments URL: https://news.ycombinator.com/item?id=47750827 Points: 4 # Comments: 3</p>
+                  </article>
+              </div><div class="source-group" id="src-5">
+                <h3 class="source-header">Hacker News LLM<span class="badge">14</span></h3>
+                <article class="feed-item">
+                    <h3><a href="https://github.com/yamafaktory/formal" target="_blank" rel="noreferrer">Show HN: Formal – LLM-driven property checker, backed by Lean 4 and Mathlib</a></h3>
+                    <p class="meta">2026-04-13 12:11 UTC</p>
+                    <p>Article URL: https://github.com/yamafaktory/formal Comments URL: https://news.ycombinator.com/item?id=47750866 Points: 1 # Comments: 0</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://crates.io/crates/atlas-detect" target="_blank" rel="noreferrer">Mitre ATLAS technique detection for LLM security in Rust</a></h3>
+                    <p class="meta">2026-04-13 11:14 UTC</p>
+                    <p>Article URL: https://crates.io/crates/atlas-detect Comments URL: https://news.ycombinator.com/item?id=47750422 Points: 1 # Comments: 0</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality" target="_blank" rel="noreferrer">The Star Chamber: Why Multi-LLM Consensus Is Now a Necessity for Code Quality</a></h3>
+                    <p class="meta">2026-04-13 10:50 UTC</p>
+                    <p>Article URL: https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality/ Comments URL: https://news.ycombinator.com/item?id=47750234 Points: 2 # Comments: 0</p>
+                  </article>
+              </div><div class="source-group" id="src-6">
+                <h3 class="source-header">Product Hunt<span class="badge">14</span></h3>
+                <article class="feed-item">
+                    <h3><a href="https://www.producthunt.com/products/deconflict" target="_blank" rel="noreferrer">Deconflict</a></h3>
+                    <p class="meta">2026-04-13 06:20 UTC</p>
+                    <p>Plan your WiFi and see through walls Discussion | Link</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://www.producthunt.com/products/minicpm-4-0" target="_blank" rel="noreferrer">VoxCPM2</a></h3>
+                    <p class="meta">2026-04-13 04:57 UTC</p>
+                    <p>Open-source 48kHz TTS with voice design and cloning Discussion | Link</p>
+                  </article><article class="feed-item">
+                    <h3><a href="https://www.producthunt.com/products/superhq" target="_blank" rel="noreferrer">SuperHQ</a></h3>
+                    <p class="meta">2026-04-13 02:09 UTC</p>
+                    <p>Run AI coding agents in real microVM sandboxes Discussion | Link</p>
                   </article>
               </div><div class="source-group" id="src-7">
-                <h3 class="source-header">OpenClaw Commits<span class="badge">20</span></h3>
+                <h3 class="source-header">Hacker News 首页<span class="badge">11</span></h3>
                 <article class="feed-item">
-                    <h3><a href="https://github.com/openclaw/openclaw/commit/1de5610b24dd7642b6412acd4a3035802038f909" target="_blank" rel="noreferrer">fix(feishu): guard app registration fetches</a></h3>
-                    <p class="meta">2026-04-13 10:46 UTC</p>
-                    <p>fix(feishu): guard app registration fetches</p>
+                    <h3><a href="https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html" target="_blank" rel="noreferrer">Michigan &#39;digital age&#39; bills pulled after privacy concerns raised</a></h3>
+                    <p class="meta">2026-04-13 12:05 UTC</p>
+                    <p>Article URL: https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html Comments URL: https://news.ycombinator.com/item?id=47750821 Points: 3 # Comments: 0</p>
                   </article><article class="feed-item">
-                    <h3><a href="https://github.com/openclaw/openclaw/commit/ebba080ffc0de362fbcec2dc637a750a21bd561b" target="_blank" rel="noreferrer">fix(feishu): break auth login barrel cycle</a></h3>
-                    <p class="meta">2026-04-13 10:36 UTC</p>
-                    <p>fix(feishu): break auth login barrel cycle</p>
+                    <h3><a href="https://en.wikipedia.org/wiki/Galactic_algorithm" target="_blank" rel="noreferrer">Galactic Algorithm</a></h3>
+                    <p class="meta">2026-04-13 11:27 UTC</p>
+                    <p>Article URL: https://en.wikipedia.org/wiki/Galactic_algorithm Comments URL: https://news.ycombinator.com/item?id=47750519 Points: 6 # Comments: 0</p>
                   </article><article class="feed-item">
-                    <h3><a href="https://github.com/openclaw/openclaw/commit/268824ff3ab95da42a38f1800cb93800bd710c41" target="_blank" rel="noreferrer">fix(feishu): keep channel auth on local api barrel</a></h3>
-                    <p class="meta">2026-04-13 10:30 UTC</p>
-                    <p>fix(feishu): keep channel auth on local api barrel</p>
+                    <h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880" target="_blank" rel="noreferrer">Caffeine, cocaine, and painkillers detected in sharks from The Bahamas</a></h3>
+                    <p class="meta">2026-04-13 08:13 UTC</p>
+                    <p>Article URL: https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880 Comments URL: https://news.ycombinator.com/item?id=47749222 Points: 41 # Comments: 31</p>
                   </article>
               </div>
           </div>
