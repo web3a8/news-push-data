@@ -1,49 +1,287 @@
 {
-  "dataset_id": "2026-04-13T11:25:00.999Z",
-  "generated_at": "2026-04-13T11:25:00.999Z",
-  "article_count": 883,
+  "dataset_id": "2026-04-13T12:11:50.650Z",
+  "generated_at": "2026-04-13T12:11:50.650Z",
+  "article_count": 885,
   "articles": [
     {
-      "id": "c9ec59d42289388419c19f6e54497ca6448d2fae",
-      "title": "今天冲动打了人，好后悔",
-      "link": "https://linux.do/t/topic/1958250",
+      "id": "fc7bee34e217b5c752b3d3f8b26260ae797c00a4",
+      "title": "【抽奖】我也来抽个奖品，华住会金会员季卡 * 2",
+      "link": "https://linux.do/t/topic/1958465",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:24:47.000Z"
+      "published_at": "2026-04-13T12:11:54.000Z"
     },
     {
-      "id": "a2b2ef95e2feceadb4dcc55f0259eeb4e727147a",
-      "title": "AI替代程序员",
-      "link": "https://linux.do/t/topic/1958248",
+      "id": "16170857a35e07b8d72125048ecaf5954507892a",
+      "title": "【CHY API公益站】因佬友支持并且确实有点抗不住，所以注册暂时关闭了",
+      "link": "https://linux.do/t/topic/1958458",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:24:39.000Z"
+      "published_at": "2026-04-13T12:11:15.000Z"
     },
     {
-      "id": "c55b02f353a99212e4af79d9ae9c6d8d2566a844",
-      "title": "【CHY API公益站】有点扛不住，佬友们帮我觉得下",
-      "link": "https://linux.do/t/topic/1958245",
+      "id": "75f8740a16836aa2925c87a032e7d4a2b6bf2983",
+      "title": "【阳明心学】从自我提升开始",
+      "link": "https://linux.do/t/topic/1958455",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:24:16.000Z"
+      "published_at": "2026-04-13T12:10:44.000Z"
     },
     {
-      "id": "872715f6939498d6e3449e5aeeda3de22b1642b6",
-      "title": "男生生日一般送什么生日礼物",
-      "link": "https://linux.do/t/topic/1958241",
+      "id": "2c7552d60645ef25729f6bbee701506e54d5b2c7",
+      "title": "AI配音工具",
+      "link": "https://linux.do/t/topic/1958453",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:23:29.000Z"
+      "published_at": "2026-04-13T12:10:29.000Z"
     },
     {
-      "id": "c3a1712e110bf8d27101b5b48ddce69dbaabf2e9",
-      "title": "请教问下佬们怎么获取gpt的2FA secret呢",
-      "link": "https://linux.do/t/topic/1958239",
+      "id": "669ce8efb324cf5ce1a01659b29acb013cee8c2c",
+      "title": "闲鱼Cluade礼品卡翻车率统计!",
+      "link": "https://linux.do/t/topic/1958451",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:23:13.000Z"
+      "published_at": "2026-04-13T12:10:19.000Z"
     },
     {
-      "id": "dfda024d75487bced85e1df0655caf55484ebc01",
-      "title": "阿里云要到期了 准备弄一个日本的VPS 有没有推荐的各位佬",
-      "link": "https://linux.do/t/topic/1958238",
+      "id": "0076bcab51557f756e9d53600ae0a126081af8a4",
+      "title": "Apple's AI chief John Giannandrea to exit next week",
+      "link": "https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T12:07:05.000Z"
+    },
+    {
+      "id": "f249e54434c7910b0bd2e0645c4486190978ddf0",
+      "title": "问一下做开发的佬友们多长时间涨一次薪！",
+      "link": "https://linux.do/t/topic/1958422",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:23:08.000Z"
+      "published_at": "2026-04-13T12:06:44.000Z"
+    },
+    {
+      "id": "4f34d161513b7c27ac2ee2954719f81c274fef60",
+      "title": "codex 开始不停报 input[*].name 错误了",
+      "link": "https://linux.do/t/topic/1958406",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T12:04:21.000Z"
+    },
+    {
+      "id": "8fa650b4777f3310644105cbfebc7fe6bd424a4c",
+      "title": "这都是什么乱七八糟的渠道",
+      "link": "https://linux.do/t/topic/1958394",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T12:01:32.000Z"
+    },
+    {
+      "id": "7e36c0a0ef42788a22ef442fe4ea16fb54c6fa39",
+      "title": "Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2",
+      "link": "https://getloreo.com/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T12:01:26.000Z"
+    },
+    {
+      "id": "8cae4a691e9ce867a5317e091f002d10b5bf24aa",
+      "title": "clash dashboard一直连接不上自己的服务器，应该如何配置",
+      "link": "https://linux.do/t/topic/1958391",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T12:00:57.000Z"
+    },
+    {
+      "id": "d3c46f2f01f4aff42b6ade8fc787bd0cc7efbd6e",
+      "title": "You paid for it, you should be comfortable in it",
+      "link": "https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed",
+      "source_name": "idiallo.com",
+      "published_at": "2026-04-13T12:00:00.000Z"
+    },
+    {
+      "id": "bb4f15c86e8ffe9694989fd0d52e026c8b448d5b",
+      "title": "免费送 50个codex free号",
+      "link": "https://linux.do/t/topic/1958387",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:59:24.000Z"
+    },
+    {
+      "id": "318f8ee479fbbe77604cc59e127f8c33a00bcc5f",
+      "title": "G大善人这是又作妖呢？",
+      "link": "https://linux.do/t/topic/1958376",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:56:56.000Z"
+    },
+    {
+      "id": "52944d93ae04a8dd15cca19d9106c2320036492d",
+      "title": "跳蚤的plus稳定性如何",
+      "link": "https://linux.do/t/topic/1958375",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:56:53.000Z"
+    },
+    {
+      "id": "b3017faae72f69a74f65673e934b3055e9b81ea5",
+      "title": "有没有稳定可以开票的API提供商呢",
+      "link": "https://linux.do/t/topic/1958370",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:55:50.000Z"
+    },
+    {
+      "id": "cb33dfed239ba8372f0ba24db8055a8a27e7d19e",
+      "title": "sa-token + spring cloud gateway 过滤器顺序问题",
+      "link": "https://www.v2ex.com/t/1205576",
+      "source_name": "V2EX 技术",
+      "published_at": "2026-04-13T11:51:55.000Z"
+    },
+    {
+      "id": "fc707e46b5288b192675ec7ba0bb14a41e2c898e",
+      "title": "Commitgen – AI-generated Conventional Commit messages from your staged diff",
+      "link": "https://news.ycombinator.com/item?id=47750678",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T11:49:14.000Z"
+    },
+    {
+      "id": "781dfab7cdd045d9898dd1f780b1f95a7224108b",
+      "title": "Cursor新版keep/keep all按钮没有了？",
+      "link": "https://linux.do/t/topic/1958345",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:48:28.000Z"
+    },
+    {
+      "id": "40ea8a4f8c0ca005394eeeea700720da4c580171",
+      "title": "给各位佬友们分享一下claude防封经验（前两天刚封一个号）",
+      "link": "https://linux.do/t/topic/1958344",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:47:28.000Z"
+    },
+    {
+      "id": "226f8b4d0764c9000fd4590f79d3a33a2dfc30a7",
+      "title": "为什么闲鱼都已经不让卖 AI 了",
+      "link": "https://linux.do/t/topic/1958337",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:45:43.000Z"
+    },
+    {
+      "id": "9df91726dce4a22286af0290b34ef16df79e1455",
+      "title": "求助ant代理问题",
+      "link": "https://linux.do/t/topic/1958336",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:45:38.000Z"
+    },
+    {
+      "id": "0f79066e961faf0de9e9b6ff808f3c3a066a9494",
+      "title": "claude礼品卡能买吗？",
+      "link": "https://linux.do/t/topic/1958329",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:41:34.000Z"
+    },
+    {
+      "id": "cb8669b017301e8150b8b82657e1cad8554762fa",
+      "title": "出一个吃灰VMRack的三网优化VPS",
+      "link": "https://linux.do/t/topic/1958328",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:41:18.000Z"
+    },
+    {
+      "id": "311ba4db4d8a6c4b94c1e3e72245772c3d0c9645",
+      "title": "家人们，假设你有约等于无限的token，你会拿他干啥",
+      "link": "https://linux.do/t/topic/1958325",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:40:12.000Z"
+    },
+    {
+      "id": "2189a9a42b0fa18345ce5fe3afb4aef426028c5a",
+      "title": "英伟达GPU租金两月涨48%，AI行业算力短缺五年未见！",
+      "link": "https://linux.do/t/topic/1958324",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:39:50.000Z"
+    },
+    {
+      "id": "ac443055ac31bbcb0536ff2dc3b8d08a0d00b000",
+      "title": "有无好使的claude或者gemini的中转推荐",
+      "link": "https://linux.do/t/topic/1958314",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:38:02.000Z"
+    },
+    {
+      "id": "a7d9c23cf3185ccc50c97ab2e8f1f2d037817f07",
+      "title": "Linux 7.0发布！创始人称越来越多内核bug由AI工具发现",
+      "link": "https://linux.do/t/topic/1958312",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:37:34.000Z"
+    },
+    {
+      "id": "179d2b17cc90c2094ba3687fae441e481fc1f408",
+      "title": "The 4 Best Water Filter Pitchers (2026): PFAS, Microplastics",
+      "link": "https://www.wired.com/story/best-water-filter-pitchers",
+      "source_name": "Wired",
+      "published_at": "2026-04-13T11:37:00.000Z"
+    },
+    {
+      "id": "870cb6e3aa29ae02a86668cff105332f68023386",
+      "title": "Kimi K2.6即将发布，官方邮件首次确认新模型代号！",
+      "link": "https://linux.do/t/topic/1958299",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:35:41.000Z"
+    },
+    {
+      "id": "c1adc373e35256819fcb6efbd07f5b3278ec1e9a",
+      "title": "Show HN: Git-style branching for your Rails database",
+      "link": "https://github.com/carldaws/activerecord-postgresql-branched",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T11:35:35.000Z"
+    },
+    {
+      "id": "0725d66246db9e19cb4182880adb9d83bb5b1d21",
+      "title": "Android now stops you sharing your location in photos",
+      "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos",
+      "source_name": "shkspr.mobi",
+      "published_at": "2026-04-13T11:34:48.000Z"
+    },
+    {
+      "id": "fb94259a5cd1230ca90c7f06a0f793d0c57f33c8",
+      "title": "【开源自荐】我的反直觉claude：禁止主agent写任何代码/文档",
+      "link": "https://linux.do/t/topic/1958290",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:33:43.000Z"
+    },
+    {
+      "id": "0b1a37a9b377ec69e62d0230e5438c83fa557deb",
+      "title": "记一次莫名其妙的接单",
+      "link": "https://linux.do/t/topic/1958289",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:33:32.000Z"
+    },
+    {
+      "id": "7d6e4e7fa81b833d3c94a508671d38bedac0ba84",
+      "title": "【开源推广】open-research-notebook：Zotero 一键导入的本地论文和LLM可直接使用的结构化知识库",
+      "link": "https://linux.do/t/topic/1958282",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:32:29.000Z"
+    },
+    {
+      "id": "844d2186c210336fb378e28f0b73b7a83be98ad8",
+      "title": "看到 CC 的版本号，恍惚了一下 ， AI 的时代，一天都太长了",
+      "link": "https://linux.do/t/topic/1958281",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:32:29.000Z"
+    },
+    {
+      "id": "7e66242fd6189343f709c26eab7a44d4269d8af7",
+      "title": "I track what developers say about AI coding tools each week",
+      "link": "https://murmure.cc/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T11:29:53.000Z"
+    },
+    {
+      "id": "43cbdc1e729bf7e82216f5dec946db7d5512e382",
+      "title": "感觉冰佬都是被乱七八糟的人带不行的",
+      "link": "https://linux.do/t/topic/1958260",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:26:48.000Z"
+    },
+    {
+      "id": "0b96aec2aab4ee03208d8bfde27e211587e4c3cc",
+      "title": "有用Macbook的佬友能分享一下内存的占用情况吗。",
+      "link": "https://linux.do/t/topic/1958258",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:26:31.000Z"
+    },
+    {
+      "id": "f3564d677f4dc39f0c527e1a881265c0a98284b1",
+      "title": "Ask HN: Why are printers always so unreliable?",
+      "link": "https://news.ycombinator.com/item?id=47750504",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T11:24:40.000Z"
     },
     {
       "id": "ea2cf41132e3d5f401887012f8fae1a637fe7587",
@@ -53,60 +291,11 @@
       "published_at": "2026-04-13T11:22:51.000Z"
     },
     {
-      "id": "5a590c2668d5da0b04724b3a01c65e520cb4d796",
-      "title": "使用minimax的office skills报错“.NET SDK 缺失”",
-      "link": "https://linux.do/t/topic/1958235",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:22:23.000Z"
-    },
-    {
-      "id": "5290ee7c75ed9715536a9349ed0b8aa4d2c708ef",
-      "title": "openrouter上的claude降智没有人讨论吗",
-      "link": "https://linux.do/t/topic/1958215",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:19:39.000Z"
-    },
-    {
-      "id": "9fd1f53a81f9bf716c6512899536767b07e89c36",
-      "title": "在我自己写的ios app上中了我的第一次中奖 这种感觉太妙了",
-      "link": "https://linux.do/t/topic/1958214",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:19:39.000Z"
-    },
-    {
-      "id": "b751d26814d9aa1105721d8b90cef02abef76069",
-      "title": "【技术栈分享交流】我的独立开发用了哪些技术栈？",
-      "link": "https://linux.do/t/topic/1958213",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:19:36.000Z"
-    },
-    {
-      "id": "21bc6ace041917d6c44162d0982b5650285c6748",
-      "title": "求番茄小说 诸神愚戏 有声书",
-      "link": "https://linux.do/t/topic/1958207",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:18:43.000Z"
-    },
-    {
-      "id": "fe71597311237b7f2d838884ebbc599a82177f4e",
-      "title": "有没有好用的Gemini中转站推荐？",
-      "link": "https://linux.do/t/topic/1958199",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:17:26.000Z"
-    },
-    {
-      "id": "56c765fa496da2bc3c734a2a2f55dfab506941b4",
-      "title": "你的副机未必需要是把手机, 可以是 VoHive. 短信转发/ESIM管理/VoWifi",
-      "link": "https://linux.do/t/topic/1958197",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:16:54.000Z"
-    },
-    {
-      "id": "6e6be90fcd139ba3f5238a51ce8eea67db7b08a4",
-      "title": "老板为了方便我打游戏,给我升级了5060",
-      "link": "https://linux.do/t/topic/1958193",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:16:20.000Z"
+      "id": "3b540972683e219a540a2c10443f4ee126a49a14",
+      "title": "Show HN: AI Content Attestation & Verification w/ Revocable Signatures",
+      "link": "https://lyfe.ninja/news",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T11:21:25.000Z"
     },
     {
       "id": "f7264996eb37ccc1ef213d55443baf22314db6a1",
@@ -123,39 +312,11 @@
       "published_at": "2026-04-13T11:14:37.000Z"
     },
     {
-      "id": "be76a71b2bb5b5f9ba39d7e1a5cb2d5aae51552d",
-      "title": "GLM Coding Plan 怎么才能抢到啊",
-      "link": "https://linux.do/t/topic/1958186",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:14:15.000Z"
-    },
-    {
-      "id": "74a0b7f18b6023d857f070629aff6d53f89804ba",
-      "title": "升级完服务器之后有点舒服啊喵",
-      "link": "https://linux.do/t/topic/1958176",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:11:38.000Z"
-    },
-    {
-      "id": "6a57edfc0335a7e6ad42fb0a4373bcf594e11387",
-      "title": "酒花飞拳是我喝过的最难喝的啤酒",
-      "link": "https://linux.do/t/topic/1958170",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:10:23.000Z"
-    },
-    {
-      "id": "37bbfb499e4b804778300b956d14dc9b723cd0c0",
-      "title": "吐槽下现今team的额度",
-      "link": "https://linux.do/t/topic/1958168",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:09:50.000Z"
-    },
-    {
-      "id": "7b889bb18f34e0330ccd29fa2f05a880f8f1c1a7",
-      "title": "请问我的世界教育版用什么edu邮箱能过啊",
-      "link": "https://linux.do/t/topic/1958165",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:08:48.000Z"
+      "id": "87b398f827130c09fa2b7c38b9f8bbf55b4cd031",
+      "title": "Show HN: Species.app – A visual spaced-repetition engine for taxonomy",
+      "link": "https://news.ycombinator.com/item?id=47750352",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T11:08:09.000Z"
     },
     {
       "id": "5bf55bd7dd90cda2cef472e5f841ad48482943ec",
@@ -165,81 +326,18 @@
       "published_at": "2026-04-13T11:08:00.000Z"
     },
     {
-      "id": "ff8233ae3a4bcaed013cd21560544f2deb61a1fa",
-      "title": "评论区前三个送GPT team席位",
-      "link": "https://linux.do/t/topic/1958146",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:05:44.000Z"
+      "id": "0738a268842f93f4cc287777aa7b35b64cb7602e",
+      "title": "Show HN: An offline-first type-safe graph database in a CRDT",
+      "link": "https://codemix.com/graph",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T11:05:41.000Z"
     },
     {
-      "id": "d8079f86e4c200dbcae2f8899fa3beda22a8beba",
-      "title": "有没有什么skill能让codex说人话",
-      "link": "https://linux.do/t/topic/1958145",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:05:42.000Z"
-    },
-    {
-      "id": "c2ed15f7ddace1974ef794e9611ca470d41f7c40",
-      "title": "有没有比较好的dify博客教程呀",
-      "link": "https://linux.do/t/topic/1958144",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:05:34.000Z"
-    },
-    {
-      "id": "53c509761c4006f95e6efdd2d86386d7633b2a6d",
-      "title": "关于GPT白嫖",
-      "link": "https://linux.do/t/topic/1958143",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:05:31.000Z"
-    },
-    {
-      "id": "49427b1911be7ede1c4203009cd79987e457290d",
-      "title": "有没有什么技能能够让在编辑器里面获取网也的内容（需要登录的网站）",
-      "link": "https://linux.do/t/topic/1958135",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:04:04.000Z"
-    },
-    {
-      "id": "27ab39f2266a849e3f5c934134bbe78801183312",
-      "title": "求一个不闪退的MT管理器 永久会员版本",
-      "link": "https://linux.do/t/topic/1958133",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:03:44.000Z"
-    },
-    {
-      "id": "543ab71b43bcc4cb4c371a4bef4609a365a12f77",
-      "title": "有人觉得GPT5.4开了1M上下文之后性能很差吗？",
-      "link": "https://linux.do/t/topic/1958131",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:02:47.000Z"
-    },
-    {
-      "id": "0da8b4f2e7452e7c12c8a07f352a554d085b40f7",
-      "title": "trae 的网站和 L 站好像呀，恍惚了",
-      "link": "https://linux.do/t/topic/1958125",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:02:22.000Z"
-    },
-    {
-      "id": "fbe6084502a18c0260d617a6e15f8776bd999f12",
-      "title": "关于vs code使用codex插件过程中，老断网的问题",
-      "link": "https://linux.do/t/topic/1958121",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:01:14.000Z"
-    },
-    {
-      "id": "24a2f9abfa40fe3864e54c643d14564ff30f6d47",
-      "title": "花了一个下午粗略的学了下Git，分享下我的Git的学习笔记",
-      "link": "https://linux.do/t/topic/1958120",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:00:56.000Z"
-    },
-    {
-      "id": "50c70f76729171609fef31e484d3dfff49262242",
-      "title": "Sorry, there was a network error. Please try again later. 怎么解决",
-      "link": "https://linux.do/t/topic/1958119",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T11:00:53.000Z"
+      "id": "039120901b34f56ab0e9d0345cbda73a032844ec",
+      "title": "Show HN: MFlow – Jira delivery analytics for small engineering teams",
+      "link": "https://www.no-pm.com/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T11:02:17.000Z"
     },
     {
       "id": "557e0d8fa1896a39fc351a798255fc730ec25af6",
@@ -277,6 +375,13 @@
       "published_at": "2026-04-13T10:56:47.000Z"
     },
     {
+      "id": "c1ff42542e1e646ff4b7e5f77cf6500898d3d0c3",
+      "title": "Ask HN: Shouldn't we increase flagging threshold?",
+      "link": "https://news.ycombinator.com/item?id=47750258",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T10:55:03.000Z"
+    },
+    {
       "id": "fe0aae9fd23f5fd1c4e0d514fb40069498c58948",
       "title": "Open source 1040 tax software built by AI agents",
       "link": "https://github.com/filedcom/opentax",
@@ -305,11 +410,25 @@
       "published_at": "2026-04-13T10:44:29.000Z"
     },
     {
+      "id": "52b1f57caca8dfdbbcaa2bfa3b5a4e7d91e84fb5",
+      "title": "Show HN: Rocky-Project Hail Mary agent skill that cut output tokens ~47%",
+      "link": "https://github.com/hpbyte/rocky",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T10:41:18.000Z"
+    },
+    {
       "id": "48e7cb63851a954f5c4f90afa8af1cf9bef26555",
       "title": "State of API Security 2026: An AI-Native Testing Perspective",
       "link": "https://reports.kusho.ai/state-of-api-security-2026",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T10:40:37.000Z"
+    },
+    {
+      "id": "29b7e7634b69fadf2a46720418956041eee32238",
+      "title": "How do you validate your GTM Efforts?",
+      "link": "https://news.ycombinator.com/item?id=47750165",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T10:39:38.000Z"
     },
     {
       "id": "3c36a35148771be132464c1ced1fd13521ec6175",
@@ -574,7 +693,7 @@
       "id": "a1df4415a45db352b57e7a10914dcfa2bd94ed0d",
       "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
       "link": "https://github.com/brightbeanxyz/brightbean-studio",
-      "source_name": "Hacker News 首页",
+      "source_name": "Hacker News Show",
       "published_at": "2026-04-13T09:26:56.000Z"
     },
     {
@@ -725,25 +844,11 @@
       "published_at": "2026-04-13T08:13:40.000Z"
     },
     {
-      "id": "0e088132f600b0ee8e05aa8917bd8a1ec44c009a",
-      "title": "Levels of AI Adoption for Project Managers",
-      "link": "https://locastic.com/blog/the-10-levels-of-ai-adoption-for-project-managers",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T08:04:08.000Z"
-    },
-    {
       "id": "7121b7b7bdd7a12f397864fd03f2b85cdf9b7db6",
       "title": "Mhm AGI on a Docker Compose?",
       "link": "https://news.ycombinator.com/item?id=47749096",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T07:57:46.000Z"
-    },
-    {
-      "id": "24ef8756084cb1ed83e003a787ea81d52cd29366",
-      "title": "Gen Z fearful AI will take their job they're sabotaging company's AI rollout",
-      "link": "https://fortune.com/2026/04/08/gen-z-workers-sabotage-ai-rollout-backlash",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T07:55:54.000Z"
     },
     {
       "id": "7f31956ee96dfd9286a3601d08dff22d4340ff37",
@@ -798,14 +903,14 @@
       "id": "d39c722cac6652f7fc3ace561bb77ee01fac6a04",
       "title": "Tell HN: AI is bringing back waterfall, here's what I've found",
       "link": "https://news.ycombinator.com/item?id=47748747",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T07:14:37.000Z"
     },
     {
       "id": "eb7207a84832b9a4d30952268b908515083cbbbd",
       "title": "Ask HN: How are you handling runtime security for your AI agents?",
       "link": "https://news.ycombinator.com/item?id=47748689",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T07:08:09.000Z"
     },
     {
@@ -854,7 +959,7 @@
       "id": "131a7749da96e15c6b0d43dfade4f7254f794f6c",
       "title": "Is AI Really gonna take our jobs?",
       "link": "https://news.ycombinator.com/item?id=47748453",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T06:39:02.000Z"
     },
     {
@@ -863,13 +968,6 @@
       "link": "https://github.com/mathematic-inc/sqlc-gen-sqlx",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T06:34:08.000Z"
-    },
-    {
-      "id": "d8f850ce127ea8d9042aeb7177af0c65b267ca9f",
-      "title": "Show HN: Xlg – Jq for APIs",
-      "link": "https://news.ycombinator.com/item?id=47748323",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T06:26:50.000Z"
     },
     {
       "id": "ed3829b285672b866f0f5ccaad2be56e48cbb272",
@@ -914,13 +1012,6 @@
       "published_at": "2026-04-13T05:29:27.000Z"
     },
     {
-      "id": "2f6f98fefdf55497235655e571d14f1e360fa0df",
-      "title": "Show HN: Bad Apple (Oscilloscope-Like) – one stroke per frame",
-      "link": "https://bad-apple-on-oscilloscope.pages.dev/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T05:01:58.000Z"
-    },
-    {
       "id": "ef16847af147546dffa330a959ca583cde204365",
       "title": "VoxCPM2",
       "link": "https://www.producthunt.com/products/minicpm-4-0",
@@ -940,13 +1031,6 @@
       "link": "https://news.ycombinator.com/item?id=47747705",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T04:46:57.000Z"
-    },
-    {
-      "id": "bb6b8ba6d1aa0726f0c4b9311d479308a15d5b2d",
-      "title": "Show HN: Cryptr a shell utility for encrypting and decrypting files with OpenSSL",
-      "link": "https://github.com/nodesocket/cryptr",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T04:26:42.000Z"
     },
     {
       "id": "f34a47bd8a40d763fba84fbe030423d60091d9f4",
@@ -5541,25 +5625,11 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
-      "id": "98c7392164b79f2ffb463fe716b89d9ee48e3626",
-      "title": "Show HN: Tokemon – monitor token use with out refreshing 27 browser tabs",
-      "link": "https://github.com/rvantonder/tokemon",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T03:49:05.000Z"
-    },
-    {
       "id": "b93b19ad7c2e7b5ed7df73a68074387e1f190ff4",
       "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
       "link": "https://sspai.com/post/108519",
       "source_name": "少数派",
       "published_at": "2026-04-13T03:48:39.000Z"
-    },
-    {
-      "id": "15062f6469c6a93dbd121efeb73c1b2e920b650d",
-      "title": "Show HN: Chipmunkify – I used ML to solve audio's dumbest problem",
-      "link": "https://www.chipmunkify.com/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T03:41:45.000Z"
     },
     {
       "id": "9176b51d5e399ddaf0eb10a7c85261742f04ac95",
@@ -5574,13 +5644,6 @@
       "link": "https://news.ycombinator.com/item?id=47747307",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T03:40:26.000Z"
-    },
-    {
-      "id": "b0658a1695b5bf84c6ea797ed700721703545416",
-      "title": "Show HN: React Modern Audio Player",
-      "link": "https://github.com/slash9494/react-modern-audio-player",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T03:31:38.000Z"
     },
     {
       "id": "3b578279ac5bcf86abda590257020c18b9565058",
@@ -5681,13 +5744,6 @@
       "published_at": "2026-04-13T01:24:59.000Z"
     },
     {
-      "id": "b8ba3cedea16ff4ee301745cb3af3cdba5d5af4e",
-      "title": "Internet down for you? X, GitHub, etc.",
-      "link": "https://news.ycombinator.com/item?id=47746404",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T01:19:31.000Z"
-    },
-    {
       "id": "b2f81fd5b30d9e65df2a287d7d8882684516579d",
       "title": "Externalization in LLM Agents",
       "link": "https://arxiv.org/abs/2604.08224",
@@ -5719,6 +5775,13 @@
       "id": "1ffd2b3bc0054239014441ecebcd0a335abf3287",
       "title": "14 things our PhD supervisors got right and why it mattered",
       "link": "https://www.nature.com/articles/d41586-026-00853-w",
+      "source_name": "Nature",
+      "published_at": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "id": "622efc775a638bcbfe65d4789aa37e3ec39b7614",
+      "title": "How I harness research to inform humanitarian relief efforts",
+      "link": "https://www.nature.com/articles/d41586-026-00197-5",
       "source_name": "Nature",
       "published_at": "2026-04-13T00:00:00.000Z"
     },
@@ -5805,13 +5868,6 @@
       "link": "https://www.producthunt.com/products/contextpool",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T21:36:03.000Z"
-    },
-    {
-      "id": "352309f5dbf0b2a46771ba95e6f1a30e14fbe3c7",
-      "title": "Ask HN: On autistic spectrum, best way to live?",
-      "link": "https://news.ycombinator.com/item?id=47744790",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-12T21:35:38.000Z"
     },
     {
       "id": "4aae184eadb72c11bbea74625874fba4911cc242",
@@ -5910,13 +5966,6 @@
       "link": "https://www.producthunt.com/products/ghostdesk-2",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T19:02:21.000Z"
-    },
-    {
-      "id": "10ccb7c6a0394846ed1ca4d302c499399ed59f1a",
-      "title": "Acting Opportunities",
-      "link": "https://news.ycombinator.com/item?id=47742889",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-12T18:38:40.000Z"
     },
     {
       "id": "cf4d8bd8f7847e51ca173bc6bdd01be871a7e954",
@@ -6148,41 +6197,6 @@
       "link": "https://www.producthunt.com/products/deckpipe-dev",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T12:15:27.000Z"
-    },
-    {
-      "id": "7dc140f8d5b5aad3f0c58f02e646050eee3ba197",
-      "title": "The gap between Eastern and Western Easter",
-      "link": "https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter",
-      "source_name": "johndcook.com",
-      "published_at": "2026-04-12T12:09:13.000Z"
-    },
-    {
-      "id": "c7336391cccee59c4b1fc16592ee3792d1e6fbab",
-      "title": "LLM Wiki Skill: Build a Second Brain with Claude Code and Obsidian",
-      "link": "https://medium.com/@alirezarezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2282752758c1",
-      "source_name": "Hacker News LLM",
-      "published_at": "2026-04-12T12:07:06.000Z"
-    },
-    {
-      "id": "4d73173b51f2ae721704ae931ddc80e70e6e454d",
-      "title": "‘The Audacity’ Is the Broligarchy Takedown You Were Waiting For",
-      "link": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for",
-      "source_name": "Wired",
-      "published_at": "2026-04-12T12:00:00.000Z"
-    },
-    {
-      "id": "bc6965ddf1d98b973ff057247644167c4a898943",
-      "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
-      "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike",
-      "source_name": "Wired",
-      "published_at": "2026-04-12T12:00:00.000Z"
-    },
-    {
-      "id": "a029e07b7c46c4aa8408af890bbc95f71fcc585e",
-      "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
-      "link": "https://www.wired.com/story/best-2-in-1-laptops",
-      "source_name": "Wired",
-      "published_at": "2026-04-12T11:30:00.000Z"
     }
   ]
 }
