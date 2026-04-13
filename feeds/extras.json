@@ -1,0 +1,22 @@
+{
+  "sources": [
+    {
+      "name": "Example JSON Source",
+      "enabled": false,
+      "type": "api",
+      "fetcher": "json",
+      "url": "https://example.com/feed.json",
+      "itemPath": "items",
+      "fields": {
+        "title": "title",
+        "link": "url",
+        "summary": "summary",
+        "published_at": "published_at",
+        "tags": "tags"
+      },
+      "tags": [
+        "example"
+      ]
+    }
+  ]
+}

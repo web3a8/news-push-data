@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fixture RSS</title>
+    <link>https://example.com</link>
+    <description>Fixture RSS Feed</description>
+    <item>
+      <title>RSS entry one</title>
+      <link>https://example.com/rss-entry-one?utm_source=test</link>
+      <description><![CDATA[<p>Hello <strong>RSS</strong></p>]]></description>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RSS entry two</title>
+      <link>https://example.com/rss-entry-two</link>
+      <description>Second entry</description>
+      <pubDate>Mon, 13 Apr 2026 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+.DS_Store
+tests/.tmp/
+/feeds.opml
+/需求文档.md
+/docs/
