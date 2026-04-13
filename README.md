@@ -59,6 +59,7 @@ The default build reads:
 
 And writes:
 
+- `dist/index.html`
 - `dist/latest.json`
 - `dist/latest-lite.json`
 - `dist/meta.json`
@@ -108,6 +109,7 @@ Warnings are written to `dist/meta.json` and printed to stdout with explicit sou
 
 When Pages is enabled, files are published at:
 
+- `https://<github-username>.github.io/<repo-name>/`
 - `https://<github-username>.github.io/<repo-name>/latest.json`
 - `https://<github-username>.github.io/<repo-name>/latest-lite.json`
 - `https://<github-username>.github.io/<repo-name>/meta.json`

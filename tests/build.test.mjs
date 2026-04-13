@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { execFile } from "node:child_process";
-import { mkdtemp, writeFile } from "node:fs/promises";
+import { mkdtemp, readFile, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
 import { promisify } from "node:util";
@@ -74,6 +74,10 @@ test("buildDataset succeeds when one source fails and another succeeds", async (
   assert.equal(result.meta.source_failed, 1);
   assert.equal(result.meta.warnings.length, 1);
   assert.match(result.meta.warnings[0], /Fixture Fail Unsupported XML feed/);
+
+  const indexHtml = await readFile(path.join(distDir, "index.html"), "utf8");
+  assert.match(indexHtml, /latest\.json/);
+  assert.match(indexHtml, /news-push-data/);
 });
 
 test("build script exits non-zero when all sources fail", async () => {
