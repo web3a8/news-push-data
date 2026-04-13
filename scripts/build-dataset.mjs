@@ -19,6 +19,7 @@ import { RECENT_WINDOW_HOURS, prepareArticles } from "./dedup.mjs";
 import { toIsoString } from "./utils/dates.mjs";
 import { buildIndexPage } from "./utils/index-page.mjs";
 import { formatError, ok, section } from "./utils/log.mjs";
+import { buildSourceSummary } from "./utils/source-diagnostics.mjs";
 
 const DEFAULT_FEEDS_PATH = "feeds/feeds.opml";
 const DEFAULT_EXTRAS_PATH = "feeds/extras.json";
@@ -115,6 +116,7 @@ export async function buildDataset(options = {}) {
 
   const successfulSources = sourceResults.filter((result) => result.articles.length > 0);
   const warnings = sourceResults.flatMap((result) => result.warnings);
+  const sourceSummary = buildSourceSummary(sourceResults, articles);
   const dataset = {
     dataset_id: generatedAt,
     generated_at: generatedAt,
@@ -130,7 +132,10 @@ export async function buildDataset(options = {}) {
     source_succeeded: successfulSources.length,
     source_failed: sourceResults.length - successfulSources.length,
     article_count: articles.length,
-    warnings
+    warnings,
+    source_status_summary: sourceSummary.statusSummary,
+    failure_breakdown: sourceSummary.failureBreakdown,
+    sources: sourceSummary.sources
   };
 
   section("writing output files");

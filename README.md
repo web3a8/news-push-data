@@ -100,6 +100,14 @@ The build tolerates partial source failures.
 
 Warnings are written to `dist/meta.json` and printed to stdout with explicit source names.
 
+`dist/meta.json` also includes per-source diagnostics:
+
+- `source_status_summary`
+- `failure_breakdown`
+- `sources[]`
+
+Each source entry records whether the feed was reachable, whether it returned data, how many articles were fetched versus published, how long it took, and the classified failure reason when it did not succeed.
+
 ## GitHub Pages Setup
 
 1. Push this repository to GitHub as a public repository.

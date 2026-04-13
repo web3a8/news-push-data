@@ -3,6 +3,7 @@ import { readFile } from "node:fs/promises";
 import { normalizeArticle } from "./normalize.mjs";
 import { chunk, fetchText, runConcurrent, sleep } from "./utils/http.mjs";
 import { formatError, info, warn } from "./utils/log.mjs";
+import { classifyFetchFailure } from "./utils/source-diagnostics.mjs";
 import { parseFeedDocument, parseOpml } from "./utils/xml.mjs";
 
 export const DEFAULT_RSS_BATCH_SIZE = 20;
@@ -16,11 +17,14 @@ export async function loadFeedsFromOpml(opmlPath) {
 }
 
 async function fetchSingleFeed(feed, options) {
+  const startedAt = Date.now();
+
   try {
     const xml = await fetchText(feed.feedUrl, {
       timeoutMs: options.timeoutMs
     });
     const parsed = parseFeedDocument(xml);
+    const rawItemCount = parsed.items.length;
     const articles = parsed.items
       .map((item) =>
         normalizeArticle(item, {
@@ -40,6 +44,13 @@ async function fetchSingleFeed(feed, options) {
         sourceName: feed.name,
         sourceUrl: feed.feedUrl,
         sourceType: parsed.sourceType,
+        status: "reachable_empty",
+        reachable: true,
+        rawItemCount,
+        durationMs: Date.now() - startedAt,
+        failureCategory: "",
+        failureDetail: "",
+        httpStatus: null,
         articles,
         warnings: [warning]
       };
@@ -49,16 +60,31 @@ async function fetchSingleFeed(feed, options) {
       sourceName: feed.name,
       sourceUrl: feed.feedUrl,
       sourceType: parsed.sourceType,
+      status: "with_data",
+      reachable: true,
+      rawItemCount,
+      durationMs: Date.now() - startedAt,
+      failureCategory: "",
+      failureDetail: "",
+      httpStatus: null,
       articles,
       warnings: []
     };
   } catch (error) {
     const warning = `${feed.name} ${formatError(error)}`;
+    const failure = classifyFetchFailure(error);
     warn(warning);
     return {
       sourceName: feed.name,
       sourceUrl: feed.feedUrl,
       sourceType: "rss",
+      status: "failed",
+      reachable: false,
+      rawItemCount: 0,
+      durationMs: Date.now() - startedAt,
+      failureCategory: failure.category,
+      failureDetail: failure.detail,
+      httpStatus: failure.httpStatus,
       articles: [],
       warnings: [warning]
     };

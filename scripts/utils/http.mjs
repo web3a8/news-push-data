@@ -1,3 +1,5 @@
+import { HttpStatusError } from "./source-diagnostics.mjs";
+
 const DEFAULT_HEADERS = {
   "accept": "application/json, text/plain, application/xml, text/xml;q=0.9, */*;q=0.8",
   "user-agent": "news-push-data/0.1 (+https://github.com/example/news-push-data)"
@@ -13,7 +15,7 @@ export async function fetchText(url, { timeoutMs = 12000, headers = {} } = {}) {
   });
 
   if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+    throw new HttpStatusError(response.status, url);
   }
 
   return response.text();
@@ -29,7 +31,7 @@ export async function fetchJson(url, { timeoutMs = 20000, headers = {} } = {}) {
   });
 
   if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+    throw new HttpStatusError(response.status, url);
   }
 
   return response.json();

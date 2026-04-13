@@ -74,11 +74,29 @@ test("buildDataset succeeds when one source fails and another succeeds", async (
   assert.equal(result.meta.source_failed, 1);
   assert.equal(result.meta.warnings.length, 1);
   assert.match(result.meta.warnings[0], /Fixture Fail Unsupported XML feed/);
+  assert.deepEqual(result.meta.source_status_summary, {
+    with_data: 1,
+    reachable_empty: 0,
+    failed: 1
+  });
+  assert.equal(result.meta.failure_breakdown.length, 1);
+  assert.equal(result.meta.failure_breakdown[0].category, "invalid_feed");
+  assert.equal(result.meta.sources.length, 2);
+  assert.equal(
+    result.meta.sources.find((source) => source.source_name === "Fixture OK")?.published_article_count,
+    2
+  );
+  assert.equal(
+    result.meta.sources.find((source) => source.source_name === "Fixture Fail")?.failure_category,
+    "invalid_feed"
+  );
 
   const indexHtml = await readFile(path.join(distDir, "index.html"), "utf8");
   assert.match(indexHtml, /latest\.json/);
   assert.match(indexHtml, /News Push Data/);
   assert.match(indexHtml, /Source Stream/);
+  assert.match(indexHtml, /Fetch Diagnostics/);
+  assert.match(indexHtml, /Failed Sources/);
 });
 
 test("build script exits non-zero when all sources fail", async () => {

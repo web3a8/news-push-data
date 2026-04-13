@@ -85,6 +85,32 @@ function buildStatusCards({ dataset, meta }) {
   ];
 }
 
+function buildDiagnosticsCards(meta) {
+  const summary = meta.source_status_summary || {
+    with_data: 0,
+    reachable_empty: 0,
+    failed: 0
+  };
+
+  return [
+    {
+      title: "With Data",
+      meta: "Fetched and yielded articles",
+      body: `${summary.with_data} source${summary.with_data === 1 ? "" : "s"}`
+    },
+    {
+      title: "Reachable But Empty",
+      meta: "Fetched successfully, zero normalized articles",
+      body: `${summary.reachable_empty} source${summary.reachable_empty === 1 ? "" : "s"}`
+    },
+    {
+      title: "Failed Sources",
+      meta: "Request, parse, or access failure",
+      body: `${summary.failed} source${summary.failed === 1 ? "" : "s"}`
+    }
+  ];
+}
+
 function buildSampleCards(articles) {
   return articles.slice(0, 6).map((article) => ({
     title: article.title,
@@ -137,11 +163,72 @@ function renderWarnings(warnings) {
     .join("")}</div>`;
 }
 
+function renderFailureBreakdown(meta) {
+  const breakdown = meta.failure_breakdown || [];
+  if (breakdown.length === 0) {
+    return "<p class=\"feed-empty\">No failed sources in the latest successful build.</p>";
+  }
+
+  return `<div class="signal-grid">${breakdown
+    .map(
+      (entry) => `<article class="signal-card">
+            <p class="signal-meta">${entry.count} source${entry.count === 1 ? "" : "s"}</p>
+            <h3>${escapeHtml(entry.category)}</h3>
+            <p>${entry.examples
+              .map((example) => `${escapeHtml(example.source_name)}: ${escapeHtml(example.detail)}`)
+              .join(" · ")}</p>
+          </article>`
+    )
+    .join("")}</div>`;
+}
+
+function renderDiagnosticsTable(items) {
+  if (items.length === 0) {
+    return "<p class=\"feed-empty\">None.</p>";
+  }
+
+  return `<div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Source</th>
+            <th>Type</th>
+            <th>Fetched</th>
+            <th>Published</th>
+            <th>Duration</th>
+            <th>Reason</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${items
+            .map(
+              (item) => `<tr>
+              <td>
+                <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(item.source_name)}</a>
+              </td>
+              <td>${escapeHtml(item.source_type)}</td>
+              <td>${item.fetched_article_count}</td>
+              <td>${item.published_article_count}</td>
+              <td>${item.duration_ms} ms</td>
+              <td>${escapeHtml(item.failure_detail || "OK")}</td>
+            </tr>`
+            )
+            .join("")}
+        </tbody>
+      </table>
+    </div>`;
+}
+
 export function buildIndexPage({ dataset, meta }) {
   const fileCards = buildFileCards();
   const statusCards = buildStatusCards({ dataset, meta });
+  const diagnosticsCards = buildDiagnosticsCards(meta);
   const sampleCards = buildSampleCards(dataset.articles);
   const sourceGroups = buildSourceGroups(dataset.articles);
+  const sourceDiagnostics = meta.sources || [];
+  const withDataSources = sourceDiagnostics.filter((source) => source.status === "with_data");
+  const emptySources = sourceDiagnostics.filter((source) => source.status === "reachable_empty");
+  const failedSources = sourceDiagnostics.filter((source) => source.status === "failed");
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -368,6 +455,46 @@ export function buildIndexPage({ dataset, meta }) {
         margin: 0;
         color: var(--muted);
       }
+      details {
+        margin-top: 14px;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: #fffaf2;
+        overflow: hidden;
+      }
+      summary {
+        cursor: pointer;
+        padding: 14px 16px;
+        font-weight: 600;
+        list-style: none;
+      }
+      summary::-webkit-details-marker {
+        display: none;
+      }
+      .details-body {
+        padding: 0 16px 16px;
+        border-top: 1px solid var(--line);
+      }
+      .table-wrap {
+        overflow-x: auto;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+      th, td {
+        padding: 10px 12px;
+        border-bottom: 1px solid var(--line);
+        text-align: left;
+        vertical-align: top;
+      }
+      th {
+        font-size: 0.82rem;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        color: var(--muted);
+      }
       @media (max-width: 768px) {
         .header-row {
           flex-direction: column;
@@ -439,6 +566,44 @@ export function buildIndexPage({ dataset, meta }) {
             )
             .join("")}
         </div>
+      </section>
+
+      <section>
+        <h2>Fetch Diagnostics</h2>
+        <div class="signal-grid">
+          ${diagnosticsCards
+            .map(
+              (card) => `<article class="signal-card">
+            <p class="signal-meta">${card.meta}</p>
+            <h3>${card.title}</h3>
+            <p>${card.body}</p>
+          </article>`
+            )
+            .join("")}
+        </div>
+        <h3 style="margin-top: 20px;">Failure Breakdown</h3>
+        ${renderFailureBreakdown(meta)}
+
+        <details open>
+          <summary>Failed Sources (${failedSources.length})</summary>
+          <div class="details-body">
+            ${renderDiagnosticsTable(failedSources)}
+          </div>
+        </details>
+
+        <details>
+          <summary>Reachable But Empty (${emptySources.length})</summary>
+          <div class="details-body">
+            ${renderDiagnosticsTable(emptySources)}
+          </div>
+        </details>
+
+        <details>
+          <summary>With Data (${withDataSources.length})</summary>
+          <div class="details-body">
+            ${renderDiagnosticsTable(withDataSources)}
+          </div>
+        </details>
       </section>
 
       <section>
