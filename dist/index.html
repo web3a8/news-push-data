@@ -5,36 +5,148 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>news-push-data</title>
     <style>
+      :root {
+        color-scheme: light;
+        --bg: #f3f1eb;
+        --panel: #fffdf8;
+        --ink: #16202a;
+        --muted: #5b6670;
+        --line: #d7d1c4;
+        --accent: #0d6b5d;
+      }
+
+      * { box-sizing: border-box; }
       body {
         margin: 0;
-        padding: 40px 20px;
-        font-family: Georgia, serif;
-        background: #f7f3ea;
-        color: #16202a;
+        font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+        background:
+          radial-gradient(circle at top left, rgba(13, 107, 93, 0.12), transparent 28rem),
+          linear-gradient(180deg, #faf7f0 0%, var(--bg) 100%);
+        color: var(--ink);
       }
 
       main {
-        max-width: 760px;
+        max-width: 52rem;
         margin: 0 auto;
-        background: #fffdf8;
-        border: 1px solid #d7d1c4;
-        border-radius: 20px;
-        padding: 24px;
+        padding: 3rem 1.25rem 4rem;
       }
 
-      a { color: #0d6b5d; }
-      code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .hero {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 1.25rem;
+        padding: 1.5rem;
+        box-shadow: 0 20px 50px rgba(22, 32, 42, 0.06);
+      }
+
+      h1, h2 {
+        margin: 0 0 0.75rem;
+        line-height: 1.1;
+      }
+
+      h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); }
+      h2 { font-size: 1.1rem; margin-top: 2rem; }
+
+      p {
+        margin: 0.5rem 0 0;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .grid {
+        display: grid;
+        gap: 0.9rem;
+        grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+        margin-top: 1.5rem;
+      }
+
+      .stat, .panel {
+        background: rgba(255, 253, 248, 0.9);
+        border: 1px solid var(--line);
+        border-radius: 1rem;
+        padding: 1rem;
+      }
+
+      .label {
+        font: 600 0.78rem/1.2 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--muted);
+      }
+
+      .value {
+        margin-top: 0.5rem;
+        font: 700 1.8rem/1 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+
+      ul {
+        margin: 0.8rem 0 0;
+        padding-left: 1.1rem;
+      }
+
+      li + li { margin-top: 0.45rem; }
+
+      a {
+        color: var(--accent);
+        text-decoration-thickness: 0.08em;
+        text-underline-offset: 0.16em;
+      }
+
+      code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 0.95em;
+      }
+
+      .files a {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      }
     </style>
   </head>
   <body>
     <main>
-      <h1>news-push-data</h1>
-      <p>This site publishes raw dataset files for the local <code>news-push</code> skill.</p>
-      <ul>
-        <li><a href="./latest.json">latest.json</a></li>
-        <li><a href="./latest-lite.json">latest-lite.json</a></li>
-        <li><a href="./meta.json">meta.json</a></li>
-      </ul>
+      <section class="hero">
+        <p class="label">GitHub Pages Dataset</p>
+        <h1>news-push-data</h1>
+        <p>Raw news dataset output for the local <code>news-push</code> skill. This site publishes stable JSON files, not a web app.</p>
+        <div class="grid">
+          <div class="stat">
+            <div class="label">Generated At</div>
+            <div class="value">2026-04-13T10:55:42.286Z</div>
+          </div>
+          <div class="stat">
+            <div class="label">Articles</div>
+            <div class="value">882</div>
+          </div>
+          <div class="stat">
+            <div class="label">Sources</div>
+            <div class="value">117</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel files">
+        <h2>Published Files</h2>
+        <ul>
+          <li><a href="./latest.json">latest.json</a></li>
+          <li><a href="./latest-lite.json">latest-lite.json</a></li>
+          <li><a href="./meta.json">meta.json</a></li>
+        </ul>
+      </section>
+
+      <section class="panel">
+        <h2>Run Summary</h2>
+        <ul>
+          <li><strong>dataset_id:</strong> <code>2026-04-13T10:55:42.286Z</code></li>
+          <li><strong>source_total:</strong> 160</li>
+          <li><strong>source_succeeded:</strong> 117</li>
+          <li><strong>source_failed:</strong> 43</li>
+        </ul>
+      </section>
+
+      <section class="panel">
+        <h2>Warnings</h2>
+        <ul><li>AWS Blog Entity expansion limit exceeded: 1160 &gt; 1000</li><li>Dev.to Entity expansion limit exceeded: 1215 &gt; 1000</li><li>Fluent Reader Releases Entity expansion limit exceeded: 1012 &gt; 1000</li><li>FreeBuf HTTP 405</li><li>FreshRSS Releases Entity expansion limit exceeded: 1807 &gt; 1000</li><li>Go Blog Entity expansion limit exceeded: 1104 &gt; 1000</li><li>Golang Weekly Entity expansion limit exceeded: 1324 &gt; 1000</li><li>IT之家 Entity expansion limit exceeded: 1128 &gt; 1000</li></ul>
+      </section>
     </main>
   </body>
 </html>

@@ -1,13 +1,13 @@
 {
-  "dataset_id": "2026-04-13T10:47:53.947Z",
-  "generated_at": "2026-04-13T10:47:53.947Z",
+  "dataset_id": "2026-04-13T10:55:42.286Z",
+  "generated_at": "2026-04-13T10:55:42.286Z",
   "source_total": 160,
   "source_succeeded": 117,
   "source_failed": 43,
-  "article_count": 878,
+  "article_count": 882,
   "warnings": [
     "AWS Blog Entity expansion limit exceeded: 1160 > 1000",
-    "Dev.to Entity expansion limit exceeded: 1368 > 1000",
+    "Dev.to Entity expansion limit exceeded: 1215 > 1000",
     "Fluent Reader Releases Entity expansion limit exceeded: 1012 > 1000",
     "FreeBuf HTTP 405",
     "FreshRSS Releases Entity expansion limit exceeded: 1807 > 1000",

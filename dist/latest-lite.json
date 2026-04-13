@@ -1,7 +1,7 @@
 {
-  "dataset_id": "2026-04-13T10:47:53.947Z",
-  "generated_at": "2026-04-13T10:47:53.947Z",
-  "article_count": 878,
+  "dataset_id": "2026-04-13T10:55:42.286Z",
+  "generated_at": "2026-04-13T10:55:42.286Z",
+  "article_count": 882,
   "articles": [
     {
       "id": "f7264996eb37ccc1ef213d55443baf22314db6a1",
@@ -11,6 +11,76 @@
       "published_at": "2026-04-13T11:15:45.000Z"
     },
     {
+      "id": "221922898a62b71977aff275f39d2a2c94374ddd",
+      "title": "一些有意思的事情",
+      "link": "https://linux.do/t/topic/1958091",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:54:51.000Z"
+    },
+    {
+      "id": "300b861e7722ff2b55f161bdd04b335b4c1ab694",
+      "title": "第一次用claudecode被内存占用惊到了，glm模型也不能用agent不知道是不是我的原因",
+      "link": "https://linux.do/t/topic/1958089",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:54:30.000Z"
+    },
+    {
+      "id": "2ea66a25d43a60b4f8428493dd4f5ca8631edc11",
+      "title": "想让claude帮忙写个类爬虫的东西，结果人家不帮忙啊",
+      "link": "https://linux.do/t/topic/1958088",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:54:28.000Z"
+    },
+    {
+      "id": "0e4d6ed0423cf38777f0e6d7511b2f7310083fb1",
+      "title": "汽车专业的材料力学的画图题",
+      "link": "https://linux.do/t/topic/1958085",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:53:30.000Z"
+    },
+    {
+      "id": "fe0aae9fd23f5fd1c4e0d514fb40069498c58948",
+      "title": "Open source 1040 tax software built by AI agents",
+      "link": "https://github.com/filedcom/opentax",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T10:53:20.000Z"
+    },
+    {
+      "id": "26fec68a297bbc2a5310686853c825914010f388",
+      "title": "给电脑重装系统好像要坠机了",
+      "link": "https://linux.do/t/topic/1958080",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:52:16.000Z"
+    },
+    {
+      "id": "3c5d85b9dde9d70676950a23b43b843c7ffb70ac",
+      "title": "关于我浏览器使用OUT邮箱注册GPT不弹手机号这件事",
+      "link": "https://linux.do/t/topic/1958076",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:51:01.000Z"
+    },
+    {
+      "id": "4fabeaf2438158c99cc0c339da859c0422c4801b",
+      "title": "12306 时间冲突求解",
+      "link": "https://linux.do/t/topic/1958075",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:50:27.000Z"
+    },
+    {
+      "id": "da5901ab5010a7377946e784b56cea799993ebfe",
+      "title": "来自 glm5.1 的奇妙比喻",
+      "link": "https://linux.do/t/topic/1958072",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:49:56.000Z"
+    },
+    {
+      "id": "87b3a3996e22ec91dd48fd0dcc666119d7d14546",
+      "title": "GTA6最新定价疑似爆出",
+      "link": "https://linux.do/t/topic/1958066",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T10:48:51.000Z"
+    },
+    {
       "id": "0fe659036ee4f8578fc29044ff3b6096c80c6d76",
       "title": "Claude Code配合CC Switch使用官方codex求助",
       "link": "https://linux.do/t/topic/1958061",
@@ -18,11 +88,25 @@
       "published_at": "2026-04-13T10:47:46.000Z"
     },
     {
+      "id": "706cba8b4bed07a1d3a3da43abaae6dfb875b255",
+      "title": "fix(feishu): guard app registration fetches",
+      "link": "https://github.com/openclaw/openclaw/commit/1de5610b24dd7642b6412acd4a3035802038f909",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:46:57.000Z"
+    },
+    {
       "id": "2f11c65d65c504ee00b3d3864145df0c756313fc",
       "title": "最“道德”的人工智能公司或许也是网络上最大的蹭吃蹭喝者。",
       "link": "https://linux.do/t/topic/1958054",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-13T10:44:54.000Z"
+    },
+    {
+      "id": "4d66e2df9d6c3ee732e0623f0a638a5820f3e449",
+      "title": "Beyond Karpathy's LLM-Wiki: The Necessity of Cognitive Governance",
+      "link": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T10:44:29.000Z"
     },
     {
       "id": "e299da5adc611b5ea5df23fa17c2614a57b2a8a7",
@@ -68,7 +152,7 @@
     },
     {
       "id": "15a07e11e5c0601a3815b4e4227c9aa716dfae2f",
-      "title": "Antigravity无法登录",
+      "title": "Antigravity无法登录[已解决]",
       "link": "https://linux.do/t/topic/1958035",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-13T10:40:09.000Z"
@@ -200,13 +284,6 @@
       "published_at": "2026-04-13T10:27:08.000Z"
     },
     {
-      "id": "9994d5953bc6c398df821157a05242e04b48639d",
-      "title": "冰佬的公益站这两天为啥不行了？还是我没弄对？",
-      "link": "https://linux.do/t/topic/1957954",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:26:55.000Z"
-    },
-    {
       "id": "22436ad794c0c468dcf480103ff93eb97ad5c255",
       "title": "Can AI be a 'child of God'? Inside Anthropic's meeting with Christian leaders",
       "link": "https://www.msn.com/en-us/news/us/can-ai-be-a-child-of-god-inside-anthropic-s-meeting-with-christian-leaders/ar-AA20Eb2w",
@@ -214,67 +291,11 @@
       "published_at": "2026-04-13T10:26:43.000Z"
     },
     {
-      "id": "a396cb11a921967d2ffeed32711378b980db8ea6",
-      "title": "喜欢偷懒、欺骗、嘴硬的openclaw该如何调教",
-      "link": "https://linux.do/t/topic/1957953",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:26:36.000Z"
-    },
-    {
-      "id": "5ee298e4812ab8a3823ebdcf5dbe07eb9afdf455",
-      "title": "找小伙伴一起做点事情，成果一起分享。",
-      "link": "https://linux.do/t/topic/1957952",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:26:28.000Z"
-    },
-    {
-      "id": "eb11c69c35c1d50cf5802ed92f9e63f266dba1fe",
-      "title": "你们都是怎么给tg付费的",
-      "link": "https://linux.do/t/topic/1957944",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:24:33.000Z"
-    },
-    {
       "id": "db461bcf65a472a73a126029ab1adfc36a8b6d84",
       "title": "Ask HN: Is Codex really on Par with Claude Code?",
       "link": "https://news.ycombinator.com/item?id=47750069",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T10:24:12.000Z"
-    },
-    {
-      "id": "845c74fd3fce480f8a41fbee82af8316c7fd29b8",
-      "title": "17级台风森拉克即将登陆美国塞班岛",
-      "link": "https://linux.do/t/topic/1957939",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:23:24.000Z"
-    },
-    {
-      "id": "e9042bfddb6f7137409da3af1063538181cf79f8",
-      "title": "计算机本科毕业论文",
-      "link": "https://linux.do/t/topic/1957932",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:22:03.000Z"
-    },
-    {
-      "id": "a8f6760a38e42f128ac362d08cd4b71573b82f63",
-      "title": "农行支付宝5元月卡又来快去 等下又售罄了",
-      "link": "https://linux.do/t/topic/1957926",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:20:49.000Z"
-    },
-    {
-      "id": "71eedc50b78368ef1d33402abf8b99f1a51dfbca",
-      "title": "codex反代在claude code使用时的如何更好？",
-      "link": "https://linux.do/t/topic/1957924",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:20:38.000Z"
-    },
-    {
-      "id": "f0d0a834c9676db3240f68cf7335c54ca6e68050",
-      "title": "【自荐】一个可以自建的轻量化 Serverless 服务",
-      "link": "https://linux.do/t/topic/1957921",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:19:53.000Z"
     },
     {
       "id": "b5ad71db4999df2e9397ecd7f3fe9a26ab347b07",
@@ -380,6 +401,13 @@
       "link": "https://github.com/openclaw/openclaw/commit/645c7b189757d5d6427dd6cb40431aaa15da5ced",
       "source_name": "OpenClaw Commits",
       "published_at": "2026-04-13T09:58:46.000Z"
+    },
+    {
+      "id": "dd4817ac40ed048263486268f6666313d8ac5049",
+      "title": "派评 | 近期值得关注的 App",
+      "link": "https://sspai.com/post/108589",
+      "source_name": "少数派",
+      "published_at": "2026-04-13T09:52:51.000Z"
     },
     {
       "id": "298580b7ba8d58210d2dbb864bb6c4de5671598e",
@@ -683,13 +711,6 @@
       "published_at": "2026-04-13T07:30:17.000Z"
     },
     {
-      "id": "13f2d279d45502d0640fd9fd0c4998f8a75440f6",
-      "title": "feat: LM Studio Integration (#53248)",
-      "link": "https://github.com/openclaw/openclaw/commit/0cfb83edfae95b3f8c683c8e44c0f92ac23642a1",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T07:22:44.000Z"
-    },
-    {
       "id": "86e346cbc037a7bc634148c14f12050c37e69b8e",
       "title": "Hybrid search (BM25/vectors/RRF) barely improved over pure semantic",
       "link": "https://news.ycombinator.com/item?id=47748808",
@@ -821,13 +842,6 @@
       "link": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit",
       "source_name": "joanwestenberg.com",
       "published_at": "2026-04-13T06:01:21.000Z"
-    },
-    {
-      "id": "daae6df65a05f5a725202fc31fb95b441caf8008",
-      "title": "The AI Layoff Trap",
-      "link": "https://arxiv.org/abs/2603.20617",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T05:56:49.000Z"
     },
     {
       "id": "8c8813390f7e0d23514d795c20f96488946bdd7b",
@@ -5812,6 +5826,20 @@
       "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost",
       "source_name": "Hacker News 最佳",
       "published_at": "2026-04-12T19:44:40.000Z"
+    },
+    {
+      "id": "f9a7818b4bfa019f494997a34dea211ad333fc65",
+      "title": "Legitify",
+      "link": "https://www.producthunt.com/products/legitify",
+      "source_name": "Product Hunt",
+      "published_at": "2026-04-12T19:42:30.000Z"
+    },
+    {
+      "id": "e0e5f61b9cfd32ab81601176912cbcd75c37d260",
+      "title": "Cleo Labs",
+      "link": "https://www.producthunt.com/products/cleo-labs",
+      "source_name": "Product Hunt",
+      "published_at": "2026-04-12T19:42:17.000Z"
     },
     {
       "id": "59c1a2d9f6768815b53d6b9de5f77931ee863c25",
