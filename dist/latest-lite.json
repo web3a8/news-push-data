@@ -1,35 +1,700 @@
 {
-  "dataset_id": "2026-04-13T17:33:11.674Z",
-  "generated_at": "2026-04-13T17:33:11.674Z",
-  "article_count": 1003,
+  "dataset_id": "2026-04-13T19:40:27.498Z",
+  "generated_at": "2026-04-13T19:40:27.498Z",
+  "article_count": 1013,
   "articles": [
     {
-      "id": "02e805703393745935825ec6071ef5279a28e9b9",
-      "title": "怎么哈基米一会好看一会丑的，精神要奔溃了喵~~",
-      "link": "https://linux.do/t/topic/1960473",
+      "id": "c6c773b23e725cbb3daa6b58e8295d6fc3e30c11",
+      "title": "perf(config): narrow channel legacy rule loading",
+      "link": "https://github.com/openclaw/openclaw/commit/e02c6ca82acd67ca3aa93021fc4cc09cf6d319c3",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:37:21.000Z"
+    },
+    {
+      "id": "e14d26f0789ad041b4e2b5211bfd28f7551a0adc",
+      "title": "Your Last Coffee Isn’t the Problem; the First Three Are Still in Your System",
+      "link": "https://dev.to/aralroca/your-last-coffee-isnt-the-problem-the-first-three-are-still-in-your-system-4kil",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:37:09.000Z"
+    },
+    {
+      "id": "6c8dc3d7278dc553ca015b896a24329783f12698",
+      "title": "fix(queue): split collect batches by auth context (#66024)",
+      "link": "https://github.com/openclaw/openclaw/commit/43d4be902755c970b3d15608679761877718da69",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:35:39.000Z"
+    },
+    {
+      "id": "95903ace93c8d4dd80025423587733b1d5a07326",
+      "title": "codex用cpa到cc来使用，为啥没干什么就开始压缩了",
+      "link": "https://linux.do/t/topic/1960579",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T17:33:13.000Z"
+      "published_at": "2026-04-13T19:32:44.000Z"
+    },
+    {
+      "id": "1ce9863537934906d920dfed69fec26f5bb81678",
+      "title": "mba的适用性",
+      "link": "https://linux.do/t/topic/1960578",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T19:31:04.000Z"
+    },
+    {
+      "id": "412dd51ac59a949469435f2f6b1e4c0ab19c0f85",
+      "title": "fix(outbound): replay queued session context (#66025)",
+      "link": "https://github.com/openclaw/openclaw/commit/48aae82bbc19ba8b0741e61a08063eb0d1df464e",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:30:42.000Z"
+    },
+    {
+      "id": "4e90ab3ed403199d691600ee124102193a33bfd5",
+      "title": "Build a Social Media Event Bus: React to Posts, Comments, and Follows in Real-Time",
+      "link": "https://dev.to/olams/build-a-social-media-event-bus-react-to-posts-comments-and-follows-in-real-time-1j5n",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:29:00.000Z"
+    },
+    {
+      "id": "7e97e13b761d9c4325618a143e54e902158800ec",
+      "title": "Web scraping for AI agents: How to give your agents web access",
+      "link": "https://dev.to/asaoluelijah/web-scraping-for-ai-agents-how-to-give-your-agents-web-access-4577",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:28:45.000Z"
+    },
+    {
+      "id": "fb356b500c4388b0e16582b778dcae266f57a64e",
+      "title": "(AMD) Build AI Agents That Run Locally",
+      "link": "https://amd-gaia.ai/docs",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:28:41.000Z"
+    },
+    {
+      "id": "af5c9cb52f079a6e34c645b3f0c480434c69c860",
+      "title": "Servo Now on crates.io: What Rust Devs Need to Know",
+      "link": "https://dev.to/onsen/servo-now-on-cratesio-what-rust-devs-need-to-know-41jb",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:28:33.000Z"
+    },
+    {
+      "id": "76acc7b7273d4a2fdb35e5a680f1df963fe3fe81",
+      "title": "Building VoiceAgent: From Speech to Safe Action",
+      "link": "https://dev.to/suraj_kaushik_1cba7bcf833/building-voiceagent-from-speech-to-safe-action-46kc",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:28:02.000Z"
+    },
+    {
+      "id": "251db073f59eba5aa4db0e7203bf7140bff6795a",
+      "title": "fix(trace command): Improve trace raw diagnostics and trace command U…",
+      "link": "https://github.com/openclaw/openclaw/commit/7c09ba70efb0b542a387bf5b3df362b350d64c55",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:26:57.000Z"
+    },
+    {
+      "id": "b4e78a21bd801123f72360cc9140e3b8e3bb5d46",
+      "title": "Why Single-Pass AI Test Generation Produces Garbage",
+      "link": "https://dev.to/ihorkosheliev/why-single-pass-ai-test-generation-produces-garbage-2kec",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:26:48.000Z"
+    },
+    {
+      "id": "95705f2dadc0b082b9d4ea5a5b1e6f1c1362cbc7",
+      "title": "perf(config): skip cold runtime refresh on one-shot writes",
+      "link": "https://github.com/openclaw/openclaw/commit/6157933e394e1dca46dd01fd2788edbdc0733cc0",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:25:21.000Z"
+    },
+    {
+      "id": "3ba779f18983b3f01662fa1e3efc6f7dbc5d8bc9",
+      "title": "Shape Grammar",
+      "link": "https://en.wikipedia.org/wiki/Shape_grammar",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T19:25:15.000Z"
+    },
+    {
+      "id": "6737d4f77d1590143fd20242d2122202f59573c7",
+      "title": "I built a production RAG pipeline. Here's what most tutorials skip.",
+      "link": "https://dev.to/anuragmerndev/i-built-a-production-rag-pipeline-heres-what-most-tutorials-skip-272n",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:21:21.000Z"
+    },
+    {
+      "id": "bb328ac5a6c0cf3abe4c7522bfcf1a8cf387b987",
+      "title": "The 42-Day Vibe – A technical thriller about an AI-run company and context rot",
+      "link": "https://bugramming.dev/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:20:02.000Z"
+    },
+    {
+      "id": "eaf011c75690a0acdffdeaf05100e002443eb25e",
+      "title": "Why Your Engineering Org Has No Idea What Anything Costs (And How to Fix It)",
+      "link": "https://dev.to/alanwest/why-your-engineering-org-has-no-idea-what-anything-costs-and-how-to-fix-it-3i77",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:19:30.000Z"
+    },
+    {
+      "id": "466bbd28be56ae747d2358d1b03a72038f473bba",
+      "title": "Typed content collections in Astro",
+      "link": "https://dev.to/sourcier/typed-content-collections-in-astro-3ma7",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:19:13.000Z"
+    },
+    {
+      "id": "1fdaaa17922754e9822700f9625b15806ae4498c",
+      "title": "perf(config): use generated SecretRef policy metadata",
+      "link": "https://github.com/openclaw/openclaw/commit/bd20a920a2a3cbcf240954ee0db07c62d3ea2244",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:19:04.000Z"
+    },
+    {
+      "id": "7aaaaae0c0291c1d05f4bf8599ee5b116186fd12",
+      "title": "The Looming College-Enrollment Death Spiral",
+      "link": "https://www.theatlantic.com/ideas/2026/04/college-enrollment-demographic-cliff/686750",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T19:18:34.000Z"
+    },
+    {
+      "id": "7c4335f7ed15ae42323a06b86e724bc7ae6948d6",
+      "title": "Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite",
+      "link": "https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:17:09.000Z"
+    },
+    {
+      "id": "0fa0d30535596570ff1e53beeae5e4cdb220c7c9",
+      "title": "How to Find Every Consumer of Your Docker Base",
+      "link": "https://dev.to/danielwe/how-to-find-every-consumer-of-your-docker-base-e32",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:16:20.000Z"
+    },
+    {
+      "id": "5fc0f7d050635a2a6196a9601436eed5b8c10695",
+      "title": "The AI Engineer's Toolkit: Building a Production-Ready Mocking Layer",
+      "link": "https://dev.to/midas126/the-ai-engineers-toolkit-building-a-production-ready-mocking-layer-4kb1",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T19:15:13.000Z"
+    },
+    {
+      "id": "a71dec0092d81535db70e12732bd272fd6dad0f5",
+      "title": "Show HN: GDL – I built an AI-powered invention engine",
+      "link": "https://groundeddiscoverylabs.com/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:13:26.000Z"
+    },
+    {
+      "id": "5c3018583dc8e868d6731f1148d6204c1c65e86a",
+      "title": "Show HN: Lint-AI by RooAGI, a Rust CLI for AI Doc Retrieval",
+      "link": "https://github.com/RooAGI/Lint-AI",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:11:58.000Z"
+    },
+    {
+      "id": "a54bc269ec2a131059a713fdbd99ac0293aa60dc",
+      "title": "IBM pays $17M fine to end DOJ suit over DEI programs",
+      "link": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T19:11:27.000Z"
+    },
+    {
+      "id": "86a0fa70bb6a1e26022dd173f4df6db193f37744",
+      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+      "link": "https://www.ithihasas.in/",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T19:10:07.000Z"
+    },
+    {
+      "id": "0502178b12a6a6e00a00fd2d94e6c2f8d373e9dc",
+      "title": "Marcin Wichary Visits the Large Scale Systems Museum",
+      "link": "https://flickr.com/photos/mwichary/albums/72177720332956990",
+      "source_name": "daringfireball.net",
+      "published_at": "2026-04-13T19:09:13.000Z"
+    },
+    {
+      "id": "78dd0deba56044f5a9f6017e60215c44a9522b63",
+      "title": "The \"AI Vulnerability Storm\": Building a \"Mythos-Ready\" Security Program [pdf]",
+      "link": "https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosready-20260413.pdf",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:07:59.000Z"
+    },
+    {
+      "id": "202f66a9d8a737842f58d2b0d9a970b622198aca",
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T19:05:19.000Z"
+    },
+    {
+      "id": "a03cb3790a9496830ca9bb75386cb2a9771e06b0",
+      "title": "AI Agents Are Control Systems",
+      "link": "https://cloudpresser.com/writing/ai-agents-are-control-systems",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:04:41.000Z"
+    },
+    {
+      "id": "530e869954f8553dde2eb805a5eaa7ce318396d9",
+      "title": "test(cron): fix #66019 maintenance regression coverage (#66122)",
+      "link": "https://github.com/openclaw/openclaw/commit/a0a4a768dc30816bf101eaab7d3280b6fe261a9d",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T19:03:45.000Z"
+    },
+    {
+      "id": "7201004288485d6a9f63752b8115c5f503d91fe7",
+      "title": "Sometimes I Don't Use AI at All",
+      "link": "https://www.clintmcmahon.com/Blog/sometimes-i-dont-use-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:02:13.000Z"
+    },
+    {
+      "id": "8ba58ae50dff155af7dedca29bfbdb695dfb0c07",
+      "title": "AI-boosted hacks with Anthropic's Mythos could have dire consequences for banks",
+      "link": "https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T19:00:20.000Z"
+    },
+    {
+      "id": "136808b2e4e90e1cc7d6013abc34539285baeb90",
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T18:55:37.000Z"
+    },
+    {
+      "id": "c0de60a085e14a83c8c421fecc077e501f832b09",
+      "title": "日均使用10小时17分钟吗，有点意思",
+      "link": "https://linux.do/t/topic/1960559",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:54:19.000Z"
+    },
+    {
+      "id": "5c205ba12a5b36c8aaf975fb1ce6fe3eeab40141",
+      "title": "fix: classify openrouter json 404 model errors",
+      "link": "https://github.com/openclaw/openclaw/commit/95ee120a91f91ac0392f65bea3fdbb02dc4a5a73",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:53:55.000Z"
+    },
+    {
+      "id": "2bfa33cf63e8e96576f0d7ed00e2e879b62d7be8",
+      "title": "perf(secrets): lazy-load provider env var exports",
+      "link": "https://github.com/openclaw/openclaw/commit/961eb95e9a882b2fd87d29d85161e361cb74ee97",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:52:02.000Z"
+    },
+    {
+      "id": "4b7d594bfefa0bb261ce8051197c5343fefcc90d",
+      "title": "How to make Firefox builds 17% faster",
+      "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T18:50:08.000Z"
+    },
+    {
+      "id": "ea4cdc95463f0daafc21802c5839f26fccba7737",
+      "title": "agents: stop strict mode from hijacking chat turns",
+      "link": "https://github.com/openclaw/openclaw/commit/8efbe8c1ed584966d23e2df5cd04d13b1ac14be9",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:49:00.000Z"
+    },
+    {
+      "id": "81e8ff1d4a860711b2f96be4cf189912bca9eafe",
+      "title": "关于谷歌账号封禁的疑问",
+      "link": "https://linux.do/t/topic/1960555",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:48:21.000Z"
+    },
+    {
+      "id": "bc996278576b25db7b8b2547c5c369448bbf1da2",
+      "title": "The Apple Watch Series 11 has returned to best-ever price",
+      "link": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T18:48:17.000Z"
+    },
+    {
+      "id": "2f77be4a5e8fa5cf0dff6b93e945b29d96ce2ba8",
+      "title": "fix(cron): preserve unresolved next-run backoff (#66113)",
+      "link": "https://github.com/openclaw/openclaw/commit/190a4b48697b88382e574d42a486ce54750be952",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:48:14.000Z"
+    },
+    {
+      "id": "777d94add6a88a933dc0066c1ebbd65cf32c3eca",
+      "title": "fix(heartbeat): force owner downgrade for untrusted hook:wake system …",
+      "link": "https://github.com/openclaw/openclaw/commit/31281bc92f55796817a92bc43f722cba1e77ab42",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:44:17.000Z"
+    },
+    {
+      "id": "6630ca85b0711ea345ab6a27c0ef328b3cc54586",
+      "title": "AI ran into the cold hard reality of the legal profession",
+      "link": "https://www.theregister.com/2026/04/13/ai_attorneys",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:42:48.000Z"
+    },
+    {
+      "id": "171a00f1e4a64a62047de3fd34bd500b7b254bf7",
+      "title": "FBI announces takedown of phishing operation that targeted thousands of victims",
+      "link": "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T18:41:50.000Z"
+    },
+    {
+      "id": "0260040a89828c600f8971428c117467048b7b56",
+      "title": "AI Frontier Model Tracker with API",
+      "link": "https://www.demandsphere.com/research/ai-frontier-model-tracker",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:41:31.000Z"
+    },
+    {
+      "id": "f6da3a612dc86347991baaddf1d58e82ea8a884e",
+      "title": "Show HN: RememberMap",
+      "link": "https://remembermap.com/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T18:40:11.000Z"
+    },
+    {
+      "id": "29d5d1aa006e968832d9cc9e69768e657a10f88a",
+      "title": "Show HN: Soulhunt – your digital twin is loose. capture it or someone else will",
+      "link": "https://soulhunt.ai/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T18:39:27.000Z"
+    },
+    {
+      "id": "f03f2972864c685117c6cc4e9325670696bc6dd4",
+      "title": "perf(config): use direct writes for gateway token persistence",
+      "link": "https://github.com/openclaw/openclaw/commit/587e72df4da14c9112802107fa8db0a16328b383",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:38:56.000Z"
+    },
+    {
+      "id": "58d74485f78e89f891f8d651ac62f7ee42e31bca",
+      "title": "Lobster: import published core runtime (#64755)",
+      "link": "https://github.com/openclaw/openclaw/commit/1490e2b1d3777ae3b242e0993a3142724110e2a9",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:38:46.000Z"
+    },
+    {
+      "id": "e4fa7993fa9fad71ac0ec84eadd234949cf8724c",
+      "title": "Building a Robust Documentation Agent with DigitalOcean Gradient AI Platform",
+      "link": "https://www.digitalocean.com/blog/documentation-agent",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:38:38.000Z"
+    },
+    {
+      "id": "568b3b07d1908e2b7454cc6b0a36f848f602fb3d",
+      "title": "perf(config): defer legacy web search registry reads",
+      "link": "https://github.com/openclaw/openclaw/commit/66f57a6e1b35e5b1a17832edf9944eae18967700",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:34:44.000Z"
+    },
+    {
+      "id": "1cac446d7220a41076b2c9df1b83813c7455695e",
+      "title": "We're Using So Much AI That Computing Firepower Is Running Out",
+      "link": "https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:33:16.000Z"
+    },
+    {
+      "id": "4a94994a5823d69b8b804eee58b6f6ee7dfce3d7",
+      "title": "gpt5x低价号存活测试",
+      "link": "https://linux.do/t/topic/1960547",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:33:09.000Z"
+    },
+    {
+      "id": "9f2117ab781145b993d999f16b62e16f5ea1f704",
+      "title": "perf(config): reuse prepared snapshots for daemon token writes",
+      "link": "https://github.com/openclaw/openclaw/commit/120c384f0020e1409c46fa93d63d6e8d6c455075",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:32:28.000Z"
+    },
+    {
+      "id": "f2ab138fe8272c3a69dc12dd61fed307a8e6eb2d",
+      "title": "【无限暖暖】新壁纸~和别人的合照ww",
+      "link": "https://linux.do/t/topic/1960545",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:30:53.000Z"
+    },
+    {
+      "id": "013ff4b46fdfabe3f254fdf441307f014afb3718",
+      "title": "Show HN: Type-level Fibonacci with a while loop in stable Rust (no const)",
+      "link": "https://gist.github.com/aluqas/c7209b8990762db72620a87200f3e2aa",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T18:29:02.000Z"
+    },
+    {
+      "id": "9c291777fa485e0b51b712b909fd4330299ef3e2",
+      "title": "【踩坑建议】codex的子代理功能简直无法使用！",
+      "link": "https://linux.do/t/topic/1960540",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:28:34.000Z"
+    },
+    {
+      "id": "a4de24c36760c5b909c922393030b9768642efaa",
+      "title": "Visualizing CPU Pipelining (2024)",
+      "link": "https://timmastny.com/blog/visualizing-cpu-pipelining",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T18:26:40.000Z"
+    },
+    {
+      "id": "ab21f0f189526359fe6816273ef2a9a30685ddd8",
+      "title": "fix(browser): enforce SSRF policy on snapshot, screenshot, and tab ro…",
+      "link": "https://github.com/openclaw/openclaw/commit/b75ad800a59009fc47eaa3471410f69046150e59",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:26:39.000Z"
+    },
+    {
+      "id": "c0caeca4f79c5a4fdafa54f5cae4e004a8646bae",
+      "title": "Z.ai doubles it's coding plan prices",
+      "link": "https://z.ai/subscribe",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:24:36.000Z"
+    },
+    {
+      "id": "3dce33e8a25682be7488db593cc0fc0e73906db2",
+      "title": "Ask HN: Do Agent skills make a difference?",
+      "link": "https://news.ycombinator.com/item?id=47755984",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T18:23:12.000Z"
+    },
+    {
+      "id": "30bb2ccef4468bd935868eee359bd8f130f2d414",
+      "title": "perf(daemon): import install config helpers directly",
+      "link": "https://github.com/openclaw/openclaw/commit/55a3c8ea07aef2b0f7833b2a954d8a425d32cb7d",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:22:52.000Z"
+    },
+    {
+      "id": "098cd170004d54cf80f5e64853f4fd10ebc3f6d4",
+      "title": "fix(msteams): enforce sender allowlist checks on SSO signin invokes […",
+      "link": "https://github.com/openclaw/openclaw/commit/80b1fa17bfc3f6a668492f0326ea52f48bb89776",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:22:30.000Z"
+    },
+    {
+      "id": "992f61085ebb67bd5f977d9bd7081f300b698236",
+      "title": "perf(daemon): slim gateway install token imports",
+      "link": "https://github.com/openclaw/openclaw/commit/75b4c059b8405dfbd50884b773346a9946fabd20",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T18:21:01.000Z"
+    },
+    {
+      "id": "6a555fee544cf77da206924d1c3c107ef5bbd977",
+      "title": "Visualizing OpenClaw runs as spans to debug loops and token spikes",
+      "link": "https://github.com/richard-epsilla/clawtrace",
+      "source_name": "Hacker News OpenClaw",
+      "published_at": "2026-04-13T18:20:03.000Z"
+    },
+    {
+      "id": "3a49d0362f821d99446472e99d018190e1633dbf",
+      "title": "Should Men Be Ashamed of Their AI Girlfriends?",
+      "link": "https://blog.apaonline.org/2026/04/13/should-men-be-ashamed-of-their-ai-girlfriends",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:16:19.000Z"
+    },
+    {
+      "id": "ebf27c21f0376c89ad0cebbf252d94ed5bb1e836",
+      "title": "Show HN: A calculator to expose the hidden infrastructural costs behind RAG",
+      "link": "https://bytecalculators.com/rag-cost-calculator",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T18:12:49.000Z"
+    },
+    {
+      "id": "265c7b76047bed812eb08da16ea8b861e959a502",
+      "title": "Ask HN: If you exercise, do you notice any mental benefits?",
+      "link": "https://news.ycombinator.com/item?id=47755843",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T18:11:37.000Z"
+    },
+    {
+      "id": "5354b8f70629f39429923782efb5739d49d54384",
+      "title": "Show HN: Encrypted, nothing stored, nothing repeated face-gated asset sharing",
+      "link": "https://veylt.net/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T18:10:04.000Z"
+    },
+    {
+      "id": "1eaf66f96c6b8088c01fb1f4157029ec14b8179e",
+      "title": "Evaluation of Claude Mythos Preview's cyber capabilities",
+      "link": "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T18:08:14.000Z"
+    },
+    {
+      "id": "9316830ea419eda4af6968e918d5604da70dd58f",
+      "title": "AI Agents for Economics Research",
+      "link": "https://ai-mba.io/tutorials/ai-agents-for-economics-research",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:08:07.000Z"
+    },
+    {
+      "id": "d1733774b2606547badc04d5ea48068681204bc8",
+      "title": "苹果 watchOS 26.5 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/938/749.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T18:05:15.000Z"
+    },
+    {
+      "id": "a3a08497a7d0f8d223ce7683c254e6f5a15c3d1a",
+      "title": "苹果 macOS 26.5 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/938/747.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T18:05:14.000Z"
+    },
+    {
+      "id": "b04fc5d50be59410ecfc45236c66b9a8654f9fdb",
+      "title": "苹果 visionOS 26.5 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/938/748.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T18:05:14.000Z"
+    },
+    {
+      "id": "8783106ed20100b04d7fe9efeea289083d2d676d",
+      "title": "苹果 iOS/iPadOS 26.5 开发者预览版 Beta 2 发布",
+      "link": "https://www.ithome.com/0/938/746.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T18:05:13.000Z"
+    },
+    {
+      "id": "0e0d1c8806dd6cfda458d377cc68a62849d45491",
+      "title": "佬，我cdk站点每次打开很慢经常打不开",
+      "link": "https://linux.do/t/topic/1960513",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T18:04:33.000Z"
+    },
+    {
+      "id": "293d6ef30309a41836ca37f6369e9ca184e2b31e",
+      "title": "AI, Gods, and Selves: Effective Illusions [video]",
+      "link": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:04:12.000Z"
+    },
+    {
+      "id": "978bfd1fa7ee7b283be8fe8f3bb86697786259ad",
+      "title": "Training AI models doesn't emit that much",
+      "link": "https://blog.andymasley.com/p/training-ai-models-doesnt-emit-that",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T18:02:11.000Z"
+    },
+    {
+      "id": "57abf38e310bfa18338c848dfa879c344a8de736",
+      "title": "关于注册跳 add-phone 跳过",
+      "link": "https://linux.do/t/topic/1960505",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:59:29.000Z"
+    },
+    {
+      "id": "7e1e55d76a2b942fe6377d7c60303b7a69337e89",
+      "title": "Evaluating Netflix Show Synopses with LLM-as-a-Judge",
+      "link": "https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T17:59:05.000Z"
+    },
+    {
+      "id": "1ae9b95592ebcf7d47c56aef71337be045e1f7d9",
+      "title": "我才是太阳之子() 怕下雨就让我做好准备🙃",
+      "link": "https://linux.do/t/topic/1960503",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:58:18.000Z"
+    },
+    {
+      "id": "1f7071290fa208ef21e51d753c42b0ee041da934",
+      "title": "AI Stupid Level: Independent monitoring fluctuations in AI model performance",
+      "link": "https://aistupidlevel.info/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T17:56:48.000Z"
+    },
+    {
+      "id": "ed4868f12731dc35ea58ee0bbd8368475c3d8c60",
+      "title": "如何驯服 GPT？",
+      "link": "https://linux.do/t/topic/1960501",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:56:42.000Z"
+    },
+    {
+      "id": "255b3df971aa16d788460971ea4d6bc6a99238b2",
+      "title": "Ask HN: What do you think are the best legal ways to slow/stop AI development?",
+      "link": "https://news.ycombinator.com/item?id=47755640",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T17:55:50.000Z"
+    },
+    {
+      "id": "709ae6a0d35767cb0c2359bea19491c28b5c2dcd",
+      "title": "Google engineering appears to have the same AI adoption footprint as John Deere",
+      "link": "https://twitter.com/Steve_Yegge/status/2043747998740689171",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T17:55:25.000Z"
+    },
+    {
+      "id": "63a328965651f3e96835f697e15b8cae91edca00",
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T17:54:39.000Z"
+    },
+    {
+      "id": "6d034d59b2e8e475364989bc12069d574243cd92",
+      "title": "有老哥是从事量化行业的吗，如果想要入行大概需要什么条件",
+      "link": "https://linux.do/t/topic/1960498",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:54:18.000Z"
+    },
+    {
+      "id": "59d6b8e7ddae070df5fe3a789a5b8af08b1d4027",
+      "title": "I built a simple API to extract structured data from any document",
+      "link": "https://news.ycombinator.com/item?id=47755583",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T17:51:19.000Z"
+    },
+    {
+      "id": "81f015b126f0abcd00799f13779f77a6f040d8cb",
+      "title": "Show HN: pg_grpc – Call gRPC services directly from PostgreSQL",
+      "link": "https://github.com/CSenshi/pg_grpc",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T17:50:01.000Z"
+    },
+    {
+      "id": "5583ee0d5d9e976615e3ceab7d3d35ef6dea2a5b",
+      "title": "关于降智问题！",
+      "link": "https://linux.do/t/topic/1960486",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:43:29.000Z"
+    },
+    {
+      "id": "d485ae1da47ca0c5c3d47b023e186d0ba7e642a9",
+      "title": "MacOS Tip: Enable the Zoom ‘Peek’ Gesture",
+      "link": "https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture",
+      "source_name": "daringfireball.net",
+      "published_at": "2026-04-13T17:43:16.000Z"
+    },
+    {
+      "id": "dfb6f23edc364149e5f3ec69da7a7cc6d3c2b0f8",
+      "title": "Show HN: Ix. Sick of rebuilding context every session. We mapped it instead",
+      "link": "https://github.com/ix-infrastructure/Ix",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T17:40:09.000Z"
+    },
+    {
+      "id": "09484252108bd901562d5d762a8eff61ea4f737c",
+      "title": "Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
+      "link": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T17:39:51.000Z"
+    },
+    {
+      "id": "292bed5a77190a4e4383e7bd2735e33f303469ae",
+      "title": "气笑了，Hermes 的实际微信支持和文档并不一致",
+      "link": "https://linux.do/t/topic/1960482",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:38:01.000Z"
+    },
+    {
+      "id": "8b85dd93f2430bf4273c340a5d1021d60935ebad",
+      "title": "🚀 Grok 查 询 模 型 剩 余 用 量",
+      "link": "https://linux.do/t/topic/1960476",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T17:36:00.000Z"
     },
     {
       "id": "1e83ff7345cb604d9f482e9c6c56cef14e9d3808",
-      "title": "新人报道，实测了codexfree账号能开fast（4.13） 和没有降智",
+      "title": "新人报道，实测了codexfree账号能开fast但也很慢（4.14） ，没有降智和大致额度",
       "link": "https://linux.do/t/topic/1960470",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-13T17:32:36.000Z"
-    },
-    {
-      "id": "86107cc3c04f7381b5d34448620efd0f05f334c1",
-      "title": "perf(cron): lazy-load run executor runtime",
-      "link": "https://github.com/openclaw/openclaw/commit/a5980df10128936eefc8e459eed5d900db4c2362",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:30:54.000Z"
-    },
-    {
-      "id": "f34c4b387ac4aa4bc90e780a2955561354daefdf",
-      "title": "perf(sessions): isolate reset policy helpers",
-      "link": "https://github.com/openclaw/openclaw/commit/c70be4b4afd0e3c441d70a314c20416a8a797054",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:28:53.000Z"
     },
     {
       "id": "5ec9c8386ef072d854128c388ee4375ed05fa21a",
@@ -39,50 +704,8 @@
       "published_at": "2026-04-13T17:27:17.000Z"
     },
     {
-      "id": "87385e9ac9b012db6b2c6568c3dbab987429de62",
-      "title": "I build free browser tools with Next.js — no backend, no uploads, everything runs client-side",
-      "link": "https://dev.to/sreten/i-build-free-browser-tools-with-nextjs-no-backend-no-uploads-everything-runs-client-side-a0m",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:26:19.000Z"
-    },
-    {
-      "id": "0cb6fa493ecfb67b0ba1812f7820d57bfb5f6108",
-      "title": "perf(channels): split hot-path message channel normalization",
-      "link": "https://github.com/openclaw/openclaw/commit/b6abd68a290855635a59b18d1b4397a6f39b1f83",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:22:12.000Z"
-    },
-    {
-      "id": "e8d1041992e39fe775e179efc94144d7669d24cf",
-      "title": "When does generative AI qualify for fair use? (2024) By previous OpenAI employee",
-      "link": "https://suchir.net/fair_use.html",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T17:21:02.000Z"
-    },
-    {
-      "id": "19e170f8b346af71eb918445e7f22b3a1d4a3d4a",
-      "title": "AI agent remembers your secrets",
-      "link": "https://www.prismor.dev/blog/tool-boundary-redaction-ai-agents",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T17:20:46.000Z"
-    },
-    {
-      "id": "f8dbf4540bdb5cde0c31808242174bd1279c3d12",
-      "title": "Gateway/sessions: preserve shared session route on system events (#66…",
-      "link": "https://github.com/openclaw/openclaw/commit/527895f0362f91897bd85ca1116ad16a05650934",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:19:58.000Z"
-    },
-    {
-      "id": "1681eabcb2a3284410eb29c9c315b522712ffda6",
-      "title": "One Query, Four GPUs: Tracing a Distributed Training Stall Across Nodes",
-      "link": "https://dev.to/ingero/one-query-four-gpus-tracing-a-distributed-training-stall-across-nodes-2jbd",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:18:24.000Z"
-    },
-    {
       "id": "a746cfc3a878002f12e07e6b61e407a8a33bf80f",
-      "title": "Staunch Trump Supporters Are Now Asking If He's the Antichrist",
+      "title": "Staunch Trump Supporters Are Now Asking if He’s the Antichrist",
       "link": "https://www.wired.com/story/staunch-trump-supporters-are-now-asking-if-hes-the-antichrist",
       "source_name": "Wired",
       "published_at": "2026-04-13T17:17:51.000Z"
@@ -95,25 +718,18 @@
       "published_at": "2026-04-13T17:16:53.000Z"
     },
     {
-      "id": "9e689208dcdf98bee3fb41080729700970ba3fbb",
-      "title": "Building a Local Voice AI Agent with Structured Intent and Safe Execution",
-      "link": "https://dev.to/harsh_yadav_12bc260f8969b/building-a-local-voice-ai-agent-with-structured-intent-and-safe-execution-21ni",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:16:23.000Z"
+      "id": "785d79dc3c7aaa5c8a3049be261a53826f38f73b",
+      "title": "Show HN: Access X, Reddit, Threads and all social media data from a single API",
+      "link": "https://www.socialcrawl.dev/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T17:15:21.000Z"
     },
     {
-      "id": "cc9667f2adea32d528ac371935095bc9b2c98fda",
-      "title": "Embedded Linux Development - Part 4",
-      "link": "https://dev.to/cangulmez/embedded-linux-development-part-4-2j83",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:15:36.000Z"
-    },
-    {
-      "id": "2616929fc212006e363bd51137b0cbc5d01f3dec",
-      "title": "DEUTLI Extractor V2: Batch Processing, Air-Gapped Environments, and Portable Builds (Update)",
-      "link": "https://dev.to/yuriy_sydorenko_deut/deutli-extractor-v2-batch-processing-air-gapped-environments-and-portable-builds-update-39b1",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:15:24.000Z"
+      "id": "994f2211674ef1e7ee5f984538aea9294204ee1a",
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+      "source_name": "The Hacker News",
+      "published_at": "2026-04-13T17:15:00.000Z"
     },
     {
       "id": "6ea9c163cfaae0b06d5aecdf509f835bb9a09eef",
@@ -123,53 +739,11 @@
       "published_at": "2026-04-13T17:14:51.000Z"
     },
     {
-      "id": "d113d7a5927c1c8a4c544d57304042ac0c6a7d86",
-      "title": "perf(cron): use narrow verbose-level runtime seam",
-      "link": "https://github.com/openclaw/openclaw/commit/907df514785243a436b7ff9c225ac91bd01cd032",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:14:23.000Z"
-    },
-    {
-      "id": "0f0d788c9a67ee70371c9c3f39a745c599cdd275",
-      "title": "AI coding agents compressed the feedback loop from hours to seconds. I wrote about why that compression looks a lot like the variable-reward patterns behind slot machines and social media.",
-      "link": "https://dev.to/desty2k/ai-coding-agents-compressed-the-feedback-loop-from-hours-to-seconds-i-wrote-about-why-that-dbi",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:12:41.000Z"
-    },
-    {
       "id": "5dd079fa024e4cd9f2c57c4eabf26b7550f1b0c6",
       "title": "Mimo claw的ai错觉",
       "link": "https://linux.do/t/topic/1960429",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-13T17:12:24.000Z"
-    },
-    {
-      "id": "af8558c1027f231b05c71a8a1889cafff02a2707",
-      "title": "Apple Reportedly Testing AI Glasses in Several Frame Styles",
-      "link": "https://www.cnet.com/news/apple-reportedly-testing-ai-glasses-in-several-frame-styles",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T17:12:20.000Z"
-    },
-    {
-      "id": "394dec44c92c05829dd1aa1f70680dc7776308d6",
-      "title": "perf(agents): use lightweight model fallback selection helpers",
-      "link": "https://github.com/openclaw/openclaw/commit/93ce76afe31048fbd9129a8e196c572fb8b6212b",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:12:09.000Z"
-    },
-    {
-      "id": "f9621901b2b3c2f696f0473ecdbd9fb61ab8c6e6",
-      "title": "perf(cron): drop stale skill snapshot runtime exports",
-      "link": "https://github.com/openclaw/openclaw/commit/3df3981e2620b2e98b6d486bb7afa4acdb136fce",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:12:09.000Z"
-    },
-    {
-      "id": "f91793eb80484691f37de3e4d2eb6435dbac19a5",
-      "title": "perf(cron): use lightweight model selection resolver",
-      "link": "https://github.com/openclaw/openclaw/commit/241349cdc5b26ce8155b35a3fc051c342a214005",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:12:09.000Z"
     },
     {
       "id": "2d395f7f9a5be769e0ded9d658cd509af7417ab5",
@@ -179,32 +753,11 @@
       "published_at": "2026-04-13T17:11:19.000Z"
     },
     {
-      "id": "cdf550e0c08f2b955c4edcc56699a83affc509c9",
-      "title": "AI Meeting Memory Assistant",
-      "link": "https://dev.to/sowmya_meenuga_c8a1d5c2f4/ai-meeting-memory-assistant-23e8",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:11:17.000Z"
-    },
-    {
-      "id": "ed246d936e0506b77295e434f9caf701c2f07b4f",
-      "title": "Why Schema Alone Fails for AI Attribution",
-      "link": "https://dev.to/aigistry/why-schema-alone-fails-for-ai-attribution-22f2",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:11:05.000Z"
-    },
-    {
-      "id": "f77181615164fa3336f0281ed8c9847574881367",
-      "title": "CVE-2026-23891: CVE-2026-23891: Critical Stored Cross-Site Scripting (XSS) in Decidim User Profiles",
-      "link": "https://dev.to/cverports/cve-2026-23891-cve-2026-23891-critical-stored-cross-site-scripting-xss-in-decidim-user-profiles-5126",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:10:20.000Z"
-    },
-    {
-      "id": "1414c7df7dde0f9d30981e9949e24e68812c2bdb",
-      "title": "Why We Switched VoIP Providers Twice and What We Finally Got Right",
-      "link": "https://dev.to/dialphonelimited/why-we-switched-voip-providers-twice-and-what-we-finally-got-right-33h7",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:10:02.000Z"
+      "id": "c96526092ab080e97c7091ea770c45591cae4593",
+      "title": "Show HN: Curation: Share Podcast Recommendations",
+      "link": "https://curation-509629088134.us-west1.run.app/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T17:10:57.000Z"
     },
     {
       "id": "3e178ed556e4dbc58a40e7d15e1e001c4abee45b",
@@ -212,20 +765,6 @@
       "link": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
       "source_name": "The Verge",
       "published_at": "2026-04-13T17:08:31.000Z"
-    },
-    {
-      "id": "1f2b9a65c19686a834c67c2b4070c6b58c0e0856",
-      "title": "My cache fix was fine—until it wasn’t",
-      "link": "https://dev.to/subashini_eel/my-cache-fix-was-fine-until-it-wasnt-2p8l",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:08:13.000Z"
-    },
-    {
-      "id": "168875fc5f363a978398906108ffbfde2eb3bca7",
-      "title": "fix(nostr): dedupe deterministic rejected events",
-      "link": "https://github.com/openclaw/openclaw/commit/1b20c1aca45076168ca98cb08153ba8cb86f9422",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:07:23.000Z"
     },
     {
       "id": "a2360a2edbe1da768fcae2ce5367adac12c631d9",
@@ -242,38 +781,10 @@
       "published_at": "2026-04-13T17:05:09.000Z"
     },
     {
-      "id": "a92df5ba45ea8029af5d74e605b916e4ae67ca43",
-      "title": "Sometimes your AI server is down and you remember you actually do know how to code by hand just fine.",
-      "link": "https://dev.to/ben/sometimes-your-ai-server-is-down-and-you-remember-you-actually-do-know-how-to-code-by-hand-just-2h90",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T17:05:09.000Z"
-    },
-    {
-      "id": "70af65e51bcc8e40af5ebedb844ba69b76610fe1",
-      "title": "Running (and Coding with) Local AI on a Mac",
-      "link": "https://github.com/dmitryryabkov/local-ai-mac",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T17:05:03.000Z"
-    },
-    {
-      "id": "30cb068f6e8384c9b94d0691615b2652ea4719a9",
-      "title": "Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers",
-      "link": "https://www.theregister.com/2026/04/13/linux_kernel_7_releaseed",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T17:05:00.000Z"
-    },
-    {
-      "id": "7c70b16a8a58e591ddf135457823af2fef40bc78",
-      "title": "fix(plugins): serialize interactive callback dedupe",
-      "link": "https://github.com/openclaw/openclaw/commit/d1e3ed3743989de633558deac1727b86a39c237b",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:04:28.000Z"
-    },
-    {
       "id": "e0236a704d5ec3103ffebeea97ca8d7b106e2f75",
       "title": "Why most AI projects feel useless",
       "link": "https://news.ycombinator.com/item?id=47754965",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T17:02:33.000Z"
     },
     {
@@ -282,20 +793,6 @@
       "link": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data",
       "source_name": "TechCrunch",
       "published_at": "2026-04-13T17:02:31.000Z"
-    },
-    {
-      "id": "3c6e4e8b20ba81302c73206524f5ca9058c53e2f",
-      "title": "test(cron): mock skills snapshot runtime seam",
-      "link": "https://github.com/openclaw/openclaw/commit/6d85dda3366a75ce9b8b9b5ad96db91681f090c8",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:02:09.000Z"
-    },
-    {
-      "id": "b3abfe544bd948e609ff9d4a438a3e4123a0a2de",
-      "title": "fix(telegram): retry failed approval callbacks",
-      "link": "https://github.com/openclaw/openclaw/commit/77f1ea0de8130153b53319b74b2b8d1b3309e385",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T17:00:38.000Z"
     },
     {
       "id": "ba66964da0ab38eb8ee4337f7a1ac231f3caf6e0",
@@ -312,25 +809,11 @@
       "published_at": "2026-04-13T17:00:02.000Z"
     },
     {
-      "id": "a6c54c04e53aab789da44c1438f0a9e18ad48325",
-      "title": "perf(cron): use narrow bound-account lookup",
-      "link": "https://github.com/openclaw/openclaw/commit/8f3e2296f9eb36bb963dfa7db27a5d68d63a61ad",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:57:47.000Z"
-    },
-    {
       "id": "3dd5d421481b8c46c4e7fd4c47959eec60267b1f",
       "title": "Show HN: Built a personality that lives across CLI, browser, and web –> all solo",
       "link": "https://news.ycombinator.com/item?id=47754883",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T16:57:15.000Z"
-    },
-    {
-      "id": "72be0168080ab99e3eb9229e438fc0e5f61d3a84",
-      "title": "fix(telegram): retry failed model selections",
-      "link": "https://github.com/openclaw/openclaw/commit/aa017bf9ddfa0d2e583b1addcfaf5e8c2db4eea8",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:57:05.000Z"
     },
     {
       "id": "57de6260cc8d6fdb0866e5a077dcb3229b872d55",
@@ -354,18 +837,11 @@
       "published_at": "2026-04-13T16:55:36.000Z"
     },
     {
-      "id": "d17e778da4081623c5ab7dd0ccc900bf88b1649f",
-      "title": "The AI build-out is powering global goods trade",
-      "link": "https://www.ft.com/content/ad169119-4a62-437b-b6ec-70819b1e8b4f",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:55:03.000Z"
-    },
-    {
-      "id": "e8c133f85a52187d24358af6bde00991f1528dd7",
-      "title": "Mist: Open-source Markdown editor with AI-native comments and suggested edits",
-      "link": "https://interconnected.org/home/2026/04/10/open-mist",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:54:34.000Z"
+      "id": "e3de892c367835673ef4fe6285b40cb5ab396c70",
+      "title": "Cloudflare Turnstile Is Down",
+      "link": "https://news.ycombinator.com/item?id=47754840",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T16:54:13.000Z"
     },
     {
       "id": "6e66f6806fc6afaa9515e66d391f0ef69b7f2450",
@@ -389,18 +865,11 @@
       "published_at": "2026-04-13T16:52:57.000Z"
     },
     {
-      "id": "616847cc79a9761a49f9fa59d00729374d1eb436",
-      "title": "perf(cron): narrow execution and skill runtime imports",
-      "link": "https://github.com/openclaw/openclaw/commit/df4c086c524dde1efeabed997d37603ffab95610",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:52:19.000Z"
-    },
-    {
-      "id": "918a77f66e2114ef7e5d7c61aca3a6df4e8f8c11",
-      "title": "fix(voice-call): keep retryable errors replayable",
-      "link": "https://github.com/openclaw/openclaw/commit/20248c475f188c5d6d9045f86de8185ada17c242",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:50:27.000Z"
+      "id": "632df074ea429476884536c989069741e943573d",
+      "title": "Tell HN: Claude-code prompt-cache fix",
+      "link": "https://news.ycombinator.com/item?id=47754795",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T16:50:48.000Z"
     },
     {
       "id": "0132ae66f16a220264786a82487c8726d8c22864",
@@ -408,41 +877,6 @@
       "link": "https://linux.do/t/topic/1960369",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-13T16:50:19.000Z"
-    },
-    {
-      "id": "41914862efd344b2fb42b1cc14f3d5d75da4b351",
-      "title": "perf(sessions): use loaded thread-info seam",
-      "link": "https://github.com/openclaw/openclaw/commit/31233a1995a05873f8a4ff5d9e4d078312bd3006",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:49:46.000Z"
-    },
-    {
-      "id": "de6dcb5e993ef6702a59dd0a0f0a7f9db4eec543",
-      "title": "fix(browser): unblock managed loopback CDP startup and control (#66043)",
-      "link": "https://github.com/openclaw/openclaw/commit/8cfdc8dea1514721a62bc04fadef286912b698b2",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:48:48.000Z"
-    },
-    {
-      "id": "ed162b39011659751fea4064f4f3197a92059f3d",
-      "title": "The GPU Moat Has a Side Door: AI Research Outside the Frontier Labs",
-      "link": "https://mangeshgupte.substack.com/p/the-gpu-moat-has-a-side-door",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:48:32.000Z"
-    },
-    {
-      "id": "283721a5d90b8c49036227a85f80f06ec00150af",
-      "title": "fix(mattermost): dedupe repeated model picker selects",
-      "link": "https://github.com/openclaw/openclaw/commit/a7ac3c666c4e476a24bbbb063f20c66118a871c8",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:47:29.000Z"
-    },
-    {
-      "id": "1aa0275ef3dcb55448eda17bc30ffe2a5d1008e1",
-      "title": "perf(cron): use read-only allow-from store seam",
-      "link": "https://github.com/openclaw/openclaw/commit/b2589ac4518ee75e95025163a5b50cb8cc97d0f6",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T16:47:05.000Z"
     },
     {
       "id": "4553f8399100d2642a5f2e5507cc8a8aa767d41d",
@@ -487,25 +921,11 @@
       "published_at": "2026-04-13T16:39:58.000Z"
     },
     {
-      "id": "d020c5de0a9e1f5942261189ab650023be98fcb1",
-      "title": "What explains heterogeneity in AI adoption?",
-      "link": "https://www.siliconcontinent.com/p/what-explains-heterogeneity-in-ai",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:39:54.000Z"
-    },
-    {
       "id": "61c4aa476d6014071595eb8d9fcc7a987876ccea",
       "title": "有没有什么简单的方法可以把 claude code 里用的模型 TPS 给算出来？现在越来越在意生成速度了",
       "link": "https://www.v2ex.com/t/1205628",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T16:37:27.000Z"
-    },
-    {
-      "id": "49577619cec202051833a513daf671ffff41726e",
-      "title": "The Rational Conclusion of Doomerism Is Violence",
-      "link": "https://www.campbellramble.ai/p/the-rational-conclusion",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T16:37:10.000Z"
     },
     {
       "id": "071f88570223f25acd6ed4be345b2fcaece0f84d",
@@ -543,39 +963,11 @@
       "published_at": "2026-04-13T16:29:39.000Z"
     },
     {
-      "id": "a7e5a549cf04d0bb48d4f2dcb39d8f9df6d39cdf",
-      "title": "请问印区grok可以用招行visa卡支付嘛",
-      "link": "https://linux.do/t/topic/1960305",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:28:16.000Z"
-    },
-    {
       "id": "17d1f15266c4867fa24dfb5d329959a85d338f7b",
       "title": "Show HN: Aeolus – a library for unified access to air quality sensor networks",
       "link": "https://github.com/southlondonscientific/aeolus",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T16:26:08.000Z"
-    },
-    {
-      "id": "b93ad9f854cd1c10f7e0f3f44a84ce0a274dd454",
-      "title": "X11 下，如何使一个 Electron 窗口开始拖动？",
-      "link": "https://linux.do/t/topic/1960280",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:24:31.000Z"
-    },
-    {
-      "id": "59eb6167490a532972ae1f41bf11f051e60c09e4",
-      "title": "Claude down? TokenMonopoly will help you find the best deals in AI subs",
-      "link": "https://tokenmonopoly.com/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:24:07.000Z"
-    },
-    {
-      "id": "6fa3e91d73bc63878798f76d7499b7afbed447b9",
-      "title": "When AI Meets Muscle: Using Electrical Stimulation to Guide Human Movement",
-      "link": "https://computerscience.uchicago.edu/news/when-ai-meets-muscle-context-aware-electrical-stimulation-promises-a-new-way-to-guide-human-movements",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:23:14.000Z"
     },
     {
       "id": "ce5ad1a7a597a8eaea9e89bba688b9a8ad24677b",
@@ -592,88 +984,11 @@
       "published_at": "2026-04-13T16:21:08.000Z"
     },
     {
-      "id": "e4fd7d856a5607eb1a2284167af4fbc965bf3a9c",
-      "title": "Show HN: Farchive – SQLite-backed history-preserving compressed archive",
-      "link": "https://github.com/eliask/farchive",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T16:19:38.000Z"
-    },
-    {
-      "id": "e9f969875dca343dc66a2abc645d7a6ea3b7588a",
-      "title": "想问问佬友们有没有爬 Twitter 帖子的便宜 API",
-      "link": "https://linux.do/t/topic/1960266",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:18:45.000Z"
-    },
-    {
-      "id": "37c395c1c6e244d91ff1f9873bac60b35788e3df",
-      "title": "AI 兴奋，焦虑，累综合征",
-      "link": "https://linux.do/t/topic/1960264",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:18:26.000Z"
-    },
-    {
-      "id": "37aaca3f6a3caf9521e39438e4ea69144b5e8f28",
-      "title": "Show HN: Dbg – One CLI debugger for every language (AI-agent ready)",
-      "link": "https://redknightlois.github.io/dbg",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:17:53.000Z"
-    },
-    {
-      "id": "db60a3abce3ad0b2aa1905865175dee3700c3c9c",
-      "title": "记录下用rustdesk远程公司电脑",
-      "link": "https://linux.do/t/topic/1960260",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:17:29.000Z"
-    },
-    {
-      "id": "d1f70633e47df67af8b26087b276cbf8c6bd1d53",
-      "title": "Claude又又又崩了？！",
-      "link": "https://linux.do/t/topic/1960259",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:17:05.000Z"
-    },
-    {
-      "id": "2863415a68ad17e64c2f19be99603264dea8a5a9",
-      "title": "华为实习的综合测评得重视",
-      "link": "https://linux.do/t/topic/1960258",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:16:49.000Z"
-    },
-    {
-      "id": "2bbeca5cbcc5ca9090e53e57b496d59f4ed50662",
-      "title": "解决：关于我的 codex 一直 5 次 Reconnecting 最后 stream disconnected before completion: error sending request for url",
-      "link": "https://linux.do/t/topic/1960257",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:16:40.000Z"
-    },
-    {
       "id": "8cb785b3c9ce689df69116ddb495d54f4bf37112",
       "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026",
       "source_name": "AWS Blog",
       "published_at": "2026-04-13T16:16:20.000Z"
-    },
-    {
-      "id": "5eb1ada36ebe87db8ff8577d21ba797c69db99c0",
-      "title": "奥特曼这一手用心险恶啊",
-      "link": "https://linux.do/t/topic/1960253",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:15:39.000Z"
-    },
-    {
-      "id": "8553bf712aff2c06396dc5c75feaa08733278656",
-      "title": "vibe coding 对于科研和科研成长",
-      "link": "https://linux.do/t/topic/1960248",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:14:37.000Z"
-    },
-    {
-      "id": "411a14064b04efca23423c5df68986dbea379b75",
-      "title": "gemini 网页端/app 在测试新交互逻辑",
-      "link": "https://linux.do/t/topic/1960243",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:13:32.000Z"
     },
     {
       "id": "de657eeb84713cdbb69862bf1aca07341fd572ab",
@@ -683,39 +998,11 @@
       "published_at": "2026-04-13T16:13:22.000Z"
     },
     {
-      "id": "5bc725e8f772710facfada50eaf18152a93a3f12",
-      "title": "copilot这个啥情况，怎么没有使用次数了[修复了]",
-      "link": "https://linux.do/t/topic/1960225",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:10:13.000Z"
-    },
-    {
-      "id": "9bcb9f0063d4118037252e741a3648896222af58",
-      "title": "即梦视频生成 免费",
-      "link": "https://linux.do/t/topic/1960223",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:09:53.000Z"
-    },
-    {
       "id": "f80a38d989b6ee2a9e8c21028456f4c47f64f966",
       "title": "OpenClaw Self-Improvement Loop: adversarial agentic self-modification workflow",
       "link": "https://github.com/theprint/nfh-self-improvement-loop",
       "source_name": "Hacker News OpenClaw",
       "published_at": "2026-04-13T16:09:38.000Z"
-    },
-    {
-      "id": "162c1609ce05871248b218f8971d8b83d425d627",
-      "title": "AI agent for querying and understanding Git activity in real time",
-      "link": "https://gitmore.io/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:08:53.000Z"
-    },
-    {
-      "id": "1f754d67272b82c7c83109d4d79ae3c61e4d8b84",
-      "title": "vscode里面codex插件开启fast最新方法",
-      "link": "https://linux.do/t/topic/1960219",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T16:08:12.000Z"
     },
     {
       "id": "9fb6f38c5c6acbe7e5570a610389db5a27a9c391",
@@ -725,11 +1012,11 @@
       "published_at": "2026-04-13T16:07:57.000Z"
     },
     {
-      "id": "df55c311e6ea3192391903b4fe4d65859fda8466",
-      "title": "AI Changed How We Build. It Did Not Change What Matters",
-      "link": "https://piljoong.dev/posts/ai-changed-how-we-build",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:06:38.000Z"
+      "id": "e981e81b4e73ee8457767be757dec2bf0b3a8f12",
+      "title": "Who's Been Impersonating This ProPublica Reporter?",
+      "link": "https://www.propublica.org/article/impersonating-propublica-reporter",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T16:05:19.000Z"
     },
     {
       "id": "4725feb0354931cfe34eb5d4ec78d6e08b79b19b",
@@ -739,20 +1026,6 @@
       "published_at": "2026-04-13T16:04:52.000Z"
     },
     {
-      "id": "a8db1b285117d2ae52322b9efb1d5779b565971a",
-      "title": "Show HN: Open-source strategy that placed #2 in a prediction market challenge",
-      "link": "https://github.com/octavi42/prediction-market-maker",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T16:04:08.000Z"
-    },
-    {
-      "id": "eb67c4d56dc6a558ec5bd5d4050c329303efaf16",
-      "title": "Linux rules on using AI-code: Copilot is OK, humans to take full responsibility",
-      "link": "https://www.techradar.com/pro/linux-rules-on-using-ai-generated-code-copilot-is-ok-but-humans-must-take-full-responsibility-for-the-contribution",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T16:02:11.000Z"
-    },
-    {
       "id": "d6d3dd0833ce072bf4c73e7afe749517cafd73b3",
       "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
       "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society",
@@ -760,46 +1033,11 @@
       "published_at": "2026-04-13T16:01:30.000Z"
     },
     {
-      "id": "290a5900d344973b7f53fe6befa60cf391915887",
-      "title": "Missouri town fires half its city council over data center deal",
-      "link": "https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T15:59:54.000Z"
-    },
-    {
-      "id": "39e124e01108cd3b2a5c0030c9b040bf3d16bb62",
-      "title": "An AI that researches the web before generating images",
-      "link": "https://firethering.com/gen-searcher-open-source-image-generation",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T15:59:30.000Z"
-    },
-    {
-      "id": "de17f80c866d3b1e00c280b558adacb333cfd43d",
-      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-      "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T15:57:58.000Z"
-    },
-    {
       "id": "474be83a0af2cfe0f560243ee9e78a26ea9fac5a",
       "title": "雷神黑武士 · 猎刃 Pro 游戏台式电脑上市，i5-14400F + RTX 5060 版本国补价 7999 元",
       "link": "https://www.ithome.com/0/938/745.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T15:57:36.000Z"
-    },
-    {
-      "id": "165aaf8ba29fde5f5d9f3a5fabcb5817d69ae86b",
-      "title": "I'm building an AI agent that learns from every task",
-      "link": "https://github.com/prathyushnallamothu/nexus",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T15:56:48.000Z"
-    },
-    {
-      "id": "ed07d1910e063786de13d94777bf053b6a5cb690",
-      "title": "Show HN: Girlfriend in CLI – AI-native persona harness for social training",
-      "link": "https://github.com/NomaDamas/girlfriend-in-cli",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:55:04.000Z"
     },
     {
       "id": "b450ff11c75edbcb7d5ddccabc137f226f331dc2",
@@ -859,17 +1097,10 @@
     },
     {
       "id": "c6f64c29305fa6ffb05dbc78188538c549c749b4",
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
       "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
       "source_name": "The Verge",
       "published_at": "2026-04-13T15:41:09.000Z"
-    },
-    {
-      "id": "af6839662162369bbe679bd155534404027b5d4c",
-      "title": "Claude.ai down",
-      "link": "https://status.claude.com/incidents/6jd2m42f8mld",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T15:41:08.000Z"
     },
     {
       "id": "abd2b1173dae844f5f4ded633e12dfcb987eda1a",
@@ -907,13 +1138,6 @@
       "published_at": "2026-04-13T15:38:48.000Z"
     },
     {
-      "id": "25f439ae5c93e23a89613df96ae821e565890fcc",
-      "title": "Show HN: Behavioural-dashboard, framework agnostic library for living dashboards",
-      "link": "https://ricardomonteirosimoes.github.io/behavioural-dashboard",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:36:26.000Z"
-    },
-    {
       "id": "a105b460a0e5581c4de78ba4d93e9be8c0b797a3",
       "title": "What Is the Best Fitness Tracker in 2026? Garmin, Oura, More",
       "link": "https://www.wired.com/gallery/best-fitness-tracker",
@@ -942,25 +1166,11 @@
       "published_at": "2026-04-13T15:31:06.000Z"
     },
     {
-      "id": "c0737f9b47c6a8782b1d7fa96a7ead8b343379ca",
-      "title": "Show HN: Context Surgeon – Let AI agents edit their own context window",
-      "link": "https://github.com/jackfruitsandwich/context-surgeon",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:28:44.000Z"
-    },
-    {
       "id": "68b83ddcd98d1c3ccc5b46ac11ffcad62b36d3a7",
       "title": "广州汇丰科技 Band 4 的年包是多少？有 60 万吗？",
       "link": "https://www.v2ex.com/t/1205618",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T15:27:43.000Z"
-    },
-    {
-      "id": "1da94034c976299878c8592d259460d486316c27",
-      "title": "Show HN: CCS – CLI to switch Claude Code profiles with different MCP servers",
-      "link": "https://github.com/virtuallytd/claude-code-switcher",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:26:21.000Z"
     },
     {
       "id": "b14e00afdd9ef91ca787716a73b2e717ed9c81cf",
@@ -975,20 +1185,6 @@
       "link": "https://www.ithome.com/0/938/743.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T15:17:40.000Z"
-    },
-    {
-      "id": "cf8846db65932dba1804727c19160edc6ef88287",
-      "title": "Show HN: IceGate – Observability data lake engine",
-      "link": "https://github.com/icegatetech/icegate",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:17:37.000Z"
-    },
-    {
-      "id": "6ba02432a57135f97892482d5d40618a74ddf5c4",
-      "title": "Show HN: 15 yrs of Django in prod: patterns I keep using (agent skills)",
-      "link": "https://github.com/dvf/opinionated-django",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T15:16:49.000Z"
     },
     {
       "id": "73e5898977a8c9345fd4a4d4defe6d8584696b2f",
@@ -1019,6 +1215,13 @@
       "published_at": "2026-04-13T15:04:48.000Z"
     },
     {
+      "id": "1b560a8360f096cb33b8743707753e8d2ab0a431",
+      "title": "Exploring the new `servo` crate",
+      "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration",
+      "source_name": "Simon Willison's Blog",
+      "published_at": "2026-04-13T15:04:00.000Z"
+    },
+    {
       "id": "e9a9a2d018ffd9dd1f8a508b505a905e2e2b8b94",
       "title": "Did NFTs leave a lasting mark or was it purely speculative?",
       "link": "https://news.ycombinator.com/item?id=47752993",
@@ -1034,7 +1237,7 @@
     },
     {
       "id": "7a678cee8150c1b13f1578a09ae0b53b1ea38c3d",
-      "title": "Pragmata is just OK, but it could’ve been great",
+      "title": "Pragmata is just okay, but it could’ve been great",
       "link": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
       "source_name": "The Verge",
       "published_at": "2026-04-13T15:00:00.000Z"
@@ -1271,6 +1474,13 @@
       "published_at": "2026-04-13T13:54:05.000Z"
     },
     {
+      "id": "de17f80c866d3b1e00c280b558adacb333cfd43d",
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
+      "source_name": "Ars Technica",
+      "published_at": "2026-04-13T13:52:46.000Z"
+    },
+    {
       "id": "fe98bf5e32c291fbfbc652cdab7a685acdd8d9f5",
       "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
       "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it",
@@ -1278,24 +1488,10 @@
       "published_at": "2026-04-13T13:48:24.000Z"
     },
     {
-      "id": "af6b80856b7b6cd74f5851fda9335d97d8e8c03c",
-      "title": "Tell HN: Facebook's reasons to disable an account is a blackbox",
-      "link": "https://news.ycombinator.com/item?id=47751816",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T13:40:04.000Z"
-    },
-    {
-      "id": "dbc204bb02f5d5292617c3ce4fb73cb58aec766b",
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "link": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T13:40:03.000Z"
-    },
-    {
       "id": "b196e33e1c851993e832343a0a1ed55395c70995",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional",
-      "source_name": "Hacker News 首页",
+      "source_name": "Hacker News 最佳",
       "published_at": "2026-04-13T13:37:33.000Z"
     },
     {
@@ -1304,13 +1500,6 @@
       "link": "https://www.ithome.com/0/938/724.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T13:29:16.000Z"
-    },
-    {
-      "id": "34d3752971cfbd43a42e700afd989e06b0e4cd8b",
-      "title": "Ask HN: How to be happy in a corporate environment?",
-      "link": "https://news.ycombinator.com/item?id=47751690",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T13:29:12.000Z"
     },
     {
       "id": "1530ef2c59d785a01f809b1e2f2faf006ac63f37",
@@ -1362,20 +1551,6 @@
       "published_at": "2026-04-13T13:13:12.000Z"
     },
     {
-      "id": "a7a452292b0b4ba91d96b732dcd8db4cc00950e8",
-      "title": "Ask HN: How do you build a technical audience online in 2026?",
-      "link": "https://news.ycombinator.com/item?id=47751451",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T13:10:42.000Z"
-    },
-    {
-      "id": "8e04436cae0a2095663b40fc3c8a3d5bd05f838e",
-      "title": "Ask HN: How can I identify and prevent graceful degradation when using ChatGPT",
-      "link": "https://news.ycombinator.com/item?id=47751444",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T13:09:54.000Z"
-    },
-    {
       "id": "d98d5387841ea054e549113a816b7077fc0323cd",
       "title": "打破第四面墙推动剧情，《黑袍纠察队》最终季“火车头”临终遗言视频曝光",
       "link": "https://www.ithome.com/0/938/718.htm",
@@ -1425,13 +1600,6 @@
       "published_at": "2026-04-13T13:00:00.000Z"
     },
     {
-      "id": "80947cd588b741cd26bf29d18a948928b76ddafd",
-      "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
-      "link": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T13:00:00.000Z"
-    },
-    {
       "id": "a4bb4002ec0a0cb15625c808a46819ba3e900c66",
       "title": "Want to understand the current state of AI? Check out these charts.",
       "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts",
@@ -1458,13 +1626,6 @@
       "link": "https://www.ithome.com/0/938/711.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T12:51:11.000Z"
-    },
-    {
-      "id": "9b7e10745385753ecc708438e6137be38fe5afa6",
-      "title": "Antigravity Is Down",
-      "link": "https://news.ycombinator.com/item?id=47751145",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T12:41:51.000Z"
     },
     {
       "id": "c87ce14bf3159cb55307dcdf2b41354bd4144058",
@@ -1593,13 +1754,6 @@
       "published_at": "2026-04-13T11:51:55.000Z"
     },
     {
-      "id": "fc707e46b5288b192675ec7ba0bb14a41e2c898e",
-      "title": "Commitgen – AI-generated Conventional Commit messages from your staged diff",
-      "link": "https://news.ycombinator.com/item?id=47750678",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T11:49:14.000Z"
-    },
-    {
       "id": "084646698f0c5c24b5ad17689c208bc80d45bcee",
       "title": "迪士尼“星战”科幻电影《曼达洛人与古古》确认引进：IMAX 特制拍摄，档期待定",
       "link": "https://www.ithome.com/0/938/697.htm",
@@ -1640,13 +1794,6 @@
       "link": "https://www.ithome.com/0/938/695.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T11:31:57.000Z"
-    },
-    {
-      "id": "f3564d677f4dc39f0c527e1a881265c0a98284b1",
-      "title": "Ask HN: Why are printers always so unreliable?",
-      "link": "https://news.ycombinator.com/item?id=47750504",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T11:24:40.000Z"
     },
     {
       "id": "ea2cf41132e3d5f401887012f8fae1a637fe7587",
@@ -1710,13 +1857,6 @@
       "link": "https://www.v2ex.com/t/1205568",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T10:56:47.000Z"
-    },
-    {
-      "id": "d735bba7f5b83b5eeb3b7f3c621d407a2128696b",
-      "title": "Point Cloud Allemansrätten",
-      "link": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T10:55:10.000Z"
     },
     {
       "id": "ee1a201e899d08182b15dc82ec61b58d3186773c",
@@ -1887,34 +2027,6 @@
       "published_at": "2026-04-13T09:47:33.000Z"
     },
     {
-      "id": "938231eacf85c960381da6fad04432cc5a48d533",
-      "title": "智元机器人远征 A3 完成首批交付，承担智能导览、沉浸式演艺、智慧运营等任务",
-      "link": "https://www.ithome.com/0/938/666.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:44:40.000Z"
-    },
-    {
-      "id": "7f3344a5cc97769804f2679994056dec80099e8b",
-      "title": "OPPO Pad Mini 小平板现身官网：普通 / 柔光双版本，至高 12GB+512GB 规格",
-      "link": "https://www.ithome.com/0/938/673.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:40:00.000Z"
-    },
-    {
-      "id": "c5c7f83ca9f3f46e71817b120d0efe39e9e710f0",
-      "title": "传音发布 Infinix Note 60 Pro 手机：后置点阵屏吸睛，6.78 英寸 1.5K 144Hz OLED 屏幕",
-      "link": "https://www.ithome.com/0/938/671.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:38:57.000Z"
-    },
-    {
-      "id": "20ec0d9ce5bfa486968da3d90dc56e320f34ae14",
-      "title": "铭匠预告 Neo 系列全画幅相机镜头：光学玻璃堆料，“价格很奇迹”",
-      "link": "https://www.ithome.com/0/938/646.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:36:23.000Z"
-    },
-    {
       "id": "86b942cd5931f636ef92f86c1c9876d2e58bbba5",
       "title": "原来很多开发瞧不起运维，现在居然来学习运维",
       "link": "https://www.v2ex.com/t/1205547",
@@ -1927,13 +2039,6 @@
       "link": "https://www.v2ex.com/t/1205543",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T09:28:19.000Z"
-    },
-    {
-      "id": "a1df4415a45db352b57e7a10914dcfa2bd94ed0d",
-      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "link": "https://github.com/brightbeanxyz/brightbean-studio",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T09:26:56.000Z"
     },
     {
       "id": "98c5ae07a33c6fb58e47aedc230fd84183bed814",
@@ -6829,6 +6934,13 @@
       "published_at": "2026-04-13T00:00:00.000Z"
     },
     {
+      "id": "3095b1726564b529aa9c279ff284eca2b8a6aee9",
+      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+      "link": "https://www.nature.com/articles/d41586-026-01211-6",
+      "source_name": "Nature",
+      "published_at": "2026-04-13T00:00:00.000Z"
+    },
+    {
       "id": "c9a6e7bb6247dea6e5c05b3f1edb8d193bae0aad",
       "title": "Gemma 4 audio with MLX",
       "link": "https://simonwillison.net/2026/Apr/12/mlx-audio",
@@ -6981,48 +7093,6 @@
       "link": "https://www.producthunt.com/products/cleo-labs",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T19:42:17.000Z"
-    },
-    {
-      "id": "59c1a2d9f6768815b53d6b9de5f77931ee863c25",
-      "title": "Viktor Orbán concedes defeat after 'painful' election result",
-      "link": "https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T19:37:15.000Z"
-    },
-    {
-      "id": "700a06305c84beb701f8bff2c35aa6d90f256935",
-      "title": "GhostDesk",
-      "link": "https://www.producthunt.com/products/ghostdesk-2",
-      "source_name": "Product Hunt",
-      "published_at": "2026-04-12T19:02:21.000Z"
-    },
-    {
-      "id": "c966c967aa8c63e512ca680e10521a1a1621e5c2",
-      "title": "That’s a Skill Issue",
-      "link": "https://blog.jim-nielsen.com/2026/skill-issue",
-      "source_name": "blog.jim-nielsen.com",
-      "published_at": "2026-04-12T19:00:00.000Z"
-    },
-    {
-      "id": "cf4d8bd8f7847e51ca173bc6bdd01be871a7e954",
-      "title": "LLM-Wiki",
-      "link": "https://keepnotes.ai/blog/2026-04-12-llmwiki",
-      "source_name": "Hacker News LLM",
-      "published_at": "2026-04-12T18:24:07.000Z"
-    },
-    {
-      "id": "b508a104f5465bc49834a2fe19c1582c660ec40d",
-      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
-      "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T18:19:02.000Z"
-    },
-    {
-      "id": "95aee3bcf440fce147828f750137c4145ed66007",
-      "title": "Golden Tickets",
-      "link": "https://www.presentandcorrect.com/blogs/blog/golden-tickets",
-      "source_name": "daringfireball.net",
-      "published_at": "2026-04-12T17:39:26.000Z"
     }
   ]
 }
