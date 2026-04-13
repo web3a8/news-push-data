@@ -1,4 +1,149 @@
-<!DOCTYPE html>
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function truncateText(value, maxLength) {
+  const text = String(value || "").replace(/\s+/g, " ").trim();
+  if (text.length <= maxLength) {
+    return text;
+  }
+
+  return `${text.slice(0, maxLength - 1).trim()}…`;
+}
+
+function formatTimestamp(value) {
+  if (!value) {
+    return "Unknown";
+  }
+
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return escapeHtml(String(value));
+  }
+
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZone: "UTC"
+  }).formatToParts(date);
+
+  const map = Object.fromEntries(parts.map((part) => [part.type, part.value]));
+  return `${map.year}-${map.month}-${map.day} ${map.hour}:${map.minute} UTC`;
+}
+
+function buildFileCards() {
+  return [
+    {
+      title: "latest.json",
+      href: "./latest.json",
+      description: "Full dataset with normalized article fields and stable IDs."
+    },
+    {
+      title: "latest-lite.json",
+      href: "./latest-lite.json",
+      description: "Compact dataset for quick previews and lightweight clients."
+    },
+    {
+      title: "meta.json",
+      href: "./meta.json",
+      description: "Run statistics, source totals, failures, and warnings."
+    }
+  ];
+}
+
+function buildStatusCards({ dataset, meta }) {
+  return [
+    {
+      title: "Dataset ID",
+      meta: "Unique build identifier",
+      body: `<code>${escapeHtml(dataset.dataset_id)}</code>`
+    },
+    {
+      title: "Run Health",
+      meta: "Sources processed",
+      body: `${meta.source_succeeded} succeeded · ${meta.source_failed} failed · ${meta.source_total} total`
+    },
+    {
+      title: "Warnings",
+      meta: "Operational signal",
+      body: `${meta.warnings.length} warning${meta.warnings.length === 1 ? "" : "s"} in the latest successful build`
+    },
+    {
+      title: "Articles",
+      meta: "Published records",
+      body: `${dataset.article_count} normalized articles in the current dataset`
+    }
+  ];
+}
+
+function buildSampleCards(articles) {
+  return articles.slice(0, 6).map((article) => ({
+    title: article.title,
+    meta: `${escapeHtml(article.source_name)} · ${formatTimestamp(article.published_at || article.fetched_at)}`,
+    body: truncateText(article.summary || "No summary provided.", 180),
+    href: article.link || "./latest.json"
+  }));
+}
+
+function buildSourceGroups(articles) {
+  const grouped = new Map();
+
+  for (const article of articles) {
+    const current = grouped.get(article.source_name) || [];
+    current.push(article);
+    grouped.set(article.source_name, current);
+  }
+
+  return Array.from(grouped.entries())
+    .map(([sourceName, sourceArticles]) => ({
+      sourceName,
+      articles: sourceArticles,
+      latestTime: Math.max(
+        ...sourceArticles.map((article) => Date.parse(article.published_at || article.fetched_at) || 0)
+      )
+    }))
+    .sort((left, right) => {
+      if (right.articles.length !== left.articles.length) {
+        return right.articles.length - left.articles.length;
+      }
+
+      return right.latestTime - left.latestTime;
+    })
+    .slice(0, 8);
+}
+
+function renderWarnings(warnings) {
+  if (warnings.length === 0) {
+    return "<p class=\"feed-empty\">No warnings in the latest successful build.</p>";
+  }
+
+  return `<div class="signal-grid">${warnings
+    .slice(0, 6)
+    .map(
+      (warning) => `<article class="signal-card">
+            <p class="signal-meta">Warning</p>
+            <p>${escapeHtml(warning)}</p>
+          </article>`
+    )
+    .join("")}</div>`;
+}
+
+export function buildIndexPage({ dataset, meta }) {
+  const fileCards = buildFileCards();
+  const statusCards = buildStatusCards({ dataset, meta });
+  const sampleCards = buildSampleCards(dataset.articles);
+  const sourceGroups = buildSourceGroups(dataset.articles);
+
+  return `<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -256,7 +401,7 @@
         <div class="header-row">
           <div>
             <h1>News Push Data</h1>
-            <p class="meta">Generated at 1970-01-01T00:00:00.000Z · 0 articles · 0 active sources</p>
+            <p class="meta">Generated at ${escapeHtml(dataset.generated_at)} · ${dataset.article_count} articles · ${dataset.source_count} active sources</p>
           </div>
           <p class="header-note">A stripped-down landing page inspired by <code>latest.html</code>. It keeps the visual system, but only serves the raw dataset surface.</p>
         </div>
@@ -270,62 +415,54 @@
       <section>
         <h2>Published Files</h2>
         <div class="domain-grid">
-          <div class="domain-col">
-            <h3><a href="./latest.json">latest.json</a></h3>
-            <p class="domain-brief">Full dataset with normalized article fields and stable IDs.</p>
-          </div>
-          <div class="domain-col">
-            <h3><a href="./latest-lite.json">latest-lite.json</a></h3>
-            <p class="domain-brief">Compact dataset for quick previews and lightweight clients.</p>
-          </div>
-          <div class="domain-col">
-            <h3><a href="./meta.json">meta.json</a></h3>
-            <p class="domain-brief">Run statistics, source totals, failures, and warnings.</p>
-          </div>
+          ${fileCards
+            .map(
+              (card) => `<div class="domain-col">
+            <h3><a href="${card.href}">${card.title}</a></h3>
+            <p class="domain-brief">${card.description}</p>
+          </div>`
+            )
+            .join("")}
         </div>
       </section>
 
       <section>
         <h2>Run Status</h2>
         <div class="signal-grid">
-          <article class="signal-card">
-            <p class="signal-meta">Unique build identifier</p>
-            <h3>Dataset ID</h3>
-            <p><code>1970-01-01T00:00:00.000Z</code></p>
-          </article>
-          <article class="signal-card">
-            <p class="signal-meta">Sources processed</p>
-            <h3>Run Health</h3>
-            <p>0 succeeded · 0 failed · 0 total</p>
-          </article>
-          <article class="signal-card">
-            <p class="signal-meta">Operational signal</p>
-            <h3>Warnings</h3>
-            <p>1 warning in the latest successful build</p>
-          </article>
-          <article class="signal-card">
-            <p class="signal-meta">Published records</p>
-            <h3>Articles</h3>
-            <p>0 normalized articles in the current dataset</p>
-          </article>
+          ${statusCards
+            .map(
+              (card) => `<article class="signal-card">
+            <p class="signal-meta">${card.meta}</p>
+            <h3>${card.title}</h3>
+            <p>${card.body}</p>
+          </article>`
+            )
+            .join("")}
         </div>
       </section>
 
       <section>
         <h2>Latest Articles</h2>
         <div class="signal-grid">
-          <p class="feed-empty">No articles are available in the current dataset.</p>
+          ${
+            sampleCards.length === 0
+              ? `<p class="feed-empty">No articles are available in the current dataset.</p>`
+              : sampleCards
+                  .map(
+                    (card) => `<article class="signal-card">
+            <p class="signal-meta">${card.meta}</p>
+            <h3><a href="${escapeHtml(card.href)}" target="_blank" rel="noreferrer">${escapeHtml(card.title)}</a></h3>
+            <p>${escapeHtml(card.body)}</p>
+          </article>`
+                  )
+                  .join("")
+          }
         </div>
       </section>
 
       <section>
         <h2>Warnings</h2>
-        <div class="signal-grid">
-          <article class="signal-card">
-            <p class="signal-meta">Warning</p>
-            <p>placeholder dataset; run npm run build to generate fresh output</p>
-          </article>
-        </div>
+        ${renderWarnings(meta.warnings)}
       </section>
 
       <section>
@@ -335,13 +472,44 @@
         </div>
         <div class="feed-layout">
           <nav class="feed-sidebar">
-            <p class="feed-empty">No sources.</p>
+            ${
+              sourceGroups.length === 0
+                ? `<p class="feed-empty">No sources.</p>`
+                : sourceGroups
+                    .map(
+                      (group, index) =>
+                        `<a class="sidebar-link" href="#src-${index}">${escapeHtml(group.sourceName)}<span class="badge">${group.articles.length}</span></a>`
+                    )
+                    .join("")
+            }
           </nav>
           <div class="feed-content">
-            <p class="feed-empty">No source groups are available.</p>
+            ${
+              sourceGroups.length === 0
+                ? `<p class="feed-empty">No source groups are available.</p>`
+                : sourceGroups
+                    .map(
+                      (group, index) => `<div class="source-group" id="src-${index}">
+                <h3 class="source-header">${escapeHtml(group.sourceName)}<span class="badge">${group.articles.length}</span></h3>
+                ${group.articles
+                  .slice(0, 3)
+                  .map(
+                    (article) => `<article class="feed-item">
+                    <h3><a href="${escapeHtml(article.link || "./latest.json")}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></h3>
+                    <p class="meta">${formatTimestamp(article.published_at || article.fetched_at)}</p>
+                    <p>${escapeHtml(truncateText(article.summary || "No summary provided.", 220))}</p>
+                  </article>`
+                  )
+                  .join("")}
+              </div>`
+                    )
+                    .join("")
+            }
           </div>
         </div>
       </section>
     </main>
   </body>
 </html>
+`;
+}

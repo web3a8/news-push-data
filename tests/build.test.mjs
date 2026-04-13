@@ -77,7 +77,8 @@ test("buildDataset succeeds when one source fails and another succeeds", async (
 
   const indexHtml = await readFile(path.join(distDir, "index.html"), "utf8");
   assert.match(indexHtml, /latest\.json/);
-  assert.match(indexHtml, /news-push-data/);
+  assert.match(indexHtml, /News Push Data/);
+  assert.match(indexHtml, /Source Stream/);
 });
 
 test("build script exits non-zero when all sources fail", async () => {
