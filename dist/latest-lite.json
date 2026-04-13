@@ -1,8 +1,113 @@
 {
-  "dataset_id": "2026-04-13T10:55:42.286Z",
-  "generated_at": "2026-04-13T10:55:42.286Z",
-  "article_count": 882,
+  "dataset_id": "2026-04-13T11:25:00.999Z",
+  "generated_at": "2026-04-13T11:25:00.999Z",
+  "article_count": 883,
   "articles": [
+    {
+      "id": "c9ec59d42289388419c19f6e54497ca6448d2fae",
+      "title": "今天冲动打了人，好后悔",
+      "link": "https://linux.do/t/topic/1958250",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:24:47.000Z"
+    },
+    {
+      "id": "a2b2ef95e2feceadb4dcc55f0259eeb4e727147a",
+      "title": "AI替代程序员",
+      "link": "https://linux.do/t/topic/1958248",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:24:39.000Z"
+    },
+    {
+      "id": "c55b02f353a99212e4af79d9ae9c6d8d2566a844",
+      "title": "【CHY API公益站】有点扛不住，佬友们帮我觉得下",
+      "link": "https://linux.do/t/topic/1958245",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:24:16.000Z"
+    },
+    {
+      "id": "872715f6939498d6e3449e5aeeda3de22b1642b6",
+      "title": "男生生日一般送什么生日礼物",
+      "link": "https://linux.do/t/topic/1958241",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:23:29.000Z"
+    },
+    {
+      "id": "c3a1712e110bf8d27101b5b48ddce69dbaabf2e9",
+      "title": "请教问下佬们怎么获取gpt的2FA secret呢",
+      "link": "https://linux.do/t/topic/1958239",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:23:13.000Z"
+    },
+    {
+      "id": "dfda024d75487bced85e1df0655caf55484ebc01",
+      "title": "阿里云要到期了 准备弄一个日本的VPS 有没有推荐的各位佬",
+      "link": "https://linux.do/t/topic/1958238",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:23:08.000Z"
+    },
+    {
+      "id": "ea2cf41132e3d5f401887012f8fae1a637fe7587",
+      "title": "质谱赔偿我损失！",
+      "link": "https://www.v2ex.com/t/1205572",
+      "source_name": "V2EX 技术",
+      "published_at": "2026-04-13T11:22:51.000Z"
+    },
+    {
+      "id": "5a590c2668d5da0b04724b3a01c65e520cb4d796",
+      "title": "使用minimax的office skills报错“.NET SDK 缺失”",
+      "link": "https://linux.do/t/topic/1958235",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:22:23.000Z"
+    },
+    {
+      "id": "5290ee7c75ed9715536a9349ed0b8aa4d2c708ef",
+      "title": "openrouter上的claude降智没有人讨论吗",
+      "link": "https://linux.do/t/topic/1958215",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:19:39.000Z"
+    },
+    {
+      "id": "9fd1f53a81f9bf716c6512899536767b07e89c36",
+      "title": "在我自己写的ios app上中了我的第一次中奖 这种感觉太妙了",
+      "link": "https://linux.do/t/topic/1958214",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:19:39.000Z"
+    },
+    {
+      "id": "b751d26814d9aa1105721d8b90cef02abef76069",
+      "title": "【技术栈分享交流】我的独立开发用了哪些技术栈？",
+      "link": "https://linux.do/t/topic/1958213",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:19:36.000Z"
+    },
+    {
+      "id": "21bc6ace041917d6c44162d0982b5650285c6748",
+      "title": "求番茄小说 诸神愚戏 有声书",
+      "link": "https://linux.do/t/topic/1958207",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:18:43.000Z"
+    },
+    {
+      "id": "fe71597311237b7f2d838884ebbc599a82177f4e",
+      "title": "有没有好用的Gemini中转站推荐？",
+      "link": "https://linux.do/t/topic/1958199",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:17:26.000Z"
+    },
+    {
+      "id": "56c765fa496da2bc3c734a2a2f55dfab506941b4",
+      "title": "你的副机未必需要是把手机, 可以是 VoHive. 短信转发/ESIM管理/VoWifi",
+      "link": "https://linux.do/t/topic/1958197",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:16:54.000Z"
+    },
+    {
+      "id": "6e6be90fcd139ba3f5238a51ce8eea67db7b08a4",
+      "title": "老板为了方便我打游戏,给我升级了5060",
+      "link": "https://linux.do/t/topic/1958193",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:16:20.000Z"
+    },
     {
       "id": "f7264996eb37ccc1ef213d55443baf22314db6a1",
       "title": "工程化实战思维在红队技战术中的应用",
@@ -11,32 +116,165 @@
       "published_at": "2026-04-13T11:15:45.000Z"
     },
     {
-      "id": "221922898a62b71977aff275f39d2a2c94374ddd",
-      "title": "一些有意思的事情",
-      "link": "https://linux.do/t/topic/1958091",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:54:51.000Z"
+      "id": "ff441b7873b20d1e4d966656e084e5e70218863c",
+      "title": "Mitre ATLAS technique detection for LLM security in Rust",
+      "link": "https://crates.io/crates/atlas-detect",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T11:14:37.000Z"
     },
     {
-      "id": "300b861e7722ff2b55f161bdd04b335b4c1ab694",
-      "title": "第一次用claudecode被内存占用惊到了，glm模型也不能用agent不知道是不是我的原因",
-      "link": "https://linux.do/t/topic/1958089",
+      "id": "be76a71b2bb5b5f9ba39d7e1a5cb2d5aae51552d",
+      "title": "GLM Coding Plan 怎么才能抢到啊",
+      "link": "https://linux.do/t/topic/1958186",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:54:30.000Z"
+      "published_at": "2026-04-13T11:14:15.000Z"
     },
     {
-      "id": "2ea66a25d43a60b4f8428493dd4f5ca8631edc11",
-      "title": "想让claude帮忙写个类爬虫的东西，结果人家不帮忙啊",
-      "link": "https://linux.do/t/topic/1958088",
+      "id": "74a0b7f18b6023d857f070629aff6d53f89804ba",
+      "title": "升级完服务器之后有点舒服啊喵",
+      "link": "https://linux.do/t/topic/1958176",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:54:28.000Z"
+      "published_at": "2026-04-13T11:11:38.000Z"
     },
     {
-      "id": "0e4d6ed0423cf38777f0e6d7511b2f7310083fb1",
-      "title": "汽车专业的材料力学的画图题",
-      "link": "https://linux.do/t/topic/1958085",
+      "id": "6a57edfc0335a7e6ad42fb0a4373bcf594e11387",
+      "title": "酒花飞拳是我喝过的最难喝的啤酒",
+      "link": "https://linux.do/t/topic/1958170",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:53:30.000Z"
+      "published_at": "2026-04-13T11:10:23.000Z"
+    },
+    {
+      "id": "37bbfb499e4b804778300b956d14dc9b723cd0c0",
+      "title": "吐槽下现今team的额度",
+      "link": "https://linux.do/t/topic/1958168",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:09:50.000Z"
+    },
+    {
+      "id": "7b889bb18f34e0330ccd29fa2f05a880f8f1c1a7",
+      "title": "请问我的世界教育版用什么edu邮箱能过啊",
+      "link": "https://linux.do/t/topic/1958165",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:08:48.000Z"
+    },
+    {
+      "id": "5bf55bd7dd90cda2cef472e5f841ad48482943ec",
+      "title": "The Rise of AI Pentesting Agents: A Technical Analysis (2026)",
+      "link": "https://appsecsanta.com/research/ai-pentesting-agents-2026",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T11:08:00.000Z"
+    },
+    {
+      "id": "ff8233ae3a4bcaed013cd21560544f2deb61a1fa",
+      "title": "评论区前三个送GPT team席位",
+      "link": "https://linux.do/t/topic/1958146",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:05:44.000Z"
+    },
+    {
+      "id": "d8079f86e4c200dbcae2f8899fa3beda22a8beba",
+      "title": "有没有什么skill能让codex说人话",
+      "link": "https://linux.do/t/topic/1958145",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:05:42.000Z"
+    },
+    {
+      "id": "c2ed15f7ddace1974ef794e9611ca470d41f7c40",
+      "title": "有没有比较好的dify博客教程呀",
+      "link": "https://linux.do/t/topic/1958144",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:05:34.000Z"
+    },
+    {
+      "id": "53c509761c4006f95e6efdd2d86386d7633b2a6d",
+      "title": "关于GPT白嫖",
+      "link": "https://linux.do/t/topic/1958143",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:05:31.000Z"
+    },
+    {
+      "id": "49427b1911be7ede1c4203009cd79987e457290d",
+      "title": "有没有什么技能能够让在编辑器里面获取网也的内容（需要登录的网站）",
+      "link": "https://linux.do/t/topic/1958135",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:04:04.000Z"
+    },
+    {
+      "id": "27ab39f2266a849e3f5c934134bbe78801183312",
+      "title": "求一个不闪退的MT管理器 永久会员版本",
+      "link": "https://linux.do/t/topic/1958133",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:03:44.000Z"
+    },
+    {
+      "id": "543ab71b43bcc4cb4c371a4bef4609a365a12f77",
+      "title": "有人觉得GPT5.4开了1M上下文之后性能很差吗？",
+      "link": "https://linux.do/t/topic/1958131",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:02:47.000Z"
+    },
+    {
+      "id": "0da8b4f2e7452e7c12c8a07f352a554d085b40f7",
+      "title": "trae 的网站和 L 站好像呀，恍惚了",
+      "link": "https://linux.do/t/topic/1958125",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:02:22.000Z"
+    },
+    {
+      "id": "fbe6084502a18c0260d617a6e15f8776bd999f12",
+      "title": "关于vs code使用codex插件过程中，老断网的问题",
+      "link": "https://linux.do/t/topic/1958121",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:01:14.000Z"
+    },
+    {
+      "id": "24a2f9abfa40fe3864e54c643d14564ff30f6d47",
+      "title": "花了一个下午粗略的学了下Git，分享下我的Git的学习笔记",
+      "link": "https://linux.do/t/topic/1958120",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:00:56.000Z"
+    },
+    {
+      "id": "50c70f76729171609fef31e484d3dfff49262242",
+      "title": "Sorry, there was a network error. Please try again later. 怎么解决",
+      "link": "https://linux.do/t/topic/1958119",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T11:00:53.000Z"
+    },
+    {
+      "id": "557e0d8fa1896a39fc351a798255fc730ec25af6",
+      "title": "Cyrix 486SLC CPU: Introduced April 13,1992",
+      "link": "https://dfarq.homeip.net/cyrix-486slc-cpu-introduced-april-131992",
+      "source_name": "dfarq.homeip.net",
+      "published_at": "2026-04-13T11:00:31.000Z"
+    },
+    {
+      "id": "33e4a1078476aacc9e6226c3ac5b948373a5879b",
+      "title": "Did Neuralink make the wrong bet?",
+      "link": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T11:00:00.000Z"
+    },
+    {
+      "id": "66e4bbeb77f313ced240020d670735f22d4bd895",
+      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+      "link": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril",
+      "source_name": "Wired",
+      "published_at": "2026-04-13T11:00:00.000Z"
+    },
+    {
+      "id": "31d5cfb3d97947350662285032e54a2b64695c77",
+      "title": "XBPP – Open standard for governing AI agent payments (Apache 2.0)",
+      "link": "https://github.com/VanarChain/xbpp-sdk",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T10:58:50.000Z"
+    },
+    {
+      "id": "066bf67bb3f67398c275ad2a58bcf4d2878437e6",
+      "title": "antigravity 挂了吗",
+      "link": "https://www.v2ex.com/t/1205568",
+      "source_name": "V2EX 技术",
+      "published_at": "2026-04-13T10:56:47.000Z"
     },
     {
       "id": "fe0aae9fd23f5fd1c4e0d514fb40069498c58948",
@@ -46,46 +284,11 @@
       "published_at": "2026-04-13T10:53:20.000Z"
     },
     {
-      "id": "26fec68a297bbc2a5310686853c825914010f388",
-      "title": "给电脑重装系统好像要坠机了",
-      "link": "https://linux.do/t/topic/1958080",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:52:16.000Z"
-    },
-    {
-      "id": "3c5d85b9dde9d70676950a23b43b843c7ffb70ac",
-      "title": "关于我浏览器使用OUT邮箱注册GPT不弹手机号这件事",
-      "link": "https://linux.do/t/topic/1958076",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:51:01.000Z"
-    },
-    {
-      "id": "4fabeaf2438158c99cc0c339da859c0422c4801b",
-      "title": "12306 时间冲突求解",
-      "link": "https://linux.do/t/topic/1958075",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:50:27.000Z"
-    },
-    {
-      "id": "da5901ab5010a7377946e784b56cea799993ebfe",
-      "title": "来自 glm5.1 的奇妙比喻",
-      "link": "https://linux.do/t/topic/1958072",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:49:56.000Z"
-    },
-    {
-      "id": "87b3a3996e22ec91dd48fd0dcc666119d7d14546",
-      "title": "GTA6最新定价疑似爆出",
-      "link": "https://linux.do/t/topic/1958066",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:48:51.000Z"
-    },
-    {
-      "id": "0fe659036ee4f8578fc29044ff3b6096c80c6d76",
-      "title": "Claude Code配合CC Switch使用官方codex求助",
-      "link": "https://linux.do/t/topic/1958061",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:47:46.000Z"
+      "id": "ee1a201e899d08182b15dc82ec61b58d3186773c",
+      "title": "The Star Chamber: Why Multi-LLM Consensus Is Now a Necessity for Code Quality",
+      "link": "https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T10:50:37.000Z"
     },
     {
       "id": "706cba8b4bed07a1d3a3da43abaae6dfb875b255",
@@ -95,39 +298,11 @@
       "published_at": "2026-04-13T10:46:57.000Z"
     },
     {
-      "id": "2f11c65d65c504ee00b3d3864145df0c756313fc",
-      "title": "最“道德”的人工智能公司或许也是网络上最大的蹭吃蹭喝者。",
-      "link": "https://linux.do/t/topic/1958054",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:44:54.000Z"
-    },
-    {
       "id": "4d66e2df9d6c3ee732e0623f0a638a5820f3e449",
       "title": "Beyond Karpathy's LLM-Wiki: The Necessity of Cognitive Governance",
       "link": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki",
       "source_name": "Hacker News LLM",
       "published_at": "2026-04-13T10:44:29.000Z"
-    },
-    {
-      "id": "e299da5adc611b5ea5df23fa17c2614a57b2a8a7",
-      "title": "APIFOX官网cdn挂了",
-      "link": "https://linux.do/t/topic/1958045",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:43:09.000Z"
-    },
-    {
-      "id": "dbd3d8648bf56ff77e5daba0b0c0a5f5bbd9f7d1",
-      "title": "感觉豆包越来越降智了",
-      "link": "https://linux.do/t/topic/1958042",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:41:15.000Z"
-    },
-    {
-      "id": "2a0387f78f31151980a8167859e413f4a1e63880",
-      "title": "Talkatone携号转网到 GV了但是",
-      "link": "https://linux.do/t/topic/1958041",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:40:46.000Z"
     },
     {
       "id": "48e7cb63851a954f5c4f90afa8af1cf9bef26555",
@@ -137,69 +312,6 @@
       "published_at": "2026-04-13T10:40:37.000Z"
     },
     {
-      "id": "20a2837d09b52eceb7f29807ab54751e915466cb",
-      "title": "HypeOS3折腾FCM谷歌推送的个人记录（已ROOT）",
-      "link": "https://linux.do/t/topic/1958040",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:40:32.000Z"
-    },
-    {
-      "id": "0824ac80be535b2fa0726768325af9fbe35fcd2e",
-      "title": "A\\到底给opus4.6喂了什么？",
-      "link": "https://linux.do/t/topic/1958038",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:40:30.000Z"
-    },
-    {
-      "id": "15a07e11e5c0601a3815b4e4227c9aa716dfae2f",
-      "title": "Antigravity无法登录[已解决]",
-      "link": "https://linux.do/t/topic/1958035",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:40:09.000Z"
-    },
-    {
-      "id": "83aaab887a81e5d7cadbc2867b7f0fdb392fa1a5",
-      "title": "Qwen CLI 免费套餐即将停止服务",
-      "link": "https://linux.do/t/topic/1958027",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:38:37.000Z"
-    },
-    {
-      "id": "d1e398f515443222aedb4cd2d1ff696cc5accef2",
-      "title": "求claude max开通及防封建议",
-      "link": "https://linux.do/t/topic/1958022",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:38:02.000Z"
-    },
-    {
-      "id": "405b58683fa50d3159d9d9070a44baf338133187",
-      "title": "codex 桌面版是不是更新出问题了？无法阅读代码和创建新线程？",
-      "link": "https://linux.do/t/topic/1958021",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:37:30.000Z"
-    },
-    {
-      "id": "7ac7d83ec38edb8611f117d665e2129fd1784081",
-      "title": "这是传说中的bug号吗",
-      "link": "https://linux.do/t/topic/1958020",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:37:05.000Z"
-    },
-    {
-      "id": "2a29762a2d27bda6ff55b321a05c758d11b3985c",
-      "title": "666 Codex free额度这么少！！！🌚",
-      "link": "https://linux.do/t/topic/1958019",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:36:56.000Z"
-    },
-    {
-      "id": "55418615267494830b3bdc9db08a630ebf211818",
-      "title": "gpt free账号额度又调整了吗？",
-      "link": "https://linux.do/t/topic/1958017",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:36:32.000Z"
-    },
-    {
       "id": "3c36a35148771be132464c1ced1fd13521ec6175",
       "title": "fix(feishu): break auth login barrel cycle",
       "link": "https://github.com/openclaw/openclaw/commit/ebba080ffc0de362fbcec2dc637a750a21bd561b",
@@ -207,25 +319,11 @@
       "published_at": "2026-04-13T10:36:09.000Z"
     },
     {
-      "id": "82e80206a4f18ab248edd7793ceb69d0d0856fcd",
-      "title": "现在还有哪个AWS开机面板支持完成免费套餐活动",
-      "link": "https://linux.do/t/topic/1958008",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:35:44.000Z"
-    },
-    {
       "id": "65fa1b319cb0af83dc6821a845ef337d2a688288",
       "title": "Rented intelligence: AI's mainframe moment",
       "link": "https://www.mjeggleton.com/blog/AIs-mainframe-moment",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T10:33:38.000Z"
-    },
-    {
-      "id": "0cc51ef99f087afa87800397d0c173f1f0faa046",
-      "title": "各家 AI 厂商的订阅页面设计欣赏",
-      "link": "https://linux.do/t/topic/1957988",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:33:29.000Z"
     },
     {
       "id": "a9feb9c54b8bb07f5f1720d843842be12d564eb5",
@@ -242,46 +340,11 @@
       "published_at": "2026-04-13T10:30:00.000Z"
     },
     {
-      "id": "a30c33fd359915660f9a0d683b5326a155e0ea9c",
-      "title": "codex可以自主控制subagent的模型和思考深度？",
-      "link": "https://linux.do/t/topic/1957974",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:29:54.000Z"
-    },
-    {
-      "id": "ad0c86c14fac51d6787bf4e76687da3403067708",
-      "title": "稳稳的把 boost 弹幕接到 Dexo",
-      "link": "https://linux.do/t/topic/1957969",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:29:18.000Z"
-    },
-    {
       "id": "8685805f5eaa357abf39f5b03341faa6a645f35b",
       "title": "Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
       "link": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
       "source_name": "The Verge",
       "published_at": "2026-04-13T10:29:17.000Z"
-    },
-    {
-      "id": "ab3a272d6c66c04b314b0e3cfb45c6881b14a06f",
-      "title": "求佬们给个指点",
-      "link": "https://linux.do/t/topic/1957961",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:27:43.000Z"
-    },
-    {
-      "id": "a37399adfb209f116fdfd3f8cf487767ce5272ac",
-      "title": "【Gundam】公益站扩容完成开放第二轮注册",
-      "link": "https://linux.do/t/topic/1957956",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:27:12.000Z"
-    },
-    {
-      "id": "b4e7d3e2c428e52cc16687a0fd448aaa32d04b4b",
-      "title": "最近在学做饭，佬友们有美食推荐吗",
-      "link": "https://linux.do/t/topic/1957955",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T10:27:08.000Z"
     },
     {
       "id": "22436ad794c0c468dcf480103ff93eb97ad5c255",
@@ -511,7 +574,7 @@
       "id": "a1df4415a45db352b57e7a10914dcfa2bd94ed0d",
       "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
       "link": "https://github.com/brightbeanxyz/brightbean-studio",
-      "source_name": "Hacker News Show",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-13T09:26:56.000Z"
     },
     {
@@ -802,13 +865,6 @@
       "published_at": "2026-04-13T06:34:08.000Z"
     },
     {
-      "id": "a9ff8e45780055783c0203a3c88befa2991e011e",
-      "title": "AI Changed What We Build. Then It Changed Who We Hire",
-      "link": "https://www.hauser.io/ai-changed-what-we-build-then-it-changed-who-we-hire",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T06:27:34.000Z"
-    },
-    {
       "id": "d8f850ce127ea8d9042aeb7177af0c65b267ca9f",
       "title": "Show HN: Xlg – Jq for APIs",
       "link": "https://news.ycombinator.com/item?id=47748323",
@@ -828,13 +884,6 @@
       "link": "https://www.v2ex.com/t/1205483",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T06:19:35.000Z"
-    },
-    {
-      "id": "57de6260cc8d6fdb0866e5a077dcb3229b872d55",
-      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff",
-      "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T06:12:11.000Z"
     },
     {
       "id": "60f639de26bbcbdca2c0e849b024aae23df4ae83",
@@ -5614,7 +5663,7 @@
       "id": "2408b1160b05121b5568219c1f3cb2d6ee8d0493",
       "title": "All elementary functions from a single binary operator",
       "link": "https://arxiv.org/abs/2603.21852",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-13T01:49:32.000Z"
     },
     {
@@ -5817,15 +5866,29 @@
       "id": "7fc9a21bbbcc166669d42e63f160beb9baf2eb99",
       "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
       "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T19:53:08.000Z"
     },
     {
       "id": "fababf362ee760f531c73b0c61d5b12d2b0d597b",
       "title": "The peril of laziness lost",
       "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T19:44:40.000Z"
+    },
+    {
+      "id": "a37da3f6565927f2895cc52db5288d5a79c83432",
+      "title": "REasy",
+      "link": "https://www.producthunt.com/products/reasy-2",
+      "source_name": "Product Hunt",
+      "published_at": "2026-04-12T19:42:50.000Z"
+    },
+    {
+      "id": "c5f36dfee3cef83e918b765d3be2ac017e4e128b",
+      "title": "Vekta",
+      "link": "https://www.producthunt.com/products/vekta",
+      "source_name": "Product Hunt",
+      "published_at": "2026-04-12T19:42:39.000Z"
     },
     {
       "id": "f9a7818b4bfa019f494997a34dea211ad333fc65",
@@ -5840,13 +5903,6 @@
       "link": "https://www.producthunt.com/products/cleo-labs",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T19:42:17.000Z"
-    },
-    {
-      "id": "59c1a2d9f6768815b53d6b9de5f77931ee863c25",
-      "title": "Viktor Orbán concedes defeat after 'painful' election result",
-      "link": "https://apnews.com/article/hungary-election-orban-magyar-trump-1a4eb0ba6b94e0c80c3cd18bd36254ab",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T19:37:15.000Z"
     },
     {
       "id": "700a06305c84beb701f8bff2c35aa6d90f256935",
@@ -5870,13 +5926,6 @@
       "published_at": "2026-04-12T18:24:07.000Z"
     },
     {
-      "id": "b508a104f5465bc49834a2fe19c1582c660ec40d",
-      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps?",
-      "link": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T18:19:02.000Z"
-    },
-    {
       "id": "95aee3bcf440fce147828f750137c4145ed66007",
       "title": "Golden Tickets",
       "link": "https://www.presentandcorrect.com/blogs/blog/golden-tickets",
@@ -5887,7 +5936,7 @@
       "id": "fed976adf6182bdc2f35af91ec9cc18c3bef8106",
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "link": "https://boringbar.app/",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T17:25:44.000Z"
     },
     {
@@ -5950,14 +5999,14 @@
       "id": "368d8655d57a75be2f3e1a919d16536990dd8371",
       "title": "DIY Soft Drinks",
       "link": "https://blinry.org/diy-soft-drinks",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T16:38:43.000Z"
     },
     {
       "id": "804c366ef869f563c519e56ba8c085a05cda96e2",
       "title": "Ask HN: What Are You Working On? (April 2026)",
       "link": "https://news.ycombinator.com/item?id=47741527",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T16:24:43.000Z"
     },
     {
@@ -6069,14 +6118,14 @@
       "id": "b82cffc28ee60d5c490577cf1a9ed765dbf05a9a",
       "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
       "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T13:21:39.000Z"
     },
     {
       "id": "d7a55662ba201a9c066f42cc062853086770a8f8",
       "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
       "link": "https://github.com/anthropics/claude-code/issues/45756",
-      "source_name": "Hacker News 最佳",
+      "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T13:15:31.000Z"
     },
     {
@@ -6092,27 +6141,6 @@
       "link": "https://www.producthunt.com/products/sleek-analytics",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T13:04:07.000Z"
-    },
-    {
-      "id": "2564dde911293bd740c4893c97c6a7033523417c",
-      "title": "We have a 99% email reputation, but Gmail disagrees",
-      "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T12:42:25.000Z"
-    },
-    {
-      "id": "12c98256109fd2d8b639ed0d15f315d270a87a37",
-      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-      "link": "https://news.ycombinator.com/item?id=47738883",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T12:28:57.000Z"
-    },
-    {
-      "id": "c8272238dc7955082f198abe7982493bf3cbd68f",
-      "title": "Bring Back Idiomatic Design (2023)",
-      "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "source_name": "Hacker News 最佳",
-      "published_at": "2026-04-12T12:21:26.000Z"
     },
     {
       "id": "efcbe2756f89496a6e1e900ef4f56c57d276f053",
@@ -6143,13 +6171,6 @@
       "published_at": "2026-04-12T12:00:00.000Z"
     },
     {
-      "id": "21bb0ccd1a88fe077e3872e9d374c9d21ca9b808",
-      "title": "The AI code wars are heating up",
-      "link": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "source_name": "The Verge",
-      "published_at": "2026-04-12T12:00:00.000Z"
-    },
-    {
       "id": "bc6965ddf1d98b973ff057247644167c4a898943",
       "title": "Why Is It So Hard to Fix an Electric Bike? (2026)",
       "link": "https://www.wired.com/story/why-is-it-so-hard-to-fix-an-electric-bike",
@@ -6162,20 +6183,6 @@
       "link": "https://www.wired.com/story/best-2-in-1-laptops",
       "source_name": "Wired",
       "published_at": "2026-04-12T11:30:00.000Z"
-    },
-    {
-      "id": "1f744c0213badbce2f2911580d24138eb46f673c",
-      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
-      "link": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing",
-      "source_name": "Ars Technica",
-      "published_at": "2026-04-12T11:17:26.000Z"
-    },
-    {
-      "id": "6fec12c479fe202527484be6ef98c2b93a06d31c",
-      "title": "There’s a Secret Ingredient to Making Luxury Ice at Home",
-      "link": "https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home",
-      "source_name": "Wired",
-      "published_at": "2026-04-12T11:00:00.000Z"
     }
   ]
 }

@@ -1,19 +1,20 @@
 {
-  "dataset_id": "2026-04-13T10:55:42.286Z",
-  "generated_at": "2026-04-13T10:55:42.286Z",
+  "dataset_id": "2026-04-13T11:25:00.999Z",
+  "generated_at": "2026-04-13T11:25:00.999Z",
   "source_total": 160,
-  "source_succeeded": 117,
-  "source_failed": 43,
-  "article_count": 882,
+  "source_succeeded": 116,
+  "source_failed": 44,
+  "article_count": 883,
   "warnings": [
     "AWS Blog Entity expansion limit exceeded: 1160 > 1000",
-    "Dev.to Entity expansion limit exceeded: 1215 > 1000",
+    "Dev.to Entity expansion limit exceeded: 1570 > 1000",
     "Fluent Reader Releases Entity expansion limit exceeded: 1012 > 1000",
     "FreeBuf HTTP 405",
     "FreshRSS Releases Entity expansion limit exceeded: 1807 > 1000",
     "Go Blog Entity expansion limit exceeded: 1104 > 1000",
     "Golang Weekly Entity expansion limit exceeded: 1324 > 1000",
-    "IT之家 Entity expansion limit exceeded: 1128 > 1000",
+    "Hacker News 最佳 returned 0 articles",
+    "IT之家 Entity expansion limit exceeded: 1228 > 1000",
     "JavaScript Weekly Entity expansion limit exceeded: 1206 > 1000",
     "OpenClaw Releases Entity expansion limit exceeded: 1846 > 1000",
     "Rust Blog Entity expansion limit exceeded: 1177 > 1000",
@@ -47,7 +48,7 @@
     "bernsteinbear.com Entity expansion limit exceeded: 1665 > 1000",
     "herman.bearblog.dev Entity expansion limit exceeded: 1035 > 1000",
     "tomrenner.com Entity expansion limit exceeded: 1060 > 1000",
-    "mjg59.dreamwidth.org Entity expansion limit exceeded: 1019 > 1000",
+    "mjg59.dreamwidth.org timeout",
     "tedunangst.com fetch failed"
   ]
 }
