@@ -38,3 +38,26 @@ test("parseFeedDocument reads atom entries", async () => {
   assert.match(parsed.items[0].summary, /Hello/);
   assert.equal(parsed.items[0].publishedAt, "2026-04-13T08:05:00Z");
 });
+
+test("parseFeedDocument tolerates heavy entity usage in summaries", () => {
+  const noisySummary = "&amp;".repeat(1505);
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Tom &amp; Jerry</title>
+      <link>https://example.com/post?a=1&amp;b=2</link>
+      <description>${noisySummary}</description>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>`;
+
+  const parsed = parseFeedDocument(xml);
+
+  assert.equal(parsed.items.length, 1);
+  assert.equal(parsed.items[0].title, "Tom & Jerry");
+  assert.equal(parsed.items[0].link, "https://example.com/post?a=1&b=2");
+  assert.ok(parsed.items[0].summary.length > 1000);
+  assert.ok(parsed.items[0].summary.startsWith("&&&&"));
+});

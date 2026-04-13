@@ -1,14 +1,154 @@
 {
-  "dataset_id": "2026-04-13T12:48:08.061Z",
-  "generated_at": "2026-04-13T12:48:08.061Z",
-  "article_count": 509,
+  "dataset_id": "2026-04-13T12:58:03.333Z",
+  "generated_at": "2026-04-13T12:58:03.333Z",
+  "article_count": 905,
   "articles": [
+    {
+      "id": "9dccae18ba83aec6ce38a7dfe936c51516a710e2",
+      "title": "Roblox 平台将引入强制年龄分级机制，未认证用户会被强制降级",
+      "link": "https://www.ithome.com/0/938/712.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:54:59.000Z"
+    },
+    {
+      "id": "2756ba0a2405f805618fdb0ae3ec512685624a38",
+      "title": "Unslop – Filter social media slop using local-first LLM classification",
+      "link": "https://github.com/sapountzis/Unslop",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T12:54:47.000Z"
+    },
+    {
+      "id": "36c8fa6b83239016f2896a3ca7d37220197b80ce",
+      "title": "归元 S 平台首款车型：长城魏牌 V9X 六座 SUV 将于 4 月 17 日开启预售",
+      "link": "https://www.ithome.com/0/938/711.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:51:11.000Z"
+    },
+    {
+      "id": "1bb8141a91a781f319d4beac2ccf76c81b4128a0",
+      "title": "Turn Your Laptop Into an AI Agent (Free OpenClaw + Telegram Setup)",
+      "link": "https://dev.to/javz/turn-your-laptop-into-an-ai-agent-free-openclaw-telegram-setup-296f",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:48:52.000Z"
+    },
+    {
+      "id": "31b3ad3a6e6e77ccd3f201d494d3b944387d7f8f",
+      "title": "Stop Moving First: The Copy-Before-Move Pattern That Saves Production",
+      "link": "https://dev.to/arnostorg/stop-moving-first-the-copy-before-move-pattern-that-saves-production-3ldo",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:48:06.000Z"
+    },
+    {
+      "id": "d1b8b9664368a8665d58381ee590102feae2224c",
+      "title": "Skillsmith – Write AI coding skills once, export to all AI providers",
+      "link": "https://jakubkontra.dev/en/blog/skillsmith-write-ai-skills-once-export-everywhere",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T12:46:39.000Z"
+    },
+    {
+      "id": "dd25f0ac33f5ab781920728f9b6311b2a415b5eb",
+      "title": "OpenAI GPT worst AI GPT/model vs. Claude/MiniAAX",
+      "link": "https://alitagpt.com/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T12:43:52.000Z"
+    },
+    {
+      "id": "8d7ff9820f3aa44726212d001cbdf4177a360ed3",
+      "title": "Building a Monetized API (Part 1 of 4)",
+      "link": "https://dev.to/zuplo/building-a-monetized-api-part-1-of-4-2po3",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:43:00.000Z"
+    },
+    {
+      "id": "c87ce14bf3159cb55307dcdf2b41354bd4144058",
+      "title": "12.99 万元起，奇瑞风云 T9L 汽车正式上市",
+      "link": "https://www.ithome.com/0/938/710.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:41:00.000Z"
+    },
+    {
+      "id": "9bf46b2cb7363258abc596e5c7f3ad9f250d8d23",
+      "title": "PC Workman v1.7.2: I Built a Driver Booster Competitor From Scratch, Fixes. Monday Grind Blueprint #3",
+      "link": "https://dev.to/huckler/pc-workman-v172-i-built-a-driver-booster-competitor-from-scratch-fixes-monday-grind-blueprint-3393",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:40:56.000Z"
+    },
+    {
+      "id": "6578a69a0f30c141a54750a9a102e3238d4cfa8d",
+      "title": "Stop Guessing: Master PowerShell Command Discovery with Get-Command",
+      "link": "https://dev.to/arnostorg/stop-guessing-master-powershell-command-discovery-with-get-command-2b11",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:40:28.000Z"
+    },
+    {
+      "id": "13e605432d7bd8e61cc878b63e88481ba3566dfc",
+      "title": "How to Load Test Your API in Seconds (Without Managing Infrastructure)",
+      "link": "https://dev.to/loadtester/how-to-load-test-your-api-in-seconds-without-managing-infrastructure-4342",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:40:26.000Z"
+    },
+    {
+      "id": "6f3cdd2953a95242f8edac9444d0e5ee056d3e63",
+      "title": "NoB (Noticeably Better): a compiled language that tries to stay out of your way",
+      "link": "https://dev.to/rotsl/nob-noticeably-better-a-compiled-language-that-tries-to-stay-out-of-your-way-163",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:39:52.000Z"
+    },
+    {
+      "id": "49982844fef988b53f31fc82de01dfef7eb5e7bc",
+      "title": "Voice-Controlled Local AI Agent (Works Even on 8GB RAM)",
+      "link": "https://dev.to/akash7367/voice-controlled-local-ai-agent-works-even-on-8gb-ram-5goj",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:39:02.000Z"
+    },
     {
       "id": "82e9887264ba35ee1ae250ceba788b338eb02080",
       "title": "Swival is the AI agent I wanted",
       "link": "https://00f.net/2026/04/13/swival-ai-agent",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T12:36:03.000Z"
+    },
+    {
+      "id": "79fee3244edb045e0b88c039e20254f99534b36a",
+      "title": "YouTube Creator Partnerships: How We Source, Pitch, and Structure Deals with Mid-Tier Creators",
+      "link": "https://dev.to/danie_rozin/youtube-creator-partnerships-how-we-source-pitch-and-structure-deals-with-mid-tier-creators-3bo1",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:36:03.000Z"
+    },
+    {
+      "id": "c2b16bc4e40b8d098deefb85d0e4095f0c5fe9b3",
+      "title": "消息称《使命召唤：现代战争 4》游戏 10 月发布",
+      "link": "https://www.ithome.com/0/938/709.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:35:56.000Z"
+    },
+    {
+      "id": "f4b5f9c9bbcee4a8f4293314a751c0a8ff4ac227",
+      "title": "openclaw 2026.4.12",
+      "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.12",
+      "source_name": "OpenClaw Releases",
+      "published_at": "2026-04-13T12:35:53.000Z"
+    },
+    {
+      "id": "3b1f3beecd64702b015f4f63c96958c740f65c1e",
+      "title": "华为官宣刘亦菲担任鸿蒙智行智界品牌代言人，旗舰 MPV 智界 V9 展车本月到店",
+      "link": "https://www.ithome.com/0/938/708.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:35:47.000Z"
+    },
+    {
+      "id": "2ccc5e1f34c02c3a7253070a8da78e78fe12810b",
+      "title": "test: fix macos parallels gateway fallback",
+      "link": "https://github.com/openclaw/openclaw/commit/1c0672b74f66038fd4ee76fbf1c21715887149d8",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T12:32:47.000Z"
+    },
+    {
+      "id": "d227eb649ea2a8c70ee9dd6856b388342de181dc",
+      "title": "Build a Store Locator for your website in Under an Hour",
+      "link": "https://dev.to/mahendran/build-a-store-locator-for-your-website-in-under-an-hour-48k9",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:30:00.000Z"
     },
     {
       "id": "41de52077acef648a455739dc614a33a08bc791b",
@@ -18,11 +158,32 @@
       "published_at": "2026-04-13T12:29:39.000Z"
     },
     {
+      "id": "08710d3bfa374ddc842e2152abad6c09c882b8fa",
+      "title": "I went to America's worst national parks so you don't have to",
+      "link": "https://substack.com/home/post/p-193626949",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T12:29:35.000Z"
+    },
+    {
+      "id": "2f2c12969b669d6c4aaa0992145c674b14352bd0",
+      "title": "Every Invoice Tool Wants My Data. I Built One That Doesn't.",
+      "link": "https://dev.to/jiahao_luo_f33d8988caf4e1/every-invoice-tool-wants-my-data-i-built-one-that-doesnt-4b1m",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:28:13.000Z"
+    },
+    {
       "id": "a640025d8587a5a1bb82e259c3d83e8104d7d90d",
       "title": "Built my AI agent a custom dashboard. Then replaced it with Fizzy",
       "link": "https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T12:27:58.000Z"
+    },
+    {
+      "id": "beab25c17d489a1581c0c9a945b411952f93d72e",
+      "title": "AI Code Without Governance Is Now a Legal Liability",
+      "link": "https://dev.to/amit_kochman/ai-code-without-governance-is-now-a-legal-liability-520p",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T12:26:39.000Z"
     },
     {
       "id": "638edcd05271801b536067003a392e11b0162788",
@@ -32,11 +193,25 @@
       "published_at": "2026-04-13T12:24:39.000Z"
     },
     {
+      "id": "275ada95aee94b10b2d7b745706da4d420f6bb66",
+      "title": "“光核”联动！国内最大海上光伏项目第七标段首次并网成功",
+      "link": "https://www.ithome.com/0/938/706.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:21:53.000Z"
+    },
+    {
       "id": "7a76c046fc368e55be7aad8a4a0e3fc6f65cb500",
       "title": "Show HN: Turn your favorite YouTube channels into a streaming experience",
       "link": "https://minitube.tv/",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T12:20:46.000Z"
+    },
+    {
+      "id": "8def6d70fd3834f63c7da94315f3825e7fcf2cc9",
+      "title": "奇瑞星途 EX7 车型 4 月 19 日上市：纯电 / 增程双动力可选、首搭航空级纯机电线控制动系统",
+      "link": "https://www.ithome.com/0/938/705.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:15:58.000Z"
     },
     {
       "id": "2f1edee82c2bd7de937879b51ee0f8c147a3b4c7",
@@ -54,7 +229,7 @@
     },
     {
       "id": "5edbdcef23ea25d45b10d7a1e10d769ae2605124",
-      "title": "Roblox introduces &#8216;Kids&#8217; and &#8216;Select&#8217; accounts for age-appropriate access to games and chat",
+      "title": "Roblox introduces ‘Kids’ and ‘Select’ accounts for age-appropriate access to games and chat",
       "link": "https://techcrunch.com/2026/04/13/roblox-introduces-kids-and-select-accounts-for-age-appropriate-access-to-games-and-chat",
       "source_name": "TechCrunch",
       "published_at": "2026-04-13T12:15:00.000Z"
@@ -67,6 +242,20 @@
       "published_at": "2026-04-13T12:15:00.000Z"
     },
     {
+      "id": "73d2ad15e5659d927a7330d9623178b356745cf4",
+      "title": "入侵 R 星的黑客组织：由于要求没有得到满足，将公布盗取数据",
+      "link": "https://www.ithome.com/0/938/704.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:14:44.000Z"
+    },
+    {
+      "id": "9b2a13986ae437f8758f8523892a677c493d6f3f",
+      "title": "全新荣威 i6 汽车预售发布：搭载上汽自研 1.5L 全铝发动机 + CVT 变速箱，限时 6.59 万元起",
+      "link": "https://www.ithome.com/0/938/702.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:11:47.000Z"
+    },
+    {
       "id": "69ec046bef4075fece24ffb451c02be773b644c3",
       "title": "Show HN: Formal – LLM-driven property checker, backed by Lean 4 and Mathlib",
       "link": "https://github.com/yamafaktory/formal",
@@ -75,7 +264,7 @@
     },
     {
       "id": "86a547518b5e120c2f20ce3db0061fc16aa8b25f",
-      "title": "The Download: how humans make decisions, and Moderna&#8217;s &#8220;vaccine&#8221; word games",
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
       "link": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games",
       "source_name": "MIT Technology Review",
       "published_at": "2026-04-13T12:10:00.000Z"
@@ -102,6 +291,13 @@
       "published_at": "2026-04-13T12:05:35.000Z"
     },
     {
+      "id": "008340466f8bc3c7978f77d4773ebf6b2aa33780",
+      "title": "2026 年北京半程马拉松圆满落幕，雷军晒小米 YU7 成官方用车",
+      "link": "https://www.ithome.com/0/938/701.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T12:03:30.000Z"
+    },
+    {
       "id": "7e36c0a0ef42788a22ef442fe4ea16fb54c6fa39",
       "title": "Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2",
       "link": "https://getloreo.com/",
@@ -123,6 +319,20 @@
       "published_at": "2026-04-13T12:00:00.000Z"
     },
     {
+      "id": "72d31710a6135fdb8db8f875ef4edc5b37deed03",
+      "title": "荣耀回应与字节跳动就“豆包手机”接洽合作：相关传闻不实",
+      "link": "https://www.ithome.com/0/938/700.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:59:43.000Z"
+    },
+    {
+      "id": "f33fad48e5a658a217f3a725c119d984dc922d58",
+      "title": "中兴逍遥 20 AI 平板发布：支持 5G 蜂窝网络、可切换 Windows 云电脑模式",
+      "link": "https://www.ithome.com/0/938/699.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:53:36.000Z"
+    },
+    {
       "id": "fc707e46b5288b192675ec7ba0bb14a41e2c898e",
       "title": "Commitgen – AI-generated Conventional Commit messages from your staged diff",
       "link": "https://news.ycombinator.com/item?id=47750678",
@@ -135,6 +345,13 @@
       "link": "https://github.com/camilleroux/tech-digest",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T11:45:57.000Z"
+    },
+    {
+      "id": "084646698f0c5c24b5ad17689c208bc80d45bcee",
+      "title": "迪士尼“星战”科幻电影《曼达洛人与古古》确认引进：IMAX 特制拍摄，档期待定",
+      "link": "https://www.ithome.com/0/938/697.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:41:24.000Z"
     },
     {
       "id": "c1adc373e35256819fcb6efbd07f5b3278ec1e9a",
@@ -151,18 +368,25 @@
       "published_at": "2026-04-13T11:34:48.000Z"
     },
     {
+      "id": "3d70f240f43ac15f4cd6726c8b32bd23269efbd4",
+      "title": "Bigme 大我彩色 / 黑白墨水 + LCD 双屏手机官宣将启预售，超级早鸟价 359 美元起",
+      "link": "https://www.ithome.com/0/938/696.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:32:35.000Z"
+    },
+    {
+      "id": "31977f8145e5a76a1f64c2632c25d344cb49486c",
+      "title": "前行者推出 32kHz 回报率磁轴键盘 ES68 破晓，预售到手价低至 699 元",
+      "link": "https://www.ithome.com/0/938/695.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:31:57.000Z"
+    },
+    {
       "id": "7e66242fd6189343f709c26eab7a44d4269d8af7",
       "title": "I track what developers say about AI coding tools each week",
       "link": "https://murmure.cc/",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T11:29:53.000Z"
-    },
-    {
-      "id": "94c5dcd31253b11f72825dd9df6a5de5fe91ec45",
-      "title": "Galactic Algorithm",
-      "link": "https://en.wikipedia.org/wiki/Galactic_algorithm",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T11:27:12.000Z"
     },
     {
       "id": "f3564d677f4dc39f0c527e1a881265c0a98284b1",
@@ -207,6 +431,13 @@
       "published_at": "2026-04-13T11:05:41.000Z"
     },
     {
+      "id": "27fb2a11411276d2e616805b2595c3c6dc1e9816",
+      "title": "华为李小龙自曝使用 Pura X Max 新机已有 3 个月，称是自己用过的最好用的双折叠",
+      "link": "https://www.ithome.com/0/938/694.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T11:03:38.000Z"
+    },
+    {
       "id": "039120901b34f56ab0e9d0345cbda73a032844ec",
       "title": "Show HN: MFlow – Jira delivery analytics for small engineering teams",
       "link": "https://www.no-pm.com/",
@@ -242,6 +473,20 @@
       "published_at": "2026-04-13T10:58:50.000Z"
     },
     {
+      "id": "4cbb0c64bcc2a00bfbe7d59d635f92cb6be4fecf",
+      "title": "AI 生成的虚假漏洞报告泛滥，Node.js 暂停提供安全赏金",
+      "link": "https://www.ithome.com/0/938/692.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:58:36.000Z"
+    },
+    {
+      "id": "d735bba7f5b83b5eeb3b7f3c621d407a2128696b",
+      "title": "Point Cloud Allemansrätten",
+      "link": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T10:55:10.000Z"
+    },
+    {
       "id": "c1ff42542e1e646ff4b7e5f77cf6500898d3d0c3",
       "title": "Ask HN: Shouldn't we increase flagging threshold?",
       "link": "https://news.ycombinator.com/item?id=47750258",
@@ -261,6 +506,20 @@
       "link": "https://blog.mozilla.ai/the-star-chamber-multi-llm-consensus-for-code-quality",
       "source_name": "Hacker News LLM",
       "published_at": "2026-04-13T10:50:37.000Z"
+    },
+    {
+      "id": "3438e89ad6c725de0dca91e5136ed1f85917bb0d",
+      "title": "华为 Pura X 上市一年出货量突破 150 万台，超后三位厂商旗舰折叠机型总和",
+      "link": "https://www.ithome.com/0/938/691.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:47:02.000Z"
+    },
+    {
+      "id": "706cba8b4bed07a1d3a3da43abaae6dfb875b255",
+      "title": "fix(feishu): guard app registration fetches",
+      "link": "https://github.com/openclaw/openclaw/commit/1de5610b24dd7642b6412acd4a3035802038f909",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:46:57.000Z"
     },
     {
       "id": "4d66e2df9d6c3ee732e0623f0a638a5820f3e449",
@@ -291,6 +550,20 @@
       "published_at": "2026-04-13T10:39:38.000Z"
     },
     {
+      "id": "3c36a35148771be132464c1ced1fd13521ec6175",
+      "title": "fix(feishu): break auth login barrel cycle",
+      "link": "https://github.com/openclaw/openclaw/commit/ebba080ffc0de362fbcec2dc637a750a21bd561b",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:36:09.000Z"
+    },
+    {
+      "id": "4cff73d9735d5d90f4fe02438ed6d95b3fae1084",
+      "title": "全球首次吨级 eVTOL 夜间消防演练完成，相比地面消防力量出警节约至少 1 小时",
+      "link": "https://www.ithome.com/0/938/690.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:34:59.000Z"
+    },
+    {
       "id": "65fa1b319cb0af83dc6821a845ef337d2a688288",
       "title": "Rented intelligence: AI's mainframe moment",
       "link": "https://www.mjeggleton.com/blog/AIs-mainframe-moment",
@@ -298,8 +571,43 @@
       "published_at": "2026-04-13T10:33:38.000Z"
     },
     {
+      "id": "c470122894bfc6653e87d64f5d00fe8b1f05f08e",
+      "title": "Kubb Essentiel 立方体迷你主机面世：ARL-H 处理器，多种可选配色",
+      "link": "https://www.ithome.com/0/938/689.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:32:33.000Z"
+    },
+    {
+      "id": "a569bfe3e6c2de29901e1d6635fd552ee4c386af",
+      "title": "Caviar 推出苹果 iPhone 17 Pro 系列“2007”限定版：后盖嵌有一小块初代 iPhone 主板，限量 11 台",
+      "link": "https://www.ithome.com/0/938/688.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:31:49.000Z"
+    },
+    {
+      "id": "ec31e401b543c0b5910bb42d1b4da548cb124c80",
+      "title": "【IT之家开箱】雷神 ZERO Air 15 图赏：仅重 1.54kg 的 OLED 超竞屏轻薄游戏本",
+      "link": "https://www.ithome.com/0/938/687.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:30:54.000Z"
+    },
+    {
+      "id": "31e62f4cbcd4c1b1d94c2d61f1e439e25d5569b4",
+      "title": "消息称首批 MacBook Neo 基础版机型售罄，苹果已向供应链追加紧急订单",
+      "link": "https://www.ithome.com/0/938/686.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:30:45.000Z"
+    },
+    {
+      "id": "a9feb9c54b8bb07f5f1720d843842be12d564eb5",
+      "title": "fix(feishu): keep channel auth on local api barrel",
+      "link": "https://github.com/openclaw/openclaw/commit/268824ff3ab95da42a38f1800cb93800bd710c41",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:30:07.000Z"
+    },
+    {
       "id": "8685805f5eaa357abf39f5b03341faa6a645f35b",
-      "title": "Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
+      "title": "Microsoft’s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
       "link": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
       "source_name": "The Verge",
       "published_at": "2026-04-13T10:29:17.000Z"
@@ -319,11 +627,32 @@
       "published_at": "2026-04-13T10:24:12.000Z"
     },
     {
+      "id": "b5ad71db4999df2e9397ecd7f3fe9a26ab347b07",
+      "title": "fix(feishu): avoid sdk facade cycles",
+      "link": "https://github.com/openclaw/openclaw/commit/78448c0a26e1119492a498e7092c4fb7cc6738f5",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:19:10.000Z"
+    },
+    {
+      "id": "9db2345ecae62cea265ce9db607a61e49640e352",
+      "title": "【IT之家评测室】雷神 ZERO Air 15 游戏本体验：设计夯，性能狂，1.54kg 和 160W 兼得",
+      "link": "https://www.ithome.com/0/938/685.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:18:01.000Z"
+    },
+    {
       "id": "c741e2292bae05295ec59003fffb56864d511976",
       "title": "Show HN: Manico – macOS app switcher where single keys activate apps",
       "link": "https://news.ycombinator.com/item?id=47750012",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T10:16:35.000Z"
+    },
+    {
+      "id": "003d4d403a9f76ac9658586eafa15b2a5860a0d7",
+      "title": "联想 Legion Go S 掌机海外价格大幅上涨后，高配版售价反成性价比之选",
+      "link": "https://www.ithome.com/0/938/683.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:14:32.000Z"
     },
     {
       "id": "91d6c4445c2f722d721ddd1614bd2e15d92e2ebd",
@@ -347,6 +676,13 @@
       "published_at": "2026-04-13T10:10:42.000Z"
     },
     {
+      "id": "58ede129d28de48bf74c8a375b2761ead17b5a5e",
+      "title": "fix(ci): verify bundled plugin runtime deps",
+      "link": "https://github.com/openclaw/openclaw/commit/21ca387eda33aaa7773c434974035a2a649c4f32",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:09:13.000Z"
+    },
+    {
       "id": "56326fa7800dca2ea9ad428b91ffdfc438670d0a",
       "title": "Ask HN: Are you negatively affected by the recent economic stagnation?",
       "link": "https://news.ycombinator.com/item?id=47749970",
@@ -354,11 +690,25 @@
       "published_at": "2026-04-13T10:08:59.000Z"
     },
     {
+      "id": "3c7f8bcfd338839509fb15ed911be363dadd347b",
+      "title": "feat: Streamline Feishu channel onboarding with QR code scan-to-creat…",
+      "link": "https://github.com/openclaw/openclaw/commit/9e2ac8a1cb9ace335622a453d742f2b86fcff717",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T10:03:44.000Z"
+    },
+    {
       "id": "dbbf51cecbd1c90d37406779bad9dbf37c5ea772",
       "title": "Ask HN: What is the most essential feature you expect from a home automation?",
       "link": "https://news.ycombinator.com/item?id=47749929",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T10:03:16.000Z"
+    },
+    {
+      "id": "940b54987b53fffd0b35355be9026485de66803c",
+      "title": "又一核心关卡攻克：星梭科技猛犸一号全流量补燃发动机燃烧性能试验告捷",
+      "link": "https://www.ithome.com/0/938/682.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T10:01:50.000Z"
     },
     {
       "id": "ef50031b0bb6c5e55d34962cc7d50873c417b9e3",
@@ -382,11 +732,67 @@
       "published_at": "2026-04-13T10:00:00.000Z"
     },
     {
+      "id": "aee7f22dc282e953380211d08757b88efdc84cf2",
+      "title": "test(release): align pack size budget assertion",
+      "link": "https://github.com/openclaw/openclaw/commit/3b9fb972daa5da51db6396df8d7ae8c6126aa423",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:59:36.000Z"
+    },
+    {
+      "id": "c9d57e04fe50da9bc47ec7afb5f9a90199e873c5",
+      "title": "fix: harden qmd service startup",
+      "link": "https://github.com/openclaw/openclaw/commit/645c7b189757d5d6427dd6cb40431aaa15da5ced",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:58:46.000Z"
+    },
+    {
+      "id": "5ca94cecd7d74e0770ab350fe24e58f45458cae2",
+      "title": "深蓝 L06 增程版官宣“发车”，将搭载 300 万法拉利同款磁流变悬架",
+      "link": "https://www.ithome.com/0/938/679.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:55:42.000Z"
+    },
+    {
+      "id": "6dc7981514bc929ddc8b67944b6992903a3bac4f",
+      "title": "深光影像 18mm 半画幅镜头曝光，适配索尼 E / 尼康 Z 卡口",
+      "link": "https://www.ithome.com/0/938/678.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:55:12.000Z"
+    },
+    {
       "id": "dd4817ac40ed048263486268f6666313d8ac5049",
       "title": "派评 | 近期值得关注的 App",
       "link": "https://sspai.com/post/108589",
       "source_name": "少数派",
       "published_at": "2026-04-13T09:52:51.000Z"
+    },
+    {
+      "id": "ce1a2f33c1c2597624da92a056ace636a4272700",
+      "title": "消息称三星电子 2nm 当前良率在 55% 上下：无法竞争大型代工订单",
+      "link": "https://www.ithome.com/0/938/677.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:51:56.000Z"
+    },
+    {
+      "id": "a0d19aaa886fcf34e45e86125b4863f1b1391a6e",
+      "title": "山西悬空寺“振（震）动风险感知系统”上线运行",
+      "link": "https://www.ithome.com/0/938/676.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:51:48.000Z"
+    },
+    {
+      "id": "298580b7ba8d58210d2dbb864bb6c4de5671598e",
+      "title": "fix: preserve qmd command paths",
+      "link": "https://github.com/openclaw/openclaw/commit/2e1b5407ddfa1ce35289c49b16e7432750ad2b97",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:51:32.000Z"
+    },
+    {
+      "id": "ee561068d3ef0891888458659b58112379d09d45",
+      "title": "fix: extract shared session status runtime (#65807)",
+      "link": "https://github.com/openclaw/openclaw/commit/380de88a61de3b6f229be9d0b3f590b94ddca9a9",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:51:26.000Z"
     },
     {
       "id": "2466ff8b43bec7da12700ea2dc53cbb65368eee5",
@@ -396,11 +802,60 @@
       "published_at": "2026-04-13T09:50:45.000Z"
     },
     {
+      "id": "45ff60add4dd273cbf0c113637ecc7183b0dcc31",
+      "title": "消息称荣耀、vivo 等国产 TOP5 厂商正接洽豆包，一大波 Ai OS / 手机靠拢中",
+      "link": "https://www.ithome.com/0/938/675.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:47:33.000Z"
+    },
+    {
+      "id": "f134d9578ba281e38da87ab8e37353260619520c",
+      "title": "fix(docker): install bundled plugin deps after prune",
+      "link": "https://github.com/openclaw/openclaw/commit/ae3b10c15c64cd091c88a82661b5b2df01a7478c",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:46:28.000Z"
+    },
+    {
+      "id": "de3a1333c70f4f64bb67cec63b1c8083eb3212bb",
+      "title": "[codex] Fix LM Studio header-auth follow-ups (#65806)",
+      "link": "https://github.com/openclaw/openclaw/commit/431db078f28f50a793aaddc96b6c649e071debac",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:45:06.000Z"
+    },
+    {
+      "id": "938231eacf85c960381da6fad04432cc5a48d533",
+      "title": "智元机器人远征 A3 完成首批交付，承担智能导览、沉浸式演艺、智慧运营等任务",
+      "link": "https://www.ithome.com/0/938/666.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:44:40.000Z"
+    },
+    {
       "id": "b2be4252d85ee5ffb4c10d6f96c57a2bf5621dde",
       "title": "Show HN: I built a benchmark platform for WordPress backup plugins",
       "link": "https://news.ycombinator.com/item?id=47749795",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-13T09:43:53.000Z"
+    },
+    {
+      "id": "7f3344a5cc97769804f2679994056dec80099e8b",
+      "title": "OPPO Pad Mini 小平板现身官网：普通 / 柔光双版本，至高 12GB+512GB 规格",
+      "link": "https://www.ithome.com/0/938/673.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:40:00.000Z"
+    },
+    {
+      "id": "c77087bcdc5cab9859bfa8dcdcd60a2f716762cd",
+      "title": "fix(release): allow matrix runtime pack size",
+      "link": "https://github.com/openclaw/openclaw/commit/abe33319d33f23873efc8609cbe8c433d687084e",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:39:24.000Z"
+    },
+    {
+      "id": "c5c7f83ca9f3f46e71817b120d0efe39e9e710f0",
+      "title": "传音发布 Infinix Note 60 Pro 手机：后置点阵屏吸睛，6.78 英寸 1.5K 144Hz OLED 屏幕",
+      "link": "https://www.ithome.com/0/938/671.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:38:57.000Z"
     },
     {
       "id": "30cffc1473981fe4d9329101f2bcb540b47103fc",
@@ -410,11 +865,46 @@
       "published_at": "2026-04-13T09:37:26.000Z"
     },
     {
+      "id": "20ec0d9ce5bfa486968da3d90dc56e320f34ae14",
+      "title": "铭匠预告 Neo 系列全画幅相机镜头：光学玻璃堆料，“价格很奇迹”",
+      "link": "https://www.ithome.com/0/938/646.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:36:23.000Z"
+    },
+    {
       "id": "70ddcdfc2303aea27a70705a3344a4bbbe8cd2e0",
       "title": "Show HN: SkillCompass – open-source quality evaluator for your AI skills",
       "link": "https://github.com/Evol-ai/SkillCompass",
       "source_name": "Hacker News AI",
       "published_at": "2026-04-13T09:34:19.000Z"
+    },
+    {
+      "id": "c997a8143c03b26e76404892c22d890c2ba47d62",
+      "title": "fix(matrix): mirror staged runtime dependencies",
+      "link": "https://github.com/openclaw/openclaw/commit/ee601ae9937f7ee034177b815c27e9244ce25470",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:32:22.000Z"
+    },
+    {
+      "id": "35384ce9a27cb6d7ca9c36c1f6cd6018dba22aa2",
+      "title": "fix(matrix): sync runtime dependency lockfile",
+      "link": "https://github.com/openclaw/openclaw/commit/45f800f4f87b9a9864faefad73906f6e31c8e83f",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:29:08.000Z"
+    },
+    {
+      "id": "c68a86f58a5ed1525c2b1351290335d95df47a42",
+      "title": "fix(build): refresh a2ui bundle hash",
+      "link": "https://github.com/openclaw/openclaw/commit/d63394247ebb877eb9d771778ee5f0e6a9fc8fb1",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:28:03.000Z"
+    },
+    {
+      "id": "167c2c64e7999b402f66eab6c2d8eb1521612c11",
+      "title": "FADU 展望未来 PCIe Gen7 SSD 主控：15M IOPS 随机读取乃至更高",
+      "link": "https://www.ithome.com/0/938/653.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:27:35.000Z"
     },
     {
       "id": "a1df4415a45db352b57e7a10914dcfa2bd94ed0d",
@@ -431,6 +921,13 @@
       "published_at": "2026-04-13T09:25:57.000Z"
     },
     {
+      "id": "06ce5cb15366cdf53816e8a64b7691daad07c452",
+      "title": "fix(matrix): mirror runtime deps for docker builds",
+      "link": "https://github.com/openclaw/openclaw/commit/98c2a38bc3cdeae37c34cd895e5a48967a8e031a",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:24:18.000Z"
+    },
+    {
       "id": "e8b194e9e046c6663e232155972a5aef17321d96",
       "title": "AI conditionally allowed in the Linux kernel. \"Linux lays down the law on AI..\"",
       "link": "https://www.tomshardware.com/software/linux/linux-lays-down-the-law-on-ai-generated-code-yes-to-copilot-no-to-ai-slop-and-humans-take-the-fall-for-mistakes-after-months-of-fierce-debate-torvalds-and-maintainers-come-to-an-agreement",
@@ -438,18 +935,116 @@
       "published_at": "2026-04-13T09:23:09.000Z"
     },
     {
-      "id": "32b3b6f58948a93afa29e3fde7f95a44532e5828",
-      "title": "Defender – Local prompt injection detection for AI agents (no API calls)",
-      "link": "https://www.npmjs.com/package/@stackone/defender",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T09:13:19.000Z"
+      "id": "e5d1809044054c45bca8de6c8430afa37a887d13",
+      "title": "chore(release): restore 2026.4.11 appcast",
+      "link": "https://github.com/openclaw/openclaw/commit/e36f2f92c5c88af288dd3ad20b730e2737e654ef",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T09:22:35.000Z"
     },
     {
-      "id": "b94b4d4de8c7aad2c0dad6b9b231a42a7037b212",
-      "title": "What if a few AI companies end up with all the money and power?",
-      "link": "https://www.noahpinion.blog/p/what-if-a-few-ai-companies-end-up",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T09:02:06.000Z"
+      "id": "b2aee95a85cc8da5c78838a53e354f0dea7f6916",
+      "title": "OPPO Pad Mini 平板三款配色公布：莫奈紫、薄荷青、深空灰",
+      "link": "https://www.ithome.com/0/938/648.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:21:11.000Z"
+    },
+    {
+      "id": "6a3c7b9767a043142a83c913891f21fed5442136",
+      "title": "OpenAI 在伦敦设立首个永久办公室：预计 2027 年开放，可容纳 544 名成员",
+      "link": "https://www.ithome.com/0/938/627.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:17:57.000Z"
+    },
+    {
+      "id": "d9ff711e91c3b98564c950e8510b91a7b83f8e2b",
+      "title": "小米米家智能宠物喂食器 2 可视版首销：AI 智能全天监控食盆状态，首发 499 元",
+      "link": "https://www.ithome.com/0/938/642.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:16:49.000Z"
+    },
+    {
+      "id": "23fb541bf5b30c3c54879949e136df83a74012a0",
+      "title": "中国网络文学阅读市场规模达 502.1 亿元，同比增长 16.6%",
+      "link": "https://www.ithome.com/0/938/635.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:11:49.000Z"
+    },
+    {
+      "id": "441c9d3b2f131ee2b4b0d28ea16d170ea00a733b",
+      "title": "达尔优推出 96% 配列三模机械键盘 FK98，到手价 279 元",
+      "link": "https://www.ithome.com/0/938/631.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:09:37.000Z"
+    },
+    {
+      "id": "aa6f28d23eeeb9634771d31f0486650d1b92d6de",
+      "title": "余承东预告：全新一代问界 M9 系列将搭载更强大的华为全栈黑科技",
+      "link": "https://www.ithome.com/0/938/629.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:08:09.000Z"
+    },
+    {
+      "id": "4028dd70eb9cad5ce0ca6298b139add9fc0ee606",
+      "title": "消息称微软 4 月 16 日举行 Xbox 游戏发布会，《地铁》IP 新作有望亮相",
+      "link": "https://www.ithome.com/0/938/628.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:08:03.000Z"
+    },
+    {
+      "id": "4760d08bb18ef7eea6047d4512406b8003cc7a68",
+      "title": "小鹏 MONA M03 汽车累计交付突破 25 万台",
+      "link": "https://www.ithome.com/0/938/624.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T09:02:54.000Z"
+    },
+    {
+      "id": "6f83a867a9f22880ab37af92038013735c5d41d8",
+      "title": "消息称苹果 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变",
+      "link": "https://www.ithome.com/0/938/623.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:58:13.000Z"
+    },
+    {
+      "id": "a6af5d71ac83c72327c335b49127040f167fec78",
+      "title": "零跑 Lafa5 Ultra 汽车将于 4 月 24 日北京车展上市，搭载专属运动套件",
+      "link": "https://www.ithome.com/0/938/622.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:56:14.000Z"
+    },
+    {
+      "id": "8b3156aa05f1d0e90b60b50ceefaa60f05969248",
+      "title": "李楠谈各品牌 Ultra 卖不动的原因，称任何功能都有边际效用递减",
+      "link": "https://www.ithome.com/0/938/621.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:55:18.000Z"
+    },
+    {
+      "id": "46e2a70f18bb4f09cbd0220e207665f069a30ab0",
+      "title": "科大讯飞回应网传员工中 1000 万大奖：如果真有同事这么幸运，真心为他高兴",
+      "link": "https://www.ithome.com/0/938/617.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:51:18.000Z"
+    },
+    {
+      "id": "60d71d52a697b953d4e25d2930298d2603f833af",
+      "title": "chore(release): prepare 2026.4.12",
+      "link": "https://github.com/openclaw/openclaw/commit/72e56097ecd40d6d4d3ad2e0c138cff3cda7000b",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T08:49:01.000Z"
+    },
+    {
+      "id": "38245c14fe82a40859c5e144f02483c182f846ef",
+      "title": "消息称大部分玩家仍偏好 Steam 及 PlayStation Store，对微软商店 XPA 游戏服务缺乏兴趣",
+      "link": "https://www.ithome.com/0/938/611.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:48:16.000Z"
+    },
+    {
+      "id": "b6983b5cab0f1e433d0fac574270927217a0614f",
+      "title": "西班牙首相佩德罗 · 桑切斯到访小米总部：拉雷军自拍，试乘 YU7 好评天际屏",
+      "link": "https://www.ithome.com/0/938/603.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:45:28.000Z"
     },
     {
       "id": "433ccf7203b23a021b7bd07ab0aaf7281b43e028",
@@ -466,6 +1061,55 @@
       "published_at": "2026-04-13T08:43:03.000Z"
     },
     {
+      "id": "1e5a5c5e14f616fd3b314376d5639ad4ac4c06be",
+      "title": "鸿蒙智行首款旗舰 MPV 智界 V9 部分亮点公布，刘亦菲大秀新车手势控车功能",
+      "link": "https://www.ithome.com/0/938/602.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:40:57.000Z"
+    },
+    {
+      "id": "cd453151072ddc8b44c84ecd64b106ba76af9776",
+      "title": "微星“MPG 322URX QD-OLED X24”31.5 英寸显示器上架：换用 4K 240Hz 原生 10-Bit 三星四代面板，8499 元",
+      "link": "https://www.ithome.com/0/938/601.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:38:40.000Z"
+    },
+    {
+      "id": "4088f0264308af309c6429fc84337e94f13d5d49",
+      "title": "微软解释为何取消 Win10/11 系统电话激活：数字化流程有助反欺诈，更加现代",
+      "link": "https://www.ithome.com/0/938/600.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:36:58.000Z"
+    },
+    {
+      "id": "7310dc8063056b1cd7fe6dbd2a2f8b361295d869",
+      "title": "交通运输部：推动网络货运平台建立油价运价协同调整机制，切实保障货车司机合法权益",
+      "link": "https://www.ithome.com/0/938/594.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:32:59.000Z"
+    },
+    {
+      "id": "0c89cb51e40ffc98157b4c6ef5abbc9fc3c04fbd",
+      "title": "号称《恶霸鲁尼》精神续作，美式高中模拟游戏《阿吉菲尔德高中：震撼校园》公布",
+      "link": "https://www.ithome.com/0/938/598.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:23:42.000Z"
+    },
+    {
+      "id": "4e7575b23d57828d4c511dfc47f75a77db0ef38a",
+      "title": "米哈游刘伟母校演讲：别焦虑，伟大事业的起点都是非常粗糙的",
+      "link": "https://www.ithome.com/0/938/597.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:21:22.000Z"
+    },
+    {
+      "id": "236ef3335dd1d1b3836a7c964c8fdf2da371515c",
+      "title": "《无主之地手游》悄悄上线：本体免费，暂仅限苹果 iOS 美区可游玩",
+      "link": "https://www.ithome.com/0/938/595.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:17:12.000Z"
+    },
+    {
       "id": "5afea567109ce77f684196124b88954c9bc0e798",
       "title": "Huawei beats Apple and Samsung with new wide foldable",
       "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
@@ -478,6 +1122,27 @@
       "link": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
       "source_name": "Hacker News 首页",
       "published_at": "2026-04-13T08:13:40.000Z"
+    },
+    {
+      "id": "8b0289b3e29dda85129d7667e7c22129e6226581",
+      "title": "追觅俞浩：今年一季度实现 100% 同步增长，今年挑战 1000 亿、后年挑战 1 万亿",
+      "link": "https://www.ithome.com/0/938/588.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:12:35.000Z"
+    },
+    {
+      "id": "a55e09b1aabb1e5f79ece4aa4c65d2070cd0eac8",
+      "title": "AOC 爱攻“AGP346UCSD”34 英寸带鱼屏显示器首销：1440P 360Hz QD-OLED，6999 元",
+      "link": "https://www.ithome.com/0/938/593.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:11:26.000Z"
+    },
+    {
+      "id": "21af85187a4c520ae09e978e95f11c1d8c93240e",
+      "title": "消息称 TCL 正考虑出售其在印度电视业务的股份，筹集至少 2 亿美元",
+      "link": "https://www.ithome.com/0/938/592.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T08:10:42.000Z"
     },
     {
       "id": "7121b7b7bdd7a12f397864fd03f2b85cdf9b7db6",
@@ -592,6 +1257,13 @@
       "published_at": "2026-04-13T04:26:15.000Z"
     },
     {
+      "id": "4cd840cf11639692413d4c9cca4d1ec2db87d9d9",
+      "title": "Vidu Q3 闷声放大招，参考生之王回归，漫剧短剧影视广告的好日子来了",
+      "link": "https://www.ifanr.com/1661883",
+      "source_name": "爱范儿",
+      "published_at": "2026-04-13T04:16:34.000Z"
+    },
+    {
       "id": "a10e3ad72e4e532fe07c398ad83cf7560f910423",
       "title": "How are you reducing LLM token costs for async workflows?",
       "link": "https://github.com/parallem-ai/parallem",
@@ -606,10 +1278,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "8c7d51cec0e9f2831f44b2ddd1db70792e90367e",
+      "title": "2D or 3D: Who Governs Salience in VLA Models? -- Tri-Stage Token Pruning Framework with Modality Salience Awareness",
+      "link": "https://arxiv.org/abs/2604.09244",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "33089d5ce4e96dc7384345b9b546a7796d119adc",
       "title": "3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding",
       "link": "https://arxiv.org/abs/2604.08645",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8856c929f0c222f969b5212ee8e90d04e9d73de3",
+      "title": "4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation",
+      "link": "https://arxiv.org/abs/2512.17012",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -620,10 +1306,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "c6ff206f4a70db614cf9e6c3fda2619d929067df",
+      "title": "A Compact Hybrid Convolution--Frequency State Space Network for Learned Image Compression",
+      "link": "https://arxiv.org/abs/2511.20151",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "52b0b28ed05ac9356edb8ea5b0b0d6b291c8091e",
+      "title": "A fast and Generic Energy-Shifting Transformer for Hybrid Monte Carlo Radiotherapy Calculation",
+      "link": "https://arxiv.org/abs/2604.09157",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8308c66c229596afd89c55f13798db23ff19ba9a",
+      "title": "A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need",
+      "link": "https://arxiv.org/abs/2604.08749",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "641e9cbd58da13c2dbf51284ab2eabfa4d5e23f7",
       "title": "A Mathematical Framework for Temporal Modeling and Counterfactual Policy Simulation of Student Dropout",
       "link": "https://arxiv.org/abs/2604.08874",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "33af93291a8fc67031d903655e3a8a0ccf9ff21a",
+      "title": "A novel hybrid approach for positive-valued DAG learning",
+      "link": "https://arxiv.org/abs/2604.08935",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e8602790b9f31f939a930985a74a998d45cec824",
+      "title": "A Predictive View on Streaming Hidden Markov Models",
+      "link": "https://arxiv.org/abs/2604.09208",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -634,10 +1355,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "cb5166d73a5b9453b205c6af6288754b86413fb2",
+      "title": "A Semi-Automated Framework for 3D Reconstruction of Medieval Manuscript Miniatures",
+      "link": "https://arxiv.org/abs/2604.08610",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "6efe769e092cd76af05e0bc1c52f59cdd4559d08",
+      "title": "Accelerating Local LLMs on Resource-Constrained Edge Devices via Distributed Prompt Caching",
+      "link": "https://arxiv.org/abs/2602.22812",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "18aa03595ca32505a5ca9d18d219b326e9b9ea9a",
       "title": "Accelerating Transformer-Based Monocular SLAM via Geometric Utility Scoring",
       "link": "https://arxiv.org/abs/2604.08718",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "653e0e4b49b8d915f84e1e5c4c18c047e914ded9",
+      "title": "Accurate and Reliable Uncertainty Estimates for Deterministic Predictions Extensions to Under and Overpredictions",
+      "link": "https://arxiv.org/abs/2604.08755",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -655,6 +1397,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "aa44ad313ce2fe154b774b218be9f01db685b27f",
+      "title": "ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning",
+      "link": "https://arxiv.org/abs/2604.08990",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "2aaafd9ea9b40d1390c2d88daaaacbe8f1e019a7",
       "title": "ActionNex: A Virtual Outage Manager for Cloud Computing",
       "link": "https://arxiv.org/abs/2604.03512",
@@ -662,10 +1411,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "e8c1374362be58a85c5704f14866aa55d5cbf816",
+      "title": "Active Learning for Generalizable Detonation Performance Prediction of Energetic Materials",
+      "link": "https://arxiv.org/abs/2604.08744",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "f76f59a1c4eaa4e5944393f04115502ad138ed6c",
       "title": "ActivityEditor: Learning to Synthesize Physically Valid Human Mobility",
       "link": "https://arxiv.org/abs/2604.05529",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "6cadae53a56fa10add5ca9187f390d40b8fe891a",
+      "title": "AdaCubic: An Adaptive Cubic Regularization Optimizer for Deep Learning",
+      "link": "https://arxiv.org/abs/2604.09437",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f6d777ecfa858c3d392f6d24dc8e0c528f1e1e99",
+      "title": "Adam-HNAG: A Convergent Reformulation of Adam with Accelerated Rate",
+      "link": "https://arxiv.org/abs/2604.08742",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fb9800f62feb89fbe41cb7bf9164fbb6d3d33afb",
+      "title": "Adaptive Candidate Point Thompson Sampling for High-Dimensional Bayesian Optimization",
+      "link": "https://arxiv.org/abs/2604.08891",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -690,6 +1467,34 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "4b88d5e6055bceaadfb71ef2e8a7dcee3099f1ba",
+      "title": "Adaptive Simulation Experiment for LLM Policy Optimization",
+      "link": "https://arxiv.org/abs/2604.08779",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "85a35da5cb2401da6508466174933899942f1711",
+      "title": "Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2512.07417",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "62c5d589bb691ae40fe6bca462b473fa3c266ae2",
+      "title": "Adding Another Dimension to Image-based Animal Detection",
+      "link": "https://arxiv.org/abs/2604.09210",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "06f5316f2c63f8581e5fe3765dc459a4c121f37c",
+      "title": "Adjoint Matching through the Lens of the Stochastic Maximum Principle in Optimal Control",
+      "link": "https://arxiv.org/abs/2604.08580",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "1900686b425ecb3e7e13bae7f50831a7390b273e",
       "title": "Advantage-Guided Diffusion for Model-Based Reinforcement Learning",
       "link": "https://arxiv.org/abs/2604.09035",
@@ -697,10 +1502,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "4587991524c46d5e44ae58fbe9221e2f3c09c66a",
+      "title": "Adversarial Concept Distillation for One-Step Diffusion Personalization",
+      "link": "https://arxiv.org/abs/2510.20512",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "4623530687ed7f927e1b4c0552c4a643679186e5",
       "title": "Adversarial Evasion Attacks on Computer Vision using SHAP Values",
       "link": "https://arxiv.org/abs/2601.10587",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d27e3dd12f2f0caade49be9985830187dd5f097d",
+      "title": "Adversarial Sensor Errors for Safe and Robust Wind Turbine Fleet Control",
+      "link": "https://arxiv.org/abs/2604.08750",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -746,6 +1565,27 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "abe6056f269e1fac665103f000c9b69ba9268084",
+      "title": "All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles",
+      "link": "https://arxiv.org/abs/2510.26641",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "dcd168a43d8271f9e3e4e86e8a0d395cda8672ff",
+      "title": "Alleviating Community Fear in Disasters via Multi-Agent Actor-Critic Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2604.08802",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1b52b56c4c9e97b07927aea18bb262ab222776ef",
+      "title": "ALMAB-DC: Active Learning, Multi-Armed Bandits, and Distributed Computing for Sequential Experimental Design and Black-Box Optimization",
+      "link": "https://arxiv.org/abs/2603.21180",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "e9f579d1a2abd38f830ff466c52bfba5856d3f87",
       "title": "AlphaCast: A Human Wisdom-LLM Intelligence Co-Reasoning Framework for Interactive Time Series Forecasting",
       "link": "https://arxiv.org/abs/2511.08947",
@@ -767,10 +1607,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "202cecb2d21b03fa1095847f6e9c97030057751a",
+      "title": "AMO-ENE: Attention-based Multi-Omics Fusion Model for Outcome Prediction in Extra Nodal Extension and HPV-associated Oropharyngeal Cancer",
+      "link": "https://arxiv.org/abs/2604.09280",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "6b410bd2e116f1970b49993575dd5234378d2039",
       "title": "An Adaptive Model Selection Framework for Demand Forecasting under Horizon-Induced Degradation to Support Business Strategy and Operations",
       "link": "https://arxiv.org/abs/2602.13939",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "26bea3f53bcedf4bcc067f28e2d94075ca223bf2",
+      "title": "An Algorithm for Fast Assembling Large-Scale Defect-Free Atom Arrays",
+      "link": "https://arxiv.org/abs/2604.08669",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -781,10 +1635,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "0a06a57339e75312e5a8669c5161a35fd08acae7",
+      "title": "An Open-Source, Open Data Approach to Activity Classification from Triaxial Accelerometry in an Ambulatory Setting",
+      "link": "https://arxiv.org/abs/2604.09451",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "69f90a75260190f1cf9ff94087719ea76b75982d",
       "title": "Anchored Sliding Window: Toward Robust and Imperceptible Linguistic Steganography",
       "link": "https://arxiv.org/abs/2604.09066",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5f8adf381780c3676c869cc57a48796effae975b",
+      "title": "AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation",
+      "link": "https://arxiv.org/abs/2604.08746",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "9f9f446c85e6f5de93b95d91269ec5e1b90b240e",
+      "title": "Another BRIXEL in the Wall: Towards Cheaper Dense Features",
+      "link": "https://arxiv.org/abs/2511.05168",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a54ed36ddd9d7e2470669d23e56d8f9285c59b55",
+      "title": "ANTIC: Adaptive Neural Temporal In-situ Compressor",
+      "link": "https://arxiv.org/abs/2604.09543",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -799,6 +1681,13 @@
       "title": "Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts",
       "link": "https://arxiv.org/abs/2604.09364",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "489a92bcf9aeddd680a100477b6cd616a6aa5104",
+      "title": "Are Independently Estimated View Uncertainties Comparable? Unified Routing for Trusted Multi-View Classification",
+      "link": "https://arxiv.org/abs/2604.09288",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -830,6 +1719,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "5288cfbf04e952e23d8ecca3a2451bdf8eb57f86",
+      "title": "AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization",
+      "link": "https://arxiv.org/abs/2604.09445",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "9dabd8ecd230683519769cfdda2989e41f307f01",
       "title": "Attention-Based Sampler for Diffusion Language Models",
       "link": "https://arxiv.org/abs/2604.08564",
@@ -841,6 +1737,13 @@
       "title": "AudioGuard: Toward Comprehensive Audio Safety Protection Across Diverse Threat Models",
       "link": "https://arxiv.org/abs/2604.08867",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "18b5f793ffdeb9828ee8928b8ee8398b015030d0",
+      "title": "Automated Batch Distillation Process Simulation for a Large Hybrid Dataset for Deep Anomaly Detection",
+      "link": "https://arxiv.org/abs/2604.09166",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -858,10 +1761,59 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "bffd777f8d22c749852377dce3f915e48ab9ca0c",
+      "title": "Automatic Self-supervised Learning for Social Recommendations",
+      "link": "https://arxiv.org/abs/2412.18735",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "af5d2090d48e59f968d99fd691ad0bf2888b8ff1",
+      "title": "AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention",
+      "link": "https://arxiv.org/abs/2511.18960",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "7d17ecdb6bd5a62290d23823e5eebe9be6b6ac0b",
+      "title": "B-MoE: A Body-Part-Aware Mixture-of-Experts \"All Parts Matter\" Approach to Micro-Action Recognition",
+      "link": "https://arxiv.org/abs/2603.24245",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a3e3d7e44057640793a0a4525d007282e18a831d",
       "title": "BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning",
       "link": "https://arxiv.org/abs/2604.09378",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "30e1ee7052d228e6368a79fa8253d787f84fcf0b",
+      "title": "Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias",
+      "link": "https://arxiv.org/abs/2405.16772",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "88aa17d4908b358975cecac91be00759ef1849a7",
+      "title": "Bandwidth-constrained Variational Message Encoding for Cooperative Multi-agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2512.11179",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d3eda3dd4bf5942e0cc23ead315c1c5571e269f5",
+      "title": "Batch Distillation Data for Developing Machine Learning Anomaly Detection Methods",
+      "link": "https://arxiv.org/abs/2510.18075",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "266593de4c7c981b4e6f8467f24ab2eab224cd7d",
+      "title": "Bayesian Ego-graph Inference for Networked Multi-Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2509.16606",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -879,6 +1831,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "4f45d60b04556efa2f0b02d3145321bab48067ce",
+      "title": "Benchmarking CNN- and Transformer-Based Models for Surgical Instrument Segmentation in Robotic-Assisted Surgery",
+      "link": "https://arxiv.org/abs/2604.09151",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "bb56dcc95aeecc943e639607631cc1f2ebc81588",
       "title": "BERT-as-a-Judge: A Robust Alternative to Lexical Methods for Efficient Reference-Based LLM Evaluation",
       "link": "https://arxiv.org/abs/2604.09497",
@@ -890,6 +1849,20 @@
       "title": "Better Eyes, Better Thoughts: Why Vision Chain-of-Thought Fails in Medicine",
       "link": "https://arxiv.org/abs/2603.06665",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "dfe8892eb5196ccdcd1cb6971546a8c5ab00524b",
+      "title": "Beyond Augmented-Action Surrogates for Multi-Expert Learning-to-Defer",
+      "link": "https://arxiv.org/abs/2604.09414",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3c88639124709fdf51564d7f4380f26be1c6977d",
+      "title": "Beyond Flicker: Detecting Kinematic Inconsistencies for Generalizable Deepfake Video Detection",
+      "link": "https://arxiv.org/abs/2512.04175",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -907,10 +1880,59 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a1f62716ee271ed1907d8e538b35a95b4f4603c9",
+      "title": "Beyond Segmentation: Structurally Informed Facade Parsing from Imperfect Images",
+      "link": "https://arxiv.org/abs/2604.09260",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f007a5c3e922bbfb05380d67a3ee60d7e2af2f86",
+      "title": "Beyond Spherical geometry: Unraveling complex features of objects orbiting around stars from its transit light curve using deep learning",
+      "link": "https://arxiv.org/abs/2509.14875",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "f7810fc23dcf0b0ee4758f6bdd394d6c4df6c7d3",
       "title": "Bharat Scene Text: A Novel Comprehensive Dataset and Benchmark for Indian Language Scene Text Understanding",
       "link": "https://arxiv.org/abs/2511.23071",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "9c362f1f97848a857466ecadf4a7f9c547545b36",
+      "title": "Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training",
+      "link": "https://arxiv.org/abs/2604.08357",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "45fc854093d1bf743d32b27bffd16eac13b3283b",
+      "title": "BIAS: A Biologically Inspired Algorithm for Video Saliency Detection",
+      "link": "https://arxiv.org/abs/2604.08858",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "bf0486369858eafd75f645a669f71292b90268bd",
+      "title": "Biologically-Grounded Multi-Encoder Architectures as Developability Oracles for Antibody Design",
+      "link": "https://arxiv.org/abs/2604.09369",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fdc6867a51c91cc362e5095723d655e9c373ded7",
+      "title": "BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis",
+      "link": "https://arxiv.org/abs/2604.07361",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "08663209fc1ef8fccfed08f57b11a9c6827dd0af",
+      "title": "BlendFusion -- Scalable Synthetic Data Generation for Diffusion Model Training",
+      "link": "https://arxiv.org/abs/2604.09022",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -921,10 +1943,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "0cdcfa3452439f209bf041e130b464eb16ecbcca",
+      "title": "Boosting Brain-inspired Path Integration Efficiency via Learning-based Replication of Continuous Attractor Neurodynamics",
+      "link": "https://arxiv.org/abs/2511.17687",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "43578f1dfd66c7ff198e2e9c2986b1f322a63778",
       "title": "Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models",
       "link": "https://arxiv.org/abs/2604.08964",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0a8d5b2ade6e6cbe959b5735ef9e0a1b27bb6c17",
+      "title": "Bridging SFT and RL: Dynamic Policy Optimization for Robust Reasoning",
+      "link": "https://arxiv.org/abs/2604.08926",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2a70fecec0df46cc43b8f4c2a74a5afebc195777",
+      "title": "Bringing Clustering to MLL: Weakly-Supervised Clustering for Partial Multi-Label Learning",
+      "link": "https://arxiv.org/abs/2604.09359",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -935,10 +1978,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "d0770ad91bcb4b9b0290661af8c401b241f3ada9",
+      "title": "CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection",
+      "link": "https://arxiv.org/abs/2604.09023",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "d2f3f3e4b1de9ee2b9eadabc061bc96a00ba1f91",
       "title": "Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation",
       "link": "https://arxiv.org/abs/2604.09195",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e2c5f451ce0fd240e117c16e9dd9a6fbd15eb83f",
+      "title": "CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild",
+      "link": "https://arxiv.org/abs/2604.08287",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -963,6 +2020,27 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "8e1a9c05d335cfc1030bde14093b53f653f12980",
+      "title": "CatalogStitch: Dimension-Aware and Occlusion-Preserving Object Compositing for Catalog Image Generation",
+      "link": "https://arxiv.org/abs/2604.08836",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c009e22bedfbd40ea85ad488898cefaed9ea2233",
+      "title": "CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention",
+      "link": "https://arxiv.org/abs/2603.18561",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d7da6fc71c95c7606c191b5f54a794c0aeff6251",
+      "title": "CERBERUS: A Three-Headed Decoder for Vertical Cloud Profiles",
+      "link": "https://arxiv.org/abs/2604.08772",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "3edccf8268aae0b62dd07c2f369c71b5bde477b6",
       "title": "Chain-in-Tree: Back to Sequential Reasoning in LLM Tree Search",
       "link": "https://arxiv.org/abs/2509.25835",
@@ -974,6 +2052,13 @@
       "title": "Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment",
       "link": "https://arxiv.org/abs/2505.18600",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fbc475748d317dd50e1ad175e644df621cae3911",
+      "title": "Characterizing Lidar Range-Measurement Ambiguity due to Multiple Returns",
+      "link": "https://arxiv.org/abs/2604.09282",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -998,6 +2083,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "d908c46a68c85abaec20e8a5696953a346ac9b71",
+      "title": "Cluster-First Labelling: An Automated Pipeline for Segmentation and Morphological Clustering in Histology Whole Slide Images",
+      "link": "https://arxiv.org/abs/2604.09370",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8062a9bf8d18e9b03d68c789471afe5d66b251ab",
+      "title": "ClusterMark: Towards Robust Watermarking for Autoregressive Image Generators with Visual Token Clustering",
+      "link": "https://arxiv.org/abs/2508.06656",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "6f91ca67bef7905110099f15aeb7331fa579113e",
       "title": "CodeScout: Contextual Problem Statement Enhancement for Software Agents",
       "link": "https://arxiv.org/abs/2603.05744",
@@ -1009,6 +2108,20 @@
       "title": "Commanding Humanoid by Free-form Language: A Large Language Action Model with Unified Motion Vocabulary",
       "link": "https://arxiv.org/abs/2511.22963",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d889c4b6ebcb8b4cf7d8e16079a7488098a257ea",
+      "title": "CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos",
+      "link": "https://arxiv.org/abs/2601.10632",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "9a145be8bff5da2a34f89b6ca260d1be20b2b6fb",
+      "title": "Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark",
+      "link": "https://arxiv.org/abs/2604.09313",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1026,6 +2139,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "8d1ecb3936a91f2459bc7259bc0af092cdc85013",
+      "title": "Conformal Margin Risk Minimization: An Envelope Framework for Robust Learning under Label Noise",
+      "link": "https://arxiv.org/abs/2604.06468",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "876a9b1623e1046bd1602db0aaebb0908928e385",
+      "title": "Conformal Prediction in Hierarchical Classification with Constrained Representation Complexity",
+      "link": "https://arxiv.org/abs/2501.19038",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "986d1faed043dcf12ac2c03d01b1f80554bae88b",
       "title": "Constraining Sequential Model Editing with Editing Anchor Compression",
       "link": "https://arxiv.org/abs/2503.00035",
@@ -1037,6 +2164,20 @@
       "title": "Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents",
       "link": "https://arxiv.org/abs/2604.09308",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "9f30d8bee3c3ec51c6ad75e9beba7d286d36a95e",
+      "title": "Continuous Orthogonal Mode Decomposition: Haptic Signal Prediction in Tactile Internet",
+      "link": "https://arxiv.org/abs/2604.09446",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ca0440d4ea429f209da5b36c590f9c629abce551",
+      "title": "Contribution of task-irrelevant stimuli to drift of neural representations",
+      "link": "https://arxiv.org/abs/2510.21588",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1061,6 +2202,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "784e21fac86a231ccb94eeb9a65b93af741f74aa",
+      "title": "Creator Incentives in Recommender Systems: A Cooperative Game-Theoretic Approach for Stable and Fair Collaboration in Multi-Agent Bandits",
+      "link": "https://arxiv.org/abs/2604.08643",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "4dde0f74bf54b2b0110812a42e7ab18b7575de68",
       "title": "Cross-Lingual Attention Distillation with Personality-Informed Generative Augmentation for Multilingual Personality Recognition",
       "link": "https://arxiv.org/abs/2604.08851",
@@ -1068,10 +2216,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "e0961af8ed68442ad5b173ff35d61259428ed666",
+      "title": "Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology",
+      "link": "https://arxiv.org/abs/2604.09076",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "101c5a5fd8bb3f36b5402f267a7fa4fddf944af9",
       "title": "CSAttention: Centroid-Scoring Attention for Accelerating LLM Inference",
       "link": "https://arxiv.org/abs/2604.08584",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "52fe468805f9ed92631f422e7136f05d91cb3d26",
+      "title": "CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation",
+      "link": "https://arxiv.org/abs/2604.09201",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "aa8016a9327a5cb1f6f2733d5a05925d897899c7",
+      "title": "Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion",
+      "link": "https://arxiv.org/abs/2604.08924",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1096,6 +2265,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "1b91a34f580d715b37f321bf6e8dea7c1cfac5b0",
+      "title": "Deep Light Pollution Removal in Night Cityscape Photographs",
+      "link": "https://arxiv.org/abs/2604.09145",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "52a01d7a5d57b2426981b23cbb5d7b1eb7494d36",
       "title": "DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation",
       "link": "https://arxiv.org/abs/2604.09089",
@@ -1103,10 +2279,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "edc4e18c2e624fe802b1e35dcd9827a243ddef47",
+      "title": "DeFakeQ: Enabling Real-Time Deepfake Detection on Edge Devices via Adaptive Bidirectional Quantization",
+      "link": "https://arxiv.org/abs/2604.08847",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "979268312b564d55850804541910a3e5159c9cb4",
+      "title": "Degradation-Robust Fusion: An Efficient Degradation-Aware Diffusion Framework for Multimodal Image Fusion in Arbitrary Degradation Scenarios",
+      "link": "https://arxiv.org/abs/2604.08922",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "92774f8e972a621297528e8d01648e409cc26daa",
       "title": "Dejavu: Towards Experience Feedback Learning for Embodied Intelligence",
       "link": "https://arxiv.org/abs/2510.10181",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "9d67821c24ddccbb9291ee56bcc612af0264afff",
+      "title": "Delve into the Applicability of Advanced Optimizers for Multi-Task Learning",
+      "link": "https://arxiv.org/abs/2604.08939",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b0ead36ac1a2919cc9d0085aca4126a0f1726a13",
+      "title": "Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success",
+      "link": "https://arxiv.org/abs/2601.22285",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1121,6 +2325,13 @@
       "title": "Descriptor: Parasitoid Wasps and Associated Hymenoptera Dataset (DAPWH)",
       "link": "https://arxiv.org/abs/2602.20028",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f591f2750bfbd6c11551227e86ee2014bc7eede5",
+      "title": "Detecting Diffusion-generated Images via Dynamic Assembly ForestsDetecting Diffusion-generated Images via Dynamic Assembly Forests",
+      "link": "https://arxiv.org/abs/2604.09106",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1145,10 +2356,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "74db20236e3b486f5cdaa42f0f1dde66d0414207",
+      "title": "Differentially Private and Federated Structure Learning in Bayesian Networks",
+      "link": "https://arxiv.org/abs/2512.01708",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "9008be1e4281755d89831364a0389a87f7adee01",
       "title": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
       "link": "https://arxiv.org/abs/2604.06161",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2e0a565fae72cf69a94034d3596593c284ca52ad",
+      "title": "DiffHLS: Differential Learning for High-Level Synthesis QoR Prediction with GNNs and LLM Code Embeddings",
+      "link": "https://arxiv.org/abs/2604.09240",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ca4264b24bdb726cd1db93cee832a53d81ff802c",
+      "title": "Discrete Meanflow Training Curriculum",
+      "link": "https://arxiv.org/abs/2604.08837",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1159,6 +2391,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "f7f8562b2dcb8cdc7b2363236c22a00688844cd4",
+      "title": "Distributed Online Convex Optimization with Compressed Communication: Optimal Regret and Applications",
+      "link": "https://arxiv.org/abs/2604.09276",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a29cb9e79121e48e29fc27c2656ed78b25613c68",
+      "title": "Distribution-free two-sample testing with blurred total variation distance",
+      "link": "https://arxiv.org/abs/2602.05862",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "adcde53f8c0c27c0c03ecb4a849f970d939a7dbe",
       "title": "Distributionally Robust Token Optimization in RLHF",
       "link": "https://arxiv.org/abs/2604.08577",
@@ -1166,10 +2412,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "88cba4c7551f7351f2ac94147a5244001010a811",
+      "title": "dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning",
+      "link": "https://arxiv.org/abs/2602.10603",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "4b6dfb7cd9394e3400a45158d1a9b202a481fbdd",
       "title": "Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies",
       "link": "https://arxiv.org/abs/2604.09189",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8790bef91775863893a2ee2bde0fd92c711819d6",
+      "title": "Do Vision Language Models Need to Process Image Tokens?",
+      "link": "https://arxiv.org/abs/2604.09425",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1187,6 +2447,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "51d981cef8997716389072c4478fcaa3a59785e7",
+      "title": "Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion",
+      "link": "https://arxiv.org/abs/2604.09018",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a497fd0cb3ba82056289c3f5ee709f969e9cd01e",
       "title": "DRBENCHER: Can Your Agent Identify the Entity, Retrieve Its Properties and Do the Math?",
       "link": "https://arxiv.org/abs/2604.09251",
@@ -1198,6 +2465,34 @@
       "title": "Drift and selection in LLM text ecosystems",
       "link": "https://arxiv.org/abs/2604.08554",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0a0becf96151ec3b0be2b1c00231868b3d20e375",
+      "title": "Drift-Aware Online Dynamic Learning for Nonstationary Multivariate Time Series: Application to Sintering Quality Prediction",
+      "link": "https://arxiv.org/abs/2604.09358",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "16be5efae69f99b7e56eacd1aad5af9bb3f75788",
+      "title": "DSVTLA: Deep Swin Vision Transformer-Based Transfer Learning Architecture for Multi-Type Cancer Histopathological Cancer Image Classification",
+      "link": "https://arxiv.org/abs/2604.09468",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ac26ea22c67a3a4c1466bea3ff085bc18238be0d",
+      "title": "Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling",
+      "link": "https://arxiv.org/abs/2511.06756",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2ead2b772e727e56f3ae98626f67b2915ed2c87b",
+      "title": "Dynamic Class-Aware Active Learning for Unbiased Satellite Image Segmentation",
+      "link": "https://arxiv.org/abs/2604.08965",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1236,10 +2531,59 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "634e870243b860a5a03c4ac9ce2906df8789782f",
+      "title": "Efficient Hierarchical Implicit Flow Q-learning for Offline Goal-conditioned Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2604.08960",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8f4d73c31d3db5dd76200edf640dde61cd337b90",
+      "title": "Efficient RL Training for LLMs with Experience Replay",
+      "link": "https://arxiv.org/abs/2604.08706",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2b65b9eb97d1f4baf1fdac72e33e5c10934bbef0",
+      "title": "Efficient Spatial-Temporal Focal Adapter with SSM for Temporal Action Detection",
+      "link": "https://arxiv.org/abs/2604.09164",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fd59e8e2a7447960b722478b7b4a9c21498961dc",
+      "title": "Efficient Unlearning through Maximizing Relearning Convergence Delay",
+      "link": "https://arxiv.org/abs/2604.09391",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0cf87133093de9dd87d20e8dc261d0aeb02ef441",
+      "title": "EfficientSign: An Attention-Enhanced Lightweight Architecture for Indian Sign Language Recognition",
+      "link": "https://arxiv.org/abs/2604.08694",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ee5db2b2671883f9e73453563317ebdaad47264e",
+      "title": "EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure",
+      "link": "https://arxiv.org/abs/2604.09405",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "189c0eda6945ca30ee2c61af3dbbb02ea4a58328",
       "title": "EGMOF: Efficient Generation of Metal-Organic Frameworks Using a Hybrid Diffusion-Transformer Architecture",
       "link": "https://arxiv.org/abs/2511.03122",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "cf43a34963d04806077a20882d58081bd1c9f6be",
+      "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
+      "link": "https://arxiv.org/abs/2604.09535",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1250,10 +2594,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "fbbdb5b54f99662a7009ad92d96c9f52998c27ad",
+      "title": "ELT: Elastic Looped Transformers for Visual Generation",
+      "link": "https://arxiv.org/abs/2604.09168",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "8c9c4f8bca4c908e909b1589837b2603785f841b",
       "title": "EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context",
       "link": "https://arxiv.org/abs/2604.08556",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "79d264782ed1cf6189780a7263a4e411bcb5357a",
+      "title": "EmoCtrl: Controllable Emotional Image Content Generation",
+      "link": "https://arxiv.org/abs/2512.22437",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "205a9e2cc375978deff70efac9a6ca32aa045630",
+      "title": "EngageTriBoost: Predictive Modeling of User Engagement in Digital Mental Health Intervention Using Explainable Machine Learning",
+      "link": "https://arxiv.org/abs/2604.08589",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f3c2dcdb8de7b59e5907211805c724ceaebed42d",
+      "title": "Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images",
+      "link": "https://arxiv.org/abs/2604.06816",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1278,6 +2650,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "0bbebb24a364fc8ac757e633b8fec8dfef862644",
+      "title": "EpiAgent: An Agent-Centric System for Ancient Inscription Restoration",
+      "link": "https://arxiv.org/abs/2604.09367",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "6319d5a02e46241c8d4bd71fc56bcbe1027edafa",
       "title": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
       "link": "https://arxiv.org/abs/2604.09130",
@@ -1285,10 +2664,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "38c04b7e9ed8f0340ba1ad56f37f3448b8c6915c",
+      "title": "ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+      "link": "https://arxiv.org/abs/2604.08548",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "e2b9cec7e8dc681f35c69ca05f8fd20e458a439b",
       "title": "EthicMind: A Risk-Aware Framework for Ethical-Emotional Alignment in Multi-Turn Dialogue",
       "link": "https://arxiv.org/abs/2604.09265",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "cbc7860b5c569c96192c270ced792d3f7160a7f6",
+      "title": "Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL",
+      "link": "https://arxiv.org/abs/2604.09523",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1310,6 +2703,13 @@
       "title": "EVOKE: Emotion Vocabulary Of Korean and English",
       "link": "https://arxiv.org/abs/2602.10414",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "030a80f017ba5e9801e4574b008063b330d0b835",
+      "title": "EvoLen: Evolution-Guided Tokenization for DNA Language Model",
+      "link": "https://arxiv.org/abs/2604.08698",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1362,10 +2762,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "4fe1244744d6c02b7bdb1727f59d5e2415d63c83",
+      "title": "FaceLiVTv2: An Improved Hybrid Architecture for Efficient Mobile Face Recognition",
+      "link": "https://arxiv.org/abs/2604.09127",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a3dde06a05595e2af94837e3982d403d25e27f4f",
       "title": "Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG",
       "link": "https://arxiv.org/abs/2604.09174",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "71585358e8febd47a594021af94eb5985ad02498",
+      "title": "FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding",
+      "link": "https://arxiv.org/abs/2604.09249",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "cfff8c49e23c7e9e94e20060295dd21d50d87e33",
+      "title": "Fast Model-guided Instance-wise Adaptation Framework for Real-world Pansharpening with Fidelity Constraints",
+      "link": "https://arxiv.org/abs/2604.08903",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1376,6 +2797,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "ac59dd321e5275377b05f790c57419bf6d5d234b",
+      "title": "FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation",
+      "link": "https://arxiv.org/abs/2603.23199",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "35713b485734d30aaf5a574da1c17777be52d77b",
+      "title": "Feature-Label Modal Alignment for Robust Partial Multi-Label Learning",
+      "link": "https://arxiv.org/abs/2604.09064",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a95665390f7391f3f4427ddc07a7fbd691dff31f",
       "title": "Few-Shot Contrastive Adaptation for Audio Abuse Detection in Low-Resource Indic Languages",
       "link": "https://arxiv.org/abs/2604.09094",
@@ -1383,10 +2818,59 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "eb48a05505d6bee9080be6ba13f8b0673317c9f8",
+      "title": "Few-Shot Personalized Age Estimation",
+      "link": "https://arxiv.org/abs/2604.09125",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "bc7cfb60d15fd9a08b378f26840e0d93be019efa",
+      "title": "Fine-Grained Action Segmentation for Renorrhaphy in Robot-Assisted Partial Nephrectomy",
+      "link": "https://arxiv.org/abs/2604.09051",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "2c2aabd8f5aa88469ad283fd6ce7b252885899a1",
       "title": "Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving",
       "link": "https://arxiv.org/abs/2603.13842",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "4d1f225850ccbcd9a0c2bce95bbed1a52ee2765a",
+      "title": "Finite-Sample Analysis of Nonlinear Independent Component Analysis:Sample Complexity and Identifiability Bounds",
+      "link": "https://arxiv.org/abs/2604.08850",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "495ef0d1db069e9eb35e68c1a0f5f41ddd719f2c",
+      "title": "FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval",
+      "link": "https://arxiv.org/abs/2604.09114",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "cb63190a5aa20160a53a7f7a5fcf27ec405caa65",
+      "title": "Fisher-Geometric Diffusion in Stochastic Gradient Descent: Optimal Rates, Oracle Complexity, and Information-Theoretic Limits",
+      "link": "https://arxiv.org/abs/2603.02417",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "08fe96d5621bc32bafabb0e399c889a32f50536c",
+      "title": "FIT-GNN: Faster Inference Time for GNNs that 'FIT' in Memory Using Coarsening",
+      "link": "https://arxiv.org/abs/2410.15001",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d5169e7a0c040cb3cc3729979bcd0773053cf160",
+      "title": "FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs",
+      "link": "https://arxiv.org/abs/2512.20033",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1425,6 +2909,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "117e3347919c0751566972a20e327abb0e8e7a67",
+      "title": "From Frames to Events: Rethinking Evaluation in Human-Centric Video Anomaly Detection",
+      "link": "https://arxiv.org/abs/2604.09327",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "39e1d06623ba77a2a99002bbb357d8637267eb36",
       "title": "From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity",
       "link": "https://arxiv.org/abs/2512.02826",
@@ -1453,10 +2944,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "ed63a2f3497fcd99e8fb229cb63bf612fbdcdb51",
+      "title": "Fully Autonomous Z-Score-Based TinyML Anomaly Detection on Resource-Constrained MCUs Using Power Side-Channel Data",
+      "link": "https://arxiv.org/abs/2604.08581",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "5492b70e2a0b9853ab4c58bd51cb69a03133855a",
       "title": "GAN-Enhanced Deep Reinforcement Learning for Semantic-Aware Resource Allocation in 6G Network Slicing",
       "link": "https://arxiv.org/abs/2604.08576",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b7347103314ee38c49570d6b7187b59ad4d011b5",
+      "title": "Gated-SwinRMT: Unifying Swin Windowed Attention with Retentive Manhattan Decay via Input-Dependent Gating",
+      "link": "https://arxiv.org/abs/2604.06014",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1481,6 +2986,69 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "c68a7cd398d4d2ed052452155963758435afd2e2",
+      "title": "Generative 3D Gaussian Splatting for Arbitrary-ResolutionAtmospheric Downscaling and Forecasting",
+      "link": "https://arxiv.org/abs/2604.07928",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "421f557e4972a312a9453a6b15c0f45fc47de840",
+      "title": "Generative View Stitching",
+      "link": "https://arxiv.org/abs/2510.24718",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a2f235541e237eb1087c28244ab71fa218fee4c1",
+      "title": "Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching",
+      "link": "https://arxiv.org/abs/2604.09142",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "29e7a7bda88768828c7e2f5f285190478b973aa4",
+      "title": "Geometry-Induced Long-Range Correlations in Recurrent Neural Network Quantum States",
+      "link": "https://arxiv.org/abs/2604.08661",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1a7a860610242d891886b14ebe8c2cee8412ce1d",
+      "title": "GeoMMBench and GeoMMAgent: Toward Expert-Level Multimodal Intelligence in Geoscience and Remote Sensing",
+      "link": "https://arxiv.org/abs/2604.08896",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c03ec476191da60372d06acf791f3acc61b4ee2b",
+      "title": "GeoPAS: Geometric Probing for Algorithm Selection in Continuous Black-Box Optimisation",
+      "link": "https://arxiv.org/abs/2604.09095",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1e2444de14f1256a8ecf474928ef0db8bc779bb2",
+      "title": "GeRM: A Generative Rendering Model From Physically Realistic to Photorealistic",
+      "link": "https://arxiv.org/abs/2604.09304",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "19f6fcdf2c91f1e4d2321e04cb27d3ed05f7dc9b",
+      "title": "GL-LowPopArt: A Nearly Instance-Wise Minimax-Optimal Estimator for Generalized Low-Rank Trace Regression",
+      "link": "https://arxiv.org/abs/2506.03074",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "33c4ffb08165a29684543346f3541c915414b1ba",
+      "title": "Globally Optimal Pose from Orthographic Silhouettes",
+      "link": "https://arxiv.org/abs/2604.09199",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "087bc4f54528c0c7593a1efda57c0b3169c9051a",
       "title": "GNN-as-Judge: Unleashing the Power of LLMs for Graph Learning with GNN Feedback",
       "link": "https://arxiv.org/abs/2604.08553",
@@ -1499,6 +3067,13 @@
       "title": "Grammar as a Behavioral Biometric: Using Cognitively Motivated Grammar Models for Authorship Verification",
       "link": "https://arxiv.org/abs/2403.08462",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "35ef1f99f49140b169f997e3878cd0bd428e2c1c",
+      "title": "Graph Defense Diffusion Model",
+      "link": "https://arxiv.org/abs/2501.11568",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1537,6 +3112,27 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "cabb91a399256622d262be001700c9ae47b3c771",
+      "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
+      "link": "https://arxiv.org/abs/2604.06165",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5d5816517ae40e0fcd24f1668b0bc9bd28fe8b9a",
+      "title": "Harnessing Weak Pair Uncertainty for Text-based Person Search",
+      "link": "https://arxiv.org/abs/2604.08877",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "88b69a2bc434666c319fbd67500b024b37e47553",
+      "title": "HD-VGGT: High-Resolution Visual Geometry Transformer",
+      "link": "https://arxiv.org/abs/2603.27222",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "0e9d23d7ba626531281c88cdca16507a01df7eec",
       "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
       "link": "https://arxiv.org/abs/2604.08863",
@@ -1551,10 +3147,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "d843c73c9de98cd8e3faa8b2c8ef9cc9f7681b62",
+      "title": "Hierarchical Flow Decomposition for Turning Movement Prediction at Signalized Intersections",
+      "link": "https://arxiv.org/abs/2604.09336",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "df8e5e0fc911a167c351af2a0f2ef17caf2d90cd",
+      "title": "Hierarchical Kernel Transformer: Multi-Scale Attention with an Information-Theoretic Approximation Analysis",
+      "link": "https://arxiv.org/abs/2604.08829",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "edfccd112e454fcaa4cb13fdb5156c2a40d1f049",
+      "title": "Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modeling",
+      "link": "https://arxiv.org/abs/2604.05072",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "7c070a0c6ba3e39d825cdaf8616db2f39c448812",
       "title": "HiFloat4 Format for Language Model Pre-training on Ascend NPUs",
       "link": "https://arxiv.org/abs/2604.08826",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b32d383e50c96f6b639aacdd33522b4e81243c2c",
+      "title": "High-dimensional inference for the $\\gamma$-ray sky with differentiable programming",
+      "link": "https://arxiv.org/abs/2604.08648",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1565,10 +3189,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "8e542af8b2931b2cddf5f9e2bc04d583f81ce7fd",
+      "title": "Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation",
+      "link": "https://arxiv.org/abs/2604.09231",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "eb368895d5d2806b8161fa19ee4d7c06d1e12723",
       "title": "HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing",
       "link": "https://arxiv.org/abs/2604.08884",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b8cb376392542795f88feb43b138fb89591f26d6",
+      "title": "How does Chain of Thought decompose complex tasks?",
+      "link": "https://arxiv.org/abs/2604.08872",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "538d1759c56e2ed80a179d4e6af46c93c3ed8ed2",
+      "title": "How Noise Benefits AI-generated Image Detection",
+      "link": "https://arxiv.org/abs/2511.16136",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5439eee41c5676e818ce41bdeb3cffa5a7937422",
+      "title": "How Should Video LLMs Output Time? An Analysis of Efficient Temporal Grounding Paradigms",
+      "link": "https://arxiv.org/abs/2604.08966",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1607,6 +3259,34 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a1d838a75caf6438d1b08fc0b336ac359cd58ffb",
+      "title": "Identifying Causal Effects Using a Single Proxy Variable",
+      "link": "https://arxiv.org/abs/2604.09135",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "96a1aa9362bbbb6f03ec8066ce9617044d656c13",
+      "title": "IKKA: Inversion Classification via Critical Anomalies for Robust Visual Servoing",
+      "link": "https://arxiv.org/abs/2604.08754",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "280aa3706351e96e2b3ba1ef66ea568bb59e1377",
+      "title": "Imitation Learning for Combinatorial Optimisation under Uncertainty",
+      "link": "https://arxiv.org/abs/2601.05383",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ecb27fa5df80835380bdc43c1498cd616156599d",
+      "title": "Implicit Bias in Deep Linear Discriminant Analysis",
+      "link": "https://arxiv.org/abs/2603.02622",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b6091d13bdecd39534142ad7835d4b39b52c29ee",
       "title": "Improving Automatic Summarization of Radiology Reports through Mid-Training of Large Language Models",
       "link": "https://arxiv.org/abs/2603.19275",
@@ -1614,10 +3294,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "898367bf3dfb17a2c8f8f2993c24f27279362217",
+      "title": "Improving Model Performance by Adapting the KGE Metric to Account for System Non-Stationarity",
+      "link": "https://arxiv.org/abs/2604.03906",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8eb06572df16315b54f722cc7309dbc860b0145e",
+      "title": "Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer",
+      "link": "https://arxiv.org/abs/2604.09478",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c03d241ba13751e7d5bad8bacf825498e15f1aa7",
+      "title": "Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2403.19253",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0ce187d656c321386ebba40b6f7ef06d6ddb7b16",
+      "title": "InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation",
+      "link": "https://arxiv.org/abs/2604.08646",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "df135126a8d23dfe89e8062a37cc26cd2434e9d2",
       "title": "InstrAct: Towards Action-Centric Understanding in Instructional Videos",
       "link": "https://arxiv.org/abs/2604.08762",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fea4e1f859696068e8a9a129a3f689c94b2b724c",
+      "title": "Integrated electro-optic attention nonlinearities for transformers",
+      "link": "https://arxiv.org/abs/2604.09512",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1635,6 +3350,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "6cfb9729d0833d9ff66b972a03254b00528b1117",
+      "title": "Intrinsic Concept Extraction Based on Compositional Interpretability",
+      "link": "https://arxiv.org/abs/2603.11795",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "8e1a94d36d8b3f35841546d872d3b8f7c81529eb",
       "title": "Investigating Multimodal Large Language Models to Support Usability Evaluation",
       "link": "https://arxiv.org/abs/2508.16165",
@@ -1646,6 +3368,13 @@
       "title": "Is More Data Worth the Cost? Dataset Scaling Laws in a Tiny Attention-Only Decoder",
       "link": "https://arxiv.org/abs/2604.09389",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b001b4ca9fa5683816868d8131dc1eb7385f1e34",
+      "title": "Iterative Identification Closure: Amplifying Causal Identifiability in Linear SEMs",
+      "link": "https://arxiv.org/abs/2604.09309",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1677,10 +3406,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "93f70f6903e0a7e14482b4f327591dd9716894d5",
+      "title": "Large Reasoning Models Learn Better Alignment from Flawed Thinking",
+      "link": "https://arxiv.org/abs/2510.00938",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "ef2430da05aecf8e62eb94fddd0ac8e4aa94d66e",
       "title": "Large-Scale Universal Defect Generation: Foundation Models and Datasets",
       "link": "https://arxiv.org/abs/2604.08915",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "04507b1735764e541bd562bffd76d6fa9624e84f",
+      "title": "Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction",
+      "link": "https://arxiv.org/abs/2506.11552",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1768,6 +3511,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "7ea56d656c39574d8f4ad8959b27534c98aa12f3",
+      "title": "LoBE-GS: Load-Balanced and Efficient 3D Gaussian Splatting for Large-Scale Scene Reconstruction",
+      "link": "https://arxiv.org/abs/2510.01767",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "cdfdc25cdf46aca231d99c296bb973107ec7c400",
       "title": "Localizing Task Recognition and Task Learning in In-Context Learning via Attention Head Analysis",
       "link": "https://arxiv.org/abs/2509.24164",
@@ -1775,10 +3525,73 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "f2e9179e45e8574484a8bbda5d0b0c1a31f15fce",
+      "title": "Long-SCOPE: Fully Sparse Long-Range Cooperative 3D Perception",
+      "link": "https://arxiv.org/abs/2604.09206",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1afbd9ca526fe65af87721df4282ef51d3440af6",
+      "title": "Loom: A Scalable Analytical Neural Computer Architecture",
+      "link": "https://arxiv.org/abs/2604.08816",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2a638967708a04bf597498699f2ac80c52493b46",
+      "title": "Low Rank Based Subspace Inference for the Laplace Approximation of Bayesian Neural Networks",
+      "link": "https://arxiv.org/abs/2502.02345",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d3424afb6601113727b8f358eca2893738b92808",
+      "title": "Low-Data Supervised Adaptation Outperforms Prompting for Cloud Segmentation Under Domain Shift",
+      "link": "https://arxiv.org/abs/2604.08956",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "db8bc4271b4ff6a11281b8e1cc3ab6e40b56f28f",
+      "title": "LPLCv2: An Expanded Dataset for Fine-Grained License Plate Legibility Classification",
+      "link": "https://arxiv.org/abs/2604.08741",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d799400c10861ce60ff2571ec9dc08cdb80566aa",
+      "title": "LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation",
+      "link": "https://arxiv.org/abs/2604.09352",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1e17bc4961f1e1a55ba5bc564e9ef99f678b8601",
+      "title": "M-IDoL: Information Decomposition for Modality-Specific and Diverse Representation Learning in Medical Foundation Model",
+      "link": "https://arxiv.org/abs/2604.08936",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "bb57abe48203f83b1d7270816a5e77ba9f0e3c8b",
       "title": "MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits",
       "link": "https://arxiv.org/abs/2604.08952",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f7a3fe3e4aa1b035664f236e086b996431eb10d6",
+      "title": "MAG-3D: Multi-Agent Grounded Reasoning for 3D Understanding",
+      "link": "https://arxiv.org/abs/2604.09167",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "4e40f7b6920e69a0f62a312e1121dae5704c0356",
+      "title": "Mamba-Based Graph Convolutional Networks: Tackling Over-smoothing with Selective State Space",
+      "link": "https://arxiv.org/abs/2501.15461",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1810,10 +3623,52 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a3051c6b9dd4275f83cbeed0bfa52cdd809f9732",
+      "title": "MARBLE: Multi-Armed Restless Bandits in Latent Markovian Environment",
+      "link": "https://arxiv.org/abs/2511.09324",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "6e9554b6487469f11b303590fb61374d326a377c",
       "title": "MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments",
       "link": "https://arxiv.org/abs/2604.08615",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2aa99c583d660b19ee72f5e84cf3996f51789c55",
+      "title": "MASS: Mesh-inellipse Aligned Deformable Surfel Splatting for Hand Reconstruction and Rendering from Egocentric Monocular Video",
+      "link": "https://arxiv.org/abs/2604.08943",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "7f4f54b0c118f8925912aa8a03658aae580a83fa",
+      "title": "MATCHA: Efficient Deployment of Deep Neural Networks on Multi-Accelerator Heterogeneous Edge SoCs",
+      "link": "https://arxiv.org/abs/2604.09124",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "89c91a2401944c79aa9990ecdb7af395b21b91fc",
+      "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+      "link": "https://arxiv.org/abs/2604.08995",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ea7e7c4c6da666d7fa6a26d8568c0f7efc276a24",
+      "title": "Measurement-Consistent Langevin Corrector for Stabilizing Latent Diffusion Inverse Problem Solvers",
+      "link": "https://arxiv.org/abs/2601.04791",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ab9b49d1ebcdb197970be48902c3a58081f18a14",
+      "title": "Mechanisms of Introspective Awareness",
+      "link": "https://arxiv.org/abs/2603.21396",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1852,10 +3707,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "125098b84c183c4303dd21d5a13663ed0828cfeb",
+      "title": "Memory-Efficient Transfer Learning with Fading Side Networks via Masked Dual Path Distillation",
+      "link": "https://arxiv.org/abs/2604.09088",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1287914f3a484946183811994f234d0f4d81b988",
+      "title": "Memory-Guided Trust-Region Bayesian Optimization (MG-TuRBO) for High Dimensions",
+      "link": "https://arxiv.org/abs/2604.08569",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "2e251f82f5eae386b6b8c45e7436e7940047f2e4",
       "title": "MemReader: From Passive to Active Extraction for Long-Term Agent Memory",
       "link": "https://arxiv.org/abs/2604.07877",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2d21c8462cb640caee9b7b249793bb982757a182",
+      "title": "MeshOn: Intersection-Free Mesh-to-Mesh Composition",
+      "link": "https://arxiv.org/abs/2604.08799",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "838133b10cb9673cfd8b8f84a476c3bd9d4f2189",
+      "title": "Meta-Learned Basis Adaptation for Parametric Linear PDEs",
+      "link": "https://arxiv.org/abs/2604.09289",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1880,10 +3763,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "de878af626cace1822c609a5154b1931988400a0",
+      "title": "MixFlow: Mixed Source Distributions Improve Rectified Flows",
+      "link": "https://arxiv.org/abs/2604.09181",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "1d5075094c0d4fe1c98c85c6f62156d5bba642f5",
       "title": "Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory",
       "link": "https://arxiv.org/abs/2602.15313",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "57b8fa1dbebfe2711c34abd2e7c4a823ba053ccb",
+      "title": "Modality-Aware Zero-Shot Pruning and Sparse Attention for Efficient Multimodal Edge Inference",
+      "link": "https://arxiv.org/abs/2604.08971",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1936,10 +3833,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "c1465dbf7bc3f5f4b2d15e7e7abfce0d30c92ac6",
+      "title": "Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication",
+      "link": "https://arxiv.org/abs/2604.08944",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fb254d9eed77fb9f58717dead063aa00d23a148d",
+      "title": "Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application",
+      "link": "https://arxiv.org/abs/2604.09421",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "83014464a5d65cedcdea601ff83e49e9796cebe0",
       "title": "Multi-User Large Language Model Agents",
       "link": "https://arxiv.org/abs/2604.08567",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "47a2d82394b18c5fa1093f6c167507bb6ae90e44",
+      "title": "Multimodal Anomaly Detection for Human-Robot Interaction",
+      "link": "https://arxiv.org/abs/2604.09326",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1950,10 +3868,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "052dfe9b2662b3a58a804282d3af918a63c51ec9",
+      "title": "Music Audio-Visual Question Answering Requires Specialized Multimodal Designs",
+      "link": "https://arxiv.org/abs/2505.20638",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "e8f0e5674f50cd3a4db6f19b2518a1feb532fa4d",
       "title": "MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator",
       "link": "https://arxiv.org/abs/2604.08947",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d8313febcd5fd6379a8e039d3a82bbb5564732b7",
+      "title": "MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation",
+      "link": "https://arxiv.org/abs/2604.08916",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "cde7979e2cc1edac85fad67aa14868248530e75a",
+      "title": "Natural Riemannian gradient for learning functional tensor networks",
+      "link": "https://arxiv.org/abs/2604.09263",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1964,10 +3903,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a22d92ff0464534d7bbdf553d79d50d76b17b13c",
+      "title": "Needle in a Haystack: One-Class Representation Learning for Detecting Rare Malignant Cells in Computational Cytology",
+      "link": "https://arxiv.org/abs/2604.07722",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a1bc65c764bf7210c2e4556d76b14c0c7d7b39d5",
       "title": "Neighbourhood Transformer: Switchable Attention for Monophily-Aware Graph Learning",
       "link": "https://arxiv.org/abs/2604.08980",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "462e7e758f63f04bc12889ce618d521f835d82ad",
+      "title": "Nested Radially Monotone Polar Occupancy Estimation: Clinically-Grounded Optic Disc and Cup Segmentation for Glaucoma Screening",
+      "link": "https://arxiv.org/abs/2604.09062",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -1985,10 +3938,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a70d1d76c867307fcd2b25e7995e65fe324f611d",
+      "title": "Neural Two-Stage Stochastic Optimization for Solving Unit Commitment Problem",
+      "link": "https://arxiv.org/abs/2507.09503",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "5682933d46d9caad0b9a02d90f1de7eb0271e361",
       "title": "Neurons Speak in Ranges: Breaking Free from Discrete Neuronal Attribution",
       "link": "https://arxiv.org/abs/2502.06809",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1829b6c4627407f82b31d23c2b1654fec4c1bf2e",
+      "title": "Nexus: Same Pretraining Loss, Better Downstream Generalization via Common Minima",
+      "link": "https://arxiv.org/abs/2604.09258",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2006,10 +3973,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "a04ba33d9edd1e04b4eb0816a6c6a70f5ab6c31c",
+      "title": "NOMAD: Generating Embeddings for Massive Distributed Graphs",
+      "link": "https://arxiv.org/abs/2604.09419",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c8173ad251949df123307241307e44541284a507",
+      "title": "NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: Multi-Exposure Image Fusion in Dynamic Scenes (Track 2)",
+      "link": "https://arxiv.org/abs/2604.09030",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "37437605d11367e6ae565cf894856b77f2604f23",
       "title": "NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System",
       "link": "https://arxiv.org/abs/2604.09069",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "4dfc31335442f0b3c0bf56923e020cd3d49bb9db",
+      "title": "OASIS: Online Activation Subspace Learning for Memory-Efficient Training",
+      "link": "https://arxiv.org/abs/2604.09406",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3105f54d757b445ee3829ed8c25253bc1db11874",
+      "title": "Off-the-shelf Vision Models Benefit Image Manipulation Localization",
+      "link": "https://arxiv.org/abs/2604.09096",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c9f2177e3c86eb98f2e17a5fb61ebea1f0b7fa84",
+      "title": "Offline Local Search for Online Stochastic Bandits",
+      "link": "https://arxiv.org/abs/2604.09423",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2076,6 +4078,27 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "9d476e70a19adb5a70ddaaaf1ed56eadd38773b1",
+      "title": "Online Intention Prediction via Control-Informed Learning",
+      "link": "https://arxiv.org/abs/2604.09303",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "7659e79906191ff9ada9abb482a145918cee6104",
+      "title": "Online Quantile Regression for Nonparametric Additive Models",
+      "link": "https://arxiv.org/abs/2604.08969",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3f44d507e53b9f12289acb738b5a951a11025816",
+      "title": "Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model",
+      "link": "https://arxiv.org/abs/2604.09480",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b9b6e25b6f6fcf6e155970873631496f1cad456e",
       "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
       "link": "https://arxiv.org/abs/2604.08601",
@@ -2118,6 +4141,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "6f4015f259b21ee1c4f7419c41c03c9ad229e93d",
+      "title": "P3P Made Easy",
+      "link": "https://arxiv.org/abs/2508.01312",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "7368135f7d7bf7d343e9cc3653b6448043ba6652",
       "title": "PACED: Distillation and On-Policy Self-Distillation at the Frontier of Student Competence",
       "link": "https://arxiv.org/abs/2603.11178",
@@ -2139,6 +4169,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "f04ea4097cc581c52b17adfefd378460431edc54",
+      "title": "ParseBench: A Document Parsing Benchmark for AI Agents",
+      "link": "https://arxiv.org/abs/2604.08538",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "e258406eda077c887c846c2bddc913bdaaccad95",
       "title": "PDE-regularized Dynamics-informed Diffusion with Uncertainty-aware Filtering for Long-Horizon Dynamics",
       "link": "https://arxiv.org/abs/2604.09058",
@@ -2157,6 +4194,13 @@
       "title": "Persona-E$^2$: A Human-Grounded Dataset for Personality-Shaped Emotional Responses to Textual Events",
       "link": "https://arxiv.org/abs/2604.09162",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e746d98d16286a13c66254ef9e0f547df58b480e",
+      "title": "Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch",
+      "link": "https://arxiv.org/abs/2604.09100",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2188,10 +4232,66 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "76b5631a4f61c9606ac3faeefdb80dcd4e514745",
+      "title": "Plasticity-Enhanced Multi-Agent Mixture of Experts for Dynamic Objective Adaptation in UAVs-Assisted Emergency Communication Networks",
+      "link": "https://arxiv.org/abs/2604.09028",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "c6f22908d469d603c17b94a0528c03420174e5f8",
+      "title": "Plug-and-Play Logit Fusion for Heterogeneous Pathology Foundation Models",
+      "link": "https://arxiv.org/abs/2604.07779",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "163b2120ae327c6adc485a711635c86f4bfa615b",
+      "title": "Policy-Aware Design of Large-Scale Factorial Experiments",
+      "link": "https://arxiv.org/abs/2604.08804",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1aed31d2a854e3df738a81e0a6c38a0393b264e1",
+      "title": "PolySLGen: Online Multimodal Speaking-Listening Reaction Generation in Polyadic Interaction",
+      "link": "https://arxiv.org/abs/2604.08125",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8b18326ee0cccc959e8dfb8dd112e9daedf3fc23",
+      "title": "PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation",
+      "link": "https://arxiv.org/abs/2508.05091",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ecaf2a815807c155ac23741f3c1e2e62854c9779",
+      "title": "Post-Hoc Guidance for Consistency Models by Joint Flow Distribution Learning",
+      "link": "https://arxiv.org/abs/2604.08828",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "740e8669a43f2467b51f353b1ff871357c4394ad",
+      "title": "Post-Selection Distributional Model Evaluation",
+      "link": "https://arxiv.org/abs/2603.23055",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "5a0aac1d7ba02ca07fa345ab535f6b07be119409",
       "title": "Practical Bayesian Inference for Speech SNNs: Uncertainty and Loss-Landscape Smoothing",
       "link": "https://arxiv.org/abs/2604.08624",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "54c8fd71b8490496a3e3b4da319850177f297755",
+      "title": "PRADA: Probability-Ratio-Based Attribution and Detection of Autoregressive-Generated Images",
+      "link": "https://arxiv.org/abs/2511.20068",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2202,10 +4302,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "9955f8736c16d90d5313fab3ed184257c472de12",
+      "title": "Precise Shield: Explaining and Aligning VLLM Safety via Neuron-Level Guidance",
+      "link": "https://arxiv.org/abs/2604.08881",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "66c7fe9b45705353b33f34584e389070267f552b",
       "title": "Precomputing Multi-Agent Path Replanning using Temporal Flexibility",
       "link": "https://arxiv.org/abs/2601.04884",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "55f24646f06681d3a066e1cacafbd27757e71d7f",
+      "title": "Predicting Metabolic Dysfunction-Associated Steatotic Liver Disease using Machine Learning Methods: A Retrospective Cohort Study",
+      "link": "https://arxiv.org/abs/2510.22293",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0920998259e3556323097a1a5fb0a238d6c462dd",
+      "title": "Predictive Entropy Links Calibration and Paraphrase Sensitivity in Medical Vision-Language Models",
+      "link": "https://arxiv.org/abs/2604.08941",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3bd6fceb2abb6937d6005a973d860df10ffff4b2",
+      "title": "Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search",
+      "link": "https://arxiv.org/abs/2604.08598",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2258,6 +4386,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "5472bc1ad5834bf1be30866343f8bcd11c672bd2",
+      "title": "QoS-QoE Translation with Large Language Model",
+      "link": "https://arxiv.org/abs/2604.08703",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "3669836bc181f5813e5c3ee9d9af2544105ccad7",
       "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
       "link": "https://arxiv.org/abs/2604.08570",
@@ -2269,6 +4404,27 @@
       "title": "Quantisation Reshapes the Metacognitive Geometry of Language Models",
       "link": "https://arxiv.org/abs/2604.08976",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8538fa264a56372be5810241ab18bc417d34d47f",
+      "title": "R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII",
+      "link": "https://arxiv.org/abs/2604.08810",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "72cb4ea9f08a9c3bae761810feb31bd87f59f3b3",
+      "title": "R3PM-Net: Real-time, Robust, Real-world Point Matching Network",
+      "link": "https://arxiv.org/abs/2604.05060",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ef7499b5d1a8bcdff0be69486782ab235f08a401",
+      "title": "RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models",
+      "link": "https://arxiv.org/abs/2511.19704",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2286,6 +4442,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "9509b5b9e9dcaa820aeb008d47b27117bc57b53e",
+      "title": "Ranked Activation Shift for Post-Hoc Out-of-Distribution Detection",
+      "link": "https://arxiv.org/abs/2604.08572",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e6ef1d059d3d2a0cd26942510f9161616eb06a58",
+      "title": "RansomTrack: A Hybrid Behavioral Analysis Framework for Ransomware Detection",
+      "link": "https://arxiv.org/abs/2604.08739",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "4148781bdcf84ef125d9419b9c0cce5dea4cae59",
       "title": "Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories",
       "link": "https://arxiv.org/abs/2604.09429",
@@ -2297,6 +4467,20 @@
       "title": "Re-Mask and Redirect: Exploiting Denoising Irreversibility in Diffusion Language Models",
       "link": "https://arxiv.org/abs/2604.08557",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a0d0185c6e00ee0a5e97cb3918a9c2200dc58729",
+      "title": "REACT3D: Recovering Articulations for Interactive Physical 3D Scenes",
+      "link": "https://arxiv.org/abs/2510.11340",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fd4fbcf5348c2cda310c34b8a1c7ce246c54201c",
+      "title": "Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement",
+      "link": "https://arxiv.org/abs/2604.09473",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2328,6 +4512,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "7c6937ac856d8795c128b97919f3ad84381b0c86",
+      "title": "Reducing Class Bias In Data-Balanced Datasets Through Hardness-Based Resampling",
+      "link": "https://arxiv.org/abs/2504.07031",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "41ff98ef7bbf52e737b29c2575a1618436b57953",
       "title": "Reflection of Episodes: Learning to Play Game from Expert and Self Experiences",
       "link": "https://arxiv.org/abs/2502.13388",
@@ -2339,6 +4530,13 @@
       "title": "Regime-Conditional Retrieval: Theory and a Transferable Router for Two-Hop QA",
       "link": "https://arxiv.org/abs/2604.09019",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0e1687163c6143e1beba1a95d8d3d87cf31362c6",
+      "title": "Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing",
+      "link": "https://arxiv.org/abs/2604.09386",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2370,10 +4568,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "f6b45abeed09846e1d3ff7e741c4d46083c9fc00",
+      "title": "Reservoir observer enhanced with residual calibration and attention mechanism",
+      "link": "https://arxiv.org/abs/2604.08592",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a790966a10954087a45595cfbe03dd89e3624dc6",
       "title": "Rethinking Prospect Theory for LLMs: Revealing the Instability of Decision-Making under Epistemic Uncertainty",
       "link": "https://arxiv.org/abs/2508.08992",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ffa1fc28358b804af0cccdbd1a8701de6fe709cc",
+      "title": "RetinexDualV2: Physically-Grounded Dual Retinex for Generalized UHD Image Restoration",
+      "link": "https://arxiv.org/abs/2603.27979",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2391,6 +4603,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "10dcccc4c6266f3a4d38021b7d4f02d82c19fb16",
+      "title": "Revisiting Image Manipulation Localization under Realistic Manipulation Scenarios",
+      "link": "https://arxiv.org/abs/2509.20006",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "7349ec3c8c4dc7f3acc1daf34b93b41fae7bb691",
       "title": "Revisiting the Capacity Gap in Chain-of-Thought Distillation from a Practical Perspective",
       "link": "https://arxiv.org/abs/2604.08880",
@@ -2405,10 +4624,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "b3ff5be874d59822280b2a22340a4645c5ea187e",
+      "title": "RIRF: Reasoning Image Restoration Framework",
+      "link": "https://arxiv.org/abs/2604.09511",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "52f6e268493371f03e6ce4c9e4ff8a0edba92da4",
+      "title": "Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors",
+      "link": "https://arxiv.org/abs/2604.09366",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8b47f199a8d04fa89b93611942c68e5be744679a",
+      "title": "Robust by Design: A Continuous Monitoring and Data Integration Framework for Medical AI",
+      "link": "https://arxiv.org/abs/2604.09009",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "3bddca7df252d3fb83c73a3f8e2e29fccfc6a20e",
       "title": "Robust Reasoning Benchmark",
       "link": "https://arxiv.org/abs/2604.08571",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "7cf59dd27e69eb77eaae6bd38fb3e144aae8bc30",
+      "title": "RS-OVC: Open-Vocabulary Counting for Remote-Sensing Data",
+      "link": "https://arxiv.org/abs/2604.08704",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2433,10 +4680,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "97f548c2aae5795e8b0c522f5d71d90f759a8e45",
+      "title": "Sample Complexity of Composite Quantum Hypothesis Testing",
+      "link": "https://arxiv.org/abs/2601.08588",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "638fccf2efefaa8e8b8f96f763e39a7b365ea95e",
       "title": "Sample-Efficient Neurosymbolic Deep Reinforcement Learning",
       "link": "https://arxiv.org/abs/2601.02850",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a8469d38ab8430de156f9a8cedb428a5814502b4",
+      "title": "SAT: Selective Aggregation Transformer for Image Super-Resolution",
+      "link": "https://arxiv.org/abs/2604.07994",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2454,6 +4715,20 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "e53efc20ed6c0daeef856412c230ab2b3f00821c",
+      "title": "Scaling flow-based approaches for topology sampling in $\\mathrm{SU}(3)$ gauge theory",
+      "link": "https://arxiv.org/abs/2510.25704",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "be0bf4b70e1a49ea71dd96f1ed616b6aaa153c76",
+      "title": "Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2604.09045",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "bc4497e9249e60e810267c5ecdc9217a4da073bf",
       "title": "ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery",
       "link": "https://arxiv.org/abs/2604.09237",
@@ -2465,6 +4740,20 @@
       "title": "Scheming in the wild: detecting real-world AI scheming incidents with open-source intelligence",
       "link": "https://arxiv.org/abs/2604.09104",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "dff2d3bca962741f97726111993bd29b710076af",
+      "title": "Score-Driven Rating System for Sports",
+      "link": "https://arxiv.org/abs/2604.09143",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "4757945d113ee5de459d7283b9ca39670a4314c0",
+      "title": "SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images",
+      "link": "https://arxiv.org/abs/2604.09436",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2503,10 +4792,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "26f1d8cf5341fbf03ecf8054eda9b0711503bfbc",
+      "title": "Self-Sovereign Agent",
+      "link": "https://arxiv.org/abs/2604.08551",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b63b96fe5ccc15f71c1bf0d54831b9771fcba682",
       "title": "Self-Supervised Slice-to-Volume Reconstruction with Gaussian Representations for Fetal MRI",
       "link": "https://arxiv.org/abs/2601.22990",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "65634bf562e8c366f8be520f2d410d5da7b42a8b",
+      "title": "SelfHVD: Self-Supervised Handheld Video Deblurring",
+      "link": "https://arxiv.org/abs/2508.08605",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2545,10 +4848,52 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "1f74d253e4ad66be53ce9617466f719f43887e2c",
+      "title": "Sharp description of local minima in the loss landscape of high-dimensional two-layer ReLU neural networks",
+      "link": "https://arxiv.org/abs/2604.09412",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3e3066a6666763bcb2eb353fe1179e516e368203",
+      "title": "ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-based 3D Scene Understanding",
+      "link": "https://arxiv.org/abs/2512.03370",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "092cad0d4d36b4eaf8ee5711d5859303b695aeff",
+      "title": "SHIFT: Steering Hidden Intermediates in Flow Transformers",
+      "link": "https://arxiv.org/abs/2604.09213",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "33416fb9eee7e2d5f89cf4dee35a1335300df31b",
+      "title": "Shortcut Learning in Glomerular AI: Adversarial Penalties Hurt, Entropy Helps",
+      "link": "https://arxiv.org/abs/2604.07936",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "de29343cd713238c137cbf7d76c10ef7fb1941fb",
+      "title": "SIC3D: Style Image Conditioned Text-to-3D Gaussian Splatting Generation",
+      "link": "https://arxiv.org/abs/2604.08760",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b516af015c7c00018c1e4d3275206432e260abce",
       "title": "Silhouette Loss: Differentiable Global Structure Learning for Deep Representations",
       "link": "https://arxiv.org/abs/2604.08573",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "ffb406ea910429628ba2f7c5137c849daeb3cbb7",
+      "title": "Sim-to-Real Transfer for Muscle-Actuated Robots via Generalized Actuator Networks",
+      "link": "https://arxiv.org/abs/2604.09487",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2563,6 +4908,13 @@
       "title": "SiMing-Bench: Evaluating Procedural Correctness from Continuous Interactions in Clinical Skill Videos",
       "link": "https://arxiv.org/abs/2604.09037",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "fb3591c21bd20a1b6c1c576c8c2d2e20fab9957d",
+      "title": "SimScale: Learning to Drive via Real-World Simulation at Scale",
+      "link": "https://arxiv.org/abs/2511.23369",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2601,6 +4953,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "5052976578ae76c3238ff228d8a447ada7399e23",
+      "title": "Smartwatch-Based Sitting Time Estimation in Real-World Office Settings",
+      "link": "https://arxiv.org/abs/2604.08808",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "a13e9475ea6be510fcc17e80b3aaa1d4d5e8aa01",
       "title": "SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation",
       "link": "https://arxiv.org/abs/2604.09212",
@@ -2612,6 +4971,27 @@
       "title": "SPEAR: An Engineering Case Study of Multi-Agent Coordination for Smart Contract Auditing",
       "link": "https://arxiv.org/abs/2602.04418",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "4f25dc75f2a1cf0ba7f409a96f87330f02cf78e5",
+      "title": "Spectral Geometry of LoRA Adapters Encodes Training Objective and Predicts Harmful Compliance",
+      "link": "https://arxiv.org/abs/2604.08844",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "da2f10cf597a83bbdfb75fdbb87576b1126e7f5c",
+      "title": "Spectral-Transport Stability and Benign Overfitting in Interpolating Learning",
+      "link": "https://arxiv.org/abs/2604.08625",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a0173160225664c66bb1c65f098bedd8914b9de1",
+      "title": "SPP-SBL: Space-Power Prior Sparse Bayesian Learning for Block Sparse Recovery",
+      "link": "https://arxiv.org/abs/2505.08518",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2636,10 +5016,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "5e9ac6123e5b83acfb622f7af4b51a85ea022ca3",
+      "title": "Stability Enhanced Gaussian Process Variational Autoencoders",
+      "link": "https://arxiv.org/abs/2604.09331",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "122df2fdc2da504fb87272ce4c84e0c60e5c54ce",
       "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
       "link": "https://arxiv.org/abs/2604.08905",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e783cb6328e9afbf9d3edd445c54a11088a03e2f",
+      "title": "State Space Models are Effective Sign Language Learners: Exploiting Phonological Compositionality for Vocabulary-Scale Recognition",
+      "link": "https://arxiv.org/abs/2604.08761",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2664,6 +5058,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "4f96900f1e05a3ee3ad5295f101d6643f3e6a9f7",
+      "title": "Stochastic-Dimension Frozen Sampled Neural Network for High-Dimensional Gross-Pitaevskii Equations on Unbounded Domains",
+      "link": "https://arxiv.org/abs/2604.09361",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "d2e4071c10b687ef248b38a2813d2c0ceb5a4898",
       "title": "Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games",
       "link": "https://arxiv.org/abs/2604.09502",
@@ -2671,10 +5072,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "efbdfce6efe698771be3c7a740192a1b0f5ad714",
+      "title": "Streaming Video Instruction Tuning",
+      "link": "https://arxiv.org/abs/2512.21334",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b67123e208b157eab7fb0c2abb296b2f079d2911",
+      "title": "StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding",
+      "link": "https://arxiv.org/abs/2604.09000",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5b599c30aee8fdbb5513886f9739f3380f424866",
+      "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
+      "link": "https://arxiv.org/abs/2604.09132",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "d075c11fb4b6618d38995fbff2f4ba9fd1105a45",
       "title": "StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning",
       "link": "https://arxiv.org/abs/2604.08620",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "456c1bd9cf1a8ad166ae2939fe950a4953c4282c",
+      "title": "Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis",
+      "link": "https://arxiv.org/abs/2604.08809",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "70690f89cbba41e2567adadcbdb24976725477e3",
+      "title": "Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction",
+      "link": "https://arxiv.org/abs/2604.09324",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2720,6 +5156,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "d44a9d060e6f4007dc7eae75f5fcc1e03037d91a",
+      "title": "SyncBreaker:Stage-Aware Multimodal Adversarial Attacks on Audio-Driven Talking Head Generation",
+      "link": "https://arxiv.org/abs/2604.08405",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "c67b1208ee297a25ba720824a3ba0217412c335d",
       "title": "SynDocDis: A Metadata-Driven Framework for Generating Synthetic Physician Discussions Using Large Language Models",
       "link": "https://arxiv.org/abs/2604.08555",
@@ -2727,10 +5170,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "2a98d2703adf9c4ce10787211543c8b7752f62c7",
+      "title": "SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data",
+      "link": "https://arxiv.org/abs/2604.09411",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "e6b9521990dce3c5b8daf8dbae59278e59aaf7dd",
+      "title": "Synthesizing real-world distributions from high-dimensional Gaussian Noise with Fully Connected Neural Network",
+      "link": "https://arxiv.org/abs/2604.09091",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "a97fbd7ba29eb1d2ed3e7c02a61f97a85895d312",
+      "title": "TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction",
+      "link": "https://arxiv.org/abs/2604.08921",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "28bf09cca7ebe09c0d039510b7157ceaed24b43f",
+      "title": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
+      "link": "https://arxiv.org/abs/2604.09547",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "c8d3ca1d3c1017434aec6613e3901c77a8128b1e",
       "title": "Task Vectors, Learned Not Extracted: Performance Gains and Mechanistic Insight",
       "link": "https://arxiv.org/abs/2509.24169",
       "source_name": "arXiv NLP",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "f0d1365c3438645f17309571388248f60b3100d5",
+      "title": "Task-agnostic Low-rank Residual Adaptation for Efficient Federated Continual Fine-Tuning",
+      "link": "https://arxiv.org/abs/2505.12318",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2776,6 +5254,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "21ccc2613028393609260e9b0d68e022955abe52",
+      "title": "Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting",
+      "link": "https://arxiv.org/abs/2604.09067",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b0b6f1999f691d739fd6367226d3e7e51977e40e",
       "title": "Temporal Transfer Learning for Traffic Optimization with Coarse-grained Advisory Autonomy",
       "link": "https://arxiv.org/abs/2312.09436",
@@ -2797,10 +5282,24 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "5a473b4fe3b41dfffe1b42dcef0cb7e93ac15ee5",
+      "title": "Text-Conditioned Multi-Expert Regression Framework for Fully Automated Multi-Abutment Design",
+      "link": "https://arxiv.org/abs/2604.09047",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "57a09b1956878be10550e3661474781f1c9dd82b",
       "title": "The AI Codebase Maturity Model: From Assisted Coding to Self-Sustaining Systems",
       "link": "https://arxiv.org/abs/2604.09388",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "2b310d96458b87c67f7183ea98756a7349ac18cf",
+      "title": "The causal relation between off-street parking and electric vehicle adoption in Scotland",
+      "link": "https://arxiv.org/abs/2604.09271",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2815,6 +5314,13 @@
       "title": "The Hot Mess of AI: How Does Misalignment Scale With Model Intelligence and Task Complexity?",
       "link": "https://arxiv.org/abs/2601.23045",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8083ea479eced1f2f0df04f53224428e6953cbd7",
+      "title": "The nextAI Solution to the NeurIPS 2023 LLM Efficiency Challenge",
+      "link": "https://arxiv.org/abs/2604.09034",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2853,6 +5359,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "1ecf36fafafe8037e875be153db71bf01d77cdbb",
+      "title": "Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation",
+      "link": "https://arxiv.org/abs/2604.09368",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "5b80d023c3ce58c9e5d0e95ec830367283e364ac",
       "title": "TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Title and Abstract Screening",
       "link": "https://arxiv.org/abs/2604.08602",
@@ -2867,10 +5380,59 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "b6beeb7fed054a19ef858295690184216bf085c9",
+      "title": "TinyNeRV: Compact Neural Video Representations via Capacity Scaling, Distillation, and Low-Precision Inference",
+      "link": "https://arxiv.org/abs/2604.09220",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "0aa687d4ee16d9f7e42c65ad45d3ea0fb4769066",
       "title": "TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation",
       "link": "https://arxiv.org/abs/2604.09439",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "49eba1b0dd7d69c86ab02b39dc0c938fdae26f37",
+      "title": "Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models",
+      "link": "https://arxiv.org/abs/2603.01400",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d10a25807cdbcb430139adbdb0e2b65673d0773c",
+      "title": "TopoFlow: Topography-aware Pollutant Flow Learning for High-Resolution Air Quality Prediction",
+      "link": "https://arxiv.org/abs/2602.16821",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "6327ababdda9f3374a8b52516b9bb8a3b605c037",
+      "title": "Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence",
+      "link": "https://arxiv.org/abs/2604.09057",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d06e85a71fa3231aaaabcdf2119e2e2cf1331418",
+      "title": "TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches",
+      "link": "https://arxiv.org/abs/2604.08945",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1acf12925f5227f926f797b32d8a506f44680af3",
+      "title": "Toward Hardware-Agnostic Quadrupedal World Models via Morphology Conditioning",
+      "link": "https://arxiv.org/abs/2604.08780",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "46f1ae1cf5cd2ac1932315440c7e1d48b7fe3210",
+      "title": "Toward World Models for Epidemiology",
+      "link": "https://arxiv.org/abs/2604.09519",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2888,6 +5450,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "03fdcb6294c0077adcb880652fb1ebfab07c26cb",
+      "title": "Towards Lifelong Aerial Autonomy: Geometric Memory Management for Continual Visual Place Recognition in Dynamic Environments",
+      "link": "https://arxiv.org/abs/2604.09038",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "38235c5512f5ba1ac04dcbc04393458bfb2ec1f0",
       "title": "Towards Linguistically-informed Representations for English as a Second or Foreign Language: Review, Construction and Application",
       "link": "https://arxiv.org/abs/2604.09008",
@@ -2902,10 +5471,45 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "f0b33fed8f8e3480485baa4bff6d211957d45cc5",
+      "title": "Towards Responsible Multimodal Medical Reasoning via Context-Aligned Vision-Language Models",
+      "link": "https://arxiv.org/abs/2604.08815",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "73b6c025b4779cc6a963786cb87361460e40041c",
+      "title": "Tracing the Chain: Deep Learning for Stepping-Stone Intrusion Detection",
+      "link": "https://arxiv.org/abs/2604.08800",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "0cd0fb448da020f173c4a3d0b582e54cd3b0f6a3",
+      "title": "Training event-based neural networks with exact gradients via Differentiable ODE Solving in JAX",
+      "link": "https://arxiv.org/abs/2603.08146",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "384ef8df7e9c07b99a4275e9e0a3683be708c774",
+      "title": "Training-free, Perceptually Consistent Low-Resolution Previews with High-Resolution Image for Efficient Workflows of Diffusion Models",
+      "link": "https://arxiv.org/abs/2604.09227",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "c496e453e67140f71c615c0a04bc1af114fea75b",
       "title": "Traj2Action: A Co-Denoising Framework for Trajectory-Guided Human-to-Robot Skill Transfer",
       "link": "https://arxiv.org/abs/2510.00491",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "aea70183f3c20e6c05f2eda1f20f350006223ef1",
+      "title": "Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory",
+      "link": "https://arxiv.org/abs/2604.09320",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2916,10 +5520,38 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "7b6a9fd4737a2e1ecbfc74dd40342c860ecfb25d",
+      "title": "Truncated Rectified Flow Policy for Reinforcement Learning with One-Step Sampling",
+      "link": "https://arxiv.org/abs/2604.09159",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "46a7b8e03cba5aa5972fb1810d3a9a2af390639a",
+      "title": "TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization",
+      "link": "https://arxiv.org/abs/2604.07248",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "467aca5906305a7d0f4f45bbab0e73d4876ca054",
       "title": "U-Cast: A Surprisingly Simple and Efficient Frontier Probabilistic AI Weather Forecaster",
       "link": "https://arxiv.org/abs/2604.09041",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5e3d264e46537be83fd04a3950d8cae478a7c2c6",
+      "title": "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models",
+      "link": "https://arxiv.org/abs/2604.02241",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "08faae30e4127c59c0ca774c05802913e9aa5cee",
+      "title": "UHD Low-Light Image Enhancement via Real-Time Enhancement Methods with Clifford Information Fusion",
+      "link": "https://arxiv.org/abs/2604.09321",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2944,10 +5576,66 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "6fac7f9f0f34c6542e7967227aafdf6ba3de6ceb",
+      "title": "Uncertainty-Aware Transformers: Conformal Prediction for Language Models",
+      "link": "https://arxiv.org/abs/2604.08885",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5d5c56bad2754aad5faae7680a31323981d717de",
+      "title": "Unified Multimodal Uncertain Inference",
+      "link": "https://arxiv.org/abs/2604.08701",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "d0db1e1157415b6763c53ed9d70db663d7044c18",
+      "title": "UniSemAlign: Text-Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation",
+      "link": "https://arxiv.org/abs/2604.09169",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "1c46e6c5b91a1f59e6a9aa4855e7569e5a4732c5",
+      "title": "Universal Approximation with XL MIMO Systems: OTA Classification via Trainable Analog Combining",
+      "link": "https://arxiv.org/abs/2504.12758",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "c228c3d3829b626758a54f725a825ba724503a1a",
       "title": "Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing",
       "link": "https://arxiv.org/abs/2510.03548",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "5e39706d93e56326531b443b403a2de2b17093a8",
+      "title": "Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya",
+      "link": "https://arxiv.org/abs/2604.08902",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "504c7b80ce532cd48d057117733bf0754786dfd9",
+      "title": "VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis",
+      "link": "https://arxiv.org/abs/2604.09330",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8f9f2aa53c90ea4c2ece29b9d00d04a7fb5ff1c4",
+      "title": "VAGNet: Vision-based accident anticipation with global features",
+      "link": "https://arxiv.org/abs/2604.09305",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "8b8c6e31e578491bb2a15a1e2ef0e0a14ce1fc14",
+      "title": "Variational Quantum Physics-Informed Neural Networks for Hydrological PDE-Constrained Learning with Inherent Uncertainty Quantification",
+      "link": "https://arxiv.org/abs/2604.09374",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -2965,6 +5653,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "b4004d9c4ca7ba513070f573862ee390ce52b2a3",
+      "title": "ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction",
+      "link": "https://arxiv.org/abs/2604.08613",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "86dce3267f0494b59d080772856031b2cdb981d7",
       "title": "Vision Transformers for Preoperative CT-Based Prediction of Histopathologic Chemotherapy Response Score in High-Grade Serous Ovarian Carcinoma",
       "link": "https://arxiv.org/abs/2604.09197",
@@ -2976,6 +5671,13 @@
       "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
       "link": "https://arxiv.org/abs/2604.09531",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "b9e1174d745f74094811afafaf8a0ff16ff41855",
+      "title": "VisionLaw: Inferring Interpretable Intrinsic Dynamics from Visual Observations via Bilevel Optimization",
+      "link": "https://arxiv.org/abs/2508.13792",
+      "source_name": "arXiv 计算机视觉",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -3028,10 +5730,31 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "113954774f860d35f541dbaaf0585c94f0f3b2a4",
+      "title": "Weak Adversarial Neural Pushforward Method for the Wigner Transport Equation",
+      "link": "https://arxiv.org/abs/2604.08763",
+      "source_name": "arXiv 机器学习",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "e28876602be97e8eb4bdeb1814d352536c44c9c3",
       "title": "Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining Levels",
       "link": "https://arxiv.org/abs/2510.06499",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "60ca93eb0022bf1962359e51c7ec4abfa828153e",
+      "title": "What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction",
+      "link": "https://arxiv.org/abs/2604.08716",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "6b3372cf8326f5c46d5ba72c494597b809c8f217",
+      "title": "When & How to Write for Personalized Demand-aware Query Rewriting in Video Search",
+      "link": "https://arxiv.org/abs/2602.17667",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -3060,6 +5783,20 @@
       "title": "Why Adam Can Beat SGD: Second-Moment Normalization Yields Sharper Tails",
       "link": "https://arxiv.org/abs/2603.03099",
       "source_name": "arXiv AI",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "434f0dd88592780d573e199df798bcad7d83e2b5",
+      "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+      "link": "https://arxiv.org/abs/2604.08626",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
+      "id": "3b8bd32a721af8ee34ca65773a85a3cc86e6a898",
+      "title": "Wireless Communication Enhanced Value Decomposition for Multi-Agent Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2604.08728",
+      "source_name": "arXiv 机器学习",
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
@@ -3105,6 +5842,13 @@
       "published_at": "2026-04-13T04:00:00.000Z"
     },
     {
+      "id": "294e3171148f291ae93b606e13eca8701d9bc7c9",
+      "title": "Zero-Shot Generative De-identification: Inversion-Free Flow for Privacy-Preserving Skin Image Analysis",
+      "link": "https://arxiv.org/abs/2602.00821",
+      "source_name": "arXiv 计算机视觉",
+      "published_at": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "id": "b93b19ad7c2e7b5ed7df73a68074387e1f190ff4",
       "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
       "link": "https://sspai.com/post/108519",
@@ -3140,6 +5884,13 @@
       "published_at": "2026-04-13T02:53:10.000Z"
     },
     {
+      "id": "4675bbf5cce3657543996e01a497b56865697a6c",
+      "title": "Quoting Bryan Cantrill",
+      "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill",
+      "source_name": "Simon Willison's Blog",
+      "published_at": "2026-04-13T02:44:24.000Z"
+    },
+    {
       "id": "0712ec7e259727556523166956b2b7a37246a574",
       "title": "Tell HN: Reddit now demands to know why you won't use their app",
       "link": "https://news.ycombinator.com/item?id=47746849",
@@ -3168,6 +5919,13 @@
       "published_at": "2026-04-13T01:15:04.000Z"
     },
     {
+      "id": "74e86f767ae856fafc3b688337bc4a9eaf3574b5",
+      "title": "早报｜马斯克版微信亮相App Store，周五开放下载/宇树机器人跑步刷新纪录，王兴兴：年内将超博尔特/海底捞回应员工自费500元买礼物",
+      "link": "https://www.ifanr.com/1661898",
+      "source_name": "爱范儿",
+      "published_at": "2026-04-13T00:45:52.000Z"
+    },
+    {
       "id": "5e53331bec46929cb3722137fba53273646b4e6f",
       "title": "Claunnector",
       "link": "https://www.producthunt.com/products/claunnector",
@@ -3179,13 +5937,6 @@
       "title": "14 things our PhD supervisors got right and why it mattered",
       "link": "https://www.nature.com/articles/d41586-026-00853-w",
       "source_name": "Nature",
-      "published_at": "2026-04-13T00:00:00.000Z"
-    },
-    {
-      "id": "1bed651885a5ba4a6e71af9eb47b1245f42bf099",
-      "title": "A little tool to visualise MoE expert routing",
-      "link": "https://martinalderson.com/posts/moe-expert-routing-visualization",
-      "source_name": "martinalderson.com",
       "published_at": "2026-04-13T00:00:00.000Z"
     },
     {
@@ -3208,6 +5959,20 @@
       "link": "https://www.nature.com/articles/d41586-026-01101-x",
       "source_name": "Nature",
       "published_at": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "id": "c9a6e7bb6247dea6e5c05b3f1edb8d193bae0aad",
+      "title": "Gemma 4 audio with MLX",
+      "link": "https://simonwillison.net/2026/Apr/12/mlx-audio",
+      "source_name": "Simon Willison's Blog",
+      "published_at": "2026-04-12T23:57:53.000Z"
+    },
+    {
+      "id": "90d0a1a649a949a6813b7c32e23ba30d6b21409e",
+      "title": "openclaw 2026.4.12-beta.1",
+      "link": "https://github.com/openclaw/openclaw/releases/tag/v2026.4.12-beta.1",
+      "source_name": "OpenClaw Releases",
+      "published_at": "2026-04-12T23:49:52.000Z"
     },
     {
       "id": "9c908e1036c375683e635998210d6f927fe6b990",
@@ -3236,6 +6001,13 @@
       "link": "https://www.producthunt.com/products/clarm-ai-technical-support",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T23:21:27.000Z"
+    },
+    {
+      "id": "2abe72cb6dda6748094d68612fc0a90269dab296",
+      "title": "NetNewsWire 7.0.5b1 for Mac",
+      "link": "https://github.com/Ranchero-Software/NetNewsWire/releases/tag/mac-7.0.5b1",
+      "source_name": "NetNewsWire Releases",
+      "published_at": "2026-04-12T23:17:21.000Z"
     },
     {
       "id": "362a90669b9c4763dea9fe36954dcd255a1e8204",
@@ -3285,20 +6057,6 @@
       "link": "https://alok.github.io/lean-pages/perfectable-lean",
       "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T21:11:24.000Z"
-    },
-    {
-      "id": "b55defe1c3fd726966303155ee7fc43c6a67d37c",
-      "title": "I ran Gemma 4 as a local model in Codex CLI",
-      "link": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-12T20:43:08.000Z"
-    },
-    {
-      "id": "f7e6bdb6b95f33c0a7409da660f2b00a91a277e9",
-      "title": "Uncharted island soon to appear on nautical charts",
-      "link": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-12T20:30:11.000Z"
     },
     {
       "id": "cdf8d794c6604e122b4de36034a497a110e78bc2",
@@ -3383,6 +6141,13 @@
       "link": "https://www.producthunt.com/products/ghostdesk-2",
       "source_name": "Product Hunt",
       "published_at": "2026-04-12T19:02:21.000Z"
+    },
+    {
+      "id": "c966c967aa8c63e512ca680e10521a1a1621e5c2",
+      "title": "That’s a Skill Issue",
+      "link": "https://blog.jim-nielsen.com/2026/skill-issue",
+      "source_name": "blog.jim-nielsen.com",
+      "published_at": "2026-04-12T19:00:00.000Z"
     },
     {
       "id": "cf4d8bd8f7847e51ca173bc6bdd01be871a7e954",
@@ -3505,7 +6270,7 @@
     },
     {
       "id": "853650ccf871909568bb0f662ca8021651d7b300",
-      "title": "From LLMs to hallucinations, here&#8217;s a simple guide to common AI terms",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
       "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
       "source_name": "TechCrunch",
       "published_at": "2026-04-12T15:07:08.000Z"
@@ -3558,6 +6323,13 @@
       "link": "https://github.com/anthropics/claude-code/issues/45756",
       "source_name": "Hacker News 最佳",
       "published_at": "2026-04-12T13:15:31.000Z"
+    },
+    {
+      "id": "0ab650687831ab55c628eac6e422b9d977a1e2a0",
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-12T13:06:44.000Z"
     },
     {
       "id": "021aacd08091b9f76a620f3097b39d6b2ef139d0",

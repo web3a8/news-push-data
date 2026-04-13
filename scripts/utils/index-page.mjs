@@ -60,64 +60,45 @@ function buildFileCards() {
   ];
 }
 
-function buildStatusCards({ dataset, meta }) {
-  return [
-    {
-      title: "Dataset ID",
-      meta: "Unique build identifier",
-      body: `<code>${escapeHtml(dataset.dataset_id)}</code>`
-    },
-    {
-      title: "Run Health",
-      meta: "Sources processed",
-      body: `${meta.source_succeeded} succeeded · ${meta.source_failed} failed · ${meta.source_total} total`
-    },
-    {
-      title: "Warnings",
-      meta: "Operational signal",
-      body: `${meta.warnings.length} warning${meta.warnings.length === 1 ? "" : "s"} in the latest successful build`
-    },
-    {
-      title: "Articles",
-      meta: "Published records",
-      body: `${dataset.article_count} normalized articles in the current dataset`
-    }
-  ];
+function renderFailureBreakdown(meta) {
+  const breakdown = meta.failure_breakdown || [];
+  if (breakdown.length === 0) {
+    return "<p class=\"feed-empty\">No failed sources in the latest successful build.</p>";
+  }
+
+  return `<ul class="record-list">${breakdown
+    .map(
+      (entry) => `<li>
+            <strong>${escapeHtml(entry.category)}</strong> · ${entry.count} source${entry.count === 1 ? "" : "s"}
+            <div class="list-note">${entry.examples
+              .map((example) => `${escapeHtml(example.source_name)}: ${escapeHtml(example.detail)}`)
+              .join(" · ")}
+            </div>
+          </li>`
+    )
+    .join("")}</ul>`;
 }
 
-function buildDiagnosticsCards(meta) {
-  const summary = meta.source_status_summary || {
-    with_data: 0,
-    reachable_empty: 0,
-    failed: 0
-  };
+function renderSourceList(items, { includeReason = false } = {}) {
+  if (items.length === 0) {
+    return "<p class=\"feed-empty\">None.</p>";
+  }
 
-  return [
-    {
-      title: "With Data",
-      meta: "Fetched and yielded articles",
-      body: `${summary.with_data} source${summary.with_data === 1 ? "" : "s"}`
-    },
-    {
-      title: "Reachable But Empty",
-      meta: "Fetched successfully, zero normalized articles",
-      body: `${summary.reachable_empty} source${summary.reachable_empty === 1 ? "" : "s"}`
-    },
-    {
-      title: "Failed Sources",
-      meta: "Request, parse, or access failure",
-      body: `${summary.failed} source${summary.failed === 1 ? "" : "s"}`
-    }
-  ];
-}
-
-function buildSampleCards(articles) {
-  return articles.slice(0, 6).map((article) => ({
-    title: article.title,
-    meta: `${escapeHtml(article.source_name)} · ${formatTimestamp(article.published_at || article.fetched_at)}`,
-    body: truncateText(article.summary || "No summary provided.", 180),
-    href: article.link || "./latest.json"
-  }));
+  return `<ul class="record-list">
+      ${items
+        .map(
+          (item) => `<li>
+            <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(item.source_name)}</a>
+            <span class="list-meta">${escapeHtml(item.source_type)} · fetched ${item.fetched_article_count} · published ${item.published_article_count} · ${item.duration_ms} ms</span>
+            ${
+              includeReason && item.failure_detail
+                ? `<div class="list-note">${escapeHtml(item.failure_detail)}</div>`
+                : ""
+            }
+          </li>`
+        )
+        .join("")}
+    </ul>`;
 }
 
 function buildSourceGroups(articles) {
@@ -132,103 +113,50 @@ function buildSourceGroups(articles) {
   return Array.from(grouped.entries())
     .map(([sourceName, sourceArticles]) => ({
       sourceName,
-      articles: sourceArticles,
-      latestTime: Math.max(
-        ...sourceArticles.map((article) => Date.parse(article.published_at || article.fetched_at) || 0)
-      )
+      articles: sourceArticles
     }))
-    .sort((left, right) => {
-      if (right.articles.length !== left.articles.length) {
-        return right.articles.length - left.articles.length;
-      }
-
-      return right.latestTime - left.latestTime;
-    })
-    .slice(0, 8);
+    .sort((left, right) => right.articles.length - left.articles.length)
+    .slice(0, 10);
 }
 
-function renderWarnings(warnings) {
-  if (warnings.length === 0) {
-    return "<p class=\"feed-empty\">No warnings in the latest successful build.</p>";
+function renderArticleGroups(groups) {
+  if (groups.length === 0) {
+    return "<p class=\"feed-empty\">No articles are available in the current dataset.</p>";
   }
 
-  return `<div class="signal-grid">${warnings
-    .slice(0, 6)
+  return groups
     .map(
-      (warning) => `<article class="signal-card">
-            <p class="signal-meta">Warning</p>
-            <p>${escapeHtml(warning)}</p>
-          </article>`
-    )
-    .join("")}</div>`;
-}
-
-function renderFailureBreakdown(meta) {
-  const breakdown = meta.failure_breakdown || [];
-  if (breakdown.length === 0) {
-    return "<p class=\"feed-empty\">No failed sources in the latest successful build.</p>";
-  }
-
-  return `<div class="signal-grid">${breakdown
-    .map(
-      (entry) => `<article class="signal-card">
-            <p class="signal-meta">${entry.count} source${entry.count === 1 ? "" : "s"}</p>
-            <h3>${escapeHtml(entry.category)}</h3>
-            <p>${entry.examples
-              .map((example) => `${escapeHtml(example.source_name)}: ${escapeHtml(example.detail)}`)
-              .join(" · ")}</p>
-          </article>`
-    )
-    .join("")}</div>`;
-}
-
-function renderDiagnosticsTable(items) {
-  if (items.length === 0) {
-    return "<p class=\"feed-empty\">None.</p>";
-  }
-
-  return `<div class="table-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>Source</th>
-            <th>Type</th>
-            <th>Fetched</th>
-            <th>Published</th>
-            <th>Duration</th>
-            <th>Reason</th>
-          </tr>
-        </thead>
-        <tbody>
-          ${items
+      (group) => `<div class="group-block">
+        <h3>${escapeHtml(group.sourceName)} <span class="list-meta">${group.articles.length} article${group.articles.length === 1 ? "" : "s"}</span></h3>
+        <ul class="record-list">
+          ${group.articles
+            .slice(0, 5)
             .map(
-              (item) => `<tr>
-              <td>
-                <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noreferrer">${escapeHtml(item.source_name)}</a>
-              </td>
-              <td>${escapeHtml(item.source_type)}</td>
-              <td>${item.fetched_article_count}</td>
-              <td>${item.published_article_count}</td>
-              <td>${item.duration_ms} ms</td>
-              <td>${escapeHtml(item.failure_detail || "OK")}</td>
-            </tr>`
+              (article) => `<li>
+                <a href="${escapeHtml(article.link || "./latest.json")}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a>
+                <span class="list-meta">${formatTimestamp(article.published_at || article.fetched_at)}</span>
+                <div class="list-note">${escapeHtml(truncateText(article.summary || "No summary provided.", 180))}</div>
+              </li>`
             )
             .join("")}
-        </tbody>
-      </table>
-    </div>`;
+        </ul>
+      </div>`
+    )
+    .join("");
 }
 
 export function buildIndexPage({ dataset, meta }) {
   const fileCards = buildFileCards();
-  const statusCards = buildStatusCards({ dataset, meta });
-  const diagnosticsCards = buildDiagnosticsCards(meta);
-  const sampleCards = buildSampleCards(dataset.articles);
   const sourceGroups = buildSourceGroups(dataset.articles);
   const sourceDiagnostics = meta.sources || [];
   const withDataSources = sourceDiagnostics.filter((source) => source.status === "with_data");
   const emptySources = sourceDiagnostics.filter((source) => source.status === "reachable_empty");
   const failedSources = sourceDiagnostics.filter((source) => source.status === "failed");
+  const summary = meta.source_status_summary || {
+    with_data: 0,
+    reachable_empty: 0,
+    failed: 0
+  };
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -307,153 +235,42 @@ export function buildIndexPage({ dataset, meta }) {
         color: var(--muted);
         text-align: right;
       }
-      .domain-grid {
-        display: grid;
-        gap: 20px;
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      }
-      .domain-col {
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        padding: 16px;
-        background: #fffaf2;
-      }
-      .domain-col h3 {
-        display: inline-block;
-        margin-bottom: 10px;
-        padding: 4px 14px;
-        border-radius: 999px;
-        background: #f2e2d1;
-        color: #6a4429;
-        font-size: 0.88rem;
-      }
-      .domain-brief {
-        font-size: 1rem;
-        color: var(--ink);
-        margin: 0;
-        line-height: 1.75;
-      }
       .global-brief {
         margin: 0;
         font-size: 1.05rem;
         line-height: 1.85;
       }
-      .signal-grid {
-        display: grid;
-        gap: 16px;
-        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-      }
-      .signal-card {
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        padding: 18px;
-        background: #fffaf2;
-      }
-      .signal-card h3 {
-        margin-bottom: 8px;
-      }
-      .signal-card p {
-        margin: 0;
-      }
-      .signal-meta {
-        margin-bottom: 10px !important;
-        color: var(--muted);
-        font-size: 0.85rem;
-      }
-      .feed-toolbar {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        position: sticky;
-        top: 14px;
-        z-index: 30;
-        margin-bottom: 20px;
-        padding: 14px 16px;
-        border: 1px solid rgba(139, 94, 60, 0.14);
-        border-radius: 20px;
-        background: rgba(255, 250, 242, 0.9);
-        backdrop-filter: blur(14px);
-        box-shadow: 0 12px 30px rgba(71, 54, 35, 0.08);
-      }
-      .feed-toolbar-label {
-        color: var(--muted);
-        font-size: 0.82rem;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        white-space: nowrap;
-      }
-      .feed-layout {
-        display: flex;
-        gap: 20px;
-        align-items: flex-start;
-      }
-      .feed-sidebar {
-        width: 180px;
-        position: sticky;
-        top: 92px;
-        flex-shrink: 0;
-        max-height: calc(100vh - 120px);
-        overflow-y: auto;
-        padding-right: 6px;
-        scrollbar-width: thin;
-      }
-      .sidebar-link {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 6px 12px;
-        margin-bottom: 4px;
-        border-radius: 999px;
-        font-size: 0.85rem;
-        color: var(--muted);
-        text-decoration: none;
-      }
-      .sidebar-link:hover {
-        background: rgba(139, 94, 60, 0.08);
-        color: var(--ink);
-      }
-      .feed-content {
-        flex: 1;
-        min-width: 0;
-      }
-      .badge {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        min-width: 20px;
-        height: 20px;
-        padding: 0 6px;
-        border-radius: 999px;
-        background: rgba(107, 98, 88, 0.1);
-        font-size: 0.75rem;
-        color: var(--muted);
-        margin-left: 6px;
-      }
-      .source-group {
-        margin-bottom: 20px;
-        border: 1px solid var(--line);
-        border-radius: 16px;
-        padding: 16px;
-        background: #fffaf2;
-        scroll-margin-top: 104px;
-      }
-      .source-header {
-        display: flex;
-        align-items: center;
-        margin: 0 0 12px;
-        padding-bottom: 8px;
-        border-bottom: 1px solid var(--line);
-        font-size: 1rem;
-        color: var(--ink);
-      }
-      .feed-item + .feed-item {
-        margin-top: 14px;
-        padding-top: 14px;
-        border-top: 1px solid var(--line);
-      }
       .feed-empty {
         margin: 0;
         color: var(--muted);
+      }
+      .record-list {
+        margin: 0;
+        padding-left: 1.2rem;
+      }
+      .record-list li + li {
+        margin-top: 0.75rem;
+      }
+      .list-meta {
+        color: var(--muted);
+        font-size: 0.92rem;
+        margin-left: 0.35rem;
+      }
+      .list-note {
+        margin-top: 0.18rem;
+        color: var(--muted);
+      }
+      .summary-list {
+        margin: 0;
+        padding-left: 1.2rem;
+      }
+      .summary-list li + li {
+        margin-top: 0.5rem;
+      }
+      .group-block + .group-block {
+        margin-top: 1.25rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid var(--line);
       }
       details {
         margin-top: 14px;
@@ -475,26 +292,6 @@ export function buildIndexPage({ dataset, meta }) {
         padding: 0 16px 16px;
         border-top: 1px solid var(--line);
       }
-      .table-wrap {
-        overflow-x: auto;
-      }
-      table {
-        width: 100%;
-        border-collapse: collapse;
-        font-size: 0.95rem;
-      }
-      th, td {
-        padding: 10px 12px;
-        border-bottom: 1px solid var(--line);
-        text-align: left;
-        vertical-align: top;
-      }
-      th {
-        font-size: 0.82rem;
-        text-transform: uppercase;
-        letter-spacing: 0.06em;
-        color: var(--muted);
-      }
       @media (max-width: 768px) {
         .header-row {
           flex-direction: column;
@@ -502,21 +299,6 @@ export function buildIndexPage({ dataset, meta }) {
         .header-note {
           max-width: none;
           text-align: left;
-        }
-        .feed-layout { flex-direction: column; }
-        .feed-sidebar {
-          position: static;
-          width: 100%;
-          max-height: none;
-          display: flex;
-          overflow-x: auto;
-          gap: 6px;
-          padding-bottom: 8px;
-          -webkit-overflow-scrolling: touch;
-        }
-        .sidebar-link {
-          white-space: nowrap;
-          flex-shrink: 0;
         }
       }
     </style>
@@ -541,137 +323,64 @@ export function buildIndexPage({ dataset, meta }) {
 
       <section>
         <h2>Published Files</h2>
-        <div class="domain-grid">
+        <ul class="record-list">
           ${fileCards
             .map(
-              (card) => `<div class="domain-col">
-            <h3><a href="${card.href}">${card.title}</a></h3>
-            <p class="domain-brief">${card.description}</p>
-          </div>`
+              (card) => `<li>
+            <a href="${card.href}">${card.title}</a>
+            <div class="list-note">${card.description}</div>
+          </li>`
             )
             .join("")}
-        </div>
+        </ul>
       </section>
 
       <section>
-        <h2>Run Status</h2>
-        <div class="signal-grid">
-          ${statusCards
-            .map(
-              (card) => `<article class="signal-card">
-            <p class="signal-meta">${card.meta}</p>
-            <h3>${card.title}</h3>
-            <p>${card.body}</p>
-          </article>`
-            )
-            .join("")}
-        </div>
+        <h2>Build Summary</h2>
+        <ul class="summary-list">
+          <li><strong>Dataset ID:</strong> <code>${escapeHtml(dataset.dataset_id)}</code></li>
+          <li><strong>Generated At:</strong> ${escapeHtml(dataset.generated_at)}</li>
+          <li><strong>Articles:</strong> ${dataset.article_count}</li>
+          <li><strong>Sources:</strong> ${meta.source_succeeded} succeeded · ${meta.source_failed} failed · ${meta.source_total} total</li>
+          <li><strong>Warnings:</strong> ${meta.warnings.length}</li>
+        </ul>
       </section>
 
       <section>
         <h2>Fetch Diagnostics</h2>
-        <div class="signal-grid">
-          ${diagnosticsCards
-            .map(
-              (card) => `<article class="signal-card">
-            <p class="signal-meta">${card.meta}</p>
-            <h3>${card.title}</h3>
-            <p>${card.body}</p>
-          </article>`
-            )
-            .join("")}
-        </div>
-        <h3 style="margin-top: 20px;">Failure Breakdown</h3>
+        <ul class="summary-list">
+          <li><strong>With Data:</strong> ${summary.with_data}</li>
+          <li><strong>Reachable But Empty:</strong> ${summary.reachable_empty}</li>
+          <li><strong>Failed:</strong> ${summary.failed}</li>
+        </ul>
+        <h3 style="margin-top: 20px;">Failure Categories</h3>
         ${renderFailureBreakdown(meta)}
 
         <details open>
           <summary>Failed Sources (${failedSources.length})</summary>
           <div class="details-body">
-            ${renderDiagnosticsTable(failedSources)}
+            ${renderSourceList(failedSources, { includeReason: true })}
           </div>
         </details>
 
         <details>
           <summary>Reachable But Empty (${emptySources.length})</summary>
           <div class="details-body">
-            ${renderDiagnosticsTable(emptySources)}
+            ${renderSourceList(emptySources)}
           </div>
         </details>
 
         <details>
           <summary>With Data (${withDataSources.length})</summary>
           <div class="details-body">
-            ${renderDiagnosticsTable(withDataSources)}
+            ${renderSourceList(withDataSources)}
           </div>
         </details>
       </section>
 
       <section>
         <h2>Latest Articles</h2>
-        <div class="signal-grid">
-          ${
-            sampleCards.length === 0
-              ? `<p class="feed-empty">No articles are available in the current dataset.</p>`
-              : sampleCards
-                  .map(
-                    (card) => `<article class="signal-card">
-            <p class="signal-meta">${card.meta}</p>
-            <h3><a href="${escapeHtml(card.href)}" target="_blank" rel="noreferrer">${escapeHtml(card.title)}</a></h3>
-            <p>${escapeHtml(card.body)}</p>
-          </article>`
-                  )
-                  .join("")
-          }
-        </div>
-      </section>
-
-      <section>
-        <h2>Warnings</h2>
-        ${renderWarnings(meta.warnings)}
-      </section>
-
-      <section>
-        <h2>Source Stream</h2>
-        <div class="feed-toolbar">
-          <div class="feed-toolbar-label">Top sources in current output</div>
-        </div>
-        <div class="feed-layout">
-          <nav class="feed-sidebar">
-            ${
-              sourceGroups.length === 0
-                ? `<p class="feed-empty">No sources.</p>`
-                : sourceGroups
-                    .map(
-                      (group, index) =>
-                        `<a class="sidebar-link" href="#src-${index}">${escapeHtml(group.sourceName)}<span class="badge">${group.articles.length}</span></a>`
-                    )
-                    .join("")
-            }
-          </nav>
-          <div class="feed-content">
-            ${
-              sourceGroups.length === 0
-                ? `<p class="feed-empty">No source groups are available.</p>`
-                : sourceGroups
-                    .map(
-                      (group, index) => `<div class="source-group" id="src-${index}">
-                <h3 class="source-header">${escapeHtml(group.sourceName)}<span class="badge">${group.articles.length}</span></h3>
-                ${group.articles
-                  .slice(0, 3)
-                  .map(
-                    (article) => `<article class="feed-item">
-                    <h3><a href="${escapeHtml(article.link || "./latest.json")}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></h3>
-                    <p class="meta">${formatTimestamp(article.published_at || article.fetched_at)}</p>
-                    <p>${escapeHtml(truncateText(article.summary || "No summary provided.", 220))}</p>
-                  </article>`
-                  )
-                  .join("")}
-              </div>`
-                    )
-                    .join("")
-            }
-          </div>
-        </div>
+        ${renderArticleGroups(sourceGroups)}
       </section>
     </main>
   </body>

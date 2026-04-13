@@ -3,15 +3,64 @@ import { XMLParser } from "fast-xml-parser";
 const parser = new XMLParser({
   attributeNamePrefix: "",
   cdataPropName: "__cdata",
+  htmlEntities: true,
   ignoreAttributes: false,
   parseTagValue: false,
-  processEntities: true,
+  processEntities: {
+    enabled: true,
+    allowedTags: [
+      "title",
+      "link",
+      "guid",
+      "id",
+      "pubDate",
+      "published",
+      "updated",
+      "isoDate",
+      "dc:date"
+    ],
+    maxEntityCount: 1000,
+    maxExpandedLength: 200000,
+    maxTotalExpansions: 5000
+  },
   textNodeName: "__text",
   trimValues: true
 });
 
+const tolerantParser = new XMLParser({
+  attributeNamePrefix: "",
+  cdataPropName: "__cdata",
+  htmlEntities: false,
+  ignoreAttributes: false,
+  parseTagValue: false,
+  processEntities: false,
+  textNodeName: "__text",
+  trimValues: true
+});
+
+function decodeXmlEntities(value) {
+  return String(value || "")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&apos;/gi, "'")
+    .replace(/&#39;/gi, "'")
+    .replace(/&quot;/gi, "\"")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&amp;/gi, "&");
+}
+
 export function parseXml(xml) {
-  return parser.parse(xml);
+  try {
+    return parser.parse(xml);
+  } catch (error) {
+    if (!/Entity expansion limit exceeded/i.test(error?.message || "")) {
+      throw error;
+    }
+
+    return tolerantParser.parse(xml);
+  }
 }
 
 export function asArray(value) {
@@ -32,7 +81,7 @@ export function readNodeText(value) {
   }
 
   if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
-    return String(value).trim();
+    return decodeXmlEntities(String(value)).trim();
   }
 
   if (Array.isArray(value)) {
