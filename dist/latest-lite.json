@@ -1,35 +1,931 @@
 {
-  "dataset_id": "2026-04-13T14:10:07.456Z",
-  "generated_at": "2026-04-13T14:10:07.456Z",
-  "article_count": 981,
+  "dataset_id": "2026-04-13T15:48:23.765Z",
+  "generated_at": "2026-04-13T15:48:23.765Z",
+  "article_count": 996,
   "articles": [
     {
-      "id": "cb2fe35fbb9892d9e11653d0b7e36ffbbf661684",
-      "title": "test(wizard): mock auth profile runtime seam",
-      "link": "https://github.com/openclaw/openclaw/commit/9387ec9933439d3eeaed6586ee62ce2ab7b5c5c6",
+      "id": "862cb62f49ee84317abcb9ebb3c70d1c7f22f76f",
+      "title": "fix(nostr): retry inbound events after handler failures",
+      "link": "https://github.com/openclaw/openclaw/commit/d4824f9a8f00a09c3049cc863cea56f7f0aa08e8",
       "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T14:09:33.000Z"
+      "published_at": "2026-04-13T15:47:52.000Z"
     },
     {
-      "id": "6d8d98ec6b613a3caa5ba7d30f8acd53e45e11eb",
-      "title": "如何搭建一个干净的节点、代理",
-      "link": "https://linux.do/t/topic/1959365",
+      "id": "3e380f86ed35fe5dfd108f7e41d4557d12d5eeb3",
+      "title": "睡前写个帖子，一个思考",
+      "link": "https://linux.do/t/topic/1960100",
       "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:09:09.000Z"
+      "published_at": "2026-04-13T15:47:16.000Z"
     },
     {
-      "id": "8a02a08724dfa0daa228f2e276c9f09b28eb1d74",
-      "title": "佬友们在vscode里使用插件会访问哪些网站",
-      "link": "https://linux.do/t/topic/1959364",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:09:00.000Z"
+      "id": "14a18c4d75f5cc30ef27d836bb34222853773cf9",
+      "title": "Things I learned from hosting a certification study group",
+      "link": "https://dev.to/laura-wissiak/things-i-learned-from-hosting-a-certification-study-group-ljh",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:46:00.000Z"
     },
     {
-      "id": "96b33343192a50533f29e51769b5e082eac2ad72",
-      "title": "fix(qr): lazy load terminal runtime modules",
-      "link": "https://github.com/openclaw/openclaw/commit/e14efafa68099d55127443fa7fae731ffebca15d",
+      "id": "fc164c4e43a0e8e053c3f153665552dbebf184e4",
+      "title": "fix(tlon): release replay claims after handler failures",
+      "link": "https://github.com/openclaw/openclaw/commit/74b4a08592236568a9d71e1cda8af0b98d5232c7",
       "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T14:07:50.000Z"
+      "published_at": "2026-04-13T15:45:58.000Z"
+    },
+    {
+      "id": "b4a865dce9f62cb25a09a42caea5b78dad1d8ca4",
+      "title": "Comparing Python ODMs for MongoDB",
+      "link": "https://dev.to/mongodb_guests/comparing-python-odms-for-mongodb-4ajp",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:45:57.000Z"
+    },
+    {
+      "id": "4e5036dee25a2db399fa6568935116b395b82eed",
+      "title": "Slate raises $650 million to make its budget electric truck",
+      "link": "https://www.theverge.com/transportation/911085/slate-truck-ev-fundraise-twg-global-bezos",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T15:45:46.000Z"
+    },
+    {
+      "id": "861ddc7188e6a88e17a5bb35606703b86d201dbd",
+      "title": "CPA刷新codex凭证问题",
+      "link": "https://linux.do/t/topic/1960093",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:45:10.000Z"
+    },
+    {
+      "id": "81be76393fcc4000444057ab67580d7e4b468e7b",
+      "title": "Your WordPress site can be fully compromised in 7 minutes. Here's what the attacker does with each one.",
+      "link": "https://dev.to/sephx/your-wordpress-site-can-be-fully-compromised-in-7-minutes-heres-what-the-attacker-does-with-each-39m6",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:45:10.000Z"
+    },
+    {
+      "id": "8bfefca2d0b4a43b7f546a865985e62f3fa4591c",
+      "title": "perf(cron): trim unused runtime barrel exports",
+      "link": "https://github.com/openclaw/openclaw/commit/eddcf722da8b6fdba9628b407aaf434a582110fa",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:45:08.000Z"
+    },
+    {
+      "id": "70635666e12fb62239704c79892ab1e568126e08",
+      "title": "Scaling Vector Databases: How to Handle Billions of Embeddings",
+      "link": "https://dev.to/karan_kumar_f09865ff0efe9/scaling-vector-databases-how-to-handle-billions-of-embeddings-393d",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:43:57.000Z"
+    },
+    {
+      "id": "31dbe5177fdcc22b671c91e68f6f4e44d059206b",
+      "title": "fix(runtime): avoid leaking detached cleanup promises",
+      "link": "https://github.com/openclaw/openclaw/commit/e157c83c65df5e2f0f243e7b3ee93fca497f7421",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:42:31.000Z"
+    },
+    {
+      "id": "3d9a619493e48d365214347ca2916b6658835b55",
+      "title": "fix: stop repeated unknown-tool loops (#65922)",
+      "link": "https://github.com/openclaw/openclaw/commit/74f2c4a56b4f4a17c086e11f3ceedd9ec8b5ab7a",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:42:11.000Z"
+    },
+    {
+      "id": "4c5cb1888ff4d7a7d8235b3d7215ef7cf65444fb",
+      "title": "Gemini in chrome一直显示something went wrong怎么办",
+      "link": "https://linux.do/t/topic/1960073",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:42:08.000Z"
+    },
+    {
+      "id": "958cf1d4ff8eaf5da9066567900c87468348c347",
+      "title": "打算买一个季度的 智谱 codeplan 套餐，有没有一起加入的",
+      "link": "https://linux.do/t/topic/1960070",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:41:49.000Z"
+    },
+    {
+      "id": "e71da78d4c00a6858f1d9d9165266eb0cc8db135",
+      "title": "又崩了claude？",
+      "link": "https://linux.do/t/topic/1960069",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:41:42.000Z"
+    },
+    {
+      "id": "6d1f52c3aa168555025de1505bb72911c037e814",
+      "title": "奇怪，今晚CC炸了吗？",
+      "link": "https://linux.do/t/topic/1960067",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:41:31.000Z"
+    },
+    {
+      "id": "70a0c256971daa44e430032b574633c165537ff8",
+      "title": "perf(cron): lazy-load embedded runtime branch",
+      "link": "https://github.com/openclaw/openclaw/commit/21d850dd6656bd97fa9174c0756d2186040396c8",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:41:14.000Z"
+    },
+    {
+      "id": "c6f64c29305fa6ffb05dbc78188538c549c749b4",
+      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "link": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T15:41:09.000Z"
+    },
+    {
+      "id": "af6839662162369bbe679bd155534404027b5d4c",
+      "title": "Claude.ai down",
+      "link": "https://status.claude.com/incidents/6jd2m42f8mld",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T15:41:08.000Z"
+    },
+    {
+      "id": "abd2b1173dae844f5f4ded633e12dfcb987eda1a",
+      "title": "Google’s Pixel 10A is a good midrange phone that’s $50 off",
+      "link": "https://www.theverge.com/gadgets/910966/google-pixel-10a-sony-wf-1000xm6-earbuds-deal-sale",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T15:41:03.000Z"
+    },
+    {
+      "id": "16faf2f83fa2447116571e73ec7cbd3c159720bb",
+      "title": "Claude 是挂了吗?",
+      "link": "https://linux.do/t/topic/1960055",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:39:53.000Z"
+    },
+    {
+      "id": "01fd58657b2174683d1810ebfdd40f2b0e647c91",
+      "title": "fix(telegram): avoid leaking thread binding persist cleanup",
+      "link": "https://github.com/openclaw/openclaw/commit/c441dcd47a05983318b9e2fdf34669948cadf49e",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:39:05.000Z"
+    },
+    {
+      "id": "e3d9e95dbc5bf311b842fafd55c37b10c0236d22",
+      "title": "[快讯] Kimi k2.6 code preview 已可使用",
+      "link": "https://linux.do/t/topic/1960050",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:38:48.000Z"
+    },
+    {
+      "id": "5fc2764dbc05695722c469c187766da5c5ba061f",
+      "title": "Hey Claude, print recent AI news, short",
+      "link": "https://ai-tldr.dev/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:38:30.000Z"
+    },
+    {
+      "id": "69b501b827e2e30e53d09a56ae4712569b1e9515",
+      "title": "perf(cron): isolate runtime-heavy seams",
+      "link": "https://github.com/openclaw/openclaw/commit/35176f3cb73096f0262166ad99f2b55874e07f46",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:38:26.000Z"
+    },
+    {
+      "id": "874f8226d0ee507a1aab2d29a0cd1da8e3063cb4",
+      "title": "I built an API for AI agents that handles phone numbers, SMS, OTP and voice",
+      "link": "https://agentcall.co/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:38:05.000Z"
+    },
+    {
+      "id": "37c80f002276460cc35dc294eed465cdb7a7a8d8",
+      "title": "Trae的GLM 5.1怎么感觉特别菜",
+      "link": "https://linux.do/t/topic/1960043",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:36:56.000Z"
+    },
+    {
+      "id": "fde9b27f81e84bd3612ec94915e3a58594d11970",
+      "title": "Developer skills post-AI: TDD, context engineering, metrics, ownership?",
+      "link": "https://nguyengineer.dev/developers-what-should-we-do-next-in-the-age-of-ai",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:36:21.000Z"
+    },
+    {
+      "id": "4ba53c7b22c4d886912adec79b351b1211cf34e9",
+      "title": "fix(auto-reply): avoid leaking inbound debounce cleanup",
+      "link": "https://github.com/openclaw/openclaw/commit/df27091f5f690a6b83722ab14d6026966f121859",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:36:03.000Z"
+    },
+    {
+      "id": "a105b460a0e5581c4de78ba4d93e9be8c0b797a3",
+      "title": "What Is the Best Fitness Tracker in 2026? Garmin, Oura, More",
+      "link": "https://www.wired.com/gallery/best-fitness-tracker",
+      "source_name": "Wired",
+      "published_at": "2026-04-13T15:35:31.000Z"
+    },
+    {
+      "id": "f5a1da8fc79af1f50b987ec2afe1c5ca13c57e7d",
+      "title": "fix(auto-reply): release inbound dedupe after dispatch errors",
+      "link": "https://github.com/openclaw/openclaw/commit/7c91d0dbc985e3e9ecbb2ade86a982c242248f55",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:34:35.000Z"
+    },
+    {
+      "id": "e033732db010e028d28c4fe87749800f495ed21e",
+      "title": "(可用) 分享一个GPT注册机的临时邮箱，可以无限生成可用邮箱地址用于注册GPT",
+      "link": "https://linux.do/t/topic/1960024",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:34:19.000Z"
+    },
+    {
+      "id": "08a5a3cde94d05dd48281b997bb6115659438be7",
+      "title": "From 8 Seconds per Frame to Real-Time 3D Fractals in the Browser",
+      "link": "https://dev.to/shinigami92/from-8-seconds-per-frame-to-real-time-3d-fractals-in-the-browser-4b26",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:33:54.000Z"
+    },
+    {
+      "id": "f24bc909cd42e4db59378927575ad7e29c27d772",
+      "title": "【分享】30个gpt free",
+      "link": "https://linux.do/t/topic/1960020",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:33:46.000Z"
+    },
+    {
+      "id": "d33703d38748eb833c3fd922fe2f1d0df4722071",
+      "title": "perf(cron): narrow session runtime imports",
+      "link": "https://github.com/openclaw/openclaw/commit/66ea85f9d4f740bcd07e7f89eb3ec2fc22451d55",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:33:36.000Z"
+    },
+    {
+      "id": "742f4ae53346058b13d71a73722d5068d62f2439",
+      "title": "What You Actually Learn in the Salesforce Admin Beginner Trail",
+      "link": "https://dev.to/pranav_bharti/what-you-actually-learn-in-the-salesforce-admin-beginner-trail-54f4",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:33:20.000Z"
+    },
+    {
+      "id": "07b34528a0ccd8667cb50c4bbd4447845da6493c",
+      "title": "鸿蒙智行官方首曝全新一代问界 M9 系列星际贯穿式“大”蓝灯实车点亮效果",
+      "link": "https://www.ithome.com/0/938/744.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T15:32:11.000Z"
+    },
+    {
+      "id": "5a4282b2c30d250578c8a51594c830822fa8dfe6",
+      "title": "The AI divide putting open weights models in spotlight",
+      "link": "https://www.theregister.com/2026/04/12/ai_open_weights_models",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:31:57.000Z"
+    },
+    {
+      "id": "cfaf9a1e45bedbdc22b70765606978e7824c5f71",
+      "title": "How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users",
+      "link": "https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve",
+      "source_name": "ByteByteGo",
+      "published_at": "2026-04-13T15:31:28.000Z"
+    },
+    {
+      "id": "380dc0784dc203bee565854434b7fc61d424a54f",
+      "title": "fix(telegram): swallow update watermark persistence failures",
+      "link": "https://github.com/openclaw/openclaw/commit/9fc36837b42c3285617c3c4d7df956b03a97978b",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:31:13.000Z"
+    },
+    {
+      "id": "6b185985c9fa85ea70a9301fbef82825c2ef5c45",
+      "title": "16GB of RAM, 12GB of JSON, and One Very Loud Fan",
+      "link": "https://dev.to/velk/16gb-of-ram-12gb-of-json-and-one-very-loud-fan-63i",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:31:02.000Z"
+    },
+    {
+      "id": "4bb47f51a0b211cfb88637fb4152c209fd892316",
+      "title": "perf(cron): keep auth profile runtime cold",
+      "link": "https://github.com/openclaw/openclaw/commit/2bc031c3571bda3cb7ec4157ef22421781632bae",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:30:28.000Z"
+    },
+    {
+      "id": "457d9c612b037301380ef5503af931ab3e85784d",
+      "title": "ccswitch不能改codexdesktop吗",
+      "link": "https://linux.do/t/topic/1959981",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:30:20.000Z"
+    },
+    {
+      "id": "45cf5268293de3ab44c915494fb49a5dee63476d",
+      "title": "Your Database Workflow Is Broken (And It’s Not Your Fault)",
+      "link": "https://dev.to/slotix/your-database-workflow-is-broken-and-its-not-your-fault-5aal",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:30:08.000Z"
+    },
+    {
+      "id": "519d87bdd645f43e41ca4837d129cbfdb6228117",
+      "title": "Alpine Divorce: A Hike That Ends a Relationship",
+      "link": "https://www.nytimes.com/2026/04/12/style/alpine-divorce-relationships-hike.html",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T15:29:35.000Z"
+    },
+    {
+      "id": "c0737f9b47c6a8782b1d7fa96a7ead8b343379ca",
+      "title": "Show HN: Context Surgeon – Let AI agents edit their own context window",
+      "link": "https://github.com/jackfruitsandwich/context-surgeon",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:28:44.000Z"
+    },
+    {
+      "id": "d85b1d1735e9e290230a94f4710ed587d5b8420a",
+      "title": "请教一下 Sub2API 怎么设置 gpt 的推理强度？",
+      "link": "https://linux.do/t/topic/1959962",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:28:07.000Z"
+    },
+    {
+      "id": "40fb8ce21506597a0e2f53018242726c1288e4a6",
+      "title": "Forgejo prohibits AI-generated work",
+      "link": "https://codeberg.org/forgejo/governance/src/commit/57bf0779bec61e2facd1679efc9bc5839e631d40/AIAgreement.md",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:28:06.000Z"
+    },
+    {
+      "id": "588580f21fa328fac355122832c4a3bae4463297",
+      "title": "我真的病了吗？生活难道不就是压力叠压力吗？",
+      "link": "https://linux.do/t/topic/1959960",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:27:50.000Z"
+    },
+    {
+      "id": "68b83ddcd98d1c3ccc5b46ac11ffcad62b36d3a7",
+      "title": "广州汇丰科技 Band 4 的年包是多少？有 60 万吗？",
+      "link": "https://www.v2ex.com/t/1205618",
+      "source_name": "V2EX 技术",
+      "published_at": "2026-04-13T15:27:43.000Z"
+    },
+    {
+      "id": "d1b82bdd6590d889abfb91d56e412c87f96133fe",
+      "title": "fix(tasks): avoid leaking scheduled sweep failures",
+      "link": "https://github.com/openclaw/openclaw/commit/6a8704cf26a78bef0d6cdca8d6e25acb4fe67597",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:26:55.000Z"
+    },
+    {
+      "id": "e1a59babda67bba19040d260bc8a4465fc1aeb82",
+      "title": "用上8元plus逃离free了，把free号散一散，发100个free号的cpa json 的cdk",
+      "link": "https://linux.do/t/topic/1959933",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:25:44.000Z"
+    },
+    {
+      "id": "7132f47a9002cc55a1de247248c2e54427514b1f",
+      "title": "Flate2 Backend Change: Miniz_oxide to Zlib-rs Transition May Impact Compatibility and Performance",
+      "link": "https://dev.to/serbyte/flate2-backend-change-minizoxide-to-zlib-rs-transition-may-impact-compatibility-and-performance-1hap",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:25:06.000Z"
+    },
+    {
+      "id": "738c12269fa2feb431899662c40c975ed27bcfbd",
+      "title": "fix(plugin-sdk): avoid leaking queue rejection cleanup",
+      "link": "https://github.com/openclaw/openclaw/commit/a945605b3c958ed449775f71b7a2ed48ea7f0309",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:24:24.000Z"
+    },
+    {
+      "id": "c75ec4e22f7f0d66ae59a9055bcb9346030c7b0b",
+      "title": "Test AI agent governance without touching production",
+      "link": "https://dev.to/jagmarques/test-ai-agent-governance-without-touching-production-19ie",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:24:18.000Z"
+    },
+    {
+      "id": "48aa214d963751410c9d5c5a8dc8f4eeede377c0",
+      "title": "关于阿里云的“抵扣卷”是什么意思",
+      "link": "https://linux.do/t/topic/1959915",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:24:17.000Z"
+    },
+    {
+      "id": "468758edef04c10b863adf49ea5702faab864c4f",
+      "title": "The Moment Your Project Knows You're There",
+      "link": "https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-5fgp",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:24:12.000Z"
+    },
+    {
+      "id": "5b8dda0f2848ff9f13116c123370a19bc9b21932",
+      "title": "Why AI Agents Will Replace Manual Release Management in DevOps",
+      "link": "https://dev.to/manash_madhukar_b1b9c39f1/why-ai-agents-will-replace-manual-release-management-in-devops-4eca",
+      "source_name": "Dev.to",
+      "published_at": "2026-04-13T15:24:01.000Z"
+    },
+    {
+      "id": "5c314c673813fde08d060de550d74a283e04541a",
+      "title": "codex pro 200刀的号，实测数据来了",
+      "link": "https://linux.do/t/topic/1959911",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:23:54.000Z"
+    },
+    {
+      "id": "f45fea7ca954a03fb929f195beb4100ef5c49fc3",
+      "title": "perf(cron): lazy-load isolated cli runner runtime",
+      "link": "https://github.com/openclaw/openclaw/commit/a08fbfb1aea9d52b873fbbcfa1e83ccad61e61b9",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:23:46.000Z"
+    },
+    {
+      "id": "9da8da9532151f86e6a47934d0b95021086e0a43",
+      "title": ":distorted_face: 一周没上网,再回来发现?天塌了?",
+      "link": "https://linux.do/t/topic/1959905",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:23:36.000Z"
+    },
+    {
+      "id": "de84fb33f271551fd5eb28236c964d637bcd0a70",
+      "title": "Apple's AI Chief John Giannandrea Departs This Week",
+      "link": "https://www.macrumors.com/2026/04/13/john-giannandrea-departs-apple-this-week",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:23:33.000Z"
+    },
+    {
+      "id": "9274017b27f8edff9973eedb9ffc5d732dd20c96",
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:23:13.000Z"
+    },
+    {
+      "id": "c5ea302847ec715f2ab9d899f54d07966c4564c7",
+      "title": "OpenRouter新上架匿名模型 Elephant",
+      "link": "https://linux.do/t/topic/1959898",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:22:54.000Z"
+    },
+    {
+      "id": "ebcbb88a72a7041b5ed397508a7b173d9579d756",
+      "title": "有玩HIFI的佬友吗，新手购买推荐",
+      "link": "https://linux.do/t/topic/1959893",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:22:37.000Z"
+    },
+    {
+      "id": "b14e00afdd9ef91ca787716a73b2e717ed9c81cf",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T15:22:29.000Z"
+    },
+    {
+      "id": "4cfdfae8e13944aa7464d3a161088ee3943710b3",
+      "title": "fix(feishu): keep comment replay closed after generic failures",
+      "link": "https://github.com/openclaw/openclaw/commit/6d38bd476893efe2dcde83c87e14fbb30260dfb2",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:22:21.000Z"
+    },
+    {
+      "id": "abb85d158ef436ca2afea59da9fc41825512a46f",
+      "title": "哪位佬有codex的域名列表？",
+      "link": "https://linux.do/t/topic/1959881",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:19:48.000Z"
+    },
+    {
+      "id": "cd4516f6a6fbb9ce1f67c0a389a0aa55b638c7cc",
+      "title": "现在搭建什么协议的节点比较安全稳定，速度快",
+      "link": "https://linux.do/t/topic/1959870",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:18:07.000Z"
+    },
+    {
+      "id": "6aa93116efe2fbc4c137b6e5390084bf857e4c72",
+      "title": "大疆 Osmo Pocket 4 Pro 手持云台相机谍照曝光，双摄设计",
+      "link": "https://www.ithome.com/0/938/743.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T15:17:40.000Z"
+    },
+    {
+      "id": "cf8846db65932dba1804727c19160edc6ef88287",
+      "title": "Show HN: IceGate – Observability data lake engine",
+      "link": "https://github.com/icegatetech/icegate",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T15:17:37.000Z"
+    },
+    {
+      "id": "a663fd8235f1f929cabb525f1a1028f4a51480cd",
+      "title": "fix(feishu): make bot menu retries explicit",
+      "link": "https://github.com/openclaw/openclaw/commit/9c7cb6b67def4daa06fd43f0e7af3daaf3e1758e",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:17:13.000Z"
+    },
+    {
+      "id": "105ae5e05c394ad4b4ba4e44519b8de7403de2f1",
+      "title": "All Writers Will End Up AI-Maxxing, and This Is Good",
+      "link": "https://www.richardhanania.com/p/all-writers-will-end-up-ai-maxxing",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:17:10.000Z"
+    },
+    {
+      "id": "73e5898977a8c9345fd4a4d4defe6d8584696b2f",
+      "title": "Ask HN: What's the best AI model for system design nowadays?",
+      "link": "https://news.ycombinator.com/item?id=47753223",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:15:05.000Z"
+    },
+    {
+      "id": "f05fc2f1c643be6cb4e99bcc35be3925bf7d6eb7",
+      "title": "fix(gateway): harden service entrypoint resolution (#65984)",
+      "link": "https://github.com/openclaw/openclaw/commit/8dbe1b4f5a43d81e01b919135761b58086ca6434",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:14:29.000Z"
+    },
+    {
+      "id": "2026d126d4ae599c32892e1991ee534182420d1a",
+      "title": "现在哪里还有免费永久的域名啊",
+      "link": "https://linux.do/t/topic/1959834",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:13:50.000Z"
+    },
+    {
+      "id": "ee7d2aad6ec0405c17c2daebf521aff79439f0b0",
+      "title": "送一张0刀虚拟卡（已无）",
+      "link": "https://linux.do/t/topic/1959829",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:12:58.000Z"
+    },
+    {
+      "id": "3ec298f339fa6d3b8f4503a9f6210184f12d7182",
+      "title": "AI Prompt提示词排名",
+      "link": "https://linux.do/t/topic/1959828",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:12:44.000Z"
+    },
+    {
+      "id": "82938698368551070125621bea70e5de005ca504",
+      "title": "perf(infra): cache login shell env probes",
+      "link": "https://github.com/openclaw/openclaw/commit/418cb55cb9070f14b7de5566ded77fc243da6e46",
+      "source_name": "OpenClaw Commits",
+      "published_at": "2026-04-13T15:12:33.000Z"
+    },
+    {
+      "id": "c6d5ebe6a6a70e5ef6d2885af7fc156e75c98e72",
+      "title": "The AI Revolution in Math Has Arrived",
+      "link": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:12:25.000Z"
+    },
+    {
+      "id": "9103df1baf217d2b92c4fd68b349e444d942ff21",
+      "title": "Claude的api是Claude console里买最便宜吗",
+      "link": "https://linux.do/t/topic/1959813",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:11:18.000Z"
+    },
+    {
+      "id": "52be35551e2b8438fd1e798043f7c8b8d0488ef4",
+      "title": "大众 CEO 承认现有电动车产品脱节：全新 ID 系列将拨乱反正，回归品牌传统风格",
+      "link": "https://www.ithome.com/0/938/742.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T15:09:02.000Z"
+    },
+    {
+      "id": "2defdf91819eb95b202571ab6cb359b3b2b94022",
+      "title": "有佬友知道这个是哪个注册机？",
+      "link": "https://linux.do/t/topic/1959789",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:07:44.000Z"
+    },
+    {
+      "id": "537943cdf60800d18c7d4823d53edeb86e7a5578",
+      "title": "Show HN: NRC nuclear licensing RAG pipeline and regulatory embeddings dataset",
+      "link": "https://huggingface.co/datasets/davenporten/nrc-regulatory-embeddings",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T15:07:09.000Z"
+    },
+    {
+      "id": "9a0c4a3f2cf24e347bb7a89dabe8d5730b70a214",
+      "title": "Show HN: Git-native solution for documenting software architecture",
+      "link": "https://app.maniok.io/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T15:06:34.000Z"
+    },
+    {
+      "id": "8408aaed251c993bf6fb4deb9a59aafa5d68edaf",
+      "title": "Show HN: MOS Tech 6502 emulated in pure Postgres",
+      "link": "https://github.com/lasect/pg_6502",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T15:06:25.000Z"
+    },
+    {
+      "id": "bbf9336e9bf2536bd0573b9cf3ac168f147ad31e",
+      "title": "Web scraping tarpits are catching legitimate data teams, not just AI crawlers",
+      "link": "https://foura.ai/blog/web-scraping-tarpits-collateral-damage",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T15:05:37.000Z"
+    },
+    {
+      "id": "0189f19b793a871c308c0ef802905dbcc8155c6c",
+      "title": "OpenCode vs. Claude Code vs. Copilot",
+      "link": "https://news.ycombinator.com/item?id=47753068",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T15:04:51.000Z"
+    },
+    {
+      "id": "2603aed871c4045cbbf61572e590809044f75d09",
+      "title": "为什么还有很多GLM-5的云服务不换成GLM-5.1呢",
+      "link": "https://linux.do/t/topic/1959769",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:04:49.000Z"
+    },
+    {
+      "id": "680d0ffdb4db9955c1df83a809b01d9258945197",
+      "title": "上汽通用五菱 × 宁德时代达成合作，将共同开发电量从 10% 充至 80% 不到 10 分钟的快充技术方案",
+      "link": "https://www.ithome.com/0/938/741.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T15:04:48.000Z"
+    },
+    {
+      "id": "478ab2858adae6fbfe42ff294d085389721653c0",
+      "title": "佬们，fluxdo如何安装在ios上？",
+      "link": "https://linux.do/t/topic/1959768",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:04:26.000Z"
+    },
+    {
+      "id": "d27846a96ca7129ad9333595fad4525d89f9dff5",
+      "title": "digitalocean能不能搭梯子",
+      "link": "https://linux.do/t/topic/1959758",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-13T15:01:48.000Z"
+    },
+    {
+      "id": "e9a9a2d018ffd9dd1f8a508b505a905e2e2b8b94",
+      "title": "Did NFTs leave a lasting mark or was it purely speculative?",
+      "link": "https://news.ycombinator.com/item?id=47752993",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T15:00:12.000Z"
+    },
+    {
+      "id": "bc3809196cb3bff2746733e0ed1708de8ad69bfd",
+      "title": "GitHub for Beginners: Getting started with GitHub Pages",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages",
+      "source_name": "GitHub Blog",
+      "published_at": "2026-04-13T15:00:00.000Z"
+    },
+    {
+      "id": "7a678cee8150c1b13f1578a09ae0b53b1ea38c3d",
+      "title": "Pragmata is just OK, but it could’ve been great",
+      "link": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
+      "source_name": "The Verge",
+      "published_at": "2026-04-13T15:00:00.000Z"
+    },
+    {
+      "id": "ea107238a42c549f405bb06656e1cfe432195b79",
+      "title": "Show HN: I built a tool that automatically turns tickets into design doc and PRs",
+      "link": "https://news.ycombinator.com/item?id=47752976",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:58:54.000Z"
+    },
+    {
+      "id": "9c03d71e0b02e26c53f5cefd8986bc82d731122a",
+      "title": "腾讯《洛克王国世界》出现“水域连续捕捉”异常，官方将向全服玩家发放自选异色精灵补偿",
+      "link": "https://www.ithome.com/0/938/739.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:53:22.000Z"
+    },
+    {
+      "id": "0abef27f70b8a8d41c8c25bd970a3ef3734a6cf8",
+      "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+      "link": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T14:53:05.000Z"
+    },
+    {
+      "id": "d2407624f5187f9208d89c444f32de31002caa3d",
+      "title": "是 Steam Controller 吗？消息称V社在美国接收大量“无线 PC 控制器”货物",
+      "link": "https://www.ithome.com/0/938/738.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:52:40.000Z"
+    },
+    {
+      "id": "b1316d41cfa8836b6e4f9e78b8f336e6d8d44267",
+      "title": "Show HN: I built a sandboxed agent that writes JSON rules to avoid repeat errors",
+      "link": "https://news.ycombinator.com/item?id=47752871",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:52:03.000Z"
+    },
+    {
+      "id": "1e92ef257364f5b8eff77eb9ffbf9f3834daf645",
+      "title": "Make Tmux Pretty and Usable",
+      "link": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T14:48:55.000Z"
+    },
+    {
+      "id": "e7f894dfcc708c4b7cdbdbc522b3699534c18833",
+      "title": "Lambda Just Got a File System. I Put AI Agents on It",
+      "link": "https://edjgeek.com/blog/s3-files-lambda-agents",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:46:38.000Z"
+    },
+    {
+      "id": "79e7a7e573a92bff7c6c7c69ab4c420f4ad17e21",
+      "title": "Hack at Anodot leaves over a dozen breached companies facing extortion",
+      "link": "https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over-a-dozen-breached-companies-facing-extortion",
+      "source_name": "TechCrunch",
+      "published_at": "2026-04-13T14:46:36.000Z"
+    },
+    {
+      "id": "69fb659b03a01bbc01ab52f3dbb8d5e4d89b35bb",
+      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+      "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+      "source_name": "The Hacker News",
+      "published_at": "2026-04-13T14:46:00.000Z"
+    },
+    {
+      "id": "2b2877099e717be57fef7238cc86fd8fb622dd03",
+      "title": "Show HN: Crafto – AI carousel post generator for LinkedIn and Instagram",
+      "link": "https://crafto.ai/",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:43:01.000Z"
+    },
+    {
+      "id": "0d7784e8311a06f169808a7c2a68cf16d42136bc",
+      "title": "我国青藏铁路进出藏货物累计突破 1 亿吨",
+      "link": "https://www.ithome.com/0/938/737.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:43:00.000Z"
+    },
+    {
+      "id": "1885e0a46db88e4f6b47385132f12ee80865cbee",
+      "title": "Jammed phone lines. Burned-out dispatchers. Can AI ease a strained 911 system?",
+      "link": "https://www.begiant.ca/stories/people/911-wait-times-artificial-intelligence",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:42:03.000Z"
+    },
+    {
+      "id": "07b96eb5f90544efe8f605502add051bc6e6c7d6",
+      "title": "Show HN: _hyperscript 0.9.90",
+      "link": "https://hyperscript.org/posts/2026-03-29-hyperscript-0.9.90-is-released",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:40:13.000Z"
+    },
+    {
+      "id": "1c2ce613c93906837af9ce8daa439a3d27440611",
+      "title": "Is Your AI Coding Agent Being Watched While Benchmarked:Hidden Logging?",
+      "link": "https://huggingface.co/datasets/nebius/SWE-agent-trajectories",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:38:26.000Z"
+    },
+    {
+      "id": "a3ca5263f8986d57d14b963c73d5b862a2adb7b1",
+      "title": "Show HN: Darkdrive – self-hosted encrypted cloud storage with split keys",
+      "link": "https://darkdrive.de/en",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:37:03.000Z"
+    },
+    {
+      "id": "9b552773210a3db87ac0d7a2bcb1d50aa7119e51",
+      "title": "Show HN: Winclipshot – Ctrl+V screenshots as file paths in Windows terminals",
+      "link": "https://github.com/Higangssh/winclipshot",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:36:29.000Z"
+    },
+    {
+      "id": "c071989ceab456a952ae98557b17abf75d31c84f",
+      "title": "开源监控平台 Grafana 曝提示词漏洞，黑客可诱导 AI 助手泄露企业敏感数据",
+      "link": "https://www.ithome.com/0/938/736.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:36:10.000Z"
+    },
+    {
+      "id": "3854534d2e8cc0843cfaa59962a796be267933bf",
+      "title": "Slate Auto raises $650 million as production gets closer and closer",
+      "link": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer",
+      "source_name": "Ars Technica",
+      "published_at": "2026-04-13T14:35:29.000Z"
+    },
+    {
+      "id": "1cabcd34f29674c7166034bbea837de785541c0c",
+      "title": "小岛秀夫谍战新作《Physint》选角开始，反派要求神似“拔叔”但更具风格",
+      "link": "https://www.ithome.com/0/938/735.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:35:03.000Z"
+    },
+    {
+      "id": "65fa472d24ebaeb3e5401bd38034e19f8b19b2dc",
+      "title": "OPPO Pad 5 Pro 平板现身官网：三色齐发，至高 16GB+512GB 规格",
+      "link": "https://www.ithome.com/0/938/733.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:34:12.000Z"
+    },
+    {
+      "id": "79418b8d592f3f2170b08a132fd49ef342e92662",
+      "title": "Show HN: Daily Unfold – Spatial Logic Puzzle with Expert Mode and Leaderboard",
+      "link": "https://www.dailyunfold.com/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:33:51.000Z"
+    },
+    {
+      "id": "c4bbb05158c3f433d8d83c8e035bb967501725d2",
+      "title": "Show HN: I made simple tools for things people ask me to do for them",
+      "link": "https://supereasy.tools/en",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:33:41.000Z"
+    },
+    {
+      "id": "c94432a82eead7c88ade6ee854ad02c85d3978e2",
+      "title": "壹号本 ONEXStation i1 迷你主机发售：AMD 锐龙 AI Max+ 395 配 128G RAM，18999 元",
+      "link": "https://www.ithome.com/0/938/740.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:33:21.000Z"
+    },
+    {
+      "id": "ae34afd5cccea299ebdd171a77850dd95c94ff29",
+      "title": "Mathematical minimalism",
+      "link": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library",
+      "source_name": "johndcook.com",
+      "published_at": "2026-04-13T14:33:16.000Z"
+    },
+    {
+      "id": "143f882da2de5283aa147e327813a7744ffcc8b6",
+      "title": "Show HN: Chrome Extension Scanners, Spin AI vs. Am I Being Pwned",
+      "link": "https://amibeingpwned.com/blog/spin-ai-vs-am-i-being-pwned",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:32:08.000Z"
+    },
+    {
+      "id": "49079dd9884eb76239012399997eb2cf73eb042b",
+      "title": "Building a CLI for all of Cloudflare",
+      "link": "https://blog.cloudflare.com/cf-cli-local-explorer",
+      "source_name": "Cloudflare Blog",
+      "published_at": "2026-04-13T14:29:45.000Z"
+    },
+    {
+      "id": "e87ac5f140c9659ee40500c0e827ddfe8314dc3e",
+      "title": "Radio time machine AI audio system recreates past sounds for cognitive health",
+      "link": "https://www.designboom.com/technology/radio-time-machine-ai-audio-system-past-sounds-cognitive-health-elderly-care-tbwa-hakuhodo",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:29:23.000Z"
+    },
+    {
+      "id": "ccabddcfdde0f7e78eccf203a7a67580fdb2432d",
+      "title": "Show HN: Gusco – Orthodox TUI file manager with SFTP/S3 support, written in Go",
+      "link": "https://gitlab.com/gusco/gusco",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:28:27.000Z"
+    },
+    {
+      "id": "57de6260cc8d6fdb0866e5a077dcb3229b872d55",
+      "title": "Meta builds AI version of Mark Zuckerberg to interact with staff",
+      "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
+      "source_name": "Hacker News AI",
+      "published_at": "2026-04-13T14:28:03.000Z"
+    },
+    {
+      "id": "8d695fb78831e7fad810e4e063b152fe4920b0ef",
+      "title": "Show HN: Open KB: Open LLM Knowledge Base",
+      "link": "https://news.ycombinator.com/item?id=47752392",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T14:20:36.000Z"
+    },
+    {
+      "id": "486e46b9c108baaeb16cda51d1d846c774770089",
+      "title": "7 View Transitions Recipes to Try",
+      "link": "https://css-tricks.com/7-view-transitions-recipes-to-try",
+      "source_name": "CSS-Tricks",
+      "published_at": "2026-04-13T14:14:43.000Z"
+    },
+    {
+      "id": "885bc88908eec18379ba2876a3b25db89e3db73a",
+      "title": "Show HN: I built a no-code report builder for Microsoft endpoint management data",
+      "link": "https://news.ycombinator.com/item?id=47752285",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:13:14.000Z"
+    },
+    {
+      "id": "9759f3f3827611b10e6dac710d2d39f73baf476d",
+      "title": "LLM is a compiler, not a runtime",
+      "link": "https://getpocketbot.com/blog/llm-compiler-not-runtime",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-13T14:12:53.000Z"
+    },
+    {
+      "id": "9f95b88bcecdc88b6b16e92f7c1b6b02a02d7f33",
+      "title": "Epic 员工自曝：人们来我们这只是为了领免费游戏，然后又回到了 Steam",
+      "link": "https://www.ithome.com/0/938/732.htm",
+      "source_name": "IT之家",
+      "published_at": "2026-04-13T14:12:24.000Z"
+    },
+    {
+      "id": "7b3ad5ee9413f03310cfe9602ce69bd92511a57c",
+      "title": "阿里云百炼的 coding plan 能用吗？",
+      "link": "https://www.v2ex.com/t/1205602",
+      "source_name": "V2EX 技术",
+      "published_at": "2026-04-13T14:10:57.000Z"
+    },
+    {
+      "id": "170cbf729f4aa35649077282bfe3d64d0a2918de",
+      "title": "Show HN: Fake-Fast Detector – Exposing performance dark patterns and PSI cosplay",
+      "link": "https://vibeaxis.com/fake-fast-detector",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:09:04.000Z"
+    },
+    {
+      "id": "9b4795524407079efba1cc327bf4bfec441dcd8f",
+      "title": "Show HN: ParseBench – Document parsing benchmark for AI agents",
+      "link": "https://www.parsebench.ai/",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:07:15.000Z"
     },
     {
       "id": "c0fef71b687ab98c62f6669334f85913b3604e13",
@@ -39,27 +935,6 @@
       "published_at": "2026-04-13T14:07:05.000Z"
     },
     {
-      "id": "676255df6a59c8da2b223d63247d155848a1016a",
-      "title": "Building a Voice-Controlled Local AI Agent with LangGraph and Mem0",
-      "link": "https://dev.to/utkrshm/building-a-voice-controlled-local-ai-agent-with-langgraph-and-mem0-2421",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:06:24.000Z"
-    },
-    {
-      "id": "8e9047a48f96263fdc8d017f52e7dd0a09867e0d",
-      "title": "Week 16 Dev Log: From First Customer to 56 MCP Tools — Building an AI-Native Website Publisher",
-      "link": "https://dev.to/megberts/week-16-dev-log-from-first-customer-to-56-mcp-tools-building-an-ai-native-website-publisher-511k",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:05:54.000Z"
-    },
-    {
-      "id": "3396cc32b98ef8c6cd133585468330f0f0d9ed40",
-      "title": "We built a firewall for LLM apps",
-      "link": "https://dev.to/uzy1bit/we-built-a-firewall-for-llm-apps-4e2c",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:05:51.000Z"
-    },
-    {
       "id": "a64fe5de3104e34f0ba4372adf632d72250a47c3",
       "title": "爆改阔直屏难度直降：第三方推出华为 Pura X 手机内屏不折叠钢化膜",
       "link": "https://www.ithome.com/0/938/730.htm",
@@ -67,95 +942,18 @@
       "published_at": "2026-04-13T14:05:25.000Z"
     },
     {
-      "id": "dd32d1698444a4592f6a9427c28e8f524f2042c2",
-      "title": "Terraform State Locking: A Guide for Growing Teams",
-      "link": "https://dev.to/devopsstart/terraform-state-locking-a-guide-for-growing-teams-22e7",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:05:08.000Z"
+      "id": "840b6f588492fc8c82c2054e58fd55e1b9db69d7",
+      "title": "Ask HN: Infinitely Scalable Prompts",
+      "link": "https://news.ycombinator.com/item?id=47752156",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T14:04:13.000Z"
     },
     {
-      "id": "2b486f401f02aa498c55f7c890d028a62fe9dc5e",
-      "title": "refactor(feishu): reuse persistent dedupe lookups",
-      "link": "https://github.com/openclaw/openclaw/commit/085d0c5d30069c6cf4e737fec3c221b0f13af7e9",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T14:04:38.000Z"
-    },
-    {
-      "id": "b43b121f7c3aa71cce067c7a8b0c070574c15a7c",
-      "title": "【慢讯】谷歌学生会员申请活动已于3月11号结束",
-      "link": "https://linux.do/t/topic/1959330",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:04:26.000Z"
-    },
-    {
-      "id": "7c1e5df9376c8c32dafba537f0111a57d6dfd96c",
-      "title": "refactor(line): share replay dedupe guard",
-      "link": "https://github.com/openclaw/openclaw/commit/5207d081d459fe9cd797955ef3e2d139e3d72a93",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T14:04:07.000Z"
-    },
-    {
-      "id": "bac0424b2047aa1f299916afe0979a859156b191",
-      "title": "feat(plugin-sdk): add claimable dedupe helper",
-      "link": "https://github.com/openclaw/openclaw/commit/028434a00ffd52f841a501e3a0d7b0c9ab880f10",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T14:03:54.000Z"
-    },
-    {
-      "id": "e4a32c5c2b670c0716e9d22bdeb64116a7ea4853",
-      "title": "25 Workflow Automation and Process Agent Patterns on AWS You Can Steal Right Now",
-      "link": "https://dev.to/aws-builders/25-workflow-automation-and-process-agent-patterns-on-aws-you-can-steal-right-now-11oi",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:03:36.000Z"
-    },
-    {
-      "id": "63c8f52a212becd1fe73ce0d7f22a9e118c7f86b",
-      "title": "糟糕的一天啊",
-      "link": "https://linux.do/t/topic/1959323",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:03:02.000Z"
-    },
-    {
-      "id": "c5e1b717f1d18eff310b03f6ff6df21df1862f98",
-      "title": "Batch Rename Photos with AI: SEO-Friendly Filenames (2026)",
-      "link": "https://dev.to/samma1997/batch-rename-photos-with-ai-seo-friendly-filenames-2026-1n9p",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:02:36.000Z"
-    },
-    {
-      "id": "312eeed1fd96269e70c4d553a476036328e49445",
-      "title": "Embedded Linux Development - Part 3",
-      "link": "https://dev.to/cangulmez/embedded-linux-development-part-3-6hm",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:02:29.000Z"
-    },
-    {
-      "id": "3aeac1a2a98e6d77507cababc6cfd7e6cb692371",
-      "title": "Batch Compress Images Free — No Signup, No Upload to Server (2026)",
-      "link": "https://dev.to/samma1997/batch-compress-images-free-no-signup-no-upload-to-server-2026-45pl",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:02:25.000Z"
-    },
-    {
-      "id": "67ef2e6ddc2783523867725244c173e8748d3c92",
-      "title": "How AI Image Renaming Boosts Your SEO (2026 Guide)",
-      "link": "https://dev.to/samma1997/how-ai-image-renaming-boosts-your-seo-2026-guide-5425",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:02:17.000Z"
-    },
-    {
-      "id": "ddabb4f42cad14e7a081f18c57443bd23c543716",
-      "title": "Methodology",
-      "link": "https://dev.to/samma1997/methodology-10g",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:02:06.000Z"
-    },
-    {
-      "id": "ff7486e9b3410dcd965730824c1f0d2e4a06ff0d",
-      "title": "有没有佬友有酒馆dc社区的链接",
-      "link": "https://linux.do/t/topic/1959317",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:01:40.000Z"
+      "id": "eef747c69be1bb887975f9db2c3f79b841e92f8a",
+      "title": "Show HN: Reverse Engineered Apple's Circular App Clip Codes",
+      "link": "https://github.com/rs/appclipcode",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-13T14:03:34.000Z"
     },
     {
       "id": "355411761f815fe72b9a043ef93fe46f9a6133d9",
@@ -165,25 +963,11 @@
       "published_at": "2026-04-13T14:01:21.000Z"
     },
     {
-      "id": "739efc394860892337d2d5fe5510eeed9e01f893",
-      "title": "Sustainable GPU FinOps: Optimizing AI Compute for Cost and Carbon",
-      "link": "https://dev.to/jubayerhossainbook/sustainable-gpu-finops-optimizing-ai-compute-for-cost-and-carbon-3mnk",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:00:36.000Z"
-    },
-    {
-      "id": "5c2d910a31e0cb42150ea73455126a0e539595f8",
-      "title": "Volatility Clustering with Merton-Hawkes Jump-Diffusion Simulations in Python",
-      "link": "https://dev.to/ayratmurtazin/volatility-clustering-with-merton-hawkes-jump-diffusion-simulations-in-python-4ibh",
-      "source_name": "Dev.to",
-      "published_at": "2026-04-13T14:00:22.000Z"
-    },
-    {
-      "id": "355a3babf182ead2c9c82f88f2059a73893fd81c",
-      "title": "sub2api怎么在codex里配置",
-      "link": "https://linux.do/t/topic/1959309",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T14:00:09.000Z"
+      "id": "9b15657a1f031605905c9ac76b415e499c2e84dc",
+      "title": "Apple Vision Pro 没有完蛋",
+      "link": "https://www.ifanr.com/1662019",
+      "source_name": "爱范儿",
+      "published_at": "2026-04-13T14:00:06.000Z"
     },
     {
       "id": "22605444c25ff209f2c5e6420e40eaa659b25892",
@@ -201,52 +985,10 @@
     },
     {
       "id": "f1ea635f4e7b25a95efa5f5351220949f07cf462",
-      "title": "You Need to Be More Freaked Out by Shingles",
+      "title": "You Should Be More Freaked Out by Shingles",
       "link": "https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think",
       "source_name": "Wired",
       "published_at": "2026-04-13T14:00:00.000Z"
-    },
-    {
-      "id": "37ad317f13717c418f6416d5366a4dbfe0c2908c",
-      "title": "今天被封号那个贩子，是不是以前写过打伞送人啥的，然后表白墙找人那个？当时觉得青春满满还祝福捏，隔着还骗佬友我感情啊",
-      "link": "https://linux.do/t/topic/1959303",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:59:34.000Z"
-    },
-    {
-      "id": "c9319ec6c386e734e5e379bc3dba747f0f5393ad",
-      "title": "求正规or不容易跑路渠道的gptpro推荐",
-      "link": "https://linux.do/t/topic/1959302",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:59:32.000Z"
-    },
-    {
-      "id": "fbcbc4673f6f0fa6b714f14efa7d8d501c1b4f66",
-      "title": "codex今天(4.13)比周末(4.12)的额度感觉增加了一些",
-      "link": "https://linux.do/t/topic/1959301",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:59:30.000Z"
-    },
-    {
-      "id": "36ff3f7f28ce5d975d73d9b312b4d645ad43aea0",
-      "title": "在这里发公益BOT相关",
-      "link": "https://linux.do/t/topic/1959297",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:58:58.000Z"
-    },
-    {
-      "id": "b5548d193d8d742331ad312329d2edd9d221ee55",
-      "title": "4.11paypal开的team号，12号就给噶了？都没用",
-      "link": "https://linux.do/t/topic/1959291",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:58:22.000Z"
-    },
-    {
-      "id": "7784191d3a2dedd2250a6a264c7fa56def715f9a",
-      "title": "我是真沒轍了，只能求助佬友。調幅AI和調魔虚罗一樣被AI肘暈厥了",
-      "link": "https://linux.do/t/topic/1959289",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:58:19.000Z"
     },
     {
       "id": "37f32b204b6b8383edd94e44f9128f31d568d523",
@@ -264,23 +1006,16 @@
     },
     {
       "id": "cc8ffb96d50524bdf33088d8e3104aed861eb45f",
-      "title": "BYD's Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways",
+      "title": "BYD’s Fastest-Charging Car in the World Is Astonishing—in Good and Bad Ways",
       "link": "https://www.wired.com/story/byd-denza-z9-gt-fastest-charging-car-in-the-world",
       "source_name": "Wired",
       "published_at": "2026-04-13T13:56:13.000Z"
     },
     {
-      "id": "9967978c7b176e4b8d3e4c781c0e05f4df099558",
-      "title": "fix(logging) add failover log source and target (#65955)",
-      "link": "https://github.com/openclaw/openclaw/commit/dc5ed7edeac48f340633857704831b8cc14e5825",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T13:56:10.000Z"
-    },
-    {
       "id": "afd1e879337fa4b62d7fcc6357f7a8715e1b2d72",
       "title": "Show HN: How to Use Google's Extreme AI Compression with Ollama and Llama.cpp",
       "link": "https://news.ycombinator.com/item?id=47752036",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Show",
       "published_at": "2026-04-13T13:55:55.000Z"
     },
     {
@@ -291,13 +1026,6 @@
       "published_at": "2026-04-13T13:55:18.000Z"
     },
     {
-      "id": "dad613cdcd618005b1bdda38ddfa09462f26bccf",
-      "title": "关于team重连",
-      "link": "https://linux.do/t/topic/1959261",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:54:22.000Z"
-    },
-    {
       "id": "938d1dd9c63413eac1114ce5795d6bd329249d08",
       "title": "优派推出新款“VX2758-2K-PRO”27 英寸显示器：2K 185Hz，841 元",
       "link": "https://www.ithome.com/0/938/725.htm",
@@ -305,130 +1033,25 @@
       "published_at": "2026-04-13T13:54:05.000Z"
     },
     {
-      "id": "00ba80997b741123c1a921f31a6645810660cbb6",
-      "title": "最近流量一直不够用，有没有推荐的宝藏流量卡",
-      "link": "https://linux.do/t/topic/1959258",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:53:55.000Z"
+      "id": "de17f80c866d3b1e00c280b558adacb333cfd43d",
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "link": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
+      "source_name": "Ars Technica",
+      "published_at": "2026-04-13T13:52:46.000Z"
     },
     {
-      "id": "f2a35f303ba573d9b2fa091de7a484ddc57010dd",
-      "title": "【求助】关于我office的ppt双击打开白屏这件事儿",
-      "link": "https://linux.do/t/topic/1959252",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:53:28.000Z"
+      "id": "fe98bf5e32c291fbfbc652cdab7a685acdd8d9f5",
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "link": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T13:48:24.000Z"
     },
     {
-      "id": "02f64e503f6a9d2a12b8b5a4a1967fc4d0fa24f6",
-      "title": "【MIT 100%开源】CC GUI 客户端版 正式发布",
-      "link": "https://linux.do/t/topic/1959236",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:51:54.000Z"
-    },
-    {
-      "id": "401b87cda6ec6836ae788818ddf1be7248e702ed",
-      "title": "[开源]飞书CLI skill22 大实战 - 特别增加CRM和ERP-企业应用直接对接龙虾openclaw",
-      "link": "https://linux.do/t/topic/1959234",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:51:30.000Z"
-    },
-    {
-      "id": "48439a3e8ac90eb69a7471695cdf29f19feffac5",
-      "title": "codex 的 AGENTS.md 怎么配置比较好？",
-      "link": "https://linux.do/t/topic/1959232",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:51:10.000Z"
-    },
-    {
-      "id": "253aab48dc7403b623fb1b268364d0cebb736fdf",
-      "title": "不要碰claude fast模式，这是陷阱！",
-      "link": "https://linux.do/t/topic/1959227",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:50:31.000Z"
-    },
-    {
-      "id": "d6849d48cdc3d9685d78f60dc4ecb890aa4b793c",
-      "title": "Run context-engine turn maintenance as idle-aware background work (#6…",
-      "link": "https://github.com/openclaw/openclaw/commit/c15b295a85648a2182ea3a72217775af274ec5d4",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T13:50:22.000Z"
-    },
-    {
-      "id": "fa4a051ccbb692c96a22c214be0f741178947b4f",
-      "title": "有买 GPT 5x pro的佬吗？想问下5x pro都有什么模型，有gpt 4.5没",
-      "link": "https://linux.do/t/topic/1959219",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:48:48.000Z"
-    },
-    {
-      "id": "fb39bb3a47d90b0c72726c6d4565e9c552d8de56",
-      "title": "codex使用api开启fast模式求助",
-      "link": "https://linux.do/t/topic/1959216",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:48:08.000Z"
-    },
-    {
-      "id": "2b720cff8aaeb99fe0ba8be3ebe4e019b17bbc4b",
-      "title": "推荐的终端管理应用—Ghostty",
-      "link": "https://linux.do/t/topic/1959212",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:47:52.000Z"
-    },
-    {
-      "id": "6f1768da8e2f16fa85b0ac1f8a105fde510a3c72",
-      "title": "Kondi-chat (open cursor) – multi-model AI coding CLI with intelligent routing",
-      "link": "https://github.com/thisPointOn/kondi-chat",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T13:46:23.000Z"
-    },
-    {
-      "id": "73c375ce07b37f8e441646a4ea35990f4ccd93c6",
-      "title": "最近发现onedrive本来是被释放空间的问题突然都下载到了本地了",
-      "link": "https://linux.do/t/topic/1959184",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:45:14.000Z"
-    },
-    {
-      "id": "98eeaa2fcc48f2172d96792f30808b1b3f0a3ea2",
-      "title": "朋友被骗了,40块一个月gptpro.怎么检测",
-      "link": "https://linux.do/t/topic/1959177",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:44:08.000Z"
-    },
-    {
-      "id": "9c6f893217de8707ca90ab8a54b8afc8a07bb8c8",
-      "title": "sub2api 账号正常，但是会自动关闭账号",
-      "link": "https://linux.do/t/topic/1959176",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:44:06.000Z"
-    },
-    {
-      "id": "ab94cda132c8de38abc210fd326340eb68d7d97d",
-      "title": "windsurf逆向",
-      "link": "https://linux.do/t/topic/1959167",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:43:32.000Z"
-    },
-    {
-      "id": "649c1b3d5a817a076c74506b4f20917bad080e28",
-      "title": "哪个大佬能提供点关于跨境支付接口的办法？",
-      "link": "https://linux.do/t/topic/1959158",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:42:11.000Z"
-    },
-    {
-      "id": "3df1925be622cc4c01592c10e96ef6bfe686f4b1",
-      "title": "Show HN: Remy, an AI agent that compiles annotated Markdown into full-stack apps",
-      "link": "https://remy.msagent.ai/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T13:41:07.000Z"
-    },
-    {
-      "id": "3e73efe343fc15aaf6ea87348cae1d1c717c1f5d",
-      "title": "买了一些PLUS的CDK要用什么邮箱注册账号比较稳 之前注册了一批DDG和Gmail的free号全都炸了",
-      "link": "https://linux.do/t/topic/1959153",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:41:04.000Z"
+      "id": "af6b80856b7b6cd74f5851fda9335d97d8e8c03c",
+      "title": "Tell HN: Facebook's reasons to disable an account is a blackbox",
+      "link": "https://news.ycombinator.com/item?id=47751816",
+      "source_name": "Hacker News Ask",
+      "published_at": "2026-04-13T13:40:04.000Z"
     },
     {
       "id": "dbc204bb02f5d5292617c3ce4fb73cb58aec766b",
@@ -438,25 +1061,11 @@
       "published_at": "2026-04-13T13:40:03.000Z"
     },
     {
-      "id": "0477487cd449a4915b92612600dfcf547f85768b",
-      "title": "有没有去过大理的佬",
-      "link": "https://linux.do/t/topic/1959141",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:38:19.000Z"
-    },
-    {
       "id": "b196e33e1c851993e832343a0a1ed55395c70995",
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
       "link": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional",
       "source_name": "Hacker News 首页",
       "published_at": "2026-04-13T13:37:33.000Z"
-    },
-    {
-      "id": "ea3c68acd2b4a357990ffc4e6297fa7264fc92d8",
-      "title": "准备开始写腾讯和阿里的coding plan抢购脚本",
-      "link": "https://linux.do/t/topic/1959119",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-13T13:34:57.000Z"
     },
     {
       "id": "bd7d9e68080e1a854f9d257d87f83f83bc8c3bf5",
@@ -480,13 +1089,6 @@
       "published_at": "2026-04-13T13:28:49.000Z"
     },
     {
-      "id": "5ee6c84b32799bf268cdc00cdfd1c6a23cc16c57",
-      "title": "They See Your Photos",
-      "link": "https://theyseeyourphotos.com/",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T13:27:51.000Z"
-    },
-    {
       "id": "dd7557f449bf35993d45e87dd0ec60f3f041a79e",
       "title": "第三方电商上架 PS5 版《GTA 6》游戏预购，定价 568 港币",
       "link": "https://www.ithome.com/0/938/721.htm",
@@ -508,25 +1110,11 @@
       "published_at": "2026-04-13T13:24:32.000Z"
     },
     {
-      "id": "593c88bffdb48ebf58eb7da92988998e8913e292",
-      "title": "Show HN: Zero WYSIWYG – A lightweight, zero-dependency HTML editor",
-      "link": "https://github.com/KaTXi/zero-wysiwyg",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T13:21:20.000Z"
-    },
-    {
-      "id": "c4347c0fddf291de9552706c5f55331b8fe78505",
-      "title": "The \"Hand Farms\" of India: Fueling the AI Robot Revolution with Human Motion",
-      "link": "https://quasa.io/media/the-hidden-hand-farms-of-india-fueling-the-ai-robot-revolution-with-human-motion",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T13:20:26.000Z"
-    },
-    {
-      "id": "00239304a8672834c43a2994e08bba5535e75ca8",
-      "title": "Show HN: Rockraft – a Rust framework for building strongly consistent KV stores",
-      "link": "https://github.com/lichuang/rockraft",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T13:20:10.000Z"
+      "id": "7c350f087cd0e8ac2ce83c11eff23fa90f857594",
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T13:23:50.000Z"
     },
     {
       "id": "f94c9ecf27e557b1d5d2d527fe4d2b14192870a6",
@@ -536,39 +1124,11 @@
       "published_at": "2026-04-13T13:16:50.000Z"
     },
     {
-      "id": "a59891dd6e6c3debc33baa5b2d53b846ad9bd799",
-      "title": "Block-Level CRDT: The Missing Piece for Collaborative AI Agent Memory",
-      "link": "https://marcobambini.substack.com/p/block-level-lww-the-missing-piece",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T13:16:16.000Z"
-    },
-    {
-      "id": "5f506ecc34ad3e6260c2cb2a20880fcc8b58b81e",
-      "title": "Microsoft exec suggests AI agents will need to buy licenses,just like employees",
-      "link": "https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T13:14:31.000Z"
-    },
-    {
       "id": "d07857831c690a95dcfb8b42498f89c5b6d6058d",
       "title": "俞浩晒追觅手机 AURORA LUX 真机外观照片",
       "link": "https://www.ithome.com/0/938/719.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T13:13:12.000Z"
-    },
-    {
-      "id": "69114b7dfcc7372897309637b8b0ca69df0b1523",
-      "title": "feat(docs): add Hostinger installation guide and link in VPS document…",
-      "link": "https://github.com/openclaw/openclaw/commit/aee2681ab1eff720f3ca8a2cb9ecbab5faff84f2",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T13:12:44.000Z"
-    },
-    {
-      "id": "e85be5f82d30e93cbff1d9ed3e053c0afa121e2b",
-      "title": "Show HN: CJIT, a single-binary C compiler that can self host",
-      "link": "https://dyne.org/cjit",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T13:11:27.000Z"
     },
     {
       "id": "a7a452292b0b4ba91d96b732dcd8db4cc00950e8",
@@ -613,13 +1173,6 @@
       "published_at": "2026-04-13T13:08:35.000Z"
     },
     {
-      "id": "59113da0b54cb6c36cef7452e329707e47df82f8",
-      "title": "docs: clarify npm dist-tag auth",
-      "link": "https://github.com/openclaw/openclaw/commit/6b6f0feb3c1ba0ad7f6105c9e09ed603ca700eb1",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T13:03:01.000Z"
-    },
-    {
       "id": "d545f2da972554955264313bad1f2aea4bed5dd7",
       "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
       "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
@@ -634,6 +1187,13 @@
       "published_at": "2026-04-13T13:00:51.000Z"
     },
     {
+      "id": "1f770abb89a89398538659743adc7da883ccd328",
+      "title": "Dynamic, identity-aware, and secure Sandbox auth",
+      "link": "https://blog.cloudflare.com/sandbox-auth",
+      "source_name": "Cloudflare Blog",
+      "published_at": "2026-04-13T13:00:00.000Z"
+    },
+    {
       "id": "80947cd588b741cd26bf29d18a948928b76ddafd",
       "title": "The Strait of Hormuz blockade is causing a slow-moving food crisis",
       "link": "https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis",
@@ -646,27 +1206,6 @@
       "link": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts",
       "source_name": "MIT Technology Review",
       "published_at": "2026-04-13T13:00:00.000Z"
-    },
-    {
-      "id": "f135839c65905bee0c6ed230d6fb31e3e00a7fb5",
-      "title": "ci: add stable npm dist-tag sync",
-      "link": "https://github.com/openclaw/openclaw/commit/c4b8d6d5ab368225c89330a8b8663abc39e352fd",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T12:58:04.000Z"
-    },
-    {
-      "id": "20dc8edf59ab01184a5b2ae0b22fec1ce553ba3a",
-      "title": "Selfmanager.ai – AI task manager built around dates, not lists/folders/boards",
-      "link": "https://selfmanager.ai/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:57:47.000Z"
-    },
-    {
-      "id": "87e9861c34da2b67857b6bb572af7fbaf232c69d",
-      "title": "As AI use increases at work, many still choose not to use it, Gallup poll finds",
-      "link": "https://apnews.com/article/ai-workplace-poll-gallup-gemini-chatgpt-e4c129e9773255203ccae208bfccb367",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:57:40.000Z"
     },
     {
       "id": "9dccae18ba83aec6ce38a7dfe936c51516a710e2",
@@ -690,34 +1229,6 @@
       "published_at": "2026-04-13T12:51:11.000Z"
     },
     {
-      "id": "d1b8b9664368a8665d58381ee590102feae2224c",
-      "title": "Skillsmith – Write AI coding skills once, export to all AI providers",
-      "link": "https://jakubkontra.dev/en/blog/skillsmith-write-ai-skills-once-export-everywhere",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:46:39.000Z"
-    },
-    {
-      "id": "b7ee528841676ab4e74c09335be7f38c322a14eb",
-      "title": "Show HN: Twins, a Gemini Server in Ada",
-      "link": "https://github.com/tomekw/twins",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:46:06.000Z"
-    },
-    {
-      "id": "0bc19cd4c7015208a50f6bb24fb8ffcb457cdd12",
-      "title": "Show HN: Avooq – generate a complete 250+ page novel in one click",
-      "link": "https://avooq.es/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:44:40.000Z"
-    },
-    {
-      "id": "dd25f0ac33f5ab781920728f9b6311b2a415b5eb",
-      "title": "OpenAI GPT worst AI GPT/model vs. Claude/MinMax",
-      "link": "https://alitagpt.com/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:43:52.000Z"
-    },
-    {
       "id": "9b7e10745385753ecc708438e6137be38fe5afa6",
       "title": "Antigravity Is Down",
       "link": "https://news.ycombinator.com/item?id=47751145",
@@ -725,25 +1236,11 @@
       "published_at": "2026-04-13T12:41:51.000Z"
     },
     {
-      "id": "7f304b2c781c94919a9289672097c91be5600c77",
-      "title": "Show HN: Wax Crate – Browse your Apple Music library like a crate of records",
-      "link": "https://apps.apple.com/au/app/wax-crate-virtual-vinyl/id6760627334",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:41:01.000Z"
-    },
-    {
       "id": "c87ce14bf3159cb55307dcdf2b41354bd4144058",
       "title": "12.99 万元起，奇瑞风云 T9L 汽车正式上市",
       "link": "https://www.ithome.com/0/938/710.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T12:41:00.000Z"
-    },
-    {
-      "id": "82e9887264ba35ee1ae250ceba788b338eb02080",
-      "title": "Swival is the AI agent I wanted",
-      "link": "https://00f.net/2026/04/13/swival-ai-agent",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:36:03.000Z"
     },
     {
       "id": "c2b16bc4e40b8d098deefb85d0e4095f0c5fe9b3",
@@ -767,41 +1264,6 @@
       "published_at": "2026-04-13T12:35:47.000Z"
     },
     {
-      "id": "2ccc5e1f34c02c3a7253070a8da78e78fe12810b",
-      "title": "test: fix macos parallels gateway fallback",
-      "link": "https://github.com/openclaw/openclaw/commit/1c0672b74f66038fd4ee76fbf1c21715887149d8",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T12:32:47.000Z"
-    },
-    {
-      "id": "41de52077acef648a455739dc614a33a08bc791b",
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "link": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:29:39.000Z"
-    },
-    {
-      "id": "08710d3bfa374ddc842e2152abad6c09c882b8fa",
-      "title": "I went to America's worst national parks so you don't have to",
-      "link": "https://substack.com/home/post/p-193626949",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-13T12:29:35.000Z"
-    },
-    {
-      "id": "a640025d8587a5a1bb82e259c3d83e8104d7d90d",
-      "title": "Built my AI agent a custom dashboard. Then replaced it with Fizzy",
-      "link": "https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:27:58.000Z"
-    },
-    {
-      "id": "638edcd05271801b536067003a392e11b0162788",
-      "title": "Show HN: The Infinite Tolkien – endless narration of Middle-earth",
-      "link": "http://infinitetolkien.com/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:24:39.000Z"
-    },
-    {
       "id": "275ada95aee94b10b2d7b745706da4d420f6bb66",
       "title": "“光核”联动！国内最大海上光伏项目第七标段首次并网成功",
       "link": "https://www.ithome.com/0/938/706.htm",
@@ -809,25 +1271,11 @@
       "published_at": "2026-04-13T12:21:53.000Z"
     },
     {
-      "id": "7a76c046fc368e55be7aad8a4a0e3fc6f65cb500",
-      "title": "Show HN: Turn your favorite YouTube channels into a streaming experience",
-      "link": "https://minitube.tv/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:20:46.000Z"
-    },
-    {
       "id": "8def6d70fd3834f63c7da94315f3825e7fcf2cc9",
       "title": "奇瑞星途 EX7 车型 4 月 19 日上市：纯电 / 增程双动力可选、首搭航空级纯机电线控制动系统",
       "link": "https://www.ithome.com/0/938/705.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T12:15:58.000Z"
-    },
-    {
-      "id": "2f1edee82c2bd7de937879b51ee0f8c147a3b4c7",
-      "title": "Microsoft begins removing Copilot from Notepad on Windows 11 but the AI persists",
-      "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-finally-begins-removing-copilot-from-notepad-on-windows-11-but-the-ai-still-persists",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:15:02.000Z"
     },
     {
       "id": "e97d5488cd2351a900279cd2cfd4ada5c77e01f1",
@@ -886,20 +1334,6 @@
       "published_at": "2026-04-13T12:10:00.000Z"
     },
     {
-      "id": "0076bcab51557f756e9d53600ae0a126081af8a4",
-      "title": "Apple's AI chief John Giannandrea to exit next week",
-      "link": "https://www.msn.com/en-in/money/general/apple-s-ai-chief-john-giannandrea-to-exit-next-week/ar-AA20L9vP",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:07:05.000Z"
-    },
-    {
-      "id": "7d14c2fd44cfc1025bbf33491e9690a795001619",
-      "title": "Show HN: Turn your cat into a Cubism Cat via an app",
-      "link": "https://cubismcat.damjanski.com/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:06:52.000Z"
-    },
-    {
       "id": "041b37c2d1cb4287309fa7b6af4bac7741d67f83",
       "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
       "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
@@ -912,20 +1346,6 @@
       "link": "https://www.ithome.com/0/938/701.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T12:03:30.000Z"
-    },
-    {
-      "id": "7e36c0a0ef42788a22ef442fe4ea16fb54c6fa39",
-      "title": "Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2",
-      "link": "https://getloreo.com/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T12:01:26.000Z"
-    },
-    {
-      "id": "d7517403bf29ccffe9221614c8d7910483082c77",
-      "title": "Show HN: A web newspaper that looks like a newspaper",
-      "link": "https://myown.news/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T12:00:42.000Z"
     },
     {
       "id": "d3c46f2f01f4aff42b6ade8fc787bd0cc7efbd6e",
@@ -959,15 +1379,8 @@
       "id": "fc707e46b5288b192675ec7ba0bb14a41e2c898e",
       "title": "Commitgen – AI-generated Conventional Commit messages from your staged diff",
       "link": "https://news.ycombinator.com/item?id=47750678",
-      "source_name": "Hacker News AI",
+      "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T11:49:14.000Z"
-    },
-    {
-      "id": "a34227b057b3137e593bad75e1b8eb95f0c1ac26",
-      "title": "Show HN: Digest – a Claude Code skill for your daily dev news digest",
-      "link": "https://github.com/camilleroux/tech-digest",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T11:45:57.000Z"
     },
     {
       "id": "084646698f0c5c24b5ad17689c208bc80d45bcee",
@@ -991,13 +1404,6 @@
       "published_at": "2026-04-13T11:37:00.000Z"
     },
     {
-      "id": "c1adc373e35256819fcb6efbd07f5b3278ec1e9a",
-      "title": "Show HN: Git-style branching for your Rails database",
-      "link": "https://github.com/carldaws/activerecord-postgresql-branched",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T11:35:35.000Z"
-    },
-    {
       "id": "0725d66246db9e19cb4182880adb9d83bb5b1d21",
       "title": "Android now stops you sharing your location in photos",
       "link": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos",
@@ -1019,13 +1425,6 @@
       "published_at": "2026-04-13T11:31:57.000Z"
     },
     {
-      "id": "7e66242fd6189343f709c26eab7a44d4269d8af7",
-      "title": "I track what developers say about AI coding tools each week",
-      "link": "https://murmure.cc/",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T11:29:53.000Z"
-    },
-    {
       "id": "f3564d677f4dc39f0c527e1a881265c0a98284b1",
       "title": "Ask HN: Why are printers always so unreliable?",
       "link": "https://news.ycombinator.com/item?id=47750504",
@@ -1038,13 +1437,6 @@
       "link": "https://www.v2ex.com/t/1205572",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T11:22:51.000Z"
-    },
-    {
-      "id": "3b540972683e219a540a2c10443f4ee126a49a14",
-      "title": "Show HN: AI Content Attestation & Verification w/ Revocable Signatures",
-      "link": "https://lyfe.ninja/news",
-      "source_name": "Hacker News AI",
-      "published_at": "2026-04-13T11:21:25.000Z"
     },
     {
       "id": "f7264996eb37ccc1ef213d55443baf22314db6a1",
@@ -1061,32 +1453,11 @@
       "published_at": "2026-04-13T11:14:37.000Z"
     },
     {
-      "id": "87b398f827130c09fa2b7c38b9f8bbf55b4cd031",
-      "title": "Show HN: Species.app – A visual spaced-repetition engine for taxonomy",
-      "link": "https://news.ycombinator.com/item?id=47750352",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T11:08:09.000Z"
-    },
-    {
-      "id": "0738a268842f93f4cc287777aa7b35b64cb7602e",
-      "title": "Show HN: An offline-first type-safe graph database in a CRDT",
-      "link": "https://codemix.com/graph",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T11:05:41.000Z"
-    },
-    {
       "id": "27fb2a11411276d2e616805b2595c3c6dc1e9816",
       "title": "华为李小龙自曝使用 Pura X Max 新机已有 3 个月，称是自己用过的最好用的双折叠",
       "link": "https://www.ithome.com/0/938/694.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T11:03:38.000Z"
-    },
-    {
-      "id": "039120901b34f56ab0e9d0345cbda73a032844ec",
-      "title": "Show HN: MFlow – Jira delivery analytics for small engineering teams",
-      "link": "https://www.no-pm.com/",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T11:02:17.000Z"
     },
     {
       "id": "9ec61d4f62cd4786fb7ecc8daf8628e79330be5a",
@@ -1101,13 +1472,6 @@
       "link": "https://dfarq.homeip.net/cyrix-486slc-cpu-introduced-april-131992",
       "source_name": "dfarq.homeip.net",
       "published_at": "2026-04-13T11:00:31.000Z"
-    },
-    {
-      "id": "33e4a1078476aacc9e6226c3ac5b948373a5879b",
-      "title": "Did Neuralink make the wrong bet?",
-      "link": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T11:00:00.000Z"
     },
     {
       "id": "66e4bbeb77f313ced240020d670735f22d4bd895",
@@ -1159,13 +1523,6 @@
       "published_at": "2026-04-13T10:47:02.000Z"
     },
     {
-      "id": "706cba8b4bed07a1d3a3da43abaae6dfb875b255",
-      "title": "fix(feishu): guard app registration fetches",
-      "link": "https://github.com/openclaw/openclaw/commit/1de5610b24dd7642b6412acd4a3035802038f909",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:46:57.000Z"
-    },
-    {
       "id": "4d66e2df9d6c3ee732e0623f0a638a5820f3e449",
       "title": "Beyond Karpathy's LLM-Wiki: The Necessity of Cognitive Governance",
       "link": "https://www.jonadas.com/writing/essays/beyond-karpathys-llm-wiki",
@@ -1173,25 +1530,11 @@
       "published_at": "2026-04-13T10:44:29.000Z"
     },
     {
-      "id": "52b1f57caca8dfdbbcaa2bfa3b5a4e7d91e84fb5",
-      "title": "Show HN: Rocky-Project Hail Mary agent skill that cut output tokens ~47%",
-      "link": "https://github.com/hpbyte/rocky",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T10:41:18.000Z"
-    },
-    {
       "id": "29b7e7634b69fadf2a46720418956041eee32238",
       "title": "How do you validate your GTM Efforts?",
       "link": "https://news.ycombinator.com/item?id=47750165",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T10:39:38.000Z"
-    },
-    {
-      "id": "3c36a35148771be132464c1ced1fd13521ec6175",
-      "title": "fix(feishu): break auth login barrel cycle",
-      "link": "https://github.com/openclaw/openclaw/commit/ebba080ffc0de362fbcec2dc637a750a21bd561b",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:36:09.000Z"
     },
     {
       "id": "4cff73d9735d5d90f4fe02438ed6d95b3fae1084",
@@ -1229,25 +1572,11 @@
       "published_at": "2026-04-13T10:30:45.000Z"
     },
     {
-      "id": "a9feb9c54b8bb07f5f1720d843842be12d564eb5",
-      "title": "fix(feishu): keep channel auth on local api barrel",
-      "link": "https://github.com/openclaw/openclaw/commit/268824ff3ab95da42a38f1800cb93800bd710c41",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:30:07.000Z"
-    },
-    {
       "id": "f5af9ca177db967e3c9d35f961250699757170ba",
       "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
       "link": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons",
       "source_name": "Wired",
       "published_at": "2026-04-13T10:30:00.000Z"
-    },
-    {
-      "id": "8685805f5eaa357abf39f5b03341faa6a645f35b",
-      "title": "Microsoft’s new Xbox Gamepad Cursor adds a virtual mouse to handhelds",
-      "link": "https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T10:29:17.000Z"
     },
     {
       "id": "db461bcf65a472a73a126029ab1adfc36a8b6d84",
@@ -1257,25 +1586,11 @@
       "published_at": "2026-04-13T10:24:12.000Z"
     },
     {
-      "id": "b5ad71db4999df2e9397ecd7f3fe9a26ab347b07",
-      "title": "fix(feishu): avoid sdk facade cycles",
-      "link": "https://github.com/openclaw/openclaw/commit/78448c0a26e1119492a498e7092c4fb7cc6738f5",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:19:10.000Z"
-    },
-    {
       "id": "9db2345ecae62cea265ce9db607a61e49640e352",
       "title": "【IT之家评测室】雷神 ZERO Air 15 游戏本体验：设计夯，性能狂，1.54kg 和 160W 兼得",
       "link": "https://www.ithome.com/0/938/685.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T10:18:01.000Z"
-    },
-    {
-      "id": "c741e2292bae05295ec59003fffb56864d511976",
-      "title": "Show HN: Manico – macOS app switcher where single keys activate apps",
-      "link": "https://news.ycombinator.com/item?id=47750012",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-13T10:16:35.000Z"
     },
     {
       "id": "003d4d403a9f76ac9658586eafa15b2a5860a0d7",
@@ -1299,25 +1614,11 @@
       "published_at": "2026-04-13T10:10:42.000Z"
     },
     {
-      "id": "58ede129d28de48bf74c8a375b2761ead17b5a5e",
-      "title": "fix(ci): verify bundled plugin runtime deps",
-      "link": "https://github.com/openclaw/openclaw/commit/21ca387eda33aaa7773c434974035a2a649c4f32",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:09:13.000Z"
-    },
-    {
       "id": "56326fa7800dca2ea9ad428b91ffdfc438670d0a",
       "title": "Ask HN: Are you negatively affected by the recent economic stagnation?",
       "link": "https://news.ycombinator.com/item?id=47749970",
       "source_name": "Hacker News Ask",
       "published_at": "2026-04-13T10:08:59.000Z"
-    },
-    {
-      "id": "3c7f8bcfd338839509fb15ed911be363dadd347b",
-      "title": "feat: Streamline Feishu channel onboarding with QR code scan-to-creat…",
-      "link": "https://github.com/openclaw/openclaw/commit/9e2ac8a1cb9ace335622a453d742f2b86fcff717",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T10:03:44.000Z"
     },
     {
       "id": "dbbf51cecbd1c90d37406779bad9dbf37c5ea772",
@@ -1362,20 +1663,6 @@
       "published_at": "2026-04-13T10:00:00.000Z"
     },
     {
-      "id": "aee7f22dc282e953380211d08757b88efdc84cf2",
-      "title": "test(release): align pack size budget assertion",
-      "link": "https://github.com/openclaw/openclaw/commit/3b9fb972daa5da51db6396df8d7ae8c6126aa423",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T09:59:36.000Z"
-    },
-    {
-      "id": "c9d57e04fe50da9bc47ec7afb5f9a90199e873c5",
-      "title": "fix: harden qmd service startup",
-      "link": "https://github.com/openclaw/openclaw/commit/645c7b189757d5d6427dd6cb40431aaa15da5ced",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T09:58:46.000Z"
-    },
-    {
       "id": "5ca94cecd7d74e0770ab350fe24e58f45458cae2",
       "title": "深蓝 L06 增程版官宣“发车”，将搭载 300 万法拉利同款磁流变悬架",
       "link": "https://www.ithome.com/0/938/679.htm",
@@ -1409,13 +1696,6 @@
       "link": "https://www.ithome.com/0/938/676.htm",
       "source_name": "IT之家",
       "published_at": "2026-04-13T09:51:48.000Z"
-    },
-    {
-      "id": "298580b7ba8d58210d2dbb864bb6c4de5671598e",
-      "title": "fix: preserve qmd command paths",
-      "link": "https://github.com/openclaw/openclaw/commit/2e1b5407ddfa1ce35289c49b16e7432750ad2b97",
-      "source_name": "OpenClaw Commits",
-      "published_at": "2026-04-13T09:51:32.000Z"
     },
     {
       "id": "45ff60add4dd273cbf0c113637ecc7183b0dcc31",
@@ -1481,34 +1761,6 @@
       "published_at": "2026-04-13T09:26:56.000Z"
     },
     {
-      "id": "3ad7deeaf44179e347ae3356167d444a9b55b667",
-      "title": "Sam Altman reportedly targeted in second attack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T09:25:57.000Z"
-    },
-    {
-      "id": "b2aee95a85cc8da5c78838a53e354f0dea7f6916",
-      "title": "OPPO Pad Mini 平板三款配色公布：莫奈紫、薄荷青、深空灰",
-      "link": "https://www.ithome.com/0/938/648.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:21:11.000Z"
-    },
-    {
-      "id": "6a3c7b9767a043142a83c913891f21fed5442136",
-      "title": "OpenAI 在伦敦设立首个永久办公室：预计 2027 年开放，可容纳 544 名成员",
-      "link": "https://www.ithome.com/0/938/627.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:17:57.000Z"
-    },
-    {
-      "id": "d9ff711e91c3b98564c950e8510b91a7b83f8e2b",
-      "title": "小米米家智能宠物喂食器 2 可视版首销：AI 智能全天监控食盆状态，首发 499 元",
-      "link": "https://www.ithome.com/0/938/642.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:16:49.000Z"
-    },
-    {
       "id": "98c5ae07a33c6fb58e47aedc230fd84183bed814",
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
       "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
@@ -1516,74 +1768,11 @@
       "published_at": "2026-04-13T09:15:00.000Z"
     },
     {
-      "id": "23fb541bf5b30c3c54879949e136df83a74012a0",
-      "title": "中国网络文学阅读市场规模达 502.1 亿元，同比增长 16.6%",
-      "link": "https://www.ithome.com/0/938/635.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:11:49.000Z"
-    },
-    {
-      "id": "441c9d3b2f131ee2b4b0d28ea16d170ea00a733b",
-      "title": "达尔优推出 96% 配列三模机械键盘 FK98，到手价 279 元",
-      "link": "https://www.ithome.com/0/938/631.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:09:37.000Z"
-    },
-    {
-      "id": "aa6f28d23eeeb9634771d31f0486650d1b92d6de",
-      "title": "余承东预告：全新一代问界 M9 系列将搭载更强大的华为全栈黑科技",
-      "link": "https://www.ithome.com/0/938/629.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:08:09.000Z"
-    },
-    {
-      "id": "4028dd70eb9cad5ce0ca6298b139add9fc0ee606",
-      "title": "消息称微软 4 月 16 日举行 Xbox 游戏发布会，《地铁》IP 新作有望亮相",
-      "link": "https://www.ithome.com/0/938/628.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:08:03.000Z"
-    },
-    {
       "id": "8f378bf7218f196e305fce24446a677dc45c169c",
       "title": "minimax token plan 踩坑",
       "link": "https://www.v2ex.com/t/1205535",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T09:04:47.000Z"
-    },
-    {
-      "id": "4760d08bb18ef7eea6047d4512406b8003cc7a68",
-      "title": "小鹏 MONA M03 汽车累计交付突破 25 万台",
-      "link": "https://www.ithome.com/0/938/624.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T09:02:54.000Z"
-    },
-    {
-      "id": "6f83a867a9f22880ab37af92038013735c5d41d8",
-      "title": "消息称苹果 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变",
-      "link": "https://www.ithome.com/0/938/623.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T08:58:13.000Z"
-    },
-    {
-      "id": "a6af5d71ac83c72327c335b49127040f167fec78",
-      "title": "零跑 Lafa5 Ultra 汽车将于 4 月 24 日北京车展上市，搭载专属运动套件",
-      "link": "https://www.ithome.com/0/938/622.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T08:56:14.000Z"
-    },
-    {
-      "id": "8b3156aa05f1d0e90b60b50ceefaa60f05969248",
-      "title": "李楠谈各品牌 Ultra 卖不动的原因，称任何功能都有边际效用递减",
-      "link": "https://www.ithome.com/0/938/621.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T08:55:18.000Z"
-    },
-    {
-      "id": "46e2a70f18bb4f09cbd0220e207665f069a30ab0",
-      "title": "科大讯飞回应网传员工中 1000 万大奖：如果真有同事这么幸运，真心为他高兴",
-      "link": "https://www.ithome.com/0/938/617.htm",
-      "source_name": "IT之家",
-      "published_at": "2026-04-13T08:51:18.000Z"
     },
     {
       "id": "433ccf7203b23a021b7bd07ab0aaf7281b43e028",
@@ -1614,13 +1803,6 @@
       "published_at": "2026-04-13T08:26:19.000Z"
     },
     {
-      "id": "5afea567109ce77f684196124b88954c9bc0e798",
-      "title": "Huawei beats Apple and Samsung with new wide foldable",
-      "link": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
-      "source_name": "The Verge",
-      "published_at": "2026-04-13T08:13:41.000Z"
-    },
-    {
       "id": "7121b7b7bdd7a12f397864fd03f2b85cdf9b7db6",
       "title": "Mhm AGI on a Docker Compose?",
       "link": "https://news.ycombinator.com/item?id=47749096",
@@ -1647,20 +1829,6 @@
       "link": "https://www.v2ex.com/t/1205502",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-13T07:17:12.000Z"
-    },
-    {
-      "id": "d39c722cac6652f7fc3ace561bb77ee01fac6a04",
-      "title": "Tell HN: AI is bringing back waterfall, here's what I've found",
-      "link": "https://news.ycombinator.com/item?id=47748747",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T07:14:37.000Z"
-    },
-    {
-      "id": "eb7207a84832b9a4d30952268b908515083cbbbd",
-      "title": "Ask HN: How are you handling runtime security for your AI agents?",
-      "link": "https://news.ycombinator.com/item?id=47748689",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T07:08:09.000Z"
     },
     {
       "id": "e2943669d2d838cfb27896c5f6faf5b3cb92d09d",
@@ -1698,11 +1866,11 @@
       "published_at": "2026-04-13T06:50:00.000Z"
     },
     {
-      "id": "131a7749da96e15c6b0d43dfade4f7254f794f6c",
-      "title": "Is AI Really gonna take our jobs?",
-      "link": "https://news.ycombinator.com/item?id=47748453",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T06:39:02.000Z"
+      "id": "7de7f7eb62b0f8d0dd6b022aaa0b646fed53f799",
+      "title": "Programming Used to Be Free",
+      "link": "https://purplesyringa.moe/blog/programming-used-to-be-free",
+      "source_name": "Hacker News 首页",
+      "published_at": "2026-04-13T06:24:39.000Z"
     },
     {
       "id": "ed3829b285672b866f0f5ccaad2be56e48cbb272",
@@ -1733,13 +1901,6 @@
       "published_at": "2026-04-13T06:00:00.000Z"
     },
     {
-      "id": "8c8813390f7e0d23514d795c20f96488946bdd7b",
-      "title": "Horizontal Infrastructure for Building Computer Vision Applications",
-      "link": "https://news.ycombinator.com/item?id=47748122",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T05:56:32.000Z"
-    },
-    {
       "id": "92c866b8e1535ab40dc1aac8a60f6bda1bfa8f74",
       "title": "The economics of software teams: Why most engineering orgs are flying blind",
       "link": "https://www.viktorcessan.com/the-economics-of-software-teams",
@@ -1759,13 +1920,6 @@
       "link": "https://www.producthunt.com/products/minicpm-4-0",
       "source_name": "Product Hunt",
       "published_at": "2026-04-13T04:57:42.000Z"
-    },
-    {
-      "id": "a4ddaf441f8232b0d0ea8d416c6a84af7cde6214",
-      "title": "Ask HN: Insta, X, Reddit or HN?",
-      "link": "https://news.ycombinator.com/item?id=47747709",
-      "source_name": "Hacker News Ask",
-      "published_at": "2026-04-13T04:47:11.000Z"
     },
     {
       "id": "4cd840cf11639692413d4c9cca4d1ec2db87d9d9",
@@ -6587,7 +6741,7 @@
       "id": "3b4c01ad2391f7226dc8f4cddb554da4ec0e50ed",
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another",
-      "source_name": "Hacker News 首页",
+      "source_name": "Hacker News 最佳",
       "published_at": "2026-04-12T22:38:45.000Z"
     },
     {
@@ -6631,13 +6785,6 @@
       "link": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
       "source_name": "Hacker News 首页",
       "published_at": "2026-04-12T20:43:08.000Z"
-    },
-    {
-      "id": "f7e6bdb6b95f33c0a7409da660f2b00a91a277e9",
-      "title": "Uncharted island soon to appear on nautical charts",
-      "link": "https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-12T20:30:11.000Z"
     },
     {
       "id": "cdf8d794c6604e122b4de36034a497a110e78bc2",
@@ -6787,13 +6934,6 @@
       "published_at": "2026-04-12T17:02:20.000Z"
     },
     {
-      "id": "eec271ce0cd9d7788e7fc20318b6c58038a398c5",
-      "title": "EasyPost (YC S13) Is Hiring",
-      "link": "https://www.easypost.com/careers",
-      "source_name": "Hacker News 首页",
-      "published_at": "2026-04-12T17:01:26.000Z"
-    },
-    {
       "id": "6892ab424f8a1f6944d89f3253bda441c0c476b7",
       "title": "Welcome to Agents Week",
       "link": "https://blog.cloudflare.com/welcome-to-agents-week",
@@ -6834,41 +6974,6 @@
       "link": "https://www.v2ex.com/t/1205356",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-12T15:58:23.000Z"
-    },
-    {
-      "id": "853650ccf871909568bb0f662ca8021651d7b300",
-      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-      "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
-      "source_name": "TechCrunch",
-      "published_at": "2026-04-12T15:07:08.000Z"
-    },
-    {
-      "id": "a55fbb9d601f8d8c8c9505c996f99cf436308b61",
-      "title": "At the HumanX conference, everyone was talking about Claude",
-      "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude",
-      "source_name": "TechCrunch",
-      "published_at": "2026-04-12T15:00:00.000Z"
-    },
-    {
-      "id": "dddc366f43d6f7154455180327cda29ea975db62",
-      "title": "cc 挺 nb，一个晚上写好了 以前估计一个礼拜干不好的项目",
-      "link": "https://www.v2ex.com/t/1205347",
-      "source_name": "V2EX 技术",
-      "published_at": "2026-04-12T14:45:21.000Z"
-    },
-    {
-      "id": "541c9c32c5b5c69f3d9a1b5762b7b5b92d17cfb6",
-      "title": "真的不建议任何人用中转",
-      "link": "https://www.v2ex.com/t/1205344",
-      "source_name": "V2EX 技术",
-      "published_at": "2026-04-12T14:25:29.000Z"
-    },
-    {
-      "id": "b52bfac10e68b7759dc658c01f42827dda6e06db",
-      "title": "Show HN: Agent-Notifications – Real-Time Alerts for OpenClaw and Hermes Agents",
-      "link": "https://github.com/Kuberwastaken/agent-notifications",
-      "source_name": "Hacker News OpenClaw",
-      "published_at": "2026-04-12T14:23:09.000Z"
     }
   ]
 }
