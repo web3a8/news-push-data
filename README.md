@@ -1,74 +1,38 @@
 # news-push-data
 
-`news-push-data` is the cloud-side raw news dataset producer for the local `news-push` skill.
+`news-push-data` is a public distribution repository for prepared news data.
 
-It only does five things:
+This repository is intentionally narrow in scope. It exists to publish already-built outputs for direct consumption, not to expose the private production pipeline that fetches, filters, ranks, and assembles those outputs.
 
-1. Fetch RSS/Atom feeds on a schedule.
-2. Read a small set of non-RSS extras from explicit config.
-3. Normalize, deduplicate, and time-filter articles.
-4. Write stable JSON files to `dist/`.
-5. Publish those files through GitHub Pages.
+## What This Repository Contains
 
-It does not do AI summarization, user preference handling, email delivery, local HTML UI, or agent orchestration.
-
-## Relationship To `news-push`
-
-This repository is the upstream raw data producer.
-
-The local `news-push` skill should only:
-
-1. Pull `latest.json` or `latest-lite.json` from GitHub Pages.
-2. Render the original article stream locally.
-3. Apply user preferences.
-4. Let the local agent summarize or transform the data.
-
-## Repository Layout
-
-```text
-.
-├── feeds/
-│   ├── feeds.opml
-│   └── extras.json
-├── scripts/
-│   ├── build-dataset.mjs
-│   ├── dedup.mjs
-│   ├── fetch-extras.mjs
-│   ├── fetch-rss.mjs
-│   ├── normalize.mjs
-│   ├── validate-output.mjs
-│   └── utils/
-├── src/
-│   └── schema/latest.schema.json
-├── dist/
-└── .github/workflows/
-```
-
-## Manual Run
-
-```bash
-npm install
-npm run build
-npm run validate
-```
-
-The default build reads:
-
-- `feeds/feeds.opml`
-- `feeds/extras.json`
-
-`feeds/feeds.opml` now also includes a dedicated `Hot Lists (RSSHub)` folder for social and product hot lists that do not have stable first-party RSS feeds.
-
-And writes:
-
-- `dist/index.html`
 - `dist/latest.json`
 - `dist/latest-lite.json`
 - `dist/meta.json`
+- `dist/index.html`
+- `src/schema/latest.schema.json`
 
-## Output Contract
+## What This Repository Does Not Contain
 
-`dist/latest.json` is the canonical dataset consumed by the local skill.
+- source lists
+- RSSHub route configuration
+- crawler code
+- agent repair logic
+- cookies, tokens, or private infrastructure settings
+- build-time scheduling or data production workflows
+
+Those concerns now live outside this public repository in the private or local pipeline that produces the dataset and pushes the final `dist/` contents here.
+
+## Output Files
+
+Published URLs:
+
+- `https://<github-username>.github.io/<repo-name>/`
+- `https://<github-username>.github.io/<repo-name>/latest.json`
+- `https://<github-username>.github.io/<repo-name>/latest-lite.json`
+- `https://<github-username>.github.io/<repo-name>/meta.json`
+
+`latest.json` is the canonical full dataset.
 
 Top-level fields:
 
@@ -91,97 +55,41 @@ Each article contains:
 - `fetched_at`
 - `tags`
 
-`src/schema/latest.schema.json` is the source of truth for this contract. `npm run validate` must pass before publishing.
+`latest-lite.json` is the small transport-friendly subset.
 
-## Failure Rule
+`meta.json` contains operational metadata, including:
 
-The build tolerates partial source failures.
-
-- If at least one usable article is produced, the run is treated as successful.
-- If zero usable articles are produced, the build exits non-zero.
-
-Warnings are written to `dist/meta.json` and printed to stdout with explicit source names.
-
-`dist/meta.json` also includes per-source diagnostics:
-
+- `source_total`
+- `source_succeeded`
+- `source_failed`
+- `warnings`
 - `source_status_summary`
 - `failure_breakdown`
-- `sources[]`
+- `sources`
 
-Each source entry records whether the feed was reachable, whether it returned data, how many articles were fetched versus published, how long it took, and the classified failure reason when it did not succeed.
+## Schema
 
-## GitHub Pages Setup
+`src/schema/latest.schema.json` is the public contract for `latest.json`.
 
-1. Push this repository to GitHub as a public repository.
-2. In repository settings, set Pages source to `GitHub Actions`.
-3. Keep `update-news.yml` enabled for schedule or manual dispatch.
-4. Keep `publish-pages.yml` enabled so pushes that update `dist/` are deployed.
+Consumers should treat that schema as the stable interface, not any internal production details.
 
-When Pages is enabled, files are published at:
+## Pages Publishing
 
-- `https://<github-username>.github.io/<repo-name>/`
-- `https://<github-username>.github.io/<repo-name>/latest.json`
-- `https://<github-username>.github.io/<repo-name>/latest-lite.json`
-- `https://<github-username>.github.io/<repo-name>/meta.json`
+GitHub Pages should use `GitHub Actions` as its source.
 
-Because the Pages artifact uploads the contents of `dist/`, the final URL does not include `/dist/`.
+This repository no longer builds the dataset on GitHub. Instead, an external pipeline updates `dist/` and pushes the results here. A lightweight Pages workflow then republishes the current `dist/` directory.
 
-## Extras Config
+## Consumer Guidance
 
-`feeds/extras.json` is separate from `feeds/feeds.opml` on purpose.
+If you are building on top of this repository:
 
-RSS and Atom remain the default source path. Non-RSS sources should be added as explicit entries with:
+- fetch `latest.json` when you need full article data
+- fetch `latest-lite.json` when you only need titles and links
+- inspect `meta.json` for diagnostics and source health
+- rely on the schema, not on unpublished production implementation details
 
-- `name`
-- `enabled`
-- `type`
-- `fetcher`
-- `url`
+## Repository Boundary
 
-The local skill should never read these config files directly.
+This repository is the public output layer.
 
-## Hot-List Sources
-
-The default OPML now includes a small RSSHub-backed hot-list bundle for the current wrap-up phase:
-
-- Weibo
-- Baidu
-- Zhihu
-- 36Kr
-- Bilibili
-- IT Home
-- SSPAI
-- The Paper
-- Toutiao
-- Baidu Tieba
-- Juejin
-- Tencent News
-- Readhub
-
-These entries intentionally prefer routes that can usually run without cookies or Puppeteer. Routes that often need stronger config on self-hosted RSSHub, such as direct Weibo hot search, direct Zhihu hot list, GitHub Trending with `GITHUB_ACCESS_TOKEN`, or Tophub with `TOPHUB_COOKIE`, are not enabled by default in `feeds.opml`.
-
-If you self-host RSSHub later, you can keep the same route paths and replace the `https://rsshub.app` base with your own instance domain.
-
-## Logging
-
-Logs are intentionally short and operational:
-
-- `[stage] ...`
-- `[batch x/y] ...`
-- `[warn] ...`
-- `[ok] ...`
-
-The scripts avoid agent-style prose so CI logs stay readable.
-
-## Tests
-
-The test suite uses fixture data and local HTTP servers.
-
-Covered cases:
-
-- OPML parsing
-- RSS and Atom parsing
-- deduplication
-- partial failures
-- all-source failure exit behavior
-- schema validation failure
+The production system that gathers sources, normalizes records, retries failures, runs private adapters, or uses self-hosted RSSHub is intentionally kept elsewhere.

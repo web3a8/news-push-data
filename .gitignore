@@ -7,3 +7,8 @@ tests/.tmp/
 /docs/
 /.claude/
 /latest.html
+/feeds/
+/scripts/
+/tests/
+/package.json
+/package-lock.json
