@@ -1,907 +1,1458 @@
 {
-  "dataset_id": "2026-04-14T05:54:39.200Z",
-  "generated_at": "2026-04-14T05:54:39.200Z",
-  "source_count": 7,
-  "article_count": 161,
+  "dataset_id": "2026-04-14T06:28:35.107Z",
+  "generated_at": "2026-04-14T06:28:35.107Z",
+  "source_count": 11,
+  "article_count": 263,
   "articles": [
     {
-      "id": "fd56fb9afee5a59e98696a10ce3abb5f2b184f68",
-      "title": "日警方再次逮捕强闯中国使馆自卫官",
-      "link": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E5%86%8D%E6%AC%A1%E9%80%AE%E6%8D%95%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E8%87%AA%E5%8D%AB%E5%AE%98",
-      "summary": "当地时间14日，日本警方以涉嫌违反枪支刀具法，再次逮捕强闯中国驻日本大使馆的日本陆上自卫队三等陆尉村田晃大。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "fa67b878b683deafbb7a85ad66b12725efa2fb35",
-      "title": "宋祖儿后援会暂停运营",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E7%A5%96%E5%84%BF%E5%90%8E%E6%8F%B4%E4%BC%9A%E6%9A%82%E5%81%9C%E8%BF%90%E8%90%A5",
-      "summary": "宋祖儿后援会暂停运营",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "f82f73633e60c08092e3514bee4866f144e95623",
-      "title": "伊朗公布美以袭击造成的海上损失",
-      "link": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E9%80%A0%E6%88%90%E7%9A%84%E6%B5%B7%E4%B8%8A%E6%8D%9F%E5%A4%B1",
-      "summary": "伊朗13日在向国际海事组织法律委员会提交的文件中披露，美国和以色列对伊朗发动的军事打击对其海上运输、人员安全等造成严重损失，39艘商船遭袭并沉没、110艘传统渔船被毁，另导致20名海员死亡。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "f658ff903926d709233617ed38306b84f6492015",
-      "title": "2026北电艺考前五出炉",
-      "link": "https://www.baidu.com/s?wd=2026%E5%8C%97%E7%94%B5%E8%89%BA%E8%80%83%E5%89%8D%E4%BA%94%E5%87%BA%E7%82%89",
-      "summary": "4月13日，2026年北京电影学院表演专业艺考成绩单正式公布。今年北电表演专业全国前5名分别是：第1名：陆俊昊；第2名：胡武圆；第3名：艾米；第4名：桑楚越；第5名：宋汶鞠。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "f0311679a3f3dd60886d79a734eac81d7be4f5b2",
-      "title": "朴信惠怀二胎了",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B4%E4%BF%A1%E6%83%A0%E6%80%80%E4%BA%8C%E8%83%8E%E4%BA%86",
-      "summary": "朴信惠怀二胎了",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "eedde1d1f6bc7d88d6f4034253a5822cc6359a08",
-      "title": "脑机接口如何惠及更多患者",
-      "link": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E6%83%A0%E5%8F%8A%E6%9B%B4%E5%A4%9A%E6%82%A3%E8%80%85",
-      "summary": "脑机接口植入的手术费和其他医疗设备植入的手术费区别并不是特别大。但是如果医疗器械的投入大、周期长，而且技术含量高，在刚开始问世的时候，价格肯定是不便宜的。但是相信和所有医疗器械的规律都是一样的，随着技术的普及、应用的推广，特别是技术的迭代，它的价格肯定能够成为大家承受得起的价格。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "ecea818303c8aa5fe1e6ec81ae718c02e0ca0779",
-      "title": "李梦演小三看起来好难对付",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%A2%A6%E6%BC%94%E5%B0%8F%E4%B8%89%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%A5%BD%E9%9A%BE%E5%AF%B9%E4%BB%98",
-      "summary": "李梦演小三看起来好难对付",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "eb2332d9f6b166ab682bfe9008b891e4c5509344",
-      "title": "伊朗放重磅信号",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7",
-      "summary": "伊朗放重磅信号",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "e31243e6e403267734b28ed917d4f02194ba0330",
-      "title": "这件事 总书记要求确保取得实效",
-      "link": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%B6%E4%BA%8B+%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%A6%81%E6%B1%82%E7%A1%AE%E4%BF%9D%E5%8F%96%E5%BE%97%E5%AE%9E%E6%95%88",
-      "summary": "当前，树立和践行正确政绩观学习教育正在全党深入开展。如何确保学习教育取得实效？总书记提出三点要求：第一，认认真真、扎扎实实提高思想认识；第二，认认真真、扎扎实实整改突出问题；第三，认认真真、扎扎实实立好制度规矩。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "d23ebb27607f6c1fc2fd05688331980b1d89c49e",
-      "title": "泰国海岸惊现被斩首美人鱼",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E8%A2%AB%E6%96%A9%E9%A6%96%E7%BE%8E%E4%BA%BA%E9%B1%BC",
-      "summary": "泰国海岸惊现被斩首美人鱼",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "cf2ebfaaf61a7760800c8cd496acf7bc7ea92741",
-      "title": "卫健局回应女子双腿被吊超1小时",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E5%90%8A%E8%B6%851%E5%B0%8F%E6%97%B6",
-      "summary": "卫健局回应女子双腿被吊超1小时",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "cc715f5801c87b101748f2a267ba213502f16839",
-      "title": "幸运咖 迪丽热巴",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B8%E8%BF%90%E5%92%96%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4",
-      "summary": "幸运咖 迪丽热巴",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "c5b6f57104ae4d8ae3928cc6b648af3f7b682e04",
-      "title": "iPhoneFold首年销量预计",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhoneFold%E9%A6%96%E5%B9%B4%E9%94%80%E9%87%8F%E9%A2%84%E8%AE%A1",
-      "summary": "iPhoneFold首年销量预计",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "c46377c97d57deaa9aaaa7a1eb375d661e633d23",
-      "title": "微信又有新功能 网友直呼好玩",
-      "link": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E5%A5%BD%E7%8E%A9",
-      "summary": "微信4月13日上线“微信表情助手”小程序，用户可通过手机端上传自制表情包至视频号专区展示，并支持朋友圈、公众号等多场景调用，同时为原创作者提供跳转引流功能，网友普遍反馈“好玩”。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "c386e6124c06657c188e667bbac5a52fb07078be",
-      "title": "垃圾真的不够烧",
-      "link": "https://www.baidu.com/s?wd=%E5%9E%83%E5%9C%BE%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A4%9F%E7%83%A7",
-      "summary": "近日，广州一公司去填埋场挖了160万吨陈年垃圾重新焚烧发电。住建部最新数据显示，全国城镇垃圾焚烧设施已有5%的焚烧炉有一半时间处于停运状态，部分地区甚至出现“抢垃圾”的尴尬局面。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "bc329ed03bb5b38a25504ecf35fcfecd855ff6cc",
-      "title": "张凌赫说和小田一起拍情感戏很温馨",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E5%92%8C%E5%B0%8F%E7%94%B0%E4%B8%80%E8%B5%B7%E6%8B%8D%E6%83%85%E6%84%9F%E6%88%8F%E5%BE%88%E6%B8%A9%E9%A6%A8",
-      "summary": "张凌赫说和小田一起拍情感戏很温馨",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "bbbb57bf6d9776523a39f9f230b61a231d23e458",
-      "title": "Lululemon涉嫌使用永久化学物质被查",
-      "link": "https://www.baidu.com/s?wd=Lululemon%E6%B6%89%E5%AB%8C%E4%BD%BF%E7%94%A8%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E8%A2%AB%E6%9F%A5",
-      "summary": "Lululemon涉嫌使用永久化学物质被查",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "bb56eae7607809ee69dfacf751110dcb62a414c2",
-      "title": "超5万美军登陆伊朗系谣言",
-      "link": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
-      "summary": "近日，一段军用飞机降落的视频在海外媒体传播，并配文称“超5万美军登陆伊朗”，经多家媒体核查，视频内容不实，与美伊停火毫无关联。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "b9b1de1e2d6d25d3d56f0de7b673a4b3752caa48",
-      "title": "朴信惠 崔泰俊",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B4%E4%BF%A1%E6%83%A0%20%E5%B4%94%E6%B3%B0%E4%BF%8A",
-      "summary": "朴信惠 崔泰俊",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "b08008b6a5a935756d70b25e15ab6dab77967d73",
-      "title": "马斯克版微信支持阅后即焚、防截图",
-      "link": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
-      "summary": "“马斯克版微信”XChat即将推出。据官方介绍，这款应用的核心亮点集中在隐私与安全层面，所有消息、通话及媒体内容均采用端到端加密技术，仅收发双方可读取相关内容。同时，还配备了多种高级隐私工具，包括防截图、阅后即焚、消息编辑、双向撤回功能等。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "afb0b7b18765c2dbdcec47c97a9961cfec30210a",
-      "title": "人民之心",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%BF%83",
-      "summary": "人民之心",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "a9b789cef9e7c5ba9415aaad9f2c624a94648e0d",
-      "title": "演出服遭集体退货家属称表演取消",
-      "link": "https://www.baidu.com/s?wd=%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88",
-      "summary": "近日，浙江湖州一淘宝店主反映，陕西丹凤县初级中学一班级学生购买20套演出服用于校园艺术节，活动结束后以“表演取消”等理由申请“七天无理由”退货11套。店主找到学生彩排及表演视频，证明衣服已被使用，且部分退回衣物有明显污渍、破损，影响二次销售。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "a858360df1df64cfce9d0f38a08a883f17633c71",
-      "title": "文章为饭店排队久道歉",
-      "link": "https://www.baidu.com/s?wd=%E6%96%87%E7%AB%A0%E4%B8%BA%E9%A5%AD%E5%BA%97%E6%8E%92%E9%98%9F%E4%B9%85%E9%81%93%E6%AD%89",
-      "summary": "近日，演员文章在上海开了一家名为“八号院儿”的面馆爆火，有食客称排队超过30米，从下午排到晚上也没排上。对此，文章在店门口写了个牌：“我们还在慢慢发育中，怠慢之处您多见谅，我们加快脚步精进服务与效率，力求给您更好的用餐体验。”",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "a512064a89c2f0e71ab1cbc9799bcb3aa3b0556b",
-      "title": "银行招聘被骂上热搜不能怪网友",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
-      "summary": "银行招聘被骂上热搜不能怪网友",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "a4b6aeb8c3c60d28b7e9244ae2cb06d4cf40586b",
-      "title": "“Nice爷爷”获国际安徒生奖",
-      "link": "https://www.baidu.com/s?wd=%E2%80%9CNice%E7%88%B7%E7%88%B7%E2%80%9D%E8%8E%B7%E5%9B%BD%E9%99%85%E5%AE%89%E5%BE%92%E7%94%9F%E5%A5%96",
-      "summary": "北京时间4月13日，2026年国际安徒生奖揭晓，英国儿童文学作家迈克尔·罗森获作家奖。他曾因演绎儿童诗时的魔性表情和“Nice”梗，在中国网络走红，被称为“Nice爷爷”，其本人表示很喜欢这个称呼。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "a42d22990f03feae30a05616b8a971af8f3b3b4c",
-      "title": "拉夫罗夫已抵达中国开始访问",
-      "link": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%A7%8B%E8%AE%BF%E9%97%AE",
-      "summary": "4月14日，俄罗斯外长拉夫罗夫抵达中国，开启为期两天的正式访问。访华期间，两国外长将就双边关系、各领域合作及共同关心的国际和地区问题交换意见、协调立场。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "a14e40581b075bb7b905bbe5d1bc724a5908eb18",
-      "title": "深圳一家快闭店的面包店被善意留住",
-      "link": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%AE%B6%E5%BF%AB%E9%97%AD%E5%BA%97%E7%9A%84%E9%9D%A2%E5%8C%85%E5%BA%97%E8%A2%AB%E5%96%84%E6%84%8F%E7%95%99%E4%BD%8F",
-      "summary": "近日，深圳盐田区“麦穗山丘”面包店因顾客挽留与政府帮扶避免闭店。4月10日，开业半年的社区面包店因持续亏损计划停业，店主吴女士发布闭店通知后，熟客在社交平台发起挽留，盐田区商务局主动上门提供经营建议。4月14日，店铺重新开业，首批面包20分钟内售罄。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "9e9e051f4b76830aa631127aee1b13b0bcabe10f",
-      "title": "14岁初中生自学微积分造航空发动机",
-      "link": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%87%AA%E5%AD%A6%E5%BE%AE%E7%A7%AF%E5%88%86%E9%80%A0%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA",
-      "summary": "14岁海南澄迈初中生车金刚自学微积分与空气动力学，手工制作涡轮喷气发动机模型，首次试车失败后获网友在线支招，计划二次试车并称“再失败也没关系，我总能一步一步接近成功”。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "97c888ea627b571f6f5032f6e8f5129450b9279f",
-      "title": "多地新能源车牌绿色变白色",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2",
-      "summary": "多地新能源车牌绿色变白色",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "977f175aac2ece778388e6b325d3622eea16c1af",
-      "title": "海底捞称乱象产生根源在董事会",
-      "link": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%B0%E4%B9%B1%E8%B1%A1%E4%BA%A7%E7%94%9F%E6%A0%B9%E6%BA%90%E5%9C%A8%E8%91%A3%E4%BA%8B%E4%BC%9A",
-      "summary": "4月13日，海底捞通报全国排查结果：2025年1月至2026年3月间，4起门店员工被强制自费购买礼物事件属实，涉及金额1237.9元，款项已全部返还。公司指出乱象根源为董事会过度激励店长及弱化总部职能，导致管理压力转嫁基层。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "95a980d1554c16e2c76174ce88febab0ac54f234",
-      "title": "恒大集团恒大地产及许家印案一审开庭",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD",
-      "summary": "恒大集团恒大地产及许家印案一审开庭",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "939c77ef167e560a2f8f8f5af7d054950e4cec4a",
-      "title": "文章回应开面馆",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%87%E7%AB%A0%E5%9B%9E%E5%BA%94%E5%BC%80%E9%9D%A2%E9%A6%86",
-      "summary": "文章回应开面馆",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "8a92b0d7b17ac679b749cd7e6345893d3d01a7de",
-      "title": "张凌赫上了江苏英语试卷",
-      "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%8A%E4%BA%86%E6%B1%9F%E8%8B%8F%E8%8B%B1%E8%AF%AD%E8%AF%95%E5%8D%B7",
-      "summary": "4月13日，江苏一网友发文称张凌赫上了英语试卷，网友告诉记者，这是其女儿新概念老师发下来的试题。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "87b1e737dac521cdf7d110b1ff289e69dec56c66",
-      "title": "多校鼓励博士生读硕士 释放什么信号",
-      "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%A0%A1%E9%BC%93%E5%8A%B1%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AF%BB%E7%A1%95%E5%A3%AB+%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
-      "summary": "近期，多所高校推出“博士+硕士”双学位项目，鼓励博士生攻读人工智能等相关专业硕士学位。副教授丁长发表示，随着生产力与新兴产业发展，社会对高层次复合型人才需求攀升，高校此举是顺应经济社会发展需求，着力培养复合型、创新型人才。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "8782547096b5d600f89f378728954d7373c99e65",
-      "title": "她在战争中出生 也在战争中死去",
-      "link": "https://www.baidu.com/s?wd=%E5%A5%B9%E5%9C%A8%E6%88%98%E4%BA%89%E4%B8%AD%E5%87%BA%E7%94%9F+%E4%B9%9F%E5%9C%A8%E6%88%98%E4%BA%89%E4%B8%AD%E6%AD%BB%E5%8E%BB",
-      "summary": "在黎巴嫩南部城市提尔，7岁的阿琳·赛义德因以军4月8日的空袭头部受伤、全身多处严重烧伤。当时，阿琳一家正在为她的父亲举行葬礼，空袭又导致他们失去4名家庭成员，其中包括阿琳2岁的妹妹塔琳。塔琳的外祖父悲痛地表示，塔琳在战争中出生，也在战争中死去。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "85cd68f7e1b1dddbc3ca20a82c0c7c00132a937a",
-      "title": "苏林乘坐“复兴号”前往雄安",
-      "link": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%9E%97%E4%B9%98%E5%9D%90%E2%80%9C%E5%A4%8D%E5%85%B4%E5%8F%B7%E2%80%9D%E5%89%8D%E5%BE%80%E9%9B%84%E5%AE%89",
-      "summary": "4月14日，越共中央总书记、国家主席苏林抵达北京后，随即展开访问行程，将乘坐“复兴号”高速列车前往雄安。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "7ff44cd40ef96f1a8ad09803e8e61d13ee2d31c3",
-      "title": "罗永浩吐槽“120W是充电器商标”",
-      "link": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E2%80%9C120W%E6%98%AF%E5%85%85%E7%94%B5%E5%99%A8%E5%95%86%E6%A0%87%E2%80%9D",
-      "summary": "近期，“部分商家承认120W是充电器商标”这一话题冲上热搜。就连罗永浩也忍不住发文吐槽：“我们注册商标时，不少看似合理的名称，都因一些微不足道的原因未获通过，这种明显不合理的商标，究竟是怎么注册成功的？”",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "78451f48b9845ca9cef5d3838000ce4d6c0dfa27",
-      "title": "医院回应男子献血十年用博爱卡遇阻",
-      "link": "https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%80%E5%8D%81%E5%B9%B4%E7%94%A8%E5%8D%9A%E7%88%B1%E5%8D%A1%E9%81%87%E9%98%BB",
-      "summary": "2026年2月至4月，四川自贡市民谢先生持“博爱卡”在荣县人民医院要求免交普通门诊诊查费时两度遇阻。院方4月13日回应称，系因内部政策执行疏漏，承诺立即整改。谢先生为前消防员，十年累计献血109次达39400毫升，两次获全国无偿献血奉献金奖，符合当地“三免”政策资格。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "73aea8611bcb4d216ca3b6fcf70e78209723ccb2",
-      "title": "北大还行撒贝宁 我很爱吃李小冉",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8C%97%E5%A4%A7%E8%BF%98%E8%A1%8C%E6%92%92%E8%B4%9D%E5%AE%81%20%E6%88%91%E5%BE%88%E7%88%B1%E5%90%83%E6%9D%8E%E5%B0%8F%E5%86%89",
-      "summary": "北大还行撒贝宁 我很爱吃李小冉",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "72514336893ad4598139512d7586c0bbad0ccb3a",
-      "title": "许家印一审当庭认罪悔罪",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E8%AE%B8%E5%AE%B6%E5%8D%B0%E4%B8%80%E5%AE%A1%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA%E6%82%94%E7%BD%AA",
-      "summary": "许家印一审当庭认罪悔罪",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "6f99314c1982cfcf8a314d9e7528dd8bbe1f69b5",
-      "title": "奶奶帮我打印的身份证复印件",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A5%B6%E5%A5%B6%E5%B8%AE%E6%88%91%E6%89%93%E5%8D%B0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%A4%8D%E5%8D%B0%E4%BB%B6",
-      "summary": "奶奶帮我打印的身份证复印件",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "650c455ac4bb3b81068d97de1341a03197a5028c",
-      "title": "原来人小了做这些也会心酸",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E4%BA%BA%E5%B0%8F%E4%BA%86%E5%81%9A%E8%BF%99%E4%BA%9B%E4%B9%9F%E4%BC%9A%E5%BF%83%E9%85%B8",
-      "summary": "原来人小了做这些也会心酸",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "5bf02e9a07254655c28f7ff63680156b78bdf3bd",
-      "title": "离职要的就是这个瞬间",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A6%BB%E8%81%8C%E8%A6%81%E7%9A%84%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B8%AA%E7%9E%AC%E9%97%B4",
-      "summary": "离职要的就是这个瞬间",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "587ad7df7d0e86a4a2520e8820235f6638f1eb28",
-      "title": "当地通报村干部违建楼房成打卡地",
-      "link": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E6%9D%91%E5%B9%B2%E9%83%A8%E8%BF%9D%E5%BB%BA%E6%A5%BC%E6%88%BF%E6%88%90%E6%89%93%E5%8D%A1%E5%9C%B0",
-      "summary": "襄阳东津新区4月14日通报，针对网友反映的沈营村支书肖某超占土地、违规建五层1500平方米楼房成网红打卡地一事，已成立联合调查组全面调查，将依规严肃处理。目前肖某已被免去村支部书记职务。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "57df0a0a3ed6280d8d4246f4a51363fbc702e7c4",
-      "title": "明道2岁女儿正脸照",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%8E%E9%81%932%E5%B2%81%E5%A5%B3%E5%84%BF%E6%AD%A3%E8%84%B8%E7%85%A7",
-      "summary": "明道2岁女儿正脸照",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "53475a36997f6c932a02fcc6f6c81bd5b11b1a16",
-      "title": "印度男孩遭蛇咬伤被父母浸入恒河",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%A9%E9%81%AD%E8%9B%87%E5%92%AC%E4%BC%A4%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%B5%B8%E5%85%A5%E6%81%92%E6%B2%B3",
-      "summary": "印度男孩遭蛇咬伤被父母浸入恒河",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "45e45e699866d8f4fe42930beb1f3f2fa16401c2",
-      "title": "向太说向佑只想一夜暴富",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%91%E5%A4%AA%E8%AF%B4%E5%90%91%E4%BD%91%E5%8F%AA%E6%83%B3%E4%B8%80%E5%A4%9C%E6%9A%B4%E5%AF%8C",
-      "summary": "向太说向佑只想一夜暴富",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "44eeec257d7040ea6fcd5232a1e0e76e0abab62e",
-      "title": "春日里的中国花经济",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8A%B1%E7%BB%8F%E6%B5%8E",
-      "summary": "春日里的中国花经济",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "43a90be30076a93786a55e4fa58cecbe54e4fe86",
-      "title": "男子发帖称工作太闲后被公司调岗",
-      "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E5%B8%96%E7%A7%B0%E5%B7%A5%E4%BD%9C%E5%A4%AA%E9%97%B2%E5%90%8E%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%B0%83%E5%B2%97",
-      "summary": "近日，一名居住在深圳的港漂男子因在社交平台发帖称其在落马洲的工作如同“守水库”般清闲，引发网友关注后被公司调往中环。原工作地点距其住所仅十多分钟步行路程，调岗后跨境通勤时间显著增加。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "3cb6dbb04a619ceb4b4fde293281e1583ce2b806",
-      "title": "时代少年团 错票无法入场",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E9%94%99%E7%A5%A8%E6%97%A0%E6%B3%95%E5%85%A5%E5%9C%BA",
-      "summary": "时代少年团 错票无法入场",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "36a3577738bc3c4826ad816a9cd4d7f639ec0638",
-      "title": "王安宇王玉雯新片海报",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%AE%89%E5%AE%87%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%96%B0%E7%89%87%E6%B5%B7%E6%8A%A5",
-      "summary": "王安宇王玉雯新片海报",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "35849f9097e39cea01ece7a9ada8c03924460b9b",
-      "title": "隔夜菜不是指放了一夜的菜",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9A%94%E5%A4%9C%E8%8F%9C%E4%B8%8D%E6%98%AF%E6%8C%87%E6%94%BE%E4%BA%86%E4%B8%80%E5%A4%9C%E7%9A%84%E8%8F%9C",
-      "summary": "隔夜菜不是指放了一夜的菜",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "2cca492191dede930fb98cac19dc0ba68a955fce",
-      "title": "央媒曝光青少年矫正机构暴力乱象",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%AE%E5%AA%92%E6%9B%9D%E5%85%89%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9F%AB%E6%AD%A3%E6%9C%BA%E6%9E%84%E6%9A%B4%E5%8A%9B%E4%B9%B1%E8%B1%A1",
-      "summary": "央媒曝光青少年矫正机构暴力乱象",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "2cb0e7af434fc1d37e585ea5d4e1da037665b0f5",
-      "title": "巴基斯坦消息称美伊同意继续谈判",
-      "link": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B6%88%E6%81%AF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4",
-      "summary": "巴基斯坦消息称美伊同意继续谈判",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "1ee41306978775b5af27553335b670ec52653470",
-      "title": "苏林抵达北京与中方握手20秒",
-      "link": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%9E%97%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%E4%B8%8E%E4%B8%AD%E6%96%B9%E6%8F%A1%E6%89%8B20%E7%A7%92",
-      "summary": "4月14日上午，越共中央总书记、国家主席苏林抵达北京，与中方握手20秒。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "19e24ac993ce95474ed23864e8c5f61db8d39845",
-      "title": "罗志祥方否认猝死传闻",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%97%E5%BF%97%E7%A5%A5%E6%96%B9%E5%90%A6%E8%AE%A4%E7%8C%9D%E6%AD%BB%E4%BC%A0%E9%97%BB",
-      "summary": "罗志祥方否认猝死传闻",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "15d44805e4c6f94695a19bbfee69f149a8c80bae",
-      "title": "任长霞牺牲22周年",
-      "link": "https://www.baidu.com/s?wd=%E4%BB%BB%E9%95%BF%E9%9C%9E%E7%89%BA%E7%89%B222%E5%91%A8%E5%B9%B4",
-      "summary": "2026年4月14日是任长霞同志因公牺牲22周年纪念日。这位曾任登封市公安局局长的公安英模，2004年在侦破案件途中遭遇车祸殉职，生前打掉7个涉黑团伙，破案3000余起，殉职时14万群众自发沿街哭送。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "15a511907da6d0e97bee46ab603871adc051e412",
-      "title": "老莫称没有收温氏送的1000只鸡",
-      "link": "https://www.baidu.com/s?wd=%E8%80%81%E8%8E%AB%E7%A7%B0%E6%B2%A1%E6%9C%89%E6%94%B6%E6%B8%A9%E6%B0%8F%E9%80%81%E7%9A%841000%E5%8F%AA%E9%B8%A1",
-      "summary": "莫氏鸡煲老板老莫4月12日公开回应未接收温氏股份承诺赠送的1000只鸡，称\"温氏要送，我没收\"，双方就交付与食材标准存在分歧。",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "百度热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "baidu",
-        "hotlist"
-      ]
-    },
-    {
-      "id": "12c507eda7098fc799e27c36a9cf3406bfb29443",
-      "title": "博主花18万帮助大山女孩竟被骗",
-      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%9A%E4%B8%BB%E8%8A%B118%E4%B8%87%E5%B8%AE%E5%8A%A9%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%AB%9F%E8%A2%AB%E9%AA%97",
-      "summary": "博主花18万帮助大山女孩竟被骗",
-      "published_at": "2026-04-14T05:54:39.200Z",
-      "source_name": "微博热搜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/weibo/search/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "weibo"
-      ]
-    },
-    {
-      "id": "1076f543addf652f17924c39af4d20da03ad034b",
+      "id": "fd40c786fa272884ffd596570855c66c948cd2a5",
       "title": "莫氏鸡煲爆火帮工一周就扛不住了",
       "link": "https://www.baidu.com/s?wd=%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E7%88%86%E7%81%AB%E5%B8%AE%E5%B7%A5%E4%B8%80%E5%91%A8%E5%B0%B1%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
       "summary": "近日，莫氏鸡煲因生意火爆人手紧缺，临时帮工的吴先生表示，自己才上班一周就已扛不住，还直言 “没几个正常人能撑过第二天”。",
-      "published_at": "2026-04-14T05:54:39.200Z",
+      "published_at": "2026-04-14T06:28:35.107Z",
       "source_name": "百度热搜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/baidu/top/realtime",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "baidu",
         "hotlist"
+      ]
+    },
+    {
+      "id": "fb0345930b86d248a23b41df0d38734dc4ef6bb8",
+      "title": "博主花18万帮助大山女孩竟被骗",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%9A%E4%B8%BB%E8%8A%B118%E4%B8%87%E5%B8%AE%E5%8A%A9%E5%A4%A7%E5%B1%B1%E5%A5%B3%E5%AD%A9%E7%AB%9F%E8%A2%AB%E9%AA%97",
+      "summary": "博主花18万帮助大山女孩竟被骗",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "f5f1d0f474e2a1cebfea6609e3fef9c21ab217e3",
+      "title": "公司招聘要求微信余额达标才可面试",
+      "link": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E8%BE%BE%E6%A0%87%E6%89%8D%E5%8F%AF%E9%9D%A2%E8%AF%95",
+      "summary": "4月12日，深圳双翼科技股份有限公司通过中介“贵巨人力聚蓝领工作网”招聘时，要求求职者微信余额需达300-500元方可面试，中介称此举是为防止员工入职后因缺钱闹事或短期离职。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "eed6386e64529038542fc23ea0baf27932f1040e",
+      "title": "恒大集团恒大地产及许家印案一审开庭",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD",
+      "summary": "恒大集团恒大地产及许家印案一审开庭",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "e893409aaff40af2129317d5c8c45b307708f0b2",
+      "title": "14岁初中生自学微积分造航空发动机",
+      "link": "https://www.baidu.com/s?wd=14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E8%87%AA%E5%AD%A6%E5%BE%AE%E7%A7%AF%E5%88%86%E9%80%A0%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA",
+      "summary": "14岁海南澄迈初中生车金刚自学微积分与空气动力学，手工制作涡轮喷气发动机模型，首次试车失败后获网友在线支招，计划二次试车并称“再失败也没关系，我总能一步一步接近成功”。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "e6a9f7b1e073758fb685971723212cdb30454023",
+      "title": "任长霞牺牲22周年",
+      "link": "https://www.baidu.com/s?wd=%E4%BB%BB%E9%95%BF%E9%9C%9E%E7%89%BA%E7%89%B222%E5%91%A8%E5%B9%B4",
+      "summary": "2026年4月14日是任长霞同志因公牺牲22周年纪念日。这位曾任登封市公安局局长的公安英模，2004年在侦破案件途中遭遇车祸殉职，生前打掉7个涉黑团伙，破案3000余起，殉职时14万群众自发沿街哭送。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "e435367d5bb8ad728eb41a8916b09b381ff9b346",
+      "title": "罗志祥方回应猝死传闻",
+      "link": "https://www.baidu.com/s?wd=%E7%BD%97%E5%BF%97%E7%A5%A5%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8C%9D%E6%AD%BB%E4%BC%A0%E9%97%BB",
+      "summary": "4月14日，罗志祥经纪人直接否认网络流传的猝死谣言，称其“早上去打球了”，驳斥某网友发布的伪造视频。该视频称46岁的罗志祥在家猝死，在台湾地区引发热议，造谣账号被曝曾多次编造名人虚假信息。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "e13576c23ab917188da81e700aa60e89b999940e",
+      "title": "沃尔沃 胡锡进",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%83%E5%B0%94%E6%B2%83%20%E8%83%A1%E9%94%A1%E8%BF%9B",
+      "summary": "沃尔沃 胡锡进",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "dfae6e0188d863f4a45d6afd336703d57b696a3a",
+      "title": "卫健局回应女子双腿被吊超1小时",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%8F%8C%E8%85%BF%E8%A2%AB%E5%90%8A%E8%B6%851%E5%B0%8F%E6%97%B6",
+      "summary": "卫健局回应女子双腿被吊超1小时",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "d9b1b2a094883e9de3bfcfe8619487c9c8b89590",
+      "title": "王晓晨曾回应已婚留言称我头昏",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E6%99%93%E6%99%A8%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%B7%B2%E5%A9%9A%E7%95%99%E8%A8%80%E7%A7%B0%E6%88%91%E5%A4%B4%E6%98%8F",
+      "summary": "王晓晨曾回应已婚留言称我头昏",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "d4eac6f0418c2b35ee0f16c2ac1f13d9f77ebc3b",
+      "title": "伊朗放重磅信号",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BC%8A%E6%9C%97%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7",
+      "summary": "伊朗放重磅信号",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "be1de559824e1818bf38bd4e9f05b53639df20fe",
+      "title": "王安宇王玉雯新片海报",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%8E%8B%E5%AE%89%E5%AE%87%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%96%B0%E7%89%87%E6%B5%B7%E6%8A%A5",
+      "summary": "王安宇王玉雯新片海报",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "b37194163a59e524b9b1d705a680f738cd9fcebc",
+      "title": "人民之心",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BA%BA%E6%B0%91%E4%B9%8B%E5%BF%83",
+      "summary": "人民之心",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "b2b20a0c053f503b776def99d36f36bdd26e8ea6",
+      "title": "拉夫罗夫已抵达中国开始访问",
+      "link": "https://www.baidu.com/s?wd=%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%A7%8B%E8%AE%BF%E9%97%AE",
+      "summary": "4月14日，俄罗斯外长拉夫罗夫抵达中国，开启为期两天的正式访问。访华期间，两国外长将就双边关系、各领域合作及共同关心的国际和地区问题交换意见、协调立场。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "b260c4b1d66eecf20d0c1a7cb1cbf4410d72ebd1",
+      "title": "印度男孩遭蛇咬伤被父母浸入恒河",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%A9%E9%81%AD%E8%9B%87%E5%92%AC%E4%BC%A4%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%B5%B8%E5%85%A5%E6%81%92%E6%B2%B3",
+      "summary": "印度男孩遭蛇咬伤被父母浸入恒河",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "b1ad445fab010800af747f7a3b2dee48e7723d33",
+      "title": "宋祖儿被男粉求婚",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%AE%8B%E7%A5%96%E5%84%BF%E8%A2%AB%E7%94%B7%E7%B2%89%E6%B1%82%E5%A9%9A",
+      "summary": "宋祖儿被男粉求婚",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "a8e487ac95c2113faee7dc842b680f7d78e7e890",
+      "title": "多地新能源车牌绿色变白色",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%9A%E5%9C%B0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%89%8C%E7%BB%BF%E8%89%B2%E5%8F%98%E7%99%BD%E8%89%B2",
+      "summary": "多地新能源车牌绿色变白色",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "a7f41216e206c16de2ecf20d3c86aa5c0353cbf6",
+      "title": "罗永浩吐槽“120W是充电器商标”",
+      "link": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E2%80%9C120W%E6%98%AF%E5%85%85%E7%94%B5%E5%99%A8%E5%95%86%E6%A0%87%E2%80%9D",
+      "summary": "近期，“部分商家承认120W是充电器商标”这一话题冲上热搜。就连罗永浩也忍不住发文吐槽：“我们注册商标时，不少看似合理的名称，都因一些微不足道的原因未获通过，这种明显不合理的商标，究竟是怎么注册成功的？”",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "a34d14d6e7029f2eb2733fbc22977420218106af",
+      "title": "春日里的中国花经济",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%98%A5%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8A%B1%E7%BB%8F%E6%B5%8E",
+      "summary": "春日里的中国花经济",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "9e71101f21f28b5c3e17823923845cd3aa46d1b9",
+      "title": "这件事 总书记要求确保取得实效",
+      "link": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BB%B6%E4%BA%8B+%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%A6%81%E6%B1%82%E7%A1%AE%E4%BF%9D%E5%8F%96%E5%BE%97%E5%AE%9E%E6%95%88",
+      "summary": "当前，树立和践行正确政绩观学习教育正在全党深入开展。如何确保学习教育取得实效？总书记提出三点要求：第一，认认真真、扎扎实实提高思想认识；第二，认认真真、扎扎实实整改突出问题；第三，认认真真、扎扎实实立好制度规矩。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "96d48877c67eb6bf57ddb2ccf4548e6d204cbe4b",
+      "title": "当地通报村干部违建楼房成打卡地",
+      "link": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E6%9D%91%E5%B9%B2%E9%83%A8%E8%BF%9D%E5%BB%BA%E6%A5%BC%E6%88%BF%E6%88%90%E6%89%93%E5%8D%A1%E5%9C%B0",
+      "summary": "襄阳东津新区4月14日通报，针对网友反映的沈营村支书肖某超占土地、违规建五层1500平方米楼房成网红打卡地一事，已成立联合调查组全面调查，将依规严肃处理。目前肖某已被免去村支部书记职务。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "9696cccf4d75550b8e6968c478c589f07ee33b2f",
+      "title": "医院回应男子献血十年用博爱卡遇阻",
+      "link": "https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E7%8C%AE%E8%A1%80%E5%8D%81%E5%B9%B4%E7%94%A8%E5%8D%9A%E7%88%B1%E5%8D%A1%E9%81%87%E9%98%BB",
+      "summary": "2026年2月至4月，四川自贡市民谢先生持“博爱卡”在荣县人民医院要求免交普通门诊诊查费时两度遇阻。院方4月13日回应称，系因内部政策执行疏漏，承诺立即整改。谢先生为前消防员，十年累计献血109次达39400毫升，两次获全国无偿献血奉献金奖，符合当地“三免”政策资格。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "9387bf10eb3475a5e0b2aaf499d655dbc329755d",
+      "title": "巴基斯坦消息称美伊同意继续谈判",
+      "link": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B6%88%E6%81%AF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4",
+      "summary": "巴基斯坦消息称美伊同意继续谈判",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "9233d9ba95dd9b3d442e0fc01b6bf22d274e8bb7",
+      "title": "沃尔沃汽车99周年",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B2%83%E5%B0%94%E6%B2%83%E6%B1%BD%E8%BD%A699%E5%91%A8%E5%B9%B4",
+      "summary": "沃尔沃汽车99周年",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "8a01455b99340e177acde7a9ae0b506c79ad23c1",
+      "title": "向太说向佑只想一夜暴富",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%90%91%E5%A4%AA%E8%AF%B4%E5%90%91%E4%BD%91%E5%8F%AA%E6%83%B3%E4%B8%80%E5%A4%9C%E6%9A%B4%E5%AF%8C",
+      "summary": "向太说向佑只想一夜暴富",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "898e852eca8c02e5aae0829228bbaafdcde10b88",
+      "title": "出生9天婴儿经历紧急换血救命",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%87%BA%E7%94%9F9%E5%A4%A9%E5%A9%B4%E5%84%BF%E7%BB%8F%E5%8E%86%E7%B4%A7%E6%80%A5%E6%8D%A2%E8%A1%80%E6%95%91%E5%91%BD",
+      "summary": "出生9天婴儿经历紧急换血救命",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "85032b40fda27251e3486849ef7763b43c35dc47",
+      "title": "多校鼓励博士生读硕士 释放什么信号",
+      "link": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%A0%A1%E9%BC%93%E5%8A%B1%E5%8D%9A%E5%A3%AB%E7%94%9F%E8%AF%BB%E7%A1%95%E5%A3%AB+%E9%87%8A%E6%94%BE%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
+      "summary": "近期，多所高校推出“博士+硕士”双学位项目，鼓励博士生攻读人工智能等相关专业硕士学位。副教授丁长发表示，随着生产力与新兴产业发展，社会对高层次复合型人才需求攀升，高校此举是顺应经济社会发展需求，着力培养复合型、创新型人才。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "771a228329c3fcfecc22bfccd0bd225a168dcbc9",
+      "title": "马斯克版微信支持阅后即焚、防截图",
+      "link": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+      "summary": "“马斯克版微信”XChat即将推出。据官方介绍，这款应用的核心亮点集中在隐私与安全层面，所有消息、通话及媒体内容均采用端到端加密技术，仅收发双方可读取相关内容。同时，还配备了多种高级隐私工具，包括防截图、阅后即焚、消息编辑、双向撤回功能等。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "6ef4e9283a3f1996caf2d268b4c97a1d428cd7dc",
+      "title": "男子发帖称工作太闲后被公司调岗",
+      "link": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%8F%91%E5%B8%96%E7%A7%B0%E5%B7%A5%E4%BD%9C%E5%A4%AA%E9%97%B2%E5%90%8E%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%B0%83%E5%B2%97",
+      "summary": "近日，一名居住在深圳的港漂男子因在社交平台发帖称其在落马洲的工作如同“守水库”般清闲，引发网友关注后被公司调往中环。原工作地点距其住所仅十多分钟步行路程，调岗后跨境通勤时间显著增加。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "6d8564af86bffd3d5f57137504bf9ab997bc02b9",
+      "title": "演出服遭集体退货家属称表演取消",
+      "link": "https://www.baidu.com/s?wd=%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88",
+      "summary": "近日，浙江湖州一淘宝店主反映，陕西丹凤县初级中学一班级学生购买20套演出服用于校园艺术节，活动结束后以“表演取消”等理由申请“七天无理由”退货11套。店主找到学生彩排及表演视频，证明衣服已被使用，且部分退回衣物有明显污渍、破损，影响二次销售。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "6cd11eee52c61ef94d3aaf61b1bafd0cb43095be",
+      "title": "幸运咖 迪丽热巴",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%B9%B8%E8%BF%90%E5%92%96%20%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4",
+      "summary": "幸运咖 迪丽热巴",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "6a49ee29deeb8780e71942482d338fc5dff554c1",
+      "title": "大批榴莲来了",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%A4%A7%E6%89%B9%E6%A6%B4%E8%8E%B2%E6%9D%A5%E4%BA%86",
+      "summary": "大批榴莲来了",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "62ba0d6bbd57d2ea07dfde41e48f3e24272c1da2",
+      "title": "Lululemon涉嫌使用永久化学物质被查",
+      "link": "https://www.baidu.com/s?wd=Lululemon%E6%B6%89%E5%AB%8C%E4%BD%BF%E7%94%A8%E6%B0%B8%E4%B9%85%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8%E8%A2%AB%E6%9F%A5",
+      "summary": "近日，美国得州检察长对知名运动休闲品牌Lululemon正式发起调查，因该公司涉嫌在其产品中使用“永久性化学物质（PFAS）”。据悉，这类化学物质不会在环境中分解，并会在人体内积聚，可能导致癌症和不孕不育等健康问题。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "613a59d343998aa4f3621c55b71349859dcf2b3f",
+      "title": "深圳一家快闭店的面包店被善意留住",
+      "link": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%AE%B6%E5%BF%AB%E9%97%AD%E5%BA%97%E7%9A%84%E9%9D%A2%E5%8C%85%E5%BA%97%E8%A2%AB%E5%96%84%E6%84%8F%E7%95%99%E4%BD%8F",
+      "summary": "近日，深圳盐田区“麦穗山丘”面包店因顾客挽留与政府帮扶避免闭店。4月10日，开业半年的社区面包店因持续亏损计划停业，店主吴女士发布闭店通知后，熟客在社交平台发起挽留，盐田区商务局主动上门提供经营建议。4月14日，店铺重新开业，首批面包20分钟内售罄。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "6095b9c3e68a97185c8340506b8fae8145d78020",
+      "title": "iPhoneFold首年销量预计",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DiPhoneFold%E9%A6%96%E5%B9%B4%E9%94%80%E9%87%8F%E9%A2%84%E8%AE%A1",
+      "summary": "iPhoneFold首年销量预计",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "59dfe7eff256313852d96b42c8ca61da13362640",
+      "title": "哈啰拒不改正将被罚",
+      "link": "https://www.baidu.com/s?wd=%E5%93%88%E5%95%B0%E6%8B%92%E4%B8%8D%E6%94%B9%E6%AD%A3%E5%B0%86%E8%A2%AB%E7%BD%9A",
+      "summary": "哈啰拒不改正将被罚",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "538f7638f59a19eda3727db851dc3a4efe6b2cdc",
+      "title": "李梦演小三看起来好难对付",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9D%8E%E6%A2%A6%E6%BC%94%E5%B0%8F%E4%B8%89%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%A5%BD%E9%9A%BE%E5%AF%B9%E4%BB%98",
+      "summary": "李梦演小三看起来好难对付",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "5358a57641e3995fdc8a09fdb750874cccd5a6a0",
+      "title": "垃圾真的不够烧",
+      "link": "https://www.baidu.com/s?wd=%E5%9E%83%E5%9C%BE%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%A4%9F%E7%83%A7",
+      "summary": "近日，广州一公司去填埋场挖了160万吨陈年垃圾重新焚烧发电。住建部最新数据显示，全国城镇垃圾焚烧设施已有5%的焚烧炉有一半时间处于停运状态，部分地区甚至出现“抢垃圾”的尴尬局面。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "49922a2c6c99bde53563354f02f10770b910caab",
+      "title": "海底捞称乱象产生根源在董事会",
+      "link": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A7%B0%E4%B9%B1%E8%B1%A1%E4%BA%A7%E7%94%9F%E6%A0%B9%E6%BA%90%E5%9C%A8%E8%91%A3%E4%BA%8B%E4%BC%9A",
+      "summary": "4月13日，海底捞通报全国排查结果：2025年1月至2026年3月间，4起门店员工被强制自费购买礼物事件属实，涉及金额1237.9元，款项已全部返还。公司指出乱象根源为董事会过度激励店长及弱化总部职能，导致管理压力转嫁基层。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "48510cfe68eb162b040b04402418f1a0f767325e",
+      "title": "脑机接口如何惠及更多患者",
+      "link": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E6%83%A0%E5%8F%8A%E6%9B%B4%E5%A4%9A%E6%82%A3%E8%80%85",
+      "summary": "脑机接口植入的手术费和其他医疗设备植入的手术费区别并不是特别大。但是如果医疗器械的投入大、周期长，而且技术含量高，在刚开始问世的时候，价格肯定是不便宜的。但是相信和所有医疗器械的规律都是一样的，随着技术的普及、应用的推广，特别是技术的迭代，它的价格肯定能够成为大家承受得起的价格。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "46947a2aa0c0d1fdd2b14f8b8c659553562d5336",
+      "title": "隔夜菜不是指放了一夜的菜",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%9A%94%E5%A4%9C%E8%8F%9C%E4%B8%8D%E6%98%AF%E6%8C%87%E6%94%BE%E4%BA%86%E4%B8%80%E5%A4%9C%E7%9A%84%E8%8F%9C",
+      "summary": "隔夜菜不是指放了一夜的菜",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "417f80377d8b13eeff14381999af1a86751f14ac",
+      "title": "日警方再次逮捕强闯中国使馆自卫官",
+      "link": "https://www.baidu.com/s?wd=%E6%97%A5%E8%AD%A6%E6%96%B9%E5%86%8D%E6%AC%A1%E9%80%AE%E6%8D%95%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E8%87%AA%E5%8D%AB%E5%AE%98",
+      "summary": "当地时间14日，日本警方以涉嫌违反枪支刀具法，再次逮捕强闯中国驻日本大使馆的日本陆上自卫队三等陆尉村田晃大。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "3dc0032a876a83da9ac17a79ec49a28c21f5418d",
+      "title": "泰国海岸惊现被斩首美人鱼",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%B3%B0%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%83%8A%E7%8E%B0%E8%A2%AB%E6%96%A9%E9%A6%96%E7%BE%8E%E4%BA%BA%E9%B1%BC",
+      "summary": "泰国海岸惊现被斩首美人鱼",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "359dfc0c7971eef0e159e5b8ac4fcd4388154f78",
+      "title": "朴信惠怀二胎了",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%9C%B4%E4%BF%A1%E6%83%A0%E6%80%80%E4%BA%8C%E8%83%8E%E4%BA%86",
+      "summary": "朴信惠怀二胎了",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "2d071877d38e12a816974d65d6e6bd85cc34411d",
+      "title": "罗志祥方否认猝死传闻",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%BD%97%E5%BF%97%E7%A5%A5%E6%96%B9%E5%90%A6%E8%AE%A4%E7%8C%9D%E6%AD%BB%E4%BC%A0%E9%97%BB",
+      "summary": "罗志祥方否认猝死传闻",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "25de13c868b3cffbb8e5ce2c42a705e733042469",
+      "title": "文章回应开面馆",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%96%87%E7%AB%A0%E5%9B%9E%E5%BA%94%E5%BC%80%E9%9D%A2%E9%A6%86",
+      "summary": "文章回应开面馆",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "252eb73939c8a754ba82a7311516197135c8e59d",
+      "title": "时代少年团 错票无法入场",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E9%94%99%E7%A5%A8%E6%97%A0%E6%B3%95%E5%85%A5%E5%9C%BA",
+      "summary": "时代少年团 错票无法入场",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "20e44051ac96d9b6d5ddc2b52a12abea8ac244c5",
+      "title": "她在战争中出生 也在战争中死去",
+      "link": "https://www.baidu.com/s?wd=%E5%A5%B9%E5%9C%A8%E6%88%98%E4%BA%89%E4%B8%AD%E5%87%BA%E7%94%9F+%E4%B9%9F%E5%9C%A8%E6%88%98%E4%BA%89%E4%B8%AD%E6%AD%BB%E5%8E%BB",
+      "summary": "在黎巴嫩南部城市提尔，7岁的阿琳·赛义德因以军4月8日的空袭头部受伤、全身多处严重烧伤。当时，阿琳一家正在为她的父亲举行葬礼，空袭又导致他们失去4名家庭成员，其中包括阿琳2岁的妹妹塔琳。塔琳的外祖父悲痛地表示，塔琳在战争中出生，也在战争中死去。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "1f3c0943958d008d242c06c4d3c1174f3f84d7ba",
+      "title": "银行招聘被骂上热搜不能怪网友",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
+      "summary": "银行招聘被骂上热搜不能怪网友",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "1f01a0ac98f6d3678aff30ce7d6bed282369054c",
+      "title": "原来人小了做这些也会心酸",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E5%8E%9F%E6%9D%A5%E4%BA%BA%E5%B0%8F%E4%BA%86%E5%81%9A%E8%BF%99%E4%BA%9B%E4%B9%9F%E4%BC%9A%E5%BF%83%E9%85%B8",
+      "summary": "原来人小了做这些也会心酸",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "1912745d55868b00734c09602b0a30f3e9b081ce",
+      "title": "张凌赫上了江苏英语试卷",
+      "link": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%B8%8A%E4%BA%86%E6%B1%9F%E8%8B%8F%E8%8B%B1%E8%AF%AD%E8%AF%95%E5%8D%B7",
+      "summary": "4月13日，江苏一网友发文称张凌赫上了英语试卷，网友告诉记者，这是其女儿新概念老师发下来的试题。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "1695bd37e766c8f5a1b61a05c236ec2987c38296",
+      "title": "微信又有新功能 网友直呼好玩",
+      "link": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E5%A5%BD%E7%8E%A9",
+      "summary": "微信4月13日上线“微信表情助手”小程序，用户可通过手机端上传自制表情包至视频号专区展示，并支持朋友圈、公众号等多场景调用，同时为原创作者提供跳转引流功能，网友普遍反馈“好玩”。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "11fb586796a7a3c89c7b7e0e495ab43fbd332670",
+      "title": "ACT对战FL",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3DACT%E5%AF%B9%E6%88%98FL",
+      "summary": "ACT对战FL",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "11d5133538b9f8f06f8730fea9683a6ed8b4c33d",
+      "title": "苏林抵达北京与中方握手20秒",
+      "link": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%9E%97%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC%E4%B8%8E%E4%B8%AD%E6%96%B9%E6%8F%A1%E6%89%8B20%E7%A7%92",
+      "summary": "4月14日上午，越共中央总书记、国家主席苏林抵达北京，与中方握手20秒。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "0c87c05ac3b39287fff15ec62825c7b3feb80f11",
+      "title": "奶奶帮我打印的身份证复印件",
+      "link": "https://www.baidu.com/s?wd=%E5%A5%B6%E5%A5%B6%E5%B8%AE%E6%88%91%E6%89%93%E5%8D%B0%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%A4%8D%E5%8D%B0%E4%BB%B6",
+      "summary": "近日，网友晒出奶奶帮自己打印的身份证复印件，画面扭曲程度超乎想象，网友：有鼻子有眼就是成功。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "0a9101498763d4b624e172dc80a4f91a3370a7ef",
+      "title": "离职要的就是这个瞬间",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E7%A6%BB%E8%81%8C%E8%A6%81%E7%9A%84%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B8%AA%E7%9E%AC%E9%97%B4",
+      "summary": "离职要的就是这个瞬间",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "09ef9fcdb2aa2e7a746602dd68184ddd439e6e16",
+      "title": "伊朗公布美以袭击造成的海上损失",
+      "link": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E9%80%A0%E6%88%90%E7%9A%84%E6%B5%B7%E4%B8%8A%E6%8D%9F%E5%A4%B1",
+      "summary": "伊朗13日在向国际海事组织法律委员会提交的文件中披露，美国和以色列对伊朗发动的军事打击对其海上运输、人员安全等造成严重损失，39艘商船遭袭并沉没、110艘传统渔船被毁，另导致20名海员死亡。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "092df7f6eb28c6fbfda3af986e796ea70c4fb68b",
+      "title": "文章为饭店排队久道歉",
+      "link": "https://www.baidu.com/s?wd=%E6%96%87%E7%AB%A0%E4%B8%BA%E9%A5%AD%E5%BA%97%E6%8E%92%E9%98%9F%E4%B9%85%E9%81%93%E6%AD%89",
+      "summary": "近日，演员文章在上海开了一家名为“八号院儿”的面馆爆火，有食客称排队超过30米，从下午排到晚上也没排上。对此，文章在店门口写了个牌：“我们还在慢慢发育中，怠慢之处您多见谅，我们加快脚步精进服务与效率，力求给您更好的用餐体验。”",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "071495e10bad328d8180f45383c6e3f888041bb6",
+      "title": "何穗做了面部提升针灸",
+      "link": "https://m.weibo.cn/search?containerid=100103type%3D1%26q%3D%E4%BD%95%E7%A9%97%E5%81%9A%E4%BA%86%E9%9D%A2%E9%83%A8%E6%8F%90%E5%8D%87%E9%92%88%E7%81%B8",
+      "summary": "何穗做了面部提升针灸",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "微博热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/weibo/search/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "weibo"
+      ]
+    },
+    {
+      "id": "05a8fb75f823066d57ad5822673a66bcbd4ee8bf",
+      "title": "超5万美军登陆伊朗系谣言",
+      "link": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "summary": "近日，一段军用飞机降落的视频在海外媒体传播，并配文称“超5万美军登陆伊朗”，经多家媒体核查，视频内容不实，与美伊停火毫无关联。",
+      "published_at": "2026-04-14T06:28:35.107Z",
+      "source_name": "百度热搜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/baidu/top/realtime",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "baidu",
+        "hotlist"
+      ]
+    },
+    {
+      "id": "55f59b8560b54a631037fa27da74ae489d8ddd1b",
+      "title": "六部门安排部署2026年退役军人就业服务工作",
+      "link": "https://wallstreetcn.com/livenews/3087471",
+      "summary": "从退役军人事务部了解到，退役军人事务部、人力资源社会保障部、财政部等6部门联合印发通知，安排部署今年退役军人就业服务工作，为广大退役军人就业创业提供坚实的服务保障。 六部门明确，2026年各地以全国退役军人就业创业信息管理系统为支撑，精准分类施策、强化部门协同，构建常态化、长效化的退役军人就业支持体系。（央视）",
+      "published_at": "2026-04-14T06:25:36.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "f320b238f9c82d45f7abf92cb84635b011013c14",
+      "title": "南京一卫生院用杆秤称重致新生儿被秤砣砸伤，当地卫健委介入",
+      "link": "https://m.thepaper.cn/detail/32966766",
+      "summary": "4月13日，有网友在短视频平台发帖反映，南京市浦口区江浦街道社区卫生服务中心的工作人员，上门使用老式杆秤为新生儿称体重时，不料中途掉落，“导致女儿高处摔落并被铁秤砣砸到胸口”。 工作人员用老式杆秤为婴儿称重（视频截图） 该网友表示她是新生儿的母亲，被砸到的女婴出生仅4天，事发时间为4月12日14时37分。记者从其拍摄的视频中看到，一名女性工作人员在床上用布将婴儿包裹后，将其悬挂在老式杆秤的挂钩上。不料布袋脱落，婴儿被摔在床上，随即秤砣滑落，一直在啼哭的婴儿，哭声戛然而止。 她在配文中质疑工作人员的行为属违规操作。“今（13）日下午为了孩子跑了南京三个医…",
+      "published_at": "2026-04-14T06:25:34.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "基层卫生院",
+        "意外",
+        "新生儿",
+        "长三角政商"
+      ]
+    },
+    {
+      "id": "9729a51a4090a9314333e70f83028ec90c943746",
+      "title": "加拿大自由党赢得关键补选成为议会多数党",
+      "link": "https://m.thepaper.cn/detail/32966727",
+      "summary": "加拿大总理马克·卡尼（资料图） 总台记者获悉，当地时间4月13日，加拿大自由党在当日的三场补选中全部获胜，议会席位达到174席，超过议会半数席位，总理卡尼领导的自由党政府将成为多数政府。这一胜利也将使卡尼拥有更大的执政自由，巩固其对加拿大的领导地位，推进其所需的立法议程。 当日的三场补选中，安大略省的两个选区是自由党的传统票仓，赢下选举几乎没有悬念。另一个位于魁北克省的选区最后也被自由党收入囊中。选举当晚，加拿大总理卡尼通过社交媒体对三名胜选的自由党议员表达了祝贺。选举结果使自由党可能执政到2029年，下一次选举预计在2029年10月举行。 加拿大联邦…",
+      "published_at": "2026-04-14T06:25:34.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "全球速报",
+        "加拿大自由党"
+      ]
+    },
+    {
+      "id": "636f6841651927ee3366b41887d09e4c9b53c9da",
+      "title": "山东省公安厅厅长夏凤俭已任山东省政府党组成员",
+      "link": "https://m.thepaper.cn/detail/32966849",
+      "summary": "山东省委政法委副书记、省公安厅党委书记、厅长兼督察长夏凤俭已任山东省政府党组成员。",
+      "published_at": "2026-04-14T06:24:57.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "夏凤俭",
+        "时政湃"
+      ]
+    },
+    {
+      "id": "a5cc459f03496fc64fc62d3b01c6899785b8198e",
+      "title": "专家门诊在线 | 营养饮食与消化道肿瘤预防",
+      "link": "https://m.thepaper.cn/detail/32966855",
+      "summary": "专家门诊在线 | 营养饮食与消化道肿瘤预防",
+      "published_at": "2026-04-14T06:24:52.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "肿瘤宣传周"
+      ]
+    },
+    {
+      "id": "80352f6c960b8d99db7282527e2403247cec5b04",
+      "title": "新华图讯｜习近平会见阿联酋阿布扎比王储哈立德",
+      "link": "https://m.thepaper.cn/detail/32966847",
+      "summary": "4月14日，国家主席习近平在北京会见来华进行访问的阿联酋阿布扎比王储哈立德。",
+      "published_at": "2026-04-14T06:21:52.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "习近平",
+        "大国外交"
+      ]
+    },
+    {
+      "id": "f35044353dcb2ad2b919a0cf145a49f13aa73448",
+      "title": "伊朗石油部长：冲突爆发以来石油销售情况良好",
+      "link": "https://wallstreetcn.com/livenews/3087470",
+      "summary": "当地时间4月14日，伊朗石油部长穆赫辛·帕克内贾德称，自本次与美国和以色列的军事冲突爆发以来，伊朗的石油销售情况良好，部分收入将用于石油工业的恢复。（央视）",
+      "published_at": "2026-04-14T06:21:47.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "b57563cb0edd0895922b27ba147d1a4a986d40c7",
+      "title": "大批“五一”航班突然取消背后：高油价下的停飞潮正在全球蔓延",
+      "link": "https://wallstreetcn.com/livenews/3087468",
+      "summary": "最近一段时间，不少网友在社交平台上，贴出了自己提前预订的“五一”假期机票被取消的截图，被取消的航班主要以飞东南亚和大洋洲居多。记者从多家航空公司获悉，从4月开始主动取消的航班确实有所增加，其中东南亚和大洋洲是重头，这与油价的大幅上涨不无关系。相比国内，部分国际机场加油价格更高，叠加需求和竞争的影响，部分航线的取消就首当其冲。而这样的情况，正在全球航线市场蔓延，也逐渐改变着航空业的竞争格局和旅客的出行选择。（第一财经）",
+      "published_at": "2026-04-14T06:17:09.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "bf5ed68c6deaab2e3d9cd89d27595d23ae2d2b48",
+      "title": "蚂蚁数科DTClaw全项通过信通院安全防护能力测试",
+      "link": "https://wallstreetcn.com/livenews/3087467",
+      "summary": "据蚂蚁数科消息，近日，在中国信通院组织的“OpenClaw类智能体安全防护产品能力评测”中，蚂蚁数科DTClaw全项通过信通院安全防护能力测试，成为国内首批通过该评测的产品。",
+      "published_at": "2026-04-14T06:16:30.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "1bc99e58aed14277e05dbfee9ca7d615360c6257",
+      "title": "五年来，我国与东盟的进出口实现跨越式发展",
+      "link": "https://wallstreetcn.com/livenews/3087466",
+      "summary": "国务院新闻办公室举行新闻发布会，介绍2026年一季度进出口情况。海关总署新闻发言人、统计分析司司长吕大良表示，五年来，我国与东盟的进出口实现跨越式发展，进出口规模接连跨过6万亿和7万亿的台阶，2025年达到了7.55万亿元。（新华社）",
+      "published_at": "2026-04-14T06:16:05.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "0db6071ca065a43f034d3c23c83d0515e6078151",
+      "title": "巴基斯坦：美伊同意继续谈判，呼吁停火延长45天！美媒：沙特施压美方放弃封锁霍尔木兹海峡",
+      "link": "https://wallstreetcn.com/articles/3769911",
+      "summary": "美伊核谈判陷入僵局之际，多方外交斡旋正在加速推进，市场对中东局势的判断面临关键考验。 14日，据央视新闻援引巴基斯坦外交消息人士，美伊双方已同意继续谈判，但在下一轮会谈的议程、目标、形式及地点上仍存在分歧。 与此同时，巴基斯坦呼吁将临时停火期限延长45天，为第二轮正式谈判争取窗口期。美国副总统万斯则表示，谈判已取得进展，但\"球在伊朗一边\"。 上述外交信号令市场对和平解决前景重燃希望。周二国际油价走低，WTI原油5月期货跌近2%至每桶97美元左右，布伦特原油6月期货下跌1%至每桶98.46美元。投资者正在权衡封锁升级与谈判延续之间的双重信号。 谈判同意延…",
+      "published_at": "2026-04-14T06:15:40.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "债券"
+      ]
+    },
+    {
+      "id": "ba7895435475e9e3ef43f9c0e6c18de9ff4713ee",
+      "title": "习近平：打造更加稳固坚韧、富有活力的中阿全面战略伙伴关系",
+      "link": "https://wallstreetcn.com/livenews/3087464",
+      "summary": "据央视，4月14日上午，国家主席习近平在北京人民大会堂会见来华访问的阿联酋阿布扎比王储哈立德。 习近平指出，阿联酋是中国的全面战略伙伴，中方始终高度重视发展中阿关系。当前，世界之变、时代之变、历史之变正以前所未有的方式展开，人类社会面临和平还是战争、团结还是对抗、发展还是衰退的历史抉择。中国和阿联酋作为全球南方重要成员，有必要加强协调、增进合作，打造更加稳固坚韧、富有活力的中阿全面战略伙伴关系。 哈立德说：“主席阁下，阿联酋和中国的关系历史悠久、根基深厚。阿联酋高度重视同中国的伙伴关系。我们致力于进一步推动两国关系向前发展，开拓更广阔的前景。”",
+      "published_at": "2026-04-14T06:14:01.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "7a94024a0e0164f7c71683dc744de3272e021a6f",
+      "title": "习近平会见西班牙首相桑切斯：共同捍卫真正的多边主义 守护全球和平与发展",
+      "link": "https://wallstreetcn.com/livenews/3087463",
+      "summary": "据央视，4月14日上午，国家主席习近平在北京人民大会堂会见来华进行正式访问的西班牙首相桑切斯。 习近平指出，当今世界乱象丛生，面临公理和强权的较量。如何对待国际法和国际秩序，反映的是一国的世界观、秩序观、价值观和责任观。中国和西班牙都是有原则、讲道义的国家，应该加强沟通、巩固互信、紧密合作，反对世界倒退回丛林法则，共同捍卫真正的多边主义，维护以联合国为核心的国际体系和以国际法为基础的国际秩序，推动实现平等有序的世界多极化、普惠包容的经济全球化，推动构建人类命运共同体。 桑切斯说：“习主席，非常荣幸能够再次见到您。今天我们愿同中方一道，启动两国间的战略对…",
+      "published_at": "2026-04-14T06:12:55.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "cfe468c4760106457807fe125cadcf9dab9bb2dc",
+      "title": "沪深京三市成交额突破2万亿，较上日此时放量超1600亿。",
+      "link": "https://wallstreetcn.com/livenews/3087462",
+      "summary": "沪深京三市成交额突破2万亿，较上日此时放量超1600亿。",
+      "published_at": "2026-04-14T06:12:15.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "b7528c0ef22fda7a7bef1456575ea447ad1731b4",
+      "title": "浙江衢州警方通报SUV冲撞多车：2人受伤8车受损，司机已被刑拘",
+      "link": "https://m.thepaper.cn/detail/32966801",
+      "summary": "浙江衢州市公安局智造新城分局4月14日发布警情通报： 据海峡都市报此前消息，4月13日晚，浙江省衢州市百汇路发生一起交通事故，现场有人员受伤倒地，多车受损。 视频画面显示，一辆黑色路虎车顶着前方多辆停放车辆加速前进，随后又倒车冲撞后方车辆，将一辆汽车直接顶上了人行道。事故现场至少有两人瘫倒在地，多辆汽车不同程度受损。 视频截图 14日，海都记者多次致电衢州市柯城区人民政府，电话均无人接听。记者随后又联系了衢州市公安局交通管理支队柯城大队开发区中队，工作人员表示需联系柯城大队了解情况。记者联系大队后，工作人员又表示需联系交警支队。 最终，记者联系上衢州市…",
+      "published_at": "2026-04-14T06:12:01.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "SUV",
+        "featured",
+        "news",
+        "thepaper",
+        "冲撞",
+        "长三角政商"
+      ]
+    },
+    {
+      "id": "abdf7045ffb83706de07fa02c9dbfa415101c984",
+      "title": "旱能浇、涝能排，华北大型灌区这样应对愈加反常的天气",
+      "link": "https://m.thepaper.cn/detail/32966097",
+      "summary": "在山东聊城高新区许营镇三亢村，亢士红大半辈子的种地记忆里，水从来不是一件需要“精确”的事。他习惯了大水漫灌，只要黄河水引下来，他就要把田地浇个够。 去年秋汛导致玉米晚收，冬小麦播种推迟，村里人都在担心今年的收成，他却发现，这两年他家那五亩按科学方案浇灌的麦子，比他自己大水漫灌的五亩长势更好。 近日，澎湃新闻（www.thepaper.cn）记者穿过山东聊城、河南濮阳和新乡的灌区，看到的是一片片深绿如墨的麦田。在很多地方，冬小麦长势甚至好于常年。 这背后，是一场关于“水”的认知革命：从凭经验放水，到按数据供水；从只重灌溉，到灌排一体化管理。在极端天气成为…",
+      "published_at": "2026-04-14T06:11:59.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "华北大型灌区",
+        "数字孪生系统",
+        "灌排一体化管理",
+        "绿政公署"
+      ]
+    },
+    {
+      "id": "6503e43d9486435d9babaaa1db755c6f2d313c15",
+      "title": "狮子瘦成“纸片”引热议，辽宁本溪动植物园：其丧偶后精神压抑食量减少，目前进入恢复阶段",
+      "link": "https://m.thepaper.cn/detail/32966825",
+      "summary": "近日，有网友发布视频称本溪动植物园“狮子都饿成片片了”。4月14日，辽宁本溪动植物园回应称非洲狮“大毛”今年14岁，其去年丧偶后精神压抑萎靡，食量不断减少。2026年2月末“大毛”慢慢恢复正常饮食，肉量逐步增加，目前进入恢复阶段，特别是最近天气回温，“大毛”开始到室外笼舍活动晒太阳，并接纳新伴侣雌性非洲狮“豆豆”。",
+      "published_at": "2026-04-14T06:11:45.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "狮子",
+        "辽宁本溪动植物园",
+        "锋线视频"
+      ]
+    },
+    {
+      "id": "34c4917b4bd19ec1d87853f6a6a4c515b9c980f1",
+      "title": "长三角首趟舒适型旅游列车5月19日启程前往新疆，有何不一样？",
+      "link": "https://m.thepaper.cn/detail/32966460",
+      "summary": "据“上铁集团”微信公众号4月14日消息，长三角地区首趟舒适型旅游列车“长三角之星”将于5月19日从上海启程前往新疆，行程18天，旅客可畅游南北疆，尽览雪山、草原、湖泊与古城。 长三角地区首趟舒适型旅游列车“长三角之星”将于5月19日从上海启程。 本文图片均为“上海集团”微信公众号 图 “长三角之星”发班日期为2026年5月19日-6月5日，列车经过舒适化改造，设有两人间、三人间、四人间包房，每个包房皆设有独立卫浴，并配有经过舒适化改造的餐车、功能车，其中列车娱乐车配有麻将室、KTV、酒吧、咖啡吧等设施。 费用方面，软卧2人间（仅8席）为56888元/人…",
+      "published_at": "2026-04-14T06:11:23.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "新疆",
+        "浦江头条",
+        "铁路"
+      ]
+    },
+    {
+      "id": "e292825fa012c65b585c61d48672560740a6193b",
+      "title": "中新（西兰）举行第四轮领事磋商",
+      "link": "https://wallstreetcn.com/livenews/3087460",
+      "summary": "2026年4月13日，外交部领事司司长龙舟与新西兰外交贸易部领事司司长伯吉斯在北京共同主持中新第四轮领事磋商。双方就加强领事合作、便利人员往来、维护公民安全与合法权益等议题深入交换意见。 双方一致同意积极落实两国领导人重要共识，进一步加强沟通，增进理解，深化领事领域交流合作，共同推动中新全面战略伙伴关系继续健康稳定发展。（外交部网站）",
+      "published_at": "2026-04-14T06:11:20.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "6830108e276b2df0fad02f8288d797abea4027c8",
+      "title": "国际原子能机构：扎波罗热核电站今晨完全断开外部供电",
+      "link": "https://readhub.cn/topic/8sJg7MB6Z2r",
+      "summary": "国际原子能机构声明，4月14日晨间扎波罗热核电站最后的一条外部供电线路被切断，这是该核电站在俄乌冲突期间第13次完全失去外部供电，应急柴油发电机随即启动供电，国际原子能机构驻该核电站工作组正密切监视事态发展。 媒体报道 国际原子能机构：扎波罗热核电站今晨完全断开外部供电 财联社/格隆汇 国际原子能机构：乌克兰扎波罗热核电站今晨失去所有外部电力供应。 华尔街见闻 事件追踪 2026-03-25 00:07:54 国际原子能机构称扎波罗热核电站失去与主输电线路连接 2026-03-23 19:06:47 国际原子能机构重申任何军事行动都不应危及核电站安全…",
+      "published_at": "2026-04-14T06:10:34.000Z",
+      "source_name": "Readhub 热门",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/readhub",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "tech"
+      ]
+    },
+    {
+      "id": "d6c5bf6576489e53c2e9e6aa1b6a3577d52fcce3",
+      "title": "伊朗政府：美以军事行动致伊朗损失2700亿美元",
+      "link": "https://wallstreetcn.com/livenews/3087459",
+      "summary": "据今日俄罗斯14日报道，伊朗政府发言人说，据初步估计，美国和以色列的军事打击给伊朗已造成2700亿美元损失。（新华社）",
+      "published_at": "2026-04-14T06:10:07.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "467ffbf74b3093b2ecb90455207f421982faa5d8",
+      "title": "Space X的新数字：星链成唯一利润引擎 2万亿估值IPO面临烧钱大考",
+      "link": "https://readhub.cn/topic/8sJYzxkUHmk",
+      "summary": "SpaceX即将迎来潜在的创纪录IPO，最新财务数据显示其基本面两极分化，星链卫星互联网业务是唯一利润引擎，火箭发射与AI业务则巨额现金消耗。去年其整体资本支出超全年总营收，净亏损近50亿美元，星链业务自由现金流远不足以填补缺口。市场分析认为此次IPO是马斯克为太空探索和AI野心融资，投资者需警惕财务风险，其2万亿美元估值能否获市场认可，取决于投资者是否愿为星链增长及公司长期愿景支付溢价。 媒体报道 Space X的新数字：星链成唯一利润引擎，2万亿估值IPO面临烧钱大考 华尔街见闻 Space X的新数字：星链成唯一利润引擎 2万亿估值IPO面临烧钱…",
+      "published_at": "2026-04-14T06:09:01.000Z",
+      "source_name": "Readhub 热门",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/readhub",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "tech"
+      ]
+    },
+    {
+      "id": "8fe578c5ba7fa76caab3b5a3579e515f2ecfc4bf",
+      "title": "英国石油公司：预计第一季度上游产量基本持平。 预计第一季度资本支出基本持平。 预计第一季度末净债务将在250亿至270亿美元之间。 预计市场状况将影响财务业绩...",
+      "link": "https://wallstreetcn.com/livenews/3087458",
+      "summary": "英国石油公司：预计第一季度上游产量基本持平。 预计第一季度资本支出基本持平。 预计第一季度末净债务将在250亿至270亿美元之间。 预计市场状况将影响财务业绩。 预计第一季度基准价格与实际价格之间的背离加大。 预期包括中东局势带来的影响。",
+      "published_at": "2026-04-14T06:08:08.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "d229aa724e19eef8b9cd26030cecd963cafe72b0",
+      "title": "澳航上调燃油成本预期并冻结股票回购",
+      "link": "https://readhub.cn/topic/8sJHqOcmUOL",
+      "summary": "澳航周二称，因中东冲突致石油市场飙升，航空燃油价格大幅上涨且波动剧烈，该公司上调燃油成本预期，暂停原定股票回购计划。航空燃油价格已涨超一倍，2026财年下半年燃油成本预期从22亿澳元上调至31亿至33亿澳元（22亿至23.4亿美元）。 媒体报道 少飞又加价，澳洲航空设法应对燃油成本上涨 36Kr 澳航上调燃油成本预期，推迟股票回购计划 格隆汇 澳航上调燃油成本预期并冻结股票回购 新浪科技 少飞又加价 澳洲航空设法应对燃油成本上涨 财联社",
+      "published_at": "2026-04-14T06:07:13.000Z",
+      "source_name": "Readhub 热门",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/readhub",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "tech"
+      ]
+    },
+    {
+      "id": "2524480e9d52fcf697a74125a14fa913bf57dbcb",
+      "title": "台股涨2%，续创历史新高",
+      "link": "https://readhub.cn/topic/8sJOyb5cqE2",
+      "summary": "4月14日，台湾证交所加权股价指数涨幅扩大至2%，报36162.68点，创历史新高。 媒体报道 台湾证交所加权股价指数收高2.4%报36,296.12 钛媒体 台股收盘创历史新高，年内累涨25.32%位居亚太第二位 格隆汇 台股涨2%，续创历史新高 格隆汇 台湾证交所加权股价指数涨幅扩大至2%，报36162.68点，创历史新高。 华尔街见闻 事件追踪 2026-04-14 09:31:56 台交所加权指数上涨1.7%，至盘中历史新高 2026-02-23 08:22:30 韩股涨2%创历史新高 2026-02-20 17:41:37 新加坡基准股票指数…",
+      "published_at": "2026-04-14T06:06:44.000Z",
+      "source_name": "Readhub 热门",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/readhub",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "tech"
+      ]
+    },
+    {
+      "id": "719fc39dd89b94354a7084ca413069990bbe6583",
+      "title": "国开行一季度发放绿色贷款超1500亿元",
+      "link": "https://wallstreetcn.com/livenews/3087454",
+      "summary": "从国家开发银行获悉，今年一季度，国开行发放绿色贷款超过1500亿元，全行绿色贷款在全部信贷资产中的占比进一步提升。（新华社）",
+      "published_at": "2026-04-14T06:05:48.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "f79807c2a2fdd814c43af40a612668194821803b",
+      "title": "中国石油集团董事长戴厚良拜会阿联酋阿布扎比王储",
+      "link": "https://wallstreetcn.com/livenews/3087453",
+      "summary": "中国石油集团董事长戴厚良在京拜会阿联酋阿布扎比王储哈立德，双方就深化能源领域合作交换意见。中国石油集团副总经理张道伟以及总经理助理李强参加会见。（中国石油报）",
+      "published_at": "2026-04-14T06:05:08.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "388b4462e79a9b014f8e475a0bc962afefe00f4b",
+      "title": "原料供应紧张，韩国鼓励民众减少塑料消费",
+      "link": "https://wallstreetcn.com/livenews/3087451",
+      "summary": "受中东战事影响，韩国用于制造塑料产品的关键原料供应紧张。韩国气候能源环境部4月13日在全国范围内启动一项为期6个月的活动，鼓励民众减少塑料消费。 据《韩国商业电讯》13日报道，参与者可通过在线回收平台注册，承诺遵守旨在减少塑料制品使用的9条指导原则，其中包括使用可重复利用的杯子、购物袋和外卖容器，避免使用一次性餐具和塑料吸管，以及购买由再生材料制成的产品。政府还鼓励参与者尽量减少不必要的包装和正确进行垃圾分类。（新华社）",
+      "published_at": "2026-04-14T06:02:52.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "af8b0e1f51abfb24e1218ef2517f21d9db1bd3d6",
+      "title": "机构：近期住房租金阶段性回升",
+      "link": "https://wallstreetcn.com/livenews/3087449",
+      "summary": "根据中指研究院对50个重点城市住宅租赁价格的监测，3月一线城市住宅租金集体上涨，其中北上深的环比涨幅都在0.4%左右，幅度在50个城市中排名前三。中指研究院研究主管程威表示，近期住房租金的阶段性回升是季节性效应集中释放的结果，也符合往年同期租金变化的一般规律。展望后续市场走势，随着“返工潮”等季节性效应减退，重点城市住房租赁市场将回归常态运行。（证券时报）",
+      "published_at": "2026-04-14T06:01:56.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "1cd6b0e31a6a9913c2463c19b20ff315cc9d4db5",
+      "title": "力箭一号成功进行“一箭8星”发射，开启本年度航班化发射序幕",
+      "link": "https://m.thepaper.cn/detail/32966111",
+      "summary": "4月14日12时03分，中科宇航力箭一号遥十二运载火箭在东风商业航天创新试验区发射，采用“一箭8星”的方式，将邮储银行号、吉星高分07A02星等8颗卫星送入预定轨道，发射任务取得圆满成功，全面拉开力箭一号本年度航班化发射序幕。 据了解，“邮储银行号”、吉星高分07A02星等8颗星均属于高分辨光学遥感卫星，具备超高分辨率、高集成度和智能化三大核心特点。该型号卫星影像获取能力突出，可采集高分辨率的高清全色影像，支持同轨立体成像与敏捷成像，谱段涵盖全色、蓝色、绿色、红色、近红外五个维度，成像模式涵盖常规推扫、立体成像、条带拼接、惯性空间成像等，能够为相关业务…",
+      "published_at": "2026-04-14T06:01:51.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "力箭一号",
+        "国防聚焦"
+      ]
+    },
+    {
+      "id": "f73161fcf10f8569e389657f9987197fb444bb5a",
+      "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
+      "link": "https://wallstreetcn.com/livenews/3087448",
+      "summary": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
+      "published_at": "2026-04-14T06:00:46.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "7b70ffb07df55e33e92815a04635944d182607d5",
+      "title": "宁德时代们上涨的核心动力——能源安全",
+      "link": "https://wallstreetcn.com/articles/3769904",
+      "summary": "伊朗冲突把一件事重新摆到台面：能源安全风险更像“常态”，而不是偶发事件。油气价格的再度波动、LNG供应链的不确定性，正在把全球能源转型从“远期减排叙事”拉回“眼前的保供与韧性”， 投资线索也随之收敛到少数能解决现实约束的环节——电网、储能、关键材料，以及更具经济性的电动化路径。 据追风交易台，瑞银全球研究分析师Phineas Glover在最新一期主题报告中里直说了一句：“Energy security reshapes the transition”。顺着这条主线，研报把本月的关键变化归结为： 能源安全溢价抬升后，谁能让电力系统更稳定、让能源进口依赖…",
+      "published_at": "2026-04-14T05:57:36.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "01731105df9181bbc8d29dcf9d5d5e0f3f718597",
+      "title": "A股房地产板块午后走高，南山控股、北辰实业涨停，香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+      "link": "https://wallstreetcn.com/livenews/3087443",
+      "summary": "A股房地产板块午后走高，南山控股、北辰实业涨停，香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+      "published_at": "2026-04-14T05:55:07.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -913,10 +1464,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "1017cbce1bc85de243ec90dcf6f7f7d283eabf22",
+      "title": "恒大集团、恒大地产及许家印案一审开庭，许家印当庭表示认罪悔罪",
+      "link": "https://wallstreetcn.com/articles/3769908",
+      "summary": "4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息、单位行贿，被告单位恒大地产集团有限公司欺诈发行证券，被告人许家印非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿一案进行了公开开庭审理。 庭审中，法庭主持控辩双方围绕指控的事实进行了法庭调查及法庭辩论，被告单位、许家印进行了最后陈述。许家印当庭表示认罪悔罪。法庭将择期宣判。 部分人大代表、政协委员，被告人亲属，集资参与人代表等旁…",
+      "published_at": "2026-04-14T05:49:30.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
       ]
     },
     {
@@ -928,7 +1495,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -943,7 +1510,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -958,7 +1525,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -973,10 +1540,145 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "6d546efc25ee653b7a95cf23a871ce32f02b44a1",
+      "title": "习近平会见西班牙首相桑切斯",
+      "link": "https://m.thepaper.cn/detail/32966576",
+      "summary": "4月14日上午，国家主席习近平在北京人民大会堂会见来华进行正式访问的西班牙首相桑切斯。 习近平指出，尽管国际形势变乱交织，中国和西班牙关系始终稳步发展，打造了具有战略定力的中西关系，一条重要经验就是基于共同利益作出正确决策。事实证明，深化合作符合两国人民利益、顺应时代发展大势，增强了彼此走独立自主道路的实力和底气。双方要始终将发展中西关系置于彼此对外政策重要位置，相互支持对方捍卫国家主权和领土完整。中国把长远战略目标和阶段性目标统一起来，以一茬接着一茬干的历史耐心接续制定和实施五年规划。我们有坚定推进中国式现代化的决心，也有以高水平对外开放同世界共享发…",
+      "published_at": "2026-04-14T05:43:57.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "习近平",
+        "大国外交",
+        "西班牙"
+      ]
+    },
+    {
+      "id": "2a522b4056aec48b3150286ab2836dc10a9c054e",
+      "title": "习近平会见西班牙首相桑切斯",
+      "link": "https://wallstreetcn.com/livenews/3087439",
+      "summary": "据新华社，4月14日上午，国家主席习近平在北京人民大会堂会见来华进行正式访问的西班牙首相桑切斯。 习近平指出，尽管国际形势变乱交织，中国和西班牙关系始终稳步发展，打造了具有战略定力的中西关系，一条重要经验就是基于共同利益作出正确决策。事实证明，深化合作符合两国人民利益、顺应时代发展大势，增强了彼此走独立自主道路的实力和底气。双方要始终将发展中西关系置于彼此对外政策重要位置，相互支持对方捍卫国家主权和领土完整。中国把长远战略目标和阶段性目标统一起来，以一茬接着一茬干的历史耐心接续制定和实施五年规划。我们有坚定推进中国式现代化的决心，也有以高水平对外开放同…",
+      "published_at": "2026-04-14T05:43:50.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "172c0f7509d7054af72cc822c000363e71eb962b",
+      "title": "“有多少人工，就有多少智能”：AI品味背后的数据标注劳动",
+      "link": "https://m.thepaper.cn/detail/32761250",
+      "summary": "人工智能与资本的相互嵌合不是要把人类从资本主义当中解放出来，恰恰相反，它是要把资本从人类那里解放出来：资本不再需要人类，人类可以绝迹了。 [1] ——尼克·戴亚-威泽夫特等，《非人的力量：人工智能与资本主义的未来》 美国当地时间2026年2月26日，Twitter创始人Jack Dorsey创办的金融科技公司Block宣布裁员40%，约4000名员工被裁。这一决定迅速赢得了华尔街的喝彩，其股价在随后的交易日内上涨超过20%。 Block将此次裁员描述为一次由人工智能驱动的组织重构。表面上看，这似乎是AI技术成熟后的自然替代。但正如《纽约时报》评论的那样…",
+      "published_at": "2026-04-14T05:37:25.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "人工智能",
+        "参与式观察",
+        "思想市场",
+        "数据标注"
+      ]
+    },
+    {
+      "id": "f3bb3a12fb24b2d6b362c6dedef2be68d361837f",
+      "title": "国际原子能机构：乌克兰扎波罗热核电站今晨失去所有外部电力供应。",
+      "link": "https://wallstreetcn.com/livenews/3087438",
+      "summary": "国际原子能机构：乌克兰扎波罗热核电站今晨失去所有外部电力供应。",
+      "published_at": "2026-04-14T05:36:54.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "9b7b14ed7df4b7ed0c5f3870e5b680d4aaaa4547",
+      "title": "中国台湾证交所加权股价指数收高2.4%报36,296.12点。",
+      "link": "https://wallstreetcn.com/livenews/3087437",
+      "summary": "中国台湾证交所加权股价指数收高2.4%报36,296.12点。",
+      "published_at": "2026-04-14T05:35:41.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "f9cebae764c82db1ec697d9920d9fc1851756819",
+      "title": "雷诺韩国计划到2029年每年推出新车型，并从2028年起在釜山生产下一代电动车。（韩联社）",
+      "link": "https://wallstreetcn.com/livenews/3087436",
+      "summary": "雷诺韩国计划到2029年每年推出新车型，并从2028年起在釜山生产下一代电动车。（韩联社）",
+      "published_at": "2026-04-14T05:34:04.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "1ac6601ec088d31baf23dc542a4a0389f45d9972",
+      "title": "据北京市规划和自然资源委员会官网，丰台区太平桥城中村改造项目A区FT00-0608-0001地块（R2二类居住用地）正式启动预申请，起始价为36亿元。",
+      "link": "https://wallstreetcn.com/livenews/3087434",
+      "summary": "据北京市规划和自然资源委员会官网，丰台区太平桥城中村改造项目A区FT00-0608-0001地块（R2二类居住用地）正式启动预申请，起始价为36亿元。",
+      "published_at": "2026-04-14T05:31:10.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "57a17f1363de025b0545480ed05351386f1d2472",
+      "title": "习近平会见阿联酋阿布扎比王储哈立德。（新华社）",
+      "link": "https://wallstreetcn.com/articles/3769905",
+      "summary": "习近平会见阿联酋阿布扎比王储哈立德。（新华社） 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+      "published_at": "2026-04-14T05:28:12.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
       ]
     },
     {
@@ -988,10 +1690,61 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "a66195e1831bcaec1b75987768f534ce52d8254f",
+      "title": "习近平会见阿联酋阿布扎比王储哈立德",
+      "link": "https://wallstreetcn.com/livenews/3087343",
+      "summary": "据新华社，4月14日上午，国家主席习近平在北京人民大会堂会见来华访问的阿联酋阿布扎比王储哈立德。 习近平指出，阿联酋是中国的全面战略伙伴，中方始终高度重视发展同阿联酋的关系。在双方共同努力下，中阿关系保持健康稳定发展，政治互信不断加深，务实合作稳步推进，人文交流丰富多彩。巩固和提升中阿关系是双方的坚定共识，符合两国人民期待。中方愿同阿方携手同行，打造更加稳固坚韧、富有活力的中阿全面战略伙伴关系。双方要继续在涉及彼此核心利益和重大关切问题上相互支持，保持高层交往，筑牢战略互信。加强发展战略对接，在能源、投资、贸易、科技等领域深挖潜力，深化互利合作。推动教…",
+      "published_at": "2026-04-14T05:22:36.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "3abe0564a2cdc4169803c4b937fc16765ae9523e",
+      "title": "习近平会见阿联酋阿布扎比王储哈立德",
+      "link": "https://m.thepaper.cn/detail/32966453",
+      "summary": "4月14日上午，国家主席习近平在北京人民大会堂会见来华访问的阿联酋阿布扎比王储哈立德。 习近平指出，阿联酋是中国的全面战略伙伴，中方始终高度重视发展同阿联酋的关系。在双方共同努力下，中阿关系保持健康稳定发展，政治互信不断加深，务实合作稳步推进，人文交流丰富多彩。巩固和提升中阿关系是双方的坚定共识，符合两国人民期待。中方愿同阿方携手同行，打造更加稳固坚韧、富有活力的中阿全面战略伙伴关系。双方要继续在涉及彼此核心利益和重大关切问题上相互支持，保持高层交往，筑牢战略互信。加强发展战略对接，在能源、投资、贸易、科技等领域深挖潜力，深化互利合作。推动教育、民航、…",
+      "published_at": "2026-04-14T05:17:51.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "习近平",
+        "哈立德",
+        "大国外交"
+      ]
+    },
+    {
+      "id": "54d3ddc43ebbe34d39ab470a8168984c11c1627a",
+      "title": "泡泡玛特股价大涨，高盛认为市场对其新IP需求强劲",
+      "link": "https://wallstreetcn.com/livenews/3087431",
+      "summary": "泡泡玛特港股一度上涨8%，此前高盛指出市场对其最新推出的IP和产品需求强劲，在各大在线平台上的销售旺盛。高盛的Michelle Cheng等分析师在报告中写道，截至4月10日，所有毛绒玩具系列在官方线上渠道均已售罄，这表明市场需求强劲，IP人气很高。",
+      "published_at": "2026-04-14T05:15:32.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1003,10 +1756,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "825e9063826bcfdf764116066ad9a886f545fe07",
+      "title": "A股商业航天概念午后再度拉升，西部材料封涨停，春晖智控、信科移动、震有科技、爱乐达均涨超10%。",
+      "link": "https://wallstreetcn.com/livenews/3087430",
+      "summary": "A股商业航天概念午后再度拉升，西部材料封涨停，春晖智控、信科移动、震有科技、爱乐达均涨超10%。",
+      "published_at": "2026-04-14T05:15:14.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1018,10 +1787,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "5db92c3a2091cf32ded0c41130af53c00e7d5928",
+      "title": "日本40年期国债收益率下行9个基点至3.84%。",
+      "link": "https://wallstreetcn.com/livenews/3087428",
+      "summary": "日本40年期国债收益率下行9个基点至3.84%。",
+      "published_at": "2026-04-14T05:07:18.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1033,10 +1818,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "dc9612ae9ecfaa65b5565474110ebb9a695c13f9",
+      "title": "北京碳市场累计交易总量超过6400万吨、成交额37亿元",
+      "link": "https://wallstreetcn.com/livenews/3087427",
+      "summary": "从北京市生态环境局获悉，“十四五”时期，全市重点领域绿色低碳转型取得显著成效，碳排放总量稳中有降，圆满完成“十四五”碳排放强度下降目标，万元地区生产总值二氧化碳排放保持全国领先水平。北京碳市场累计交易总量超过6400万吨、成交额37亿元。（新京报）",
+      "published_at": "2026-04-14T05:01:00.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1048,10 +1849,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "44188cb77680e29b627648099d7a3ac247aeb3d7",
+      "title": "传闻发酵，5日大涨45.65% 张小泉回应：与光模块、PCB无关联",
+      "link": "https://wallstreetcn.com/livenews/3087424",
+      "summary": "老字号刀剪企业张小泉股价近日持续走高。4月7日至13日，公司股价连续五个交易日上涨，累计涨幅达45.65%。有市场传闻称，张小泉工业剪刀业务已切入光模块、PCB、新能源等高端制造供应链。对此，公司相关负责人回应称，公司工业剪刀主要包括纱剪、套管剪、服装剪等品类，下游应用以服装纺织企业为主，与光模块、PCB、新能源等产业并无关联。 (中国证券报)",
+      "published_at": "2026-04-14T04:53:20.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1063,7 +1880,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1078,7 +1895,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1093,10 +1910,253 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "73e384d67101b675b8cdff6d93426fc8eb578664",
+      "title": "现货白银日内涨幅扩大至2%，现报77.1美元/盎司。",
+      "link": "https://wallstreetcn.com/livenews/3087423",
+      "summary": "现货白银日内涨幅扩大至2%，现报77.1美元/盎司。",
+      "published_at": "2026-04-14T04:45:28.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "e134d3bb034911d0d84d7073bcd21489b4dfaab4",
+      "title": "应对能源价格上涨 德国拟减免16亿欧元能源税",
+      "link": "https://wallstreetcn.com/livenews/3087422",
+      "summary": "德国执政联盟13日宣布，执政联盟同意对消费者和企业减免总额16亿欧元（约合18.7亿美元）的能源税，以应对中东局势动荡引发的能源价格上涨。德国联盟党（基民盟/基社盟）和社会民主党组成的执政联盟在一份联合声明中说，今后两个月，对柴油和汽油的能源税每升将减免0.17欧元（约合0.2美元）。德国总理默茨当天在记者会上说：“（中东）战事是导致我们国家正面临问题的真正原因。”（新华社）",
+      "published_at": "2026-04-14T04:45:07.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "8c4cbe3de958dbc10aaa1d6b71f22fafa071f7b0",
+      "title": "加拿大举行选区补选 加总理卡尼领导的自由党预计将成为议会多数党",
+      "link": "https://wallstreetcn.com/livenews/3087421",
+      "summary": "当地时间4月13日，加拿大举行选区补选，涉及三个选区，获胜的党派可再获得众议院中的对应席位。加拿大总理卡尼所领导的自由党预计将凭借此次补选至少再斩获2席众议院席位，使得自由党众议院席位总数增至173席，超过众议院总计343席的半数，成为议会多数党。 截至4月14日0时，加拿大选举委员会公布的实时计票结果显示，加拿大自由党在“大学—玫瑰谷”选区与世嘉堡西南选区这2个选区的补选中取得绝对领先优势，预计将在众议院中再收获2个席位，这也将使加拿大自由党众议院席位总数增至173席。在竞争最为激烈的魁北克省特雷伯恩选区，自由党也取得领先。（央视）",
+      "published_at": "2026-04-14T04:43:56.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "a78c7667c7c7c32ec8b93d80cd85113b8110cabb",
+      "title": "案件受害者屡遭网暴，必须拒绝阴谋论的投喂",
+      "link": "https://m.thepaper.cn/detail/32963255",
+      "summary": "让违法者得到惩处，让受害者得到保护，这是维护社会公平正义和法律尊严的基本要求，也是朴素的人心所向。 但近些年来，舆论场里出现了一种值得警惕的现象，那就是对于个别案件受害者的苛责、诽谤、网暴。受害者及其亲属在承受伤害的同时，还要遭到舆论场里素不相识者的无端恶毒攻击、阴谋论的“有罪推定”。这是将本就脆弱的他们推向更深的深渊。 案件受害人屡遭网暴、谣言二次伤害 ——成都27岁女子王紫雅在家门口，被35岁女子梁某滢持刀捅刺致死，凶手一审被判死缓。死者母亲却遭到有组织网暴，有网民甚至建了名为“紫雅妈妈撒谎”的群聊，成员数量达上百人，编造谣言攻击死者，还有人谩骂其…",
+      "published_at": "2026-04-14T04:41:37.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "澎湃评论",
+        "网络暴力",
+        "阴谋论"
+      ]
+    },
+    {
+      "id": "f236c05ff86b0c519f6b722986aab9b0143c9986",
+      "title": "美媒说“布什”号绕道非洲前往中东",
+      "link": "https://wallstreetcn.com/livenews/3087420",
+      "summary": "美国《华尔街日报》13日援引两名美国官员的话报道说，美军“布什”号航空母舰目前正在非洲近海航行，前往中东参加伊朗战事。报道写道：“‘布什’号航母不同寻常的航程——绕行非洲之角而非穿越地中海——表明其有意避开红海，因为在那里可能遭到伊朗支持的也门胡塞武装的袭击。”（新华社）",
+      "published_at": "2026-04-14T04:40:04.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "fddd145ee05ce25de3b7a844121d364a5d4a1bce",
+      "title": "一箭八星！我国成功发射吉星高分07A02星等卫星",
+      "link": "https://wallstreetcn.com/livenews/3087419",
+      "summary": "4月14日12时03分，我国在东风商业航天创新试验区使用力箭一号遥十二运载火箭，成功将吉星高分07A02星等8颗卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。（新华社）",
+      "published_at": "2026-04-14T04:38:53.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "5612f2b0dc52b03ca53232c897dce3b2b6420f14",
+      "title": "离境退税2.0版措施预计4月底前推出",
+      "link": "https://wallstreetcn.com/livenews/3087417",
+      "summary": "4月14日在第六届消博会期间获悉，离境退税2.0版措施目前正在报批过程中，预计4月底前推出。（中证金牛座）",
+      "published_at": "2026-04-14T04:38:06.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "db41b80cf61b63267787dfdb8d6192b7e64c64ef",
+      "title": "巴基斯坦KSE-100指数涨2.1%。",
+      "link": "https://wallstreetcn.com/livenews/3087416",
+      "summary": "巴基斯坦KSE-100指数涨2.1%。",
+      "published_at": "2026-04-14T04:37:01.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "6096bfcfa9998ae3c589aee047be9cadd7a325eb",
+      "title": "土库曼斯坦称绝不容许里海发生军事冲突",
+      "link": "https://wallstreetcn.com/livenews/3087415",
+      "summary": "土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫13日发表声明表示，绝不容许在里海发生任何军事冲突，这与沿岸国家多年来为加强安全所作的努力相悖。 别尔德穆哈梅多夫表示，2018年由土库曼斯坦、阿塞拜疆、哈萨克斯坦、伊朗和俄罗斯领导人签署的《里海法律地位公约》仍是地区稳定的基石。这份历史性文件明确里海区域禁止非里海国家驻扎军队，也禁止任何无里海出海口的国家开展军事活动。（新华社）",
+      "published_at": "2026-04-14T04:36:22.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "e001fdbf24d19d607d2f3cc8113ee4ed48dad7b6",
+      "title": "提醒：日内请重点关注（以下均为北京时间）",
+      "link": "https://wallstreetcn.com/livenews/3087414",
+      "summary": "① 16:00 国际能源署（IEA）公布月度原油市场报告，欧洲央行管理委员会成员OlliRehn讲话； ② 16:50 英国央行货币政策委员会（MPC）成员CatherineMann讲话； ③ 美股盘前 摩根大通、花旗集团、富国银行发布业绩报告； ④ 20:30 美国3月PPI； ⑤ 21:00 国际货币基金组织（IMF）发布《世界经济展望》； ⑥ 21:45 美国芝加哥联储主席Goolsbee（2027年FOMC票委）讲话； ⑦ 22:00 英国央行货币政策委员会（MPC）成员Greene讲话，欧洲央行管委Makhlouf、欧洲央行首席经济学家Lan…",
+      "published_at": "2026-04-14T04:35:00.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "7a3cc04df17cb56e082c3b5163ac23418d29646e",
+      "title": "民调显示以色列民众对执行停火意见分裂",
+      "link": "https://wallstreetcn.com/livenews/3087412",
+      "summary": "以色列一项最新民意调查显示，该国民众对以色列是否应执行临时停火安排意见不一，赞同和反对的受调查者各占约四成，剩余民众表示不确定。美国与伊朗北京时间4月8日宣布临时停火并开启为期两周的谈判。耶路撒冷希伯来大学智库阿加姆实验室9日至10日对1312名以色列人展开抽样调查。阿加姆实验室说，这是临时停火以来以色列首次全国性民调。（新华社）",
+      "published_at": "2026-04-14T04:31:58.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "1f0d53103a9ae11687308deeadaa3e6df0ddb470",
+      "title": "早间要闻汇总",
+      "link": "https://wallstreetcn.com/livenews/3087413",
+      "summary": "创业板指半日涨超2%，算力产业链再度爆发。 港股冲高回落，恒指半日涨0.4%，恒生科技指数涨0.2%。段永平确认买入，泡泡玛特盘中涨超7%。 在岸人民币兑美元盘中涨破6.82元，创2023年3月23日以来新高。 中国3月按美元计出口同比增长2.5%，进口同比增27.8%。 海关总署回应伊朗战事对我国3月进出口影响：对中东地区进出口由增转降。 恒大集团、恒大地产及许家印案一审开庭，许家印当庭表示认罪悔罪。 报道称沙特施压美国放弃封锁霍尔木兹海峡；巴基斯坦呼吁美伊停火延长45天。 美国财长贝森特：美国在降息之前应“观望并等待”。 日本20年期国债拍卖认购倍…",
+      "published_at": "2026-04-14T04:30:59.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "c0e7b04629dadecae7c6875ce49e0714dccb8d2f",
+      "title": "日本2月工业产出同比终值 0.4%，初值 0.3%。",
+      "link": "https://wallstreetcn.com/livenews/3087410",
+      "summary": "日本2月工业产出同比终值 0.4%，初值 0.3%。",
+      "published_at": "2026-04-14T04:30:08.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "59827f3291dc7b829d02a26a51b035311ac9a60a",
+      "title": "日本2月工业产出环比终值 -2%，初值 -2.1%。",
+      "link": "https://wallstreetcn.com/livenews/3087411",
+      "summary": "日本2月工业产出环比终值 -2%，初值 -2.1%。",
+      "published_at": "2026-04-14T04:30:08.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "0d973438535abb72b76dcce21085d759a7cd3bac",
+      "title": "日本2月设备利用指数环比 -0.1%，前值 2.9%。",
+      "link": "https://wallstreetcn.com/livenews/3087409",
+      "summary": "日本2月设备利用指数环比 -0.1%，前值 2.9%。",
+      "published_at": "2026-04-14T04:30:08.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1108,7 +2168,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1123,7 +2183,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1138,7 +2198,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1153,7 +2213,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1168,7 +2228,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1183,7 +2243,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1198,10 +2258,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "693cca152b1e033cb30a3527ca26a0c82e69d044",
+      "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+      "link": "https://wallstreetcn.com/livenews/3087406",
+      "summary": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+      "published_at": "2026-04-14T04:10:59.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1213,7 +2289,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1228,10 +2304,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "30a4a68353e25da15fae302f2d2f0b639904be33",
+      "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+      "link": "https://wallstreetcn.com/livenews/3087405",
+      "summary": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+      "published_at": "2026-04-14T04:06:00.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1243,10 +2335,62 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "108a10006db5f2d4f0f72cfa6835445689f26238",
+      "title": "恒大集团、恒大地产及许家印案一审开庭",
+      "link": "https://m.thepaper.cn/detail/32966074",
+      "summary": "2026年4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息、单位行贿，被告单位恒大地产集团有限公司欺诈发行证券，被告人许家印非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿一案进行了公开开庭审理。 庭审中，法庭主持控辩双方围绕指控的事实进行了法庭调查及法庭辩论，被告单位、许家印进行了最后陈述。许家印当庭表示认罪悔罪。法庭将择期宣判。 部分人大代表、政协委员，被告人亲属，集资参与…",
+      "published_at": "2026-04-14T03:57:00.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "一号专案",
+        "恒大地产",
+        "恒大集团",
+        "许家印"
+      ]
+    },
+    {
+      "id": "12e3d8f19ef94b45660ccd27d6de2a5278c7f96b",
+      "title": "恒大集团、恒大地产及许家印案一审开庭，许家印当庭表示认罪悔罪",
+      "link": "https://wallstreetcn.com/livenews/3087402",
+      "summary": "4月13日至14日，广东省深圳市中级人民法院对深圳市人民检察院提起公诉的被告单位恒大集团有限公司非法吸收公众存款、集资诈骗、违法发放贷款、欺诈发行证券、违规披露重要信息、单位行贿，被告单位恒大地产集团有限公司欺诈发行证券，被告人许家印非法吸收公众存款、集资诈骗、违法发放贷款、违法运用资金、欺诈发行证券、违规披露重要信息、职务侵占、单位行贿一案进行了公开开庭审理。庭审中，法庭主持控辩双方围绕指控的事实进行了法庭调查及法庭辩论，被告单位、许家印进行了最后陈述。 许家印当庭表示认罪悔罪。 法庭将择期宣判。（央视）",
+      "published_at": "2026-04-14T03:56:56.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "41ce4d326d298e0f6dbadae1954f4454fdc82b3f",
+      "title": "以色列总理说美国官员天天向他汇报",
+      "link": "https://wallstreetcn.com/livenews/3087401",
+      "summary": "以色列总理内塔尼亚胡4月13日在内阁会议上称，美国副总统万斯在从伊斯兰堡返程的飞机上与他通了电话，“详细通报了与伊朗的谈判情况”——内塔尼亚胡称，美国本届政府官员“天天都会像这样”向他汇报。内塔尼亚胡还称，是美国“无法容忍伊朗公然违反开始谈判的协议”，导致谈判破裂。（CCTV国际时讯）",
+      "published_at": "2026-04-14T03:53:19.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1258,7 +2402,7 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
@@ -1273,10 +2417,26 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
+      ]
+    },
+    {
+      "id": "6d76b28d2e254df3c36b1ec9067910df0fb16e06",
+      "title": "以军称一名士兵在黎巴嫩身亡",
+      "link": "https://wallstreetcn.com/livenews/3087399",
+      "summary": "以色列军方14日发表声明说，一名以军士兵在黎巴嫩南部作战时身亡。这是以军在美国和伊朗停火后首次发布士兵身亡的消息。（新华社）",
+      "published_at": "2026-04-14T03:50:20.000Z",
+      "source_name": "华尔街见闻实时快讯",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
@@ -1288,70 +2448,243 @@
       "source_name": "Readhub 热门",
       "source_type": "rss",
       "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "tech"
       ]
     },
     {
-      "id": "025268a26fdc7800459b4fd5e4f83cfadee552d9",
-      "title": "Meta预计将超越谷歌，成为全球最大数字广告巨头",
-      "link": "https://readhub.cn/topic/8sIcN4cMuv9",
-      "summary": "市场研究机构 eMarketer 预测，Meta 平台今年将超越谷歌，成为全球领先的数字广告业务巨头，其广告净收入预计达 2434.6 亿美元，小幅超过谷歌的 2395.4 亿美元。Meta 广告业务增长得益于 Reels 等新广告产品及人工智能，全球广告增速预计从 2025 年的 22.1%提升至今年的 24.1%，而谷歌今年全球广告增速预计持平于 11.9%。人工智能推动 Meta 美国地区 Reels 观看时长增长、改变广告制作方式，但也带来高昂成本，其今年资本支出预计达 1350 亿美元。谷歌虽长期掌控搜索业务，但面临竞争，美国搜索广告市场份额…",
-      "published_at": "2026-04-14T03:47:44.000Z",
-      "source_name": "Readhub 热门",
+      "id": "ea43d5a0dffb22cb866e7b145886c0a66c29dd77",
+      "title": "日本30年期国债收益率下行7个基点至3.63%。",
+      "link": "https://wallstreetcn.com/livenews/3087398",
+      "summary": "日本30年期国债收益率下行7个基点至3.63%。",
+      "published_at": "2026-04-14T03:48:19.000Z",
+      "source_name": "华尔街见闻实时快讯",
       "source_type": "rss",
-      "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
-        "hotlist",
-        "tech"
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
-      "id": "24235aeae092c7d3b16e6b679abe2caab4834156",
-      "title": "马斯克入驻 TikTok 认证账号发布首个帖子",
-      "link": "https://readhub.cn/topic/8sHhAjJoj8e",
-      "summary": "上周三，一个带有认证标识的 @elonmusk TikTok 账号首发布内容，目前粉丝量 10.46 万。一个同样用户名且带认证标识的账号也出现在 Instagram 平台，但未发布内容。这些账号活跃正值马斯克推动 SpaceX 进行首次公开招股之际。此前马斯克曾对 X 的竞争对手表达不屑，2023 年还称停止使用 TikTok，认为其人工智能「探测」思维、应用令人上瘾且「充斥着」反犹内容。 媒体报道 马斯克进驻TikTok？认证账号发布首条视频，粉丝量超10万 网易科技 马斯克入驻TikTok？认证账号发布首个帖子 凤凰科技/和讯网 事件追踪 202…",
-      "published_at": "2026-04-14T03:47:32.000Z",
-      "source_name": "Readhub 热门",
+      "id": "49bf6a793d0f73ce1d376d2ab1ef4fdd468c9ad9",
+      "title": "美媒：美国海上封锁伊朗 超15艘美军舰已到位",
+      "link": "https://wallstreetcn.com/livenews/3087396",
+      "summary": "美国《华尔街日报》13日援引美国一名高级官员的话报道，自美军当天开始封锁进出伊朗港口的海上交通以来，超过15艘美国军舰已到位支持此次行动。报道援引英国海上贸易行动办公室的一份报告称，伊朗港口以及波斯湾、阿曼湾和阿拉伯海部分地区的沿海地区正在实施海上通行限制。（新华社）",
+      "published_at": "2026-04-14T03:46:04.000Z",
+      "source_name": "华尔街见闻实时快讯",
       "source_type": "rss",
-      "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
-        "hotlist",
-        "tech"
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
-      "id": "66e680e883077895576c8cdfc5b44b3f0cc5b7cb",
-      "title": "5年期日本国债收益率下跌1.5个基点，至1.855%",
-      "link": "https://readhub.cn/topic/8sJKgbTLYIH",
-      "summary": "5年期日本国债收益率下跌1.5个基点，至1.855%。 媒体报道 10年期日本国债收益率下跌3.0个基点，至2.435% 钛媒体 财联社4月14日电，5年期日本国债收益率下跌1.5个基点，至1.855%。 财联社 5年期日本国债收益率下跌1.5个基点，至1.855% 钛媒体 格隆汇4月14日｜日本10年期国债收益率下跌5个基点至2.415%。 格隆汇 日本30年期国债收益率下行7个基点至3.63%。 华尔街见闻 日本20年期国债收益率降幅扩大至5.5个基点，报3.335%。此前日本拍卖20年期国债，认购倍数创2019年以来新高。 华尔街见闻 格隆汇4月…",
-      "published_at": "2026-04-14T03:47:11.000Z",
-      "source_name": "Readhub 热门",
+      "id": "16c9a63e879a3c76ab4c83bc56f81ed56e2157ac",
+      "title": "巴基斯坦消息称美伊同意继续谈判 时间地点仍未定",
+      "link": "https://wallstreetcn.com/livenews/3087395",
+      "summary": "巴基斯坦外交消息人士称，美伊双方同意继续谈判，但在下一轮谈判的议程、目标、形式和地点方面仍存在分歧。伊朗倾向于选择伊斯兰堡，理由是地理位置邻近、双方熟悉，且对巴基斯坦作为调解人的角色感到满意。据悉，美方正在考虑其他备选方案。 另据两位不具名的巴基斯坦官员透露，巴基斯坦已提议在未来几天内，即停火期结束前，在伊斯兰堡举行美国与伊朗之间的第二轮会谈。 这两名官员表示，提案的落实情况将取决于相关各方是否提出更换举办地点的要求。 其中一人说，尽管首轮谈判未达成协议，但这仍是正在进行的外交进程的一部分，而非一次性的努力。（央视）",
+      "published_at": "2026-04-14T03:44:40.000Z",
+      "source_name": "华尔街见闻实时快讯",
       "source_type": "rss",
-      "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "source_url": "http://localhost:1200/wallstreetcn/live",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
-        "hotlist",
-        "tech"
+        "finance",
+        "live",
+        "wallstreetcn"
       ]
     },
     {
-      "id": "478e037b659425dd87f70735fa6a2c187465107e",
-      "title": "OpenAI四页内部信曝光：Anthropic营收注水80亿美元",
-      "link": "https://readhub.cn/topic/8sJHVDHM21y",
-      "summary": "OpenAI首席营收官德尼丝·德雷塞尔给员工发四页备忘录，质疑竞争对手Anthropic数据可信度。一周前Anthropic宣布年化收入达300亿美元超OpenAI，备忘录指出其采用“总额法”处理与云服务提供商的收入分成，虚增80亿美元收入，真实年化收入约220亿美元，未超OpenAI的250亿美元，而OpenAI采用“净额法”，更符合上市公司标准。此外，备忘录称Anthropic未获取足够算力，导致客户使用Claude体验不佳。产品过于专注编程场景，难以赢下平台战争，而OpenAI正构建完整企业AI系统。备忘录还批判Anthropic的理念，称Ope…",
-      "published_at": "2026-04-14T03:46:28.000Z",
-      "source_name": "Readhub 热门",
+      "id": "ee92a7e30309f15ac3fde9b2aedaae8244d9ce63",
+      "title": "Space X的新数字：星链成唯一利润引擎，2万亿估值IPO面临烧钱大考",
+      "link": "https://wallstreetcn.com/articles/3769893",
+      "summary": "SpaceX即将迎来潜在的创纪录IPO，其最新曝光的财务数据揭示了一个两极分化的基本面：星链（Starlink）卫星互联网业务已成为公司唯一的利润引擎，而火箭发射与人工智能（AI）业务则深陷巨额现金消耗。 4月13日，据科技媒体The Information报道，未经公开披露的财务数据显示，SpaceX去年整体资本支出高达207亿美元，超过其全年总营收，净亏损接近50亿美元。 Starlink业务产生的约30亿美元自由现金流，远不足以填补火箭与AI业务合计约170亿美元的现金消耗缺口。 市场分析指出，这场非传统的IPO本质上是Elon Musk在为他的…",
+      "published_at": "2026-04-14T03:43:04.000Z",
+      "source_name": "华尔街见闻最新资讯",
       "source_type": "rss",
-      "source_url": "http://localhost:1200/readhub",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "ba467b2bd65fc827dfa40fca1348d88e9fe4e6a0",
+      "title": "库存即将耗尽！摩根大通警告：石油冲击将全面爆发",
+      "link": "https://wallstreetcn.com/articles/3769902",
+      "summary": "全球石油供应危机正从预警阶段进入实质性冲击阶段。 摩根大通大宗商品主管Natasha Kaneva在最新报告中明确指出，随着霍尔木兹海峡封锁前最后一批油轮预计于4月20日前后抵达目的地，全球供应链中的“封锁前库存”将彻底耗尽，石油冲击正在全面爆发。 Kaneva表示，3月至4月上旬，全球各国政府、企业和消费者合计动用了2.5亿桶储备，折合每日660万桶，以缓冲供应缺口带来的冲击。 然而这一缓冲空间已接近极限——即便炼油商从当前水平将减产规模翻倍，经合组织（OECD）商业原油库存仍可能在5月初跌至运营最低值。市场已不再是在吸收冲击，而是在消耗最后的缓冲，…",
+      "published_at": "2026-04-14T03:34:55.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "商品"
+      ]
+    },
+    {
+      "id": "58701a7d82886b6b1c6a20939c8175e5670a3a4d",
+      "title": "商务部就英政府不支持使用明阳智能的风机产品事答问",
+      "link": "https://m.thepaper.cn/detail/32965684",
+      "summary": "商务部新闻发言人就英政府不支持使用明阳智能的风机产品事答记者问。 有记者问：近日，英国能源事务大臣在议会网站发布声明称，英政府不支持在英海上风电项目中使用明阳智能的风机。请问中方对此有何评论？ 答： 我们注意到英方有关声明。英方以“国家安全”为由排除中国产品参与其风电项目，有悖于英方长期以来秉持的“开放、自由”的市场理念，不利于英国地方经济发展和民众福祉的提升，将对双边经贸务实合作产生负面影响，中方对此坚决反对。 斯塔默首相今年1月访华时曾明确表示，英方愿与中方加强贸易、投资、金融、环保等各领域合作，助力彼此经济增长，为两国人民带来福祉。希望英政府为中…",
+      "published_at": "2026-04-14T03:06:59.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "商务部",
+        "自贸区连线"
+      ]
+    },
+    {
+      "id": "b6fb0f16215ff1f75423186f544f486c5c1a081a",
+      "title": "海关总署回应伊朗战事对我国3月进出口影响：对中东地区进出口由增转降",
+      "link": "https://m.thepaper.cn/detail/32965673",
+      "summary": "4月14日，海关总署新闻发言人、统计分析司司长吕大良在国新办新闻发布会上回应了伊朗战事对中国3月进出口的影响几何，他表示，霍尔木兹海峡是全球重要的货物贸易和能源贸易的通道，根据联合国贸发会议的报告，海峡承担了全球25%的海运石油贸易、19%的液化天然气贸易、29%的液化石油气贸易，以及13%的相关化学品贸易，是全球重要的海上运输咽喉之一。另外，贸发会议的分析也指出，伊朗战事爆发后，燃料的价格急剧上涨且持续高位，石油的运输成本大幅攀升，这些因素正在通过供应链传导推高全球商品生产与运输的成本，全球的货物贸易预计可能会大幅下滑。世界贸易组织最新的《全球贸易展…",
+      "published_at": "2026-04-14T03:06:08.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "伊朗",
+        "财经上下游",
+        "进出口"
+      ]
+    },
+    {
+      "id": "d1bc72372bd6b68f080fdbdc3c1ede5528885390",
+      "title": "特朗普封锁霍尔木兹海峡，有用吗？",
+      "link": "https://wallstreetcn.com/charts/41958897",
+      "summary": "北京时间昨日晚上10点，美军对伊朗港口“封锁令”正式生效，美国当代著名的国际关系理论家John Mearsheimer认为美国的封锁只会适得其反。伊朗作为高度民族主义国家，面对生存威胁不会轻易屈服，此外伊朗还可能反制封锁红海，切断波斯湾油气及化肥运输，最终迫使特朗普政府承认失败。",
+      "published_at": "2026-04-14T03:02:59.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "9c7adcebd2283aed09e0da81c3f2f9eadb3abf16",
+      "title": "超500家公司排队赴港IPO，保荐人快不够用了",
+      "link": "https://wallstreetcn.com/articles/3769901",
+      "summary": "香港IPO市场回暖态势持续，但也给业界带来新的挑战。4月13日，香港证监会中介机构部执行董事叶志衡在格林威治论坛上表示，港股市场正面临前所未有的局面： IPO市场确实显著回暖，但形势却不容盲目乐观，核心问题则在于“市场的消化能力”。 当前，港股IPO申请数量激增，而现有的保荐人资源严重不足。德勤的数据显示，目前超过560家企业正排队上市状态（指已提交上市申请且处于有效期的项目）。腾讯新闻《一线》获悉，香港目前约440名保荐人，其中包括部分小型券商负责人，且有些保荐人活跃度较低。 保荐人在港股上市过程中担任“把关人”角色，负责协助公司完成上市程序，向监管…",
+      "published_at": "2026-04-14T02:58:13.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "7fe1bec794f9ba469d9f9327c0c2b30dd8f40be3",
+      "title": "地缘冲突下的超级战略资产：船舶制造周期共振迎来新起点",
+      "link": "https://wallstreetcn.com/member/articles/3769772",
+      "summary": "全球船舶制造业正站在一轮历史性周期的关键拐点上——这不是传统意义上的短期景气脉冲，而是由“地缘冲突驱动的油运结构性景气、船队老龄化带来的刚性更新需求、产能收缩与订单爆发的深度错配”三重力量共同驱动的超级周期。 2026年初VLCC在手订单占比仅约18%，距离上轮周期峰值40%-50%仍有翻倍以上的空间，叠加影子船队受制裁后运力出清的“灰犀牛”效应，船舶制造行业正处于景气度加速释放的关键窗口期。 当前油运格局可部分类比2021年集运大周期的初期阶段——“拥堵”带来的有效运力短缺推动运价暴涨，但当前霍尔木兹海峡封锁导致油轮几乎无法绕行，其影响力度和持续性可…",
+      "published_at": "2026-04-14T02:57:59.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "股票"
+      ]
+    },
+    {
+      "id": "30b07d62629efe1af25882e765367e04733ecb25",
+      "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
+      "link": "https://wallstreetcn.com/articles/3769898",
+      "summary": "伊斯兰堡谈判破裂、美国封锁霍尔木兹海峡之际，华盛顿将下一步主动权交还给德黑兰。 据新华社，美国副总统万斯13日称，美国同伊朗谈判已取得进展， 目前“球在伊朗一边”，关键在于伊朗能否展现“足够的灵活性”。 万斯当天接受美国福克斯新闻频道采访时说，此前在巴基斯坦举行的美伊会谈期间，双方进行了“一些富有成效的交流”，伊朗在谈判中展现出一定的灵活性，但“还不够”。至于双方是否再次举行会谈，万斯表示这一问题“最好直接去问伊朗方面”。 据新华社，伊朗总统办公室13日发布的声明，伊朗总统佩泽希齐扬当天与法国总统马克龙通话时表示， 伊朗愿继续在国际法框架内与美方进行谈…",
+      "published_at": "2026-04-14T02:56:57.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn",
+        "债券"
+      ]
+    },
+    {
+      "id": "c21f7234255100edffb67ed63d90bfd4f8b2dcbb",
+      "title": "远近都有戏：华为 Pura 90 Pro Max 手机搭载超大底 2 亿长焦",
+      "link": "https://www.ithome.com/0/938/832.htm",
+      "summary": "感谢IT之家网友 Autumn_Dream 、 風見暉一 、 i烦烦烦 、 雨雪载途 、 乌拉尔的花楸树 、 西窗 、 若怡 、 钟爱庄达菲33 的线索投递！ IT之家 4 月 14 日消息，华为 Pura 90 系列及全场景新品发布会官宣定档 4 月 20 日，华为终端今日预热， 华为 Pura 90 Pro Max 搭载超大底 2 亿长焦 ，远近都有戏。 此外，华为 Pura 90 系列手机支持 AI 姿势推荐 ，开启该功能后，AI 会自动推荐拍照姿势。华为终端 BG 首席执行官何刚在评论区表示：“拯救拍照只会剪刀手、不会摆 Pose 星人”。 据…",
+      "published_at": "2026-04-14T02:26:04.000Z",
+      "source_name": "IT之家 24h",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/ithome/ranking/24h",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
-        "tech"
+        "it"
+      ]
+    },
+    {
+      "id": "e6a6dc1039a0334ff32fe043d2b3d531faf42547",
+      "title": "五月敦煌行私人定制之旅：华尔街见闻邀你探访四大文明交汇之地",
+      "link": "https://wallstreetcn.com/articles/3769808",
+      "summary": "在五月草长莺飞之时，华尔街见闻邀你一起去 探访独一无二的敦煌 。 在季羡林大师眼中：敦煌是中国、印度、希腊、伊斯兰四大文化体系汇流的唯一地方，再没有第二个。 从张骞出使西域到马可波罗一路向东，敦煌作为丝绸之路关键枢纽，两千多年间见证东西方文化交流碰撞。莫高窟里色彩绚烂的壁画、雕塑，记录下四大文明的精华，给后人留下宝藏。 一代又一代大师，不断来敦煌求真、寻美。 张大千来敦煌临摹壁画数百张，梁思成从敦煌壁画中考古求真。徐克、张艺谋把敦煌的辽阔壮美，通过《新龙门客栈》、《英雄》分享给全世界。谭盾15次赴敦煌采风，创作交响乐《敦煌·慈悲颂》进行全球巡演。 到今…",
+      "published_at": "2026-04-14T02:17:29.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "8ee1571b74e059090b70094999f422fbd596d9e5",
+      "title": "越共中央总书记、国家主席苏林乘高铁赴雄安新区参访",
+      "link": "https://m.thepaper.cn/detail/32965313",
+      "summary": "越共中央总书记、国家主席苏林4月14日上午开始对中国进行为期四天的国事访问。抵达北京后，他随即乘高铁前往雄安新区参访。",
+      "published_at": "2026-04-14T02:16:11.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "大国外交",
+        "苏林"
       ]
     },
     {
@@ -1363,11 +2696,91 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
         "分享创造"
+      ]
+    },
+    {
+      "id": "086f9e26ca4bea88702785615ad3b5dcdee9e1ff",
+      "title": "伊朗谈判现曙光，亚太股市集体大涨，韩股涨超3%，油价下挫",
+      "link": "https://wallstreetcn.com/articles/3769897",
+      "summary": "伊朗局势出现阶段性缓和迹象，亚太股市周二普遍走高，油价承压下跌。 尽管美国对霍尔木兹海峡实施封锁已正式生效，但特朗普政府释放的外交谈判信号令投资者情绪回暖，市场在地缘风险与和平预期之间寻找平衡。 华尔街见闻提及 ，美国副总统万斯周一表示，与伊朗在磋商中取得了大量进展。美伊和平进程的下一步取决于伊朗，称美方已在谈判桌上拿出大量筹码，球现在在伊朗一方。 此前特朗普亦表示愿意重启对话，并称伊朗方面已主动联系其政府。上述表态令市场情绪明显改善，亚太地区主要股指跟随隔夜美股涨势。 MSCI亚太指数上涨1.1%，澳大利亚S&P/ASX 200上涨0.5%。日本日经…",
+      "published_at": "2026-04-14T02:03:58.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "债券",
+        "商品",
+        "外汇",
+        "股票"
+      ]
+    },
+    {
+      "id": "c7a8321d377144619e6745e77e7b221cc741d5ea",
+      "title": "首季增速15%，我国外贸起势有力、开局良好。（新华社）",
+      "link": "https://wallstreetcn.com/articles/3769900",
+      "summary": "据海关统计，今年一季度，我国货物进出口11.84万亿元，同比增长15%。其中，出口6.85万亿元，增长11.9%；进口4.99万亿元，增长19.6%。外贸起势有力，开局良好。 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。",
+      "published_at": "2026-04-14T02:02:49.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "股票"
+      ]
+    },
+    {
+      "id": "56bd2d198c97c2f0657a63271ba463d1b0df1e92",
+      "title": "匈牙利“一夜变天”：右翼样板“欧尔班主义”能够被击败但未必会消失",
+      "link": "https://m.thepaper.cn/detail/32963256",
+      "summary": "4月12日匈牙利举行国会选举。当晚匈国家选举办公室公布初步计票结果，提前宣告该国政坛变天：毛焦尔·彼得领导的反对党蒂萨党以约53%的得票率赢得国会199席中的138席；总理欧尔班领导的青民盟和基民党执政联盟议席大幅滑落至55席，就此结束了连续16年、累计20年的总理执政生涯。 这场大选不仅是该国16年来最具悬念的一次，更被视为当前对欧洲影响最大的选举，投票率亦创下79.51%的历史新高。正是看到了选举潜在的“分水岭”意义，两大阵营使出浑身解数，“反威权”与“要和平”之争在竞选期间愈演愈烈。在匈国境之外，美欧俄乌亦密切关注欧尔班政府的“攻防战”，以不同形…",
+      "published_at": "2026-04-14T01:57:56.000Z",
+      "source_name": "澎湃新闻头条",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/thepaper/featured",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "featured",
+        "news",
+        "thepaper",
+        "“欧尔班主义”",
+        "匈牙利大选",
+        "外交学人",
+        "欧尔班",
+        "欧盟",
+        "毛焦尔",
+        "蒂萨党"
+      ]
+    },
+    {
+      "id": "8b04e74616ffca3505b9f7b701f9a4e95ae69ba9",
+      "title": "AH股早盘齐涨：创业板涨1%，存储芯片爆发，恒科指涨1%，科网股反弹，人民币升破6.82关口",
+      "link": "https://wallstreetcn.com/articles/3769899",
+      "summary": "4月14日，A股早盘集体高开，三大股指盘初上涨，创业板涨1%，存储芯片、电路板、半导体设备等概念股大涨，锂电池继续活跃。港股同样上涨，恒指、恒科指双双涨1%，科网股悉数反弹。 债市方面，国债期货多数下跌。商品方面，国内商品多数上涨，多晶硅涨超4%，碳酸锂涨3%。核心市场走势： A股 ：截至发稿，沪指涨0.34%，深成指涨0.66%，创业板指涨0.78%。 港股 ：截至发稿，恒指涨1.09%，恒科指涨1.25%。 债市 ：国债期货多数下跌，截至发稿，30年期主力合约跌0.02%，10年期主力合约涨0.02，5年期主力合约跌0.01%，2年期主力合约跌0.…",
+      "published_at": "2026-04-14T01:55:03.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "债券",
+        "商品",
+        "外汇",
+        "股票"
       ]
     },
     {
@@ -1379,7 +2792,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1394,7 +2807,7 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
@@ -1410,11 +2823,27 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
         "生活"
+      ]
+    },
+    {
+      "id": "e8b5b8a49c888414dc4a14e9f96080f8ce864b63",
+      "title": "死敌爆料是狠！OpenAI内部信阴阳Claude营收注水80亿，然后泄露了…",
+      "link": "https://wallstreetcn.com/articles/3769894",
+      "summary": "OpenAI的首席营收官Denise Dresser，周末给员工发了一封本该保密的 内部信 ，结果被The Verge拿出来发了。 信里透露了OpenAI Q2的企业业务方向，但更引人注目的，是信中用相当大的篇幅把竞争对手Anthropic从头数落到脚， 算力 、 营收 、 经营理念 ，一条都没放过。 Dresser直接说Anthropic的300亿年化营收是虚的，打掉80亿之后是220亿，低于OpenAI的240亿。 这直接让不少人炸开了锅。有人觉得这封信本来就是故意泄露的。 有人觉得OpenAI太慌了。毕竟当Anthropic的ARR超过OpenA…",
+      "published_at": "2026-04-14T01:07:48.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
       ]
     },
     {
@@ -1426,7 +2855,7 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
@@ -1442,7 +2871,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1457,10 +2886,44 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
+      ]
+    },
+    {
+      "id": "4d6d4af0cdb098ce52c61f0dbc349873db005400",
+      "title": "中金：为何美A港三地盈利走向截然相反？",
+      "link": "https://wallstreetcn.com/articles/3769890",
+      "summary": "过去一周，伊朗局势迅速朝着不再升级的方向演变，这也是大部分资产的底层的默认预期，不然这几周市场早就开始加剧动荡了。这一判断也不难做出，毕竟特朗普还有年底的中期选举要顾及，不可能一直承受高油价、高通胀和金融市场动荡，只不过难点在于对节奏的把握，即便到现在，和谈局势依然扑朔迷离，脆弱的平衡可能会被再度打破。这和我们此前的基准假设也大体一致，即： 短期会有波动反复，4月是关键，但中期往彻底失控的方向演变不是基准情形。 在这种情况下，相比单纯凭运气去“赌方向”，我们认为更可以把握的“确定性”是资产计入预期的充分程度 ，以此来帮助我们决定配置思路，并给出三个层次…",
+      "published_at": "2026-04-14T00:30:54.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "债券",
+        "商品"
+      ]
+    },
+    {
+      "id": "6acc12e42deb46900296bd7f81cecd337a521feb",
+      "title": "全球数字广告老大或将\"易主\"：Meta有望首次超越谷歌",
+      "link": "https://wallstreetcn.com/articles/3769891",
+      "summary": "数字广告市场格局正在发生历史性转变。据广告研究机构Emarketer预测，Meta Platforms今年将在净广告收入上首次超越谷歌母公司Alphabet，登顶全球最大数字广告商宝座。 4月13日，据华尔街日报消息，Emarketer预计Meta今年净广告收入将达2434.6亿美元，超过谷歌的2395.4亿美元。上述数据已扣除流量及内容获取成本，包括谷歌向创作者分成的部分。 分析指出，这一预测对市场的意义在于： 它标志着谷歌长达多年的行业霸主地位首次遭到实质性撼动，也意味着Meta的广告商业模式已从追赶者跃升为行业标杆。 报道指出，驱动这一格局转变的…",
+      "published_at": "2026-04-14T00:28:25.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
       ]
     },
     {
@@ -1472,10 +2935,76 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
+      ]
+    },
+    {
+      "id": "3ae8bc816844dc7cd5042372cdad739f34e1fc9e",
+      "title": "弱可证伪性陷阱：游戏股遭遇“黑色星期一”，为何“AI吞噬游戏”叙事下板块估值节节败退？",
+      "link": "https://wallstreetcn.com/member/articles/3769830",
+      "summary": "一、发生了什么？游戏板块遭遇“黑色星期一” 2026年4月13日，游戏板块遭遇显著回调，A股与港股市场的核心标的均呈现普跌态势。A股方面，网络游戏指数震荡下行，冰川网络跌近12%领跌，恺英网络跌停；港股方面，腾讯控股跌超3%。板块内多只个股创下近期新低，市场情绪极度低迷。 游戏板块大跌的过程中，几篇“小作文”流入市场，归纳如下： 新品表现与资金博弈：市场传言恺英网络投资的《EVE》及腾讯《王者荣耀：世界》等重磅新品上线表现不及预期，打击了投资者对后续产品周期的信心。同时，巨人网络等公司因老游戏流水波动引发资金出逃，量化资金与ETF的被动卖出进一步放大了…",
+      "published_at": "2026-04-14T00:22:21.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "股票"
+      ]
+    },
+    {
+      "id": "9a00b0208fae807193ed159a3fc6b3b4717fd597",
+      "title": "拿下甲骨文大单！“储能妖股”Bloom Energy暴涨创新高",
+      "link": "https://wallstreetcn.com/articles/3769889",
+      "summary": "周一，燃料电池企业Bloom Energy与科技巨头Oracle达成扩大版供电协议，成为AI数据中心能源军备竞赛的最新受益者。 根据协议，Oracle计划采购最高2.8吉瓦的Bloom燃料电池系统，用于支持其在美国的AI及云计算基础设施建设。 Bloom方面表示，其中初始1.2吉瓦容量已完成合同签署，部署工作正在推进，并将延续至明年。 消息公布后，Bloom Energy股价在周一盘后交易中飙升14%。Oracle股价当日表现同样强劲——正式交易时段收涨12.7%至155.62美元，位居标普500指数当日涨幅榜首，盘后进一步上涨1.2%。 扩大版协议：…",
+      "published_at": "2026-04-14T00:16:25.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "f001de97054dfea224b8f14267a4a35239d2f5f1",
+      "title": "所有人都在谈论石油，但世界真正短缺的或许是Token",
+      "link": "https://wallstreetcn.com/articles/3769886",
+      "summary": "算力短缺正成为AI繁荣时代最棘手的瓶颈。 过去几个月，随着\"智能体\"AI需求爆炸式增长，计算资源的供给已远远落后于消耗速度，从频繁宕机到价格飙升，裂缝正在这场技术热潮最脆弱的环节蔓延。 洛杉矶工程师兼科技投资人Ben Pouladian表示： 所有人都在谈论石油，但我认为世界真正短缺的是词元Token。 近期Anthropic旗下热门编程工具Claude Code频繁出现服务中断，该公司已开始在工作日高峰时段限制用户的token用量，但执行效果引发大量用户投诉。 与此同时，OpenAI为腾出算力支持新一代AI模型，选择关停旗下视频生成应用Sora。云计…",
+      "published_at": "2026-04-14T00:15:13.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "公司"
+      ]
+    },
+    {
+      "id": "3e11c5537019d21bdc9f5d67874cfe30a00a4f25",
+      "title": "9连涨！英特尔创纪录，CPU“涨价”与马斯克“期权”双重加持",
+      "link": "https://wallstreetcn.com/articles/3769888",
+      "summary": "英特尔股价正经历有史以来最强劲的连涨行情，但分析师警告，估值已趋于丰厚，进一步上行空间或受限。 周一，英特尔美股股价收涨4.52%，连续第九个交易日收红，创下有史以来最佳九连涨纪录。据道琼斯市场数据，该股在此期间累计涨幅达58.29%，过去一个月涨幅约40%。 推动此轮行情的核心驱动力， 来自服务器CPU需求回暖、产品提价，以及与马斯克旗下Terafab达成的芯片制造合作协议。 然而，瑞银分析师Timothy Arcuri在周一的研究报告中指出，英特尔股价目前对应2030年乐观情景共识预期约20倍，“意味着当前水平的上行空间已相当有限”。尽管如此，他仍…",
+      "published_at": "2026-04-13T23:59:18.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
       ]
     },
     {
@@ -1487,10 +3016,44 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
+      ]
+    },
+    {
+      "id": "126ca5a1f0f622998cc2b27851c858ae9deb3949",
+      "title": "一边封锁一边扫雷，特朗普政府究竟想干嘛",
+      "link": "https://wallstreetcn.com/articles/3769887",
+      "summary": "特朗普政府又出“奇招”了。美国总统特朗普12日称将“立即着手封锁”霍尔木兹海峡，并将开始“摧毁”伊朗在海峡布设的水雷。 作为伊朗局势的“风暴眼”，霍尔木兹海峡是伊朗对抗美国的杀手锏之一。美国现在突然打出“封锁牌”，从要求伊朗“开门”转向由美国“关门”，有何目的？为何是此时打出？一边封锁一边扫雷，又有怎样的意图？ 专家认为，在美国手中为数不多的剩余选项中，“封锁牌”或被特朗普政府视为解决霍尔木兹海峡困境的一剂“速效解药”，但这剂药方的毒性极大，而且难言“药到病除”。 “封锁牌”背后的两重目的 “我实在想不通，美国把海峡封起来，怎么能让伊朗把海峡打开？”对…",
+      "published_at": "2026-04-13T23:51:37.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "商品"
+      ]
+    },
+    {
+      "id": "5d507f9eab5926dfc7fa1908a3d207474b9736df",
+      "title": "AI如何重塑PCB行业？算力霸权、材料奇点与“电子之母”的火花四溅",
+      "link": "https://wallstreetcn.com/member/articles/3769822",
+      "summary": "我们正见证被誉为“电子工业之母”的PCB（印制电路板）行业经历一场前所未有的范式转移。如果说2024年是AI对PCB需求的“启蒙期”，那么2026年则是行业步入“深水区”的质变元年。 在英伟达（NVIDIA）GB300系列超节点方案量产、224G高速互联协议落地以及全球主权AI基础设施建设提速的共振下，PCB已不再是传统意义上的被动连接组件，而是演变成了决定算力集群能效比、信号完整性及热管理极限的核心系统级平台。 我们应该如何理解PCB产业？",
+      "published_at": "2026-04-13T23:50:04.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn",
+        "股票"
       ]
     },
     {
@@ -1502,10 +3065,78 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
+      ]
+    },
+    {
+      "id": "093c5e5eb25c4e51f9bb9750383421248b41360c",
+      "title": "英伟达否认收购PC厂商传言，戴尔惠普盘后跳水",
+      "link": "https://wallstreetcn.com/articles/3769883",
+      "summary": "英伟达否认正在洽谈收购任何PC制造商，此前一则称其寻求大型收购的传言引发戴尔和惠普股价大幅上涨。 据彭博，英伟达发言人周一表示，\"该媒体报道是虚假的，英伟达并未就收购任何PC制造商进行任何讨论。\" 此前，科技网站SemiAccurate发布报道称，英伟达正寻求收购一家大型企业，此举将\"重塑PC行业格局\"，并称双方谈判已持续逾一年。 受该传言影响，戴尔和惠普股价周一大幅攀升，其中戴尔跳涨6.7%，以189.79美元创下历史新高收盘，惠普上涨5.3%，收报19.23美元。英伟达称是虚假消息后，两家公司盘后转跌，都曾跌超3%。 传言溯源：SemiAccura…",
+      "published_at": "2026-04-13T23:20:29.000Z",
+      "source_name": "华尔街见闻最新资讯",
+      "source_type": "rss",
+      "source_url": "https://feed.wallstreetcn.com/wallstreetcn/news/global",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "news",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "95b77fb6d7ad189005386d715186469f635fcc9e",
+      "title": "华尔街见闻早餐FM-Radio | 2026年4月14日",
+      "link": "https://wallstreetcn.com/articles/3769881",
+      "summary": "华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 市场概述 美伊达成协议希望推动三大美股指盘中转涨 ，标普和道指反弹， 标普抹平美伊冲突以来跌幅 ， 纳指 涨超1%、 九连涨 ；芯片指数涨近2%，连续四个交易日收创最高纪录， 闪迪涨近12% ；介绍AI公用事业工具等AI领域能力后， 甲骨文涨近13% ；软件股反弹，Salesforce涨近5%领涨道指，微软涨超3%；股票业务收入创纪录但固收等业务营收逊色的 高盛跌近2% 。 美债价格盘中转涨、收益率高开低走。美元指数盘中转跌，六连跌，创一个多月新低； 离岸人民币 七连阳， 三年来首…",
+      "published_at": "2026-04-13T23:18:01.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "dfb0143c9e3c085a804b436bf1fe92ed202d437b",
+      "title": "美伊交涉现进展，标普收复冲突以来跌幅，人民币三年新高，油价冲高回落",
+      "link": "https://wallstreetcn.com/articles/3769784",
+      "summary": "美伊和谈虽陷僵局，但美国总统特朗普表示伊朗仍有意达成协议，提振投资者风险偏好。美股指收涨、标普收复年内全部跌幅，美债收益率冲高收跌，而油价在日内大幅震荡后回落至100美元关口下方。 （美股债油走势） 华尔街见闻提及 ， 周一亚太时段 ，美伊和谈破裂叠加特朗普宣布封锁消息，触发全面避险情绪，油价、美债收益率及美元均跳升。 据新华社，按照美国总统特朗普此前的预告，美国东部时间13日周一10时、即北京时间22时，是美军对伊朗港口“封锁令”生效的时间。进入“封锁令”生效时间后，特朗普周一在社交媒体放话称，任何靠近封锁区的伊朗快速攻击艇将“立即被消灭”。 此后，…",
+      "published_at": "2026-04-13T23:00:25.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn",
+        "债券",
+        "商品",
+        "股票"
+      ]
+    },
+    {
+      "id": "f2777d3195ca76546fca659203e26f591e88eddb",
+      "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+      "link": "https://wallstreetcn.com/articles/3769872",
+      "summary": "美伊上周末谈判破裂后，双方对峙骤然升级。随着美国对伊朗港口及霍尔木兹海峡的“封锁令”正式生效，这场围绕核问题的博弈已从谈判桌延伸至关乎全球能源命脉的海上要道。 据新华社，按照美国总统特朗普此前的预告，美国东部时间13日周一10时、即北京时间22时，是美军对伊朗港口“封锁令”生效的时间。进入“封锁令”生效时间后，特朗普周一在社交媒体放话称，任何靠近封锁区的伊朗快速攻击艇将“立即被消灭”。 此后，周一美股午盘时段，据新华社，特朗普在白宫对媒体称，美方当天早上接到来自伊朗“合适的人”的电话，对方表示希望达成协议。据报道，特朗普断言，“伊朗将不会拥有核武器”，…",
+      "published_at": "2026-04-13T19:54:58.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn",
+        "债券"
       ]
     },
     {
@@ -1517,25 +3148,10 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
-      ]
-    },
-    {
-      "id": "d3eb3364e40a8948254bb2d71f6935d9dffcbf7a",
-      "title": "大疆 Osmo Pocket 4 Pro 手持云台相机谍照曝光，双摄设计",
-      "link": "https://www.ithome.com/0/938/743.htm",
-      "summary": "感谢IT之家网友 BIOS 的线索投递！ IT之家 4 月 13 日消息，消息人士 Igor Bogdanov 今天在 X 平台发文，放出大疆 Osmo Pocket 4 Pro 手持云台相机的谍照。 从照片中可以看到，Osmo Pocket 4 Pro 的云台模组体积较大， 采用双摄设计 ，有望重点强化变焦性能。底部的屏幕则是与现有 Pocket 产品线没有太大差别。 不过需要注意的是，我们目前还不清楚这款相机的具体配置、发布时间。 据IT之家此前报道 ，大疆 Osmo Pocket 4 系列运动相机将于 4 月 16 日 20:00 发布，产品主打…",
-      "published_at": "2026-04-13T15:17:40.000Z",
-      "source_name": "IT之家 24h",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "it"
       ]
     },
     {
@@ -1547,10 +3163,26 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
+      ]
+    },
+    {
+      "id": "4bb23e526a03590b9cbbcdc0f7c6530928793efa",
+      "title": "谈判尚未完全关闭？三国力促美伊重启谈判，巴基斯坦防长：新一轮谈判将很快开始",
+      "link": "https://wallstreetcn.com/articles/3769854",
+      "summary": "尽管美伊上周末谈判未果，各方调停人仍在积极推动重启对话。 4月13日，据新华社援引Axios报道，巴基斯坦、埃及和土耳其将在未来几天继续与美国和伊朗进行会谈，以弥合分歧，推动达成结束战争的协议 。各方仍相信协议有望达成。 报道援引地区消息人士的话说:“门还没有关上。双方都在讨价还价。 据央视新闻，巴基斯坦国防部长阿西夫在接受采访时说， 美伊重启谈判的前景依然存在，新一轮谈判将很快开始。 与此同时，局势进一步趋紧。谈判宣告破裂后，美国总统特朗普 宣布将封锁霍尔木兹海峡 。据Axios援引消息人士，如果美国的海上封锁未能迫使伊朗改变路线，特朗普 正进一步考…",
+      "published_at": "2026-04-13T14:16:21.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
       ]
     },
     {
@@ -1562,7 +3194,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1577,7 +3209,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1592,11 +3224,43 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
         "推广"
+      ]
+    },
+    {
+      "id": "acf077e0dbd0b7ed6fbfa5ec9313bbe93ee883a7",
+      "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
+      "link": "https://wallstreetcn.com/articles/3769843",
+      "summary": "以总理：与伊朗的停火可能很快结束 以色列12频道电视台13日报道，以总理内塔尼亚胡说， 与伊朗的停火可能很快结束。 来源： 新华社 美军：将封锁霍尔木兹海峡 未经授权船只不允许通过 据路透社13日报道，美国军方发布消息称， 将在阿曼湾和霍尔木兹海峡以东的阿拉伯海实施封锁，任何未经授权进入或离开封锁区域的船只都可能被拦截、改道和扣押。 来源： 新华社 伊朗代理防长：伊武装力量处于最高级别戒备状态 新华社德黑兰4月13日电 据伊朗塔斯尼姆通讯社13日报道，伊朗代理国防部长伊本·礼萨表示，伊朗武装力量目前处于最高级别戒备状态，已为各种可能性做好充分准备。 他…",
+      "published_at": "2026-04-13T13:21:52.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
+      ]
+    },
+    {
+      "id": "0ffcbf624be3daa69ef9a3ec525f63da98ac187b",
+      "title": "段永平确认买入泡泡玛特，“很久没有这种兴奋感了”",
+      "link": "https://wallstreetcn.com/articles/3769853",
+      "summary": "近日，知名投资人段永平频频提起泡泡玛特并公开表示“我的泡泡玛特保险公司正式开张了”。这表明段永平已经开始买入泡泡玛特，通过卖出看跌期权的方式开始布局，若股价不跌穿行权价，可以赚取权利金；若下跌，则可以用更低成本建仓。 段永平表示，泡泡玛特这期财报的盈利激发了自己的好奇心，连续花了好几天去理解这家公司，直言“ 很久没有这种兴奋感了 ”。 段永平确认买入 “看到泡泡玛特这期财报后才真的认真研究了一下公司，以前只是零星地看到一些王宁（泡泡玛特创始人）的只言片语和一些短视频。”段永平表示，以前对王宁的印象就很好，但一直觉得这个生意离自己太远，不容易理解，不知道…",
+      "published_at": "2026-04-13T13:20:43.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
       ]
     },
     {
@@ -1608,7 +3272,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1623,7 +3287,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1638,11 +3302,27 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
         "职场话题"
+      ]
+    },
+    {
+      "id": "8e5f8ba457a2351814ea92385066573d0a54d172",
+      "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+      "link": "https://wallstreetcn.com/articles/3769838",
+      "summary": "一不小心，查理芒格和巴菲特就被炼化，个个加入投资Agent军团，人人可用了。 这就是最近Github最热的项目之一 AI Hedge Fund。 12位世界级投资大佬，现在随时在线帮你分析股票、完善你的交易策略；6位分析师汇总观点，最终拍板，下单。 这支由传奇投资人“炼化”的Agent军团不光能实时分析，还内置了 回测模块。 可以让先拿历史数据把策略跑一遍，再决定要不要上真钱。 相当全面。 在部署上， 项目 门槛也很低，兼容OpenAI、Anthropic、Groq、DeepSeek等13种大模型，本地跑也没问题。 目前，这个由独立开发者 Virat…",
+      "published_at": "2026-04-13T11:09:03.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
       ]
     },
     {
@@ -1654,7 +3334,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1669,10 +3349,26 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
+      ]
+    },
+    {
+      "id": "5a69ef2062667ea2d804c937fdd378bd1151068c",
+      "title": "中国3月新增社融5.23万亿元，新增人民币贷款2.99万亿元，M2同比增长8.5%",
+      "link": "https://wallstreetcn.com/articles/3769832",
+      "summary": "中国人民银行13日发布的金融统计数据报告显示，3月金融数据显示社会融资条件延续宽松态势。 3月末社会融资规模存量同比增长7.9%，广义货币（M2）同比增长8.5%。今年以来央行综合运用公开市场操作、买卖国债、中期借贷便利等多种工具， 保持流动性充裕，充分体现了适度宽松货币政策的取向。 信贷投放方面，一季度人民币贷款增加8.6万亿元，推算3月单月新增约2.99万亿元，较1-2月月均水平明显回升。从结构看， 住户中长期贷款较前两月月均水平显著改善 。与此同时， 企业中长期贷款保持较强韧性，重大项目配套融资需求持续释放。 根据中国人民银行13日发布的金融数据…",
+      "published_at": "2026-04-13T10:25:40.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
       ]
     },
     {
@@ -1684,7 +3380,7 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
@@ -1700,10 +3396,26 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
+      ]
+    },
+    {
+      "id": "912362c86c206bbb96c30fc55475e791ba17ff65",
+      "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+      "link": "https://wallstreetcn.com/articles/3769823",
+      "summary": "特朗普宣布对伊朗实施封锁，将霍尔木兹海峡推入新一轮动荡。一个愈发引人关注的问题正在市场上蔓延：这究竟是战略意外，还是蓄谋已久的棋局？ 据CCTV国际时讯，当地时间4月12日晚，特朗普在抵达安德鲁斯基地后对媒体宣布，美军将于东部时间4月13日上午10点对伊朗实施封锁，并称多国正配合行动，令伊朗无法出售石油。特朗普声称已有大量油轮正驶向美国，装载石油后运往全球，\"这些船甚至都不需要通过霍尔木兹海峡\"。国际油价随即急涨逾7%，WTI原油突破每桶103美元。 这一表态与美国出口数据形成高度呼应。据油气研究机构Kpler估计，美国4月原油出口量将较3月的390万…",
+      "published_at": "2026-04-13T09:03:14.000Z",
+      "source_name": "华尔街见闻最热",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/wallstreetcn/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "finance",
+        "hotlist",
+        "wallstreetcn"
       ]
     },
     {
@@ -1715,7 +3427,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1730,7 +3442,7 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
@@ -1746,7 +3458,7 @@
       "source_name": "IT之家 24h",
       "source_type": "rss",
       "source_url": "http://localhost:1200/ithome/ranking/24h",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "it"
@@ -1761,7 +3473,7 @@
       "source_name": "V2EX 最热",
       "source_type": "rss",
       "source_url": "http://localhost:1200/v2ex/topics/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "community",
         "developer",
@@ -1777,10 +3489,25 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
+      ]
+    },
+    {
+      "id": "39a829001221552fd521cdcd3866a247df577c3a",
+      "title": "对于普通人而言，读书最大的意义是什么？",
+      "link": "https://www.zhihu.com/question/2026978680459509786",
+      "summary": "很想知道读书真的能改变一个人的性格、心态，进而改变人生吗，上了很多年的学，并没有觉得自己有太大的变化，好像仅仅是变得更悲观了，所以读书最大的意义是什么，给我们带来了什么？",
+      "published_at": "2026-04-13T03:02:56.000Z",
+      "source_name": "知乎热榜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/zhihu/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "zhihu"
       ]
     },
     {
@@ -1792,7 +3519,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -1807,10 +3534,25 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
+      ]
+    },
+    {
+      "id": "46b6b875b834daf973eee38afb6f0451d9edd0ef",
+      "title": "如今的招聘市场，蓝领招工难与白领内卷同时存在，为啥会产生这种矛盾？这种问题该如何破局？",
+      "link": "https://www.zhihu.com/question/2026961142266741390",
+      "summary": "结构性矛盾是当前中国人力资源市场的突出问题，具体怎样体现？近日由中国社会科学院人口与劳动经济研究所与智联招聘联合发布的《2025年人力资源市场趋势分析报告》，通过量化方式分析了这一现象。 其总结，这主要表现为三方面：一是新兴产业人才供给短缺，与部分传统行业、基础性岗位劳动力供给过剩或意愿不足并存。二是经济发达地区人才过度集聚与竞争内卷，与发展中地区人才荒与创新乏力并存。三是青年求职者扎堆竞争，与实体经济大量技术技能岗位招工难并存。稳就业｜平均每个职位收59份简历，全国招聘市场现“冰火两重天”",
+      "published_at": "2026-04-13T01:53:15.000Z",
+      "source_name": "知乎热榜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/zhihu/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "zhihu"
       ]
     },
     {
@@ -1822,7 +3564,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1837,25 +3579,10 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
-      ]
-    },
-    {
-      "id": "285daa5b0e09daaa42bca164bd768c0949b8d147",
-      "title": "伊朗官员称在谈判中抵制了美方三大「无理要求」，如何理解这些内容？反映出美方怎样的意图？",
-      "link": "https://www.zhihu.com/question/2026930324387489059",
-      "summary": "当地时间4月12日，参与美伊在伊斯兰堡谈判的伊朗伊斯兰议会国家安全委员会副主席纳巴维安在社交平台发文称，在谈判过程中，美伊存在三项重大的原则性分歧：美方要求与伊朗在霍尔木兹海峡的收益与管理中“利益均分”；美方要求伊朗将所有丰度为60%的浓缩铀全部运出境外；美方要求剥夺伊朗在未来20年内的所有铀浓缩权利。 纳巴维安强调称，伊朗代表团坚定不移地捍卫了国家利益，“抵制了上述无理要求”。（总台记者 李健南 王政）伊朗官员称在谈判中抵制了美方三大“无理要求”",
-      "published_at": "2026-04-12T23:50:47.000Z",
-      "source_name": "知乎热榜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "zhihu"
       ]
     },
     {
@@ -1867,7 +3594,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1882,7 +3609,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1897,7 +3624,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1912,7 +3639,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1927,22 +3654,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "zhihu"
-      ]
-    },
-    {
-      "id": "31ef900f1c54857721a6cbb3927689ad08ae78d9",
-      "title": "如何看待近期由李昀锐、黄杨钿甜主演的《冰湖重生》(楚乔传2)？",
-      "link": "https://www.zhihu.com/question/2026384733739709820",
-      "summary": "2017年由赵丽颖、林更新、窦骁、李沁领衔主演的《楚乔传》，一经播出就成为现象级爆剧，该电视剧改编自潇湘冬儿的小说《11处特工皇妃》。",
-      "published_at": "2026-04-11T11:42:48.000Z",
-      "source_name": "知乎热榜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1957,7 +3669,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -1972,7 +3684,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -1987,7 +3699,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2002,7 +3714,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2017,7 +3729,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2032,7 +3744,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2047,7 +3759,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2062,7 +3774,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2077,7 +3789,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2092,7 +3804,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2107,7 +3819,22 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "productivity"
+      ]
+    },
+    {
+      "id": "0f069991fe99fcfb8d18dbc274cb9d4d7517cacf",
+      "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+      "link": "https://sspai.com/post/108005",
+      "summary": "我关注并评测 Matter 产品已有数年，尽管大部分内容是面向海外读者的，但在日常使用中，我最深切的苦恼却是：在国内市场很难找到符合国标需求且好用的原生 Matter 设备。 最近由于搬家计划，我开始盘点新居所需的智能设备，并筛选哪些环节目前还无法用原生支持 Matter 的版本（而非网关桥接方案）来替代。作为「在国内折腾 Matter」系列文章的开篇，我想聊聊目前在国内搭 Matter 全屋智能的痛点与出路。 第一道坎：基础品类的「至暗时刻」 智能家居的大头还是在基础的开关和照明上，当然我还喜欢做能耗管理，所以智能墙插也算在内吧，毕竟都是通断器。然而…",
+      "published_at": "2026-04-09T05:25:25.000Z",
+      "source_name": "少数派 Matrix",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/sspai/matrix",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2122,7 +3849,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2137,25 +3864,10 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
-      ]
-    },
-    {
-      "id": "e3374c287d2fdaf9a9644815016079ac5407db52",
-      "title": "很多父母总喜欢对孩子说：「我数三个数，你要……」，三个数数完，你会怎么做呢？",
-      "link": "https://www.zhihu.com/question/2025127337449066652",
-      "summary": "「我数三个数，你要把东西收拾整齐。」 「我数三个数，你要把剩下的饭吃完。」 … 三个数数完，如果孩子没有达到你的要求，你会怎么做？",
-      "published_at": "2026-04-08T00:26:22.000Z",
-      "source_name": "知乎热榜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "zhihu"
       ]
     },
     {
@@ -2167,7 +3879,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2182,7 +3894,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2197,7 +3909,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2212,7 +3924,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2227,7 +3939,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2242,7 +3954,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2257,7 +3969,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2272,7 +3984,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2287,25 +3999,10 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
-      ]
-    },
-    {
-      "id": "2927e7de3bb758774fd8a24e52cb52e735d26cb1",
-      "title": "我做了一个 Chrome 插件，帮你看清网站在悄悄做什么",
-      "link": "https://sspai.com/post/108004",
-      "summary": "利益相关声明 ：本文是自我宣传内容，我是文中提到的 Iris 扩展的独立开发者。 AI 使用说明 ：写作过程中使用了 Claude 辅助整理部分表达，所有内容均为本人亲历、亲写，技术细节经过实际测试核实。 大概是几个月前，我在逛一个海外科技论坛时看到一个帖子，有人分享了一张截图：他用 Chrome 开发者工具的 Network 面板打开了某个新闻网站，结果发现页面加载时发出了 47 个请求，其中只有 3 个是真正和新闻内容有关的，其余 44 个都是广告系统、用户追踪、数据分析服务。 我看到那张截图之后，放下手机想了很久。 不是因为震惊——这种事我大概知…",
-      "published_at": "2026-03-31T07:21:50.000Z",
-      "source_name": "少数派 Matrix",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "productivity"
       ]
     },
     {
@@ -2317,7 +4014,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2332,7 +4029,7 @@
       "source_name": "少数派 Matrix",
       "source_type": "rss",
       "source_url": "http://localhost:1200/sspai/matrix",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "productivity"
@@ -2347,7 +4044,22 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "zhihu"
+      ]
+    },
+    {
+      "id": "6403019dce4c38f47dd2ede120c3b21ff0ca4918",
+      "title": "都说“不吃学习的苦，就得吃生活的苦”，那博士和教授们吃饱了学习的苦，还要吃生活的苦，这又该怎么解释？",
+      "link": "https://www.zhihu.com/question/2020549111682705093",
+      "summary": "都说“不吃学习的苦，就得吃生活的苦”，那博士和教授们吃饱了学习的苦，还要吃生活的苦，这又该怎么解释？",
+      "published_at": "2026-03-26T09:14:08.000Z",
+      "source_name": "知乎热榜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/zhihu/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2362,7 +4074,22 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
+      "tags": [
+        "hotlist",
+        "zhihu"
+      ]
+    },
+    {
+      "id": "b7185abde79fc427bf27d9cd48233dd9b5f728d3",
+      "title": "曹操为什么敢打袁绍？双方实力差距明明那么大?",
+      "link": "https://www.zhihu.com/question/655109951",
+      "summary": "曹操官渡之战和袁绍实力差距那么大，曹操为什么有信心会赢，怎么稳定的军心，让手下人也觉得他会赢，不临阵脱逃。",
+      "published_at": "2024-05-06T03:37:49.000Z",
+      "source_name": "知乎热榜",
+      "source_type": "rss",
+      "source_url": "http://localhost:1200/zhihu/hot",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2377,22 +4104,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
-      "tags": [
-        "hotlist",
-        "zhihu"
-      ]
-    },
-    {
-      "id": "353f8a4bd3633ab2106bf4af04412464e35fe894",
-      "title": "有哪些电影当时上映反响平平、票房不佳，时隔多年以后却被奉为经典？",
-      "link": "https://www.zhihu.com/question/293136489",
-      "summary": "本题已加入知乎圆桌 »「不推荐」电影特刊，更多「影片」讨论欢迎关注。 更多优秀电影推荐传送门»十大被「低估」的电影 举个例子 星爷的《大话西游》，当初上映反响不如预期，结果多年后在内地引起轰动，里面的台词更成为经典的爱情宣言； 徐克的《蜀山传》当初反映也是反响平平，结果放到现在看，故事内容和特技效果可以秒杀现在一片同类型的电影 等等吧 欢迎大家踊跃补充 …",
-      "published_at": "2018-09-02T14:38:14.000Z",
-      "source_name": "知乎热榜",
-      "source_type": "rss",
-      "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2407,7 +4119,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
@@ -2422,7 +4134,7 @@
       "source_name": "知乎热榜",
       "source_type": "rss",
       "source_url": "http://localhost:1200/zhihu/hot",
-      "fetched_at": "2026-04-14T05:54:39.200Z",
+      "fetched_at": "2026-04-14T06:28:35.107Z",
       "tags": [
         "hotlist",
         "zhihu"
