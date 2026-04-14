@@ -57,6 +57,8 @@ The default build reads:
 - `feeds/feeds.opml`
 - `feeds/extras.json`
 
+`feeds/feeds.opml` now also includes a dedicated `Hot Lists (RSSHub)` folder for social and product hot lists that do not have stable first-party RSS feeds.
+
 And writes:
 
 - `dist/index.html`
@@ -137,6 +139,28 @@ RSS and Atom remain the default source path. Non-RSS sources should be added as 
 - `url`
 
 The local skill should never read these config files directly.
+
+## Hot-List Sources
+
+The default OPML now includes a small RSSHub-backed hot-list bundle for the current wrap-up phase:
+
+- Weibo
+- Baidu
+- Zhihu
+- 36Kr
+- Bilibili
+- IT Home
+- SSPAI
+- The Paper
+- Toutiao
+- Baidu Tieba
+- Juejin
+- Tencent News
+- Readhub
+
+These entries intentionally prefer routes that can usually run without cookies or Puppeteer. Routes that often need stronger config on self-hosted RSSHub, such as direct Weibo hot search, direct Zhihu hot list, GitHub Trending with `GITHUB_ACCESS_TOKEN`, or Tophub with `TOPHUB_COOKIE`, are not enabled by default in `feeds.opml`.
+
+If you self-host RSSHub later, you can keep the same route paths and replace the `https://rsshub.app` base with your own instance domain.
 
 ## Logging
 
