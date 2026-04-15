@@ -760,22 +760,30 @@
       </div>
     </header>
 
-    <section class="report-band" id="ai-report-section" hidden>
+    <section class="report-band" id="ai-report-brief-section" hidden>
       <div class="report-band-inner">
         <div>
           <h2 class="report-band-title">AI 摘要</h2>
           <p class="report-band-brief" id="ai-report-brief"></p>
         </div>
-        <div class="report-band-columns">
-          <section class="report-band-group" id="ai-report-facts-group" hidden>
-            <h3 class="report-band-group-title">重要事实</h3>
-            <div class="report-band-list" id="ai-report-facts"></div>
-          </section>
-          <section class="report-band-group" id="ai-report-opinions-group" hidden>
-            <h3 class="report-band-group-title">关键观点</h3>
-            <div class="report-band-list" id="ai-report-opinions"></div>
-          </section>
-        </div>
+      </div>
+    </section>
+
+    <section class="report-band" id="ai-report-facts-section" hidden>
+      <div class="report-band-inner">
+        <section class="report-band-group">
+          <h3 class="report-band-group-title">重要事实</h3>
+          <div class="report-band-list" id="ai-report-facts"></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="report-band" id="ai-report-opinions-section" hidden>
+      <div class="report-band-inner">
+        <section class="report-band-group">
+          <h3 class="report-band-group-title">关键观点</h3>
+          <div class="report-band-list" id="ai-report-opinions"></div>
+        </section>
       </div>
     </section>
 
@@ -822,11 +830,11 @@
       const themeIcon = document.getElementById("theme-icon");
       const brandSubtitle = document.getElementById("brand-subtitle");
       const feedSection = document.querySelector(".feed");
-      const aiReportSection = document.getElementById("ai-report-section");
+      const aiReportBriefSection = document.getElementById("ai-report-brief-section");
       const aiReportBrief = document.getElementById("ai-report-brief");
-      const aiReportFactsGroup = document.getElementById("ai-report-facts-group");
+      const aiReportFactsSection = document.getElementById("ai-report-facts-section");
       const aiReportFacts = document.getElementById("ai-report-facts");
-      const aiReportOpinionsGroup = document.getElementById("ai-report-opinions-group");
+      const aiReportOpinionsSection = document.getElementById("ai-report-opinions-section");
       const aiReportOpinions = document.getElementById("ai-report-opinions");
 
       function escapeHtml(value) {
@@ -858,6 +866,188 @@
           hour: "2-digit",
           minute: "2-digit"
         }).format(date);
+      }
+
+      function sanitizeSourceName(value) {
+        return String(value || "")
+          .replace(/\s+/g, " ")
+          .trim()
+          .replace(/\s*[（(](playwright|opencli|puppeteer|browser)[）)]\s*$/i, "")
+          .trim();
+      }
+
+      function buildTextUnits(value) {
+        const normalized = String(value || "")
+          .toLowerCase()
+          .replace(/\s+/g, " ")
+          .trim();
+        if (!normalized) {
+          return [];
+        }
+
+        const units = new Set();
+        for (const token of normalized.match(/[a-z0-9]+/g) || []) {
+          if (token.length > 1) {
+            units.add(token);
+          }
+        }
+
+        const cjkText = (normalized.match(/[\u4e00-\u9fff]/g) || []).join("");
+        if (cjkText.length === 1) {
+          units.add(cjkText);
+        } else {
+          for (let index = 0; index < cjkText.length - 1; index += 1) {
+            units.add(cjkText.slice(index, index + 2));
+          }
+        }
+
+        return [...units];
+      }
+
+      function entrySimilarity(left, right) {
+        const leftUnits = new Set(buildTextUnits(`${left.title || ""} ${left.summary || ""}`));
+        const rightUnits = new Set(buildTextUnits(`${right.title || ""} ${right.summary || ""}`));
+        if (!leftUnits.size || !rightUnits.size) {
+          return 0;
+        }
+
+        let intersection = 0;
+        for (const unit of leftUnits) {
+          if (rightUnits.has(unit)) {
+            intersection += 1;
+          }
+        }
+
+        const union = new Set([...leftUnits, ...rightUnits]).size;
+        return union ? intersection / union : 0;
+      }
+
+      function entriesOverlap(left, right) {
+        const leftIds = new Set(Array.isArray(left.article_ids) ? left.article_ids.filter(Boolean) : []);
+        const rightIds = new Set(Array.isArray(right.article_ids) ? right.article_ids.filter(Boolean) : []);
+        const leftTitle = String(left.title || "").trim().toLowerCase();
+        const rightTitle = String(right.title || "").trim().toLowerCase();
+
+        if (leftIds.size && rightIds.size && leftIds.size === rightIds.size) {
+          let sameIds = true;
+          for (const articleId of leftIds) {
+            if (!rightIds.has(articleId)) {
+              sameIds = false;
+              break;
+            }
+          }
+          if (sameIds) {
+            return true;
+          }
+        }
+
+        if (leftTitle && rightTitle && (leftTitle.includes(rightTitle) || rightTitle.includes(leftTitle))) {
+          return true;
+        }
+
+        if (leftIds.size && rightIds.size) {
+          let overlapCount = 0;
+          for (const articleId of leftIds) {
+            if (rightIds.has(articleId)) {
+              overlapCount += 1;
+            }
+          }
+          if (overlapCount > 0 && entrySimilarity(left, right) >= 0.24) {
+            return true;
+          }
+        }
+
+        return false;
+      }
+
+      function normalizeReportEntry(item) {
+        if (!item || typeof item !== "object") {
+          return null;
+        }
+
+        const title = String(item.title || "")
+          .replace(/\s+/g, " ")
+          .trim();
+        const summary = String(item.summary || item.title || "")
+          .replace(/\s+/g, " ")
+          .trim();
+
+        if (!title || !summary) {
+          return null;
+        }
+
+        return {
+          title,
+          summary,
+          score: Number(item.score || 0),
+          article_ids: Array.isArray(item.article_ids) ? item.article_ids.map((value) => String(value || "")).filter(Boolean) : [],
+          references: Array.isArray(item.references)
+            ? item.references
+                .filter((reference) => reference && typeof reference === "object")
+                .map((reference) => ({
+                  ...reference,
+                  source_name: sanitizeSourceName(reference.source_name || "")
+                }))
+            : []
+        };
+      }
+
+      function dedupeReportEntries(items) {
+        const deduped = [];
+        for (const item of items) {
+          const normalized = normalizeReportEntry(item);
+          if (!normalized) {
+            continue;
+          }
+          if (deduped.some((existing) => entriesOverlap(existing, normalized))) {
+            continue;
+          }
+          deduped.push(normalized);
+        }
+        return deduped.slice(0, 6);
+      }
+
+      function filterRedundantOpinions(facts, opinions) {
+        const kept = [];
+        const factArticleIds = facts.map((fact) => new Set(Array.isArray(fact.article_ids) ? fact.article_ids : []));
+
+        for (const opinion of opinions) {
+          const opinionIds = new Set(Array.isArray(opinion.article_ids) ? opinion.article_ids : []);
+          if (opinionIds.size === 1 && factArticleIds.some((factIds) => [...opinionIds].some((id) => factIds.has(id)))) {
+            continue;
+          }
+
+          if (facts.some((fact) => entriesOverlap(fact, opinion))) {
+            continue;
+          }
+
+          if (kept.some((existing) => entriesOverlap(existing, opinion))) {
+            continue;
+          }
+
+          kept.push(opinion);
+        }
+
+        return kept.slice(0, 6);
+      }
+
+      function prepareAiReport(report) {
+        if (!report || typeof report !== "object") {
+          return null;
+        }
+
+        const facts = dedupeReportEntries(Array.isArray(report.highlight_facts) ? report.highlight_facts : []);
+        const opinions = filterRedundantOpinions(
+          facts,
+          dedupeReportEntries(Array.isArray(report.highlight_opinions) ? report.highlight_opinions : [])
+        );
+
+        return {
+          ...report,
+          global_brief: String(report.global_brief || "").replace(/\s+/g, " ").trim(),
+          highlight_facts: facts,
+          highlight_opinions: opinions
+        };
       }
 
       function getDomain(value) {
@@ -898,11 +1088,12 @@
         const query = state.query.trim().toLowerCase();
 
         return state.articles.filter((article) => {
-          const matchesSource = state.sourceFilter === "全部" || article.source_name === state.sourceFilter;
+          const sourceName = sanitizeSourceName(article.source_name || "");
+          const matchesSource = state.sourceFilter === "全部" || sourceName === state.sourceFilter;
           const matchesQuery =
             !query ||
             article.title.toLowerCase().includes(query) ||
-            article.source_name.toLowerCase().includes(query);
+            sourceName.toLowerCase().includes(query);
 
           return matchesSource && matchesQuery;
         });
@@ -919,7 +1110,7 @@
               .slice(0, 4)
               .map((reference) => `
                 <a class="report-band-ref" href="${escapeHtml(reference.link || "#")}" target="_blank" rel="noreferrer">
-                  <span>${escapeHtml(reference.source_name || "")}</span>
+                  <span>${escapeHtml(sanitizeSourceName(reference.source_name || ""))}</span>
                 </a>
               `)
               .join("")}
@@ -941,7 +1132,7 @@
       }
 
       function renderAiReport() {
-        if (!aiReportSection || !aiReportBrief || !aiReportFacts || !aiReportOpinions) {
+        if (!aiReportBriefSection || !aiReportBrief || !aiReportFactsSection || !aiReportFacts || !aiReportOpinionsSection || !aiReportOpinions) {
           return;
         }
 
@@ -950,19 +1141,10 @@
         const facts = Array.isArray(report && report.highlight_facts) ? report.highlight_facts : [];
         const opinions = Array.isArray(report && report.highlight_opinions) ? report.highlight_opinions : [];
 
-        if (!hasBrief && !facts.length && !opinions.length) {
-          aiReportSection.hidden = true;
-          aiReportBrief.textContent = "";
-          aiReportFacts.innerHTML = "";
-          aiReportOpinions.innerHTML = "";
-          return;
-        }
-
-        aiReportSection.hidden = false;
-        aiReportBrief.textContent = report.global_brief || "";
-
-        aiReportFactsGroup.hidden = facts.length === 0;
-        aiReportOpinionsGroup.hidden = opinions.length === 0;
+        aiReportBriefSection.hidden = !hasBrief;
+        aiReportFactsSection.hidden = facts.length === 0;
+        aiReportOpinionsSection.hidden = opinions.length === 0;
+        aiReportBrief.textContent = report && report.global_brief ? report.global_brief : "";
         aiReportFacts.innerHTML = renderReportItems(facts);
         aiReportOpinions.innerHTML = renderReportItems(opinions);
       }
@@ -1004,7 +1186,8 @@
         const counts = new Map();
 
         for (const article of state.articles) {
-          counts.set(article.source_name, (counts.get(article.source_name) || 0) + 1);
+          const sourceName = sanitizeSourceName(article.source_name || "");
+          counts.set(sourceName, (counts.get(sourceName) || 0) + 1);
         }
 
         const filterNames = [
@@ -1053,7 +1236,7 @@
                         <a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a>
                       </p>
                       <div class="meta">
-                        <span class="badge">${escapeHtml(article.source_name)}</span>
+                        <span class="badge">${escapeHtml(sanitizeSourceName(article.source_name || ""))}</span>
                         <span>${escapeHtml(formatDate(article.published_at))}</span>
                         ${domain ? `<span class="domain">${escapeHtml(domain)}</span>` : ""}
                       </div>
@@ -1103,7 +1286,7 @@
           });
 
           state.articles = articles;
-          state.aiReport = aiReport && typeof aiReport === "object" ? aiReport : null;
+          state.aiReport = prepareAiReport(aiReport);
           state.generatedAt = meta && meta.generated_at ? meta.generated_at : "";
           if (brandSubtitle) {
             brandSubtitle.textContent = `定时从 ${formatNumber(meta && meta.source_total ? meta.source_total : 0)} 个信源抓取最新资讯，目前专注于AI`;
