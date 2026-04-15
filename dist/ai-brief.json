@@ -1,97 +1,167 @@
 {
-  "dataset_id": "2026-04-15T01:11:29.436Z",
-  "generated_at": "2026-04-15T01:11:29.436Z",
+  "dataset_id": "2026-04-15T04:42:55.729Z",
+  "generated_at": "2026-04-15T04:42:55.729Z",
+  "relevance_version": "rules-v1",
+  "topic_engine_version": "rules-v1",
+  "summary_engine_version": "rules-v1",
+  "summary_provider": "openai",
   "topic_count": 5,
   "topics": [
     {
       "topic_id": "5b4a4e3c08237fd4201bf4d7b2c1d585c3c8079c",
       "title": "LLM Research",
-      "summary": "过去24小时内，围绕 LLM Research 的内容共有 357 篇，来自 14 个来源。重点包括：QA: expand Matrix config scenario coverage；Authorization for LLM Tool Schemas: Formal Model with Noninterference Guarantees [pdf]；A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, a…",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "article_count": 357,
-      "source_count": 14,
+      "summary": "该材料聚焦于大语言模型（LLM）研究，涵盖本地部署、实际应用和模型优化等方面，包括 Firefox 侧边栏本地 LLM、Terraform 辅助工具以及抗遗忘指令调优等主题。",
+      "why_it_matters": "这些研究展示了 LLM 在多样化场景中的实际应用潜力，如提升开发效率和解决模型学习新知识时的遗忘问题，对推动 AI 技术落地和模型性能改进具有重要意义。",
+      "article_count": 200,
+      "source_count": 13,
       "top_article": {
-        "id": "bc71b9c6e73b71539de86be90888cee07f1104a1",
-        "title": "QA: expand Matrix config scenario coverage",
-        "link": "https://github.com/openclaw/openclaw/commit/9463f1c498bdb5b8810b638037a93670cebcfb2a",
-        "summary": "QA: expand Matrix config scenario coverage",
-        "source_name": "OpenClaw Commits",
-        "published_at": "2026-04-15T01:07:31.000Z",
-        "ai_label": "ai_candidate",
-        "ai_score": 5
-      }
+        "id": "b67b023c4728368cf9c56a7e1cbb3202a8bf0454",
+        "title": "Show HN: Firefox Sidebar Local LLM",
+        "link": "https://github.com/skorotkiewicz/firefox-ai",
+        "summary": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
+        "source_name": "Hacker News LLM",
+        "published_at": "2026-04-15T04:26:08.000Z",
+        "ai_label": "ai_deep",
+        "ai_score": 11
+      },
+      "key_points": [
+        "本地 LLM 部署工具如 Firefox 侧边栏扩展，支持离线使用和隐私保护。",
+        "LLM 在 Terraform 等开发工具中提供实际帮助，例如解决配置不一致问题。",
+        "研究关注模型优化技术，如抗遗忘指令调优和扩散模型的自校正方法。"
+      ],
+      "source_links": [
+        "https://github.com/skorotkiewicz/firefox-ai",
+        "https://dev.to/polarsquad/working-with-terraform-where-llms-actually-help-2a4p",
+        "https://arxiv.org/abs/2505.15467",
+        "https://arxiv.org/abs/2511.19820",
+        "https://arxiv.org/abs/2604.12617"
+      ],
+      "summary_provider": "openai"
     },
     {
       "topic_id": "cc7dc957a13d6a67d8fb93e817abacc558326ebc",
       "title": "AI Agents / MCP",
-      "summary": "过去24小时内，围绕 AI Agents / MCP 的内容共有 103 篇，来自 11 个来源。重点包括：Show HN: An edge MCP file system with a 50ms undo button for AI agents；ci(tests): split agentic node shard into three lanes；Show HN: I built a self-improving autonomous AI agent that runs 24/7。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "article_count": 103,
+      "summary": "该主题聚焦于AI代理和MCP（可能指模型控制协议），涉及多篇学术文章，探讨了AI代理在社交推理游戏、记忆增强系统、语音识别和变分语言模型中的应用与挑战。",
+      "why_it_matters": "这些研究有助于提升AI代理的交互能力和任务处理效率，对推动人工智能向更智能、自主的方向发展具有重要意义。",
+      "article_count": 67,
       "source_count": 11,
       "top_article": {
-        "id": "fb720e7b90b6a3b550aa48db5aa64d1aea6f5c52",
-        "title": "Show HN: An edge MCP file system with a 50ms undo button for AI agents",
-        "link": "https://mcp.undisk.app",
-        "summary": "You can watch an agent destroy a file and instantly revert it in an interactive browser terminal here (no signup): https://mcp.undisk.app/e2b Comments URL: https://news.ycombinato…",
-        "source_name": "Hacker News AI",
-        "published_at": "2026-04-15T01:05:30.000Z",
-        "ai_label": "ai_deep",
-        "ai_score": 9
-      }
-    },
-    {
-      "topic_id": "7cb775c73a6ab9fd232591bf06b107cf08157adc",
-      "title": "Multimodal",
-      "summary": "过去24小时内，围绕 Multimodal 的内容共有 92 篇，来自 4 个来源。重点包括：Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing；Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation；Semantic-Geometric Dual Compression: Trainin…",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "article_count": 92,
-      "source_count": 4,
-      "top_article": {
-        "id": "f920d1720703adb7fadf4f9313917c943f2a76c1",
-        "title": "Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing",
-        "link": "https://arxiv.org/abs/2604.10708",
-        "summary": "arXiv:2604.10708v1 Announce Type: cross Abstract: Recent progress in multimodal models has spurred rapid advances in audio understanding, generation, and editing. However, these c…",
+        "id": "fd0e164a075e8baaff509d8e65695dff7f845dd5",
+        "title": "The Stackelberg Speaker: Optimizing Persuasive Communication in Social Deduction Games",
+        "link": "https://arxiv.org/abs/2510.09087",
+        "summary": "arXiv:2510.09087v2 Announce Type: replace Abstract: Large language model (LLM) agents have shown remarkable progress in social deduction games (SDGs). However, existing approaches…",
         "source_name": "arXiv AI",
-        "published_at": "2026-04-14T04:00:00.000Z",
+        "published_at": "2026-04-15T04:00:00.000Z",
         "ai_label": "ai_candidate",
-        "ai_score": 5
-      }
+        "ai_score": 7
+      },
+      "key_points": [
+        "AI代理在社交推理游戏中优化说服性通信，如Stackelberg Speaker研究。",
+        "记忆增强系统通过Thought-Retriever检索思想而非原始数据，改善代理性能。",
+        "代理在长时程任务中易出现故障，研究诊断其崩溃原因以提升鲁棒性。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2510.09087",
+        "https://arxiv.org/abs/2604.12231",
+        "https://arxiv.org/abs/2604.09121",
+        "https://arxiv.org/abs/2604.12513",
+        "https://arxiv.org/abs/2604.11978"
+      ],
+      "summary_provider": "openai"
     },
     {
       "topic_id": "6fa24e99c7c7469d90265d13ebbdf1aaf5aabf4a",
       "title": "General AI",
-      "summary": "过去24小时内，围绕 General AI 的内容共有 114 篇，来自 13 个来源。重点包括：Show HN: AI connects your health data after a supplement nearly killed me racing；How to See Inside Your AI Model in 3 Lines of Python；AI and reasoning: Are we in danger?。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "article_count": 114,
-      "source_count": 13,
+      "summary": "该主题涵盖通用人工智能的多个方面，包括技术就业市场、大模型风格模仿和可信AI设计验证。",
+      "why_it_matters": "这些讨论反映了AI技术在实际应用中的挑战和机遇，有助于理解AI对社会和行业的影响。",
+      "article_count": 68,
+      "source_count": 9,
       "top_article": {
-        "id": "001e859ed3c503b2a81b8ab5db5f4c468869122b",
-        "title": "Show HN: AI connects your health data after a supplement nearly killed me racing",
-        "link": "https://vitalityaihealth.com",
-        "summary": "Article URL: https://vitalityaihealth.com Comments URL: https://news.ycombinator.com/item?id=47773372 Points: 2 # Comments: 1",
+        "id": "91870aac03a2635cc1a738866f7c0a8a1380b7cc",
+        "title": "The tech jobs bust is real. Don't blame AI (yet)",
+        "link": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+        "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Po…",
         "source_name": "Hacker News AI",
-        "published_at": "2026-04-15T00:55:06.000Z",
+        "published_at": "2026-04-15T04:29:28.000Z",
         "ai_label": "ai_deep",
         "ai_score": 8
-      }
+      },
+      "key_points": [
+        "技术就业市场下滑，但AI并非主要原因。",
+        "通过输入网文训练大模型以模仿个人风格是可行的。",
+        "设计时验证方法可提升AI系统的可信度。"
+      ],
+      "source_links": [
+        "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+        "https://linux.do/t/topic/1970590",
+        "https://arxiv.org/abs/2603.25414"
+      ],
+      "summary_provider": "openai"
+    },
+    {
+      "topic_id": "7cb775c73a6ab9fd232591bf06b107cf08157adc",
+      "title": "Multimodal",
+      "summary": "多模态研究聚焦于统一嵌入模型、大型语言模型优化和视觉令牌剪枝等方向，旨在提升跨模态传输效率和模型校准能力。",
+      "why_it_matters": "这些进展有助于推动人工智能在跨模态检索、教育公平和高效推理等领域的实际应用，增强模型的可靠性和可扩展性。",
+      "article_count": 40,
+      "source_count": 4,
+      "top_article": {
+        "id": "fd36063cecd121ba51da31880114ee4911988d4e",
+        "title": "EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models",
+        "link": "https://arxiv.org/abs/2604.11043",
+        "summary": "arXiv:2604.11043v2 Announce Type: replace Abstract: Unified multimodal embedding spaces underpin practical applications such as cross-modal retrieval and zero-shot recognition. In…",
+        "source_name": "arXiv AI",
+        "published_at": "2026-04-15T04:00:00.000Z",
+        "ai_label": "ai_deep",
+        "ai_score": 11
+      },
+      "key_points": [
+        "多模态嵌入模型通过改进零样本跨模态传输提升统一表示能力",
+        "视觉令牌剪枝和层融合策略优化多模态大型语言模型的效率和校准",
+        "研究关注教育场景下的社会偏见审计，确保模型公平性"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2604.11043",
+        "https://arxiv.org/abs/2604.12767",
+        "https://arxiv.org/abs/2604.12035",
+        "https://arxiv.org/abs/2604.10200",
+        "https://arxiv.org/abs/2604.12213"
+      ],
+      "summary_provider": "openai"
     },
     {
       "topic_id": "1fa482dac0686c24943cb76f313b915ff8cdce8a",
       "title": "Anthropic / Claude",
-      "summary": "过去24小时内，围绕 Anthropic / Claude 的内容共有 42 篇，来自 19 个来源。重点包括：OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑；codex free 的速率今天貌似变快了？；佬，github pro+套餐咨询，有经验的佬帮下我。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "article_count": 42,
+      "summary": "该话题聚焦于Anthropic的Claude AI工具，特别是Claude Code在开发中的应用，讨论了成本控制、代码可靠性以及用户社区分享。",
+      "why_it_matters": "这反映了AI辅助编程的普及趋势，以及用户对工具效率、成本和长期维护性的关注，对开发者选择和使用AI工具有实际指导意义。",
+      "article_count": 39,
       "source_count": 19,
       "top_article": {
-        "id": "8df855376d89f8ca01b2012b9fb0b7e81408df53",
-        "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-        "link": "https://readhub.cn/topic/8sKjonXlcSM",
-        "summary": "OpenAI允许选定用户群体访问全新人工智能模型GPT - 5.4 - Cyber，该模型旨在发现软件问题以利修复。一周前，竞争对手Anthropic发布人工智能工具Mythos，可识别和利用系统及浏览器漏洞，引发金融机构和政府部门担忧，上周会议警告华尔街领导人严肃对待。OpenAI拟增加早期访问计划参与者，先让数百人测试新模型，未来几周扩大到数千人。 媒…",
-        "source_name": "Readhub 热门",
-        "published_at": "2026-04-15T01:09:01.000Z",
-        "ai_label": "ai_deep",
-        "ai_score": 8
-      }
+        "id": "3037713d064dc5f6379791843118b3420d045f81",
+        "title": "My AI bill got too expensive to ignore, so I built a menu bar counter",
+        "link": "https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68",
+        "summary": "A few months ago I kept losing track of how much I was actually spending on AI. Not the estimate in my head. The real number. That was the problem. I’d finish a day of shipping wi…",
+        "source_name": "Dev.to",
+        "published_at": "2026-04-15T04:37:20.000Z",
+        "ai_label": "ai_candidate",
+        "ai_score": 5
+      },
+      "key_points": [
+        "用户通过构建菜单栏计数器来监控AI使用成本，突显成本管理的重要性。",
+        "分析显示96%的AI指令文件内容无法验证，引发对AI生成代码可靠性的担忧。",
+        "开发者分享Claude Code的使用经验，包括功能更新和社区渠道，促进工具优化和知识共享。"
+      ],
+      "source_links": [
+        "https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68",
+        "https://linux.do/t/topic/1970759",
+        "https://dev.to/moonrunnerkc/we-parsed-580-ai-instruction-files-96-of-the-content-cant-be-verified-4cg5",
+        "https://dev.to/panav_mhatre_732271d2d44b/why-your-ai-assisted-code-breaks-after-week-one-and-what-to-do-about-it-2mak",
+        "https://www.v2ex.com/t/1206034#reply1"
+      ],
+      "summary_provider": "openai"
     }
-  ]
+  ],
+  "prompt_version": "topic-summary-v2-zh",
+  "summary_model": "deepseek-chat",
+  "summary_fallback_count": 0
 }

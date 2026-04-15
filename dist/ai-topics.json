@@ -1,34 +1,42 @@
 {
-  "dataset_id": "2026-04-15T01:11:29.436Z",
-  "generated_at": "2026-04-15T01:11:29.436Z",
-  "topic_count": 13,
+  "dataset_id": "2026-04-15T04:42:55.729Z",
+  "generated_at": "2026-04-15T04:42:55.729Z",
+  "relevance_version": "rules-v1",
+  "topic_engine_version": "rules-v1",
+  "summary_engine_version": "rules-v1",
+  "summary_provider": "openai",
+  "topic_count": 14,
+  "summary_fallback_count": 0,
   "topics": [
     {
       "topic_id": "5b4a4e3c08237fd4201bf4d7b2c1d585c3c8079c",
       "topic_key": "llm_research",
       "title": "LLM Research",
-      "summary": "过去24小时内，围绕 LLM Research 的内容共有 357 篇，来自 14 个来源。重点包括：QA: expand Matrix config scenario coverage；Authorization for LLM Tool Schemas: Formal Model with Noninterference Guarantees [pdf]；A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, a…",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 2269,
-      "article_count": 357,
-      "source_count": 14,
-      "ai_deep_count": 159,
-      "freshest_published_at": "2026-04-15T01:07:31.000Z",
+      "topic_score": 1318,
+      "article_count": 200,
+      "source_count": 13,
+      "ai_deep_count": 95,
+      "freshest_published_at": "2026-04-15T04:26:08.000Z",
       "signals": [
         "llm",
         "large language model",
-        "benchmark",
-        "rag",
         "inference",
-        "foundation model"
+        "rag",
+        "benchmark",
+        "fine-tuning"
+      ],
+      "top_titles": [
+        "Show HN: Firefox Sidebar Local LLM",
+        "Working with Terraform: Where LLMs actually help",
+        "Joint Flashback Adaptation for Forgetting-Resistant Instruction Tuning"
       ],
       "source_names": [
+        "Dev.to",
         "Hacker News AI",
         "Hacker News Ask",
         "Hacker News LLM",
+        "Hacker News OpenClaw",
         "MIT Technology Review",
-        "MarkTechPost (Playwright)",
-        "OpenClaw Commits",
         "TechCrunch",
         "The Hacker News",
         "V2EX 技术",
@@ -36,73 +44,93 @@
       ],
       "articles": [
         {
-          "id": "bc71b9c6e73b71539de86be90888cee07f1104a1",
-          "title": "QA: expand Matrix config scenario coverage",
-          "link": "https://github.com/openclaw/openclaw/commit/9463f1c498bdb5b8810b638037a93670cebcfb2a",
-          "summary": "QA: expand Matrix config scenario coverage",
-          "source_name": "OpenClaw Commits",
-          "published_at": "2026-04-15T01:07:31.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 5
-        },
-        {
-          "id": "dbce71853fd65a1312e13e289f48c5e2c5e64c2a",
-          "title": "Authorization for LLM Tool Schemas: Formal Model with Noninterference Guarantees [pdf]",
-          "link": "https://raw.githubusercontent.com/AndyGauge/andygauge.github.io/master/publication/noninterference%20guarantee.pdf",
-          "summary": "Article URL: https://raw.githubusercontent.com/AndyGauge/andygauge.github.io/master/publication/noninterference%20guarantee.pdf Comments URL: https://news.ycombinator.com/item?id=…",
+          "id": "b67b023c4728368cf9c56a7e1cbb3202a8bf0454",
+          "title": "Show HN: Firefox Sidebar Local LLM",
+          "link": "https://github.com/skorotkiewicz/firefox-ai",
+          "summary": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
           "source_name": "Hacker News LLM",
-          "published_at": "2026-04-15T00:41:17.000Z",
+          "published_at": "2026-04-15T04:26:08.000Z",
           "ai_label": "ai_deep",
-          "ai_score": 12
+          "ai_score": 11
         },
         {
-          "id": "11161b04f5eb697ad6373c588069deb54ca7f5bf",
-          "title": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction",
-          "link": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
-          "summary": "In this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML....",
-          "source_name": "MarkTechPost (Playwright)",
-          "published_at": "2026-04-15T00:39:12.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 17
+          "id": "19a561ac328d0b64689e45db90be92882aae8f9c",
+          "title": "Working with Terraform: Where LLMs actually help",
+          "link": "https://dev.to/polarsquad/working-with-terraform-where-llms-actually-help-2a4p",
+          "summary": "Terraform state said one thing. The live environment said something else. The HCL config did not match either. An engineer had been doing the imports across a multi-region AWS Ter…",
+          "source_name": "Dev.to",
+          "published_at": "2026-04-15T04:16:33.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 7
         },
         {
-          "id": "aeff313dd861348a4306535ffdeb51fe775be33a",
-          "title": "The Biggest Advance in AI Since the LLM",
-          "link": "https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/",
-          "summary": "Article URL: https://cacm.acm.org/blogcacm/the-biggest-advance-in-ai-since-the-llm/ Comments URL: https://news.ycombinator.com/item?id=47773173 Points: 2 # Comments: 0",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-15T00:21:30.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 13
-        },
-        {
-          "id": "d310733ee7ad5e9f63130368746a81afafb6245c",
-          "title": "QA: tighten Matrix substrate coverage",
-          "link": "https://github.com/openclaw/openclaw/commit/3aae0fb16d6077e1a4607e1840080169530bc61f",
-          "summary": "QA: tighten Matrix substrate coverage",
-          "source_name": "OpenClaw Commits",
-          "published_at": "2026-04-15T00:06:08.000Z",
+          "id": "fc8aef36cebd6413c7ca28bc601a1554932c5f69",
+          "title": "Joint Flashback Adaptation for Forgetting-Resistant Instruction Tuning",
+          "link": "https://arxiv.org/abs/2505.15467",
+          "summary": "arXiv:2505.15467v2 Announce Type: replace-cross Abstract: Large language models have achieved remarkable success in various tasks. However, it is challenging for them to learn new…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 5
+        },
+        {
+          "id": "fb9bd7b710b23a2465940718a5e296aedf389b84",
+          "title": "CropVLM: Learning to Zoom for Fine-Grained Vision-Language Perception",
+          "link": "https://arxiv.org/abs/2511.19820",
+          "summary": "arXiv:2511.19820v2 Announce Type: replace-cross Abstract: Vision-Language Models (VLMs) often struggle with tasks that require fine-grained image understanding, such as scene-text…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 4
+        },
+        {
+          "id": "f70a9d5202efb577487707c2d2233ef1bdcadaa9",
+          "title": "SOAR: Self-Correction for Optimal Alignment and Refinement in Diffusion Models",
+          "link": "https://arxiv.org/abs/2604.12617",
+          "summary": "arXiv:2604.12617v1 Announce Type: cross Abstract: The post-training pipeline for diffusion models currently has two stages: supervised fine-tuning (SFT) on curated data and reinfo…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 9
         }
-      ]
+      ],
+      "summary": "该材料聚焦于大语言模型（LLM）研究，涵盖本地部署、实际应用和模型优化等方面，包括 Firefox 侧边栏本地 LLM、Terraform 辅助工具以及抗遗忘指令调优等主题。",
+      "why_it_matters": "这些研究展示了 LLM 在多样化场景中的实际应用潜力，如提升开发效率和解决模型学习新知识时的遗忘问题，对推动 AI 技术落地和模型性能改进具有重要意义。",
+      "key_points": [
+        "本地 LLM 部署工具如 Firefox 侧边栏扩展，支持离线使用和隐私保护。",
+        "LLM 在 Terraform 等开发工具中提供实际帮助，例如解决配置不一致问题。",
+        "研究关注模型优化技术，如抗遗忘指令调优和扩散模型的自校正方法。"
+      ],
+      "source_links": [
+        "https://github.com/skorotkiewicz/firefox-ai",
+        "https://dev.to/polarsquad/working-with-terraform-where-llms-actually-help-2a4p",
+        "https://arxiv.org/abs/2505.15467",
+        "https://arxiv.org/abs/2511.19820",
+        "https://arxiv.org/abs/2604.12617"
+      ],
+      "summary_provider": "openai",
+      "prompt_version": "topic-summary-v2-zh",
+      "summary_model": "deepseek-chat"
     },
     {
       "topic_id": "cc7dc957a13d6a67d8fb93e817abacc558326ebc",
       "topic_key": "agents_mcp",
       "title": "AI Agents / MCP",
-      "summary": "过去24小时内，围绕 AI Agents / MCP 的内容共有 103 篇，来自 11 个来源。重点包括：Show HN: An edge MCP file system with a 50ms undo button for AI agents；ci(tests): split agentic node shard into three lanes；Show HN: I built a self-improving autonomous AI agent that runs 24/7。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 629,
-      "article_count": 103,
+      "topic_score": 435,
+      "article_count": 67,
       "source_count": 11,
-      "ai_deep_count": 36,
-      "freshest_published_at": "2026-04-15T01:05:30.000Z",
+      "ai_deep_count": 26,
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
         "agents",
         "agentic",
         "ai agent",
         "mcp"
+      ],
+      "top_titles": [
+        "The Stackelberg Speaker: Optimizing Persuasive Communication in Social Deduction Games",
+        "Thought-Retriever: Don't Just Retrieve Raw Data, Retrieve Thoughts for Memory-Augmented Agentic Systems",
+        "Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition"
       ],
       "source_names": [
         "Cloudflare Blog",
@@ -110,158 +138,103 @@
         "Hacker News AI",
         "Hacker News Ask",
         "Hacker News LLM",
+        "Hacker News OpenClaw",
         "Hacker News Show",
-        "OpenClaw Commits",
         "arXiv AI",
         "arXiv NLP",
         "arXiv 机器学习"
       ],
       "articles": [
         {
-          "id": "fb720e7b90b6a3b550aa48db5aa64d1aea6f5c52",
-          "title": "Show HN: An edge MCP file system with a 50ms undo button for AI agents",
-          "link": "https://mcp.undisk.app",
-          "summary": "You can watch an agent destroy a file and instantly revert it in an interactive browser terminal here (no signup): https://mcp.undisk.app/e2b Comments URL: https://news.ycombinato…",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-15T01:05:30.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
-        },
-        {
-          "id": "08d13f747f2bcd0b9b6f84cdc2c8627932e6675e",
-          "title": "ci(tests): split agentic node shard into three lanes",
-          "link": "https://github.com/openclaw/openclaw/commit/0329ec40db01fff8e24113e819741d07ce0b56fe",
-          "summary": "ci(tests): split agentic node shard into three lanes",
-          "source_name": "OpenClaw Commits",
-          "published_at": "2026-04-14T23:55:41.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 5
-        },
-        {
-          "id": "86748b7783e2528d6e6800525c833a5b0a22d63c",
-          "title": "Show HN: I built a self-improving autonomous AI agent that runs 24/7",
-          "link": "https://hergimuci.gumroad.com/l/ai-agent-blueprint",
-          "summary": "Article URL: https://hergimuci.gumroad.com/l/ai-agent-blueprint Comments URL: https://news.ycombinator.com/item?id=47772707 Points: 1 # Comments: 0",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-14T23:18:26.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
-        },
-        {
-          "id": "e0177097b1d5ecb0b29127adeafa13eab02f8caf",
-          "title": "BridgeBase – A Quantum-Safe Gateway for AI Agents (ML-KEM-768)",
-          "link": "https://pqc-gateway-production.up.railway.app/",
-          "summary": "Article URL: https://pqc-gateway-production.up.railway.app/ Comments URL: https://news.ycombinator.com/item?id=47772142 Points: 1 # Comments: 0",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-14T22:12:11.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
-        },
-        {
-          "id": "be6ad703677c7fc7d97f9189921a592b3c6c113b",
-          "title": "Paperasse: Skills for AI agents specializing in French bureaucracy",
-          "link": "https://github.com/romainsimon/paperasse",
-          "summary": "Article URL: https://github.com/romainsimon/paperasse Comments URL: https://news.ycombinator.com/item?id=47771997 Points: 1 # Comments: 1",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-14T21:54:56.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
-        }
-      ]
-    },
-    {
-      "topic_id": "7cb775c73a6ab9fd232591bf06b107cf08157adc",
-      "topic_key": "multimodal",
-      "title": "Multimodal",
-      "summary": "过去24小时内，围绕 Multimodal 的内容共有 92 篇，来自 4 个来源。重点包括：Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing；Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation；Semantic-Geometric Dual Compression: Trainin…",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 617,
-      "article_count": 92,
-      "source_count": 4,
-      "ai_deep_count": 47,
-      "freshest_published_at": "2026-04-14T04:00:00.000Z",
-      "signals": [
-        "multimodal",
-        "computer vision"
-      ],
-      "source_names": [
-        "arXiv AI",
-        "arXiv NLP",
-        "arXiv 机器学习",
-        "arXiv 计算机视觉"
-      ],
-      "articles": [
-        {
-          "id": "f920d1720703adb7fadf4f9313917c943f2a76c1",
-          "title": "Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing",
-          "link": "https://arxiv.org/abs/2604.10708",
-          "summary": "arXiv:2604.10708v1 Announce Type: cross Abstract: Recent progress in multimodal models has spurred rapid advances in audio understanding, generation, and editing. However, these c…",
+          "id": "fd0e164a075e8baaff509d8e65695dff7f845dd5",
+          "title": "The Stackelberg Speaker: Optimizing Persuasive Communication in Social Deduction Games",
+          "link": "https://arxiv.org/abs/2510.09087",
+          "summary": "arXiv:2510.09087v2 Announce Type: replace Abstract: Large language model (LLM) agents have shown remarkable progress in social deduction games (SDGs). However, existing approaches…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 5
-        },
-        {
-          "id": "f7bb7648a1eeb2be0a256c8a0ac096db5b2c72a7",
-          "title": "Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation",
-          "link": "https://arxiv.org/abs/2504.14988",
-          "summary": "arXiv:2504.14988v3 Announce Type: replace Abstract: Recent advancements in Large Vision-Language Models (LVLMs) have demonstrated remarkable multimodal perception capabilities, ga…",
-          "source_name": "arXiv 计算机视觉",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 6
-        },
-        {
-          "id": "f581d117e6bbca330fd0f957e8b92835055b0a19",
-          "title": "Semantic-Geometric Dual Compression: Training-Free Visual Token Reduction for Ultra-High-Resolution Remote Sensing Understanding",
-          "link": "https://arxiv.org/abs/2604.11122",
-          "summary": "arXiv:2604.11122v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated immense potential in Earth observation. However, the massive visual to…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 7
         },
         {
-          "id": "f26d35a35cd3c89e955ea4976a4915d2d71eeaa2",
-          "title": "Anthropogenic Regional Adaptation in Multimodal Vision-Language Model",
-          "link": "https://arxiv.org/abs/2604.11490",
-          "summary": "arXiv:2604.11490v1 Announce Type: new Abstract: While the field of vision-language (VL) has achieved remarkable success in integrating visual and textual information across multip…",
+          "id": "f560cec70fe2ed5b38f4249d1ac8e1272287aff1",
+          "title": "Thought-Retriever: Don't Just Retrieve Raw Data, Retrieve Thoughts for Memory-Augmented Agentic Systems",
+          "link": "https://arxiv.org/abs/2604.12231",
+          "summary": "arXiv:2604.12231v1 Announce Type: new Abstract: Large language models (LLMs) have transformed AI research thanks to their powerful internal capabilities and knowledge. However, ex…",
+          "source_name": "arXiv NLP",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 8
+        },
+        {
+          "id": "f3bc02de4d27ce3446aa3e0a20ff33befcf3fa89",
+          "title": "Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition",
+          "link": "https://arxiv.org/abs/2604.09121",
+          "summary": "arXiv:2604.09121v3 Announce Type: replace-cross Abstract: Recent years have witnessed remarkable progress in automatic speech recognition (ASR), driven by advances in model archit…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 6
         },
         {
-          "id": "f19203983e8f09d8d90fec705fa056aa1a86f5a1",
-          "title": "M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation",
-          "link": "https://arxiv.org/abs/2512.20136",
-          "summary": "arXiv:2512.20136v3 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) has recently been extended to multimodal settings, connecting multimodal large langu…",
+          "id": "ec891f88f685dee7f6245353c312bd059a50294e",
+          "title": "Agentic Control in Variational Language Models",
+          "link": "https://arxiv.org/abs/2604.12513",
+          "summary": "arXiv:2604.12513v1 Announce Type: new Abstract: We study whether a variational language model can support a minimal and measurable form of agentic control grounded in its own inte…",
+          "source_name": "arXiv 机器学习",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 5
+        },
+        {
+          "id": "eb01572af90f688c7887f4d8717f24fb624a89a4",
+          "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+          "link": "https://arxiv.org/abs/2604.11978",
+          "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_deep",
-          "ai_score": 13
+          "ai_score": 12
         }
-      ]
+      ],
+      "summary": "该主题聚焦于AI代理和MCP（可能指模型控制协议），涉及多篇学术文章，探讨了AI代理在社交推理游戏、记忆增强系统、语音识别和变分语言模型中的应用与挑战。",
+      "why_it_matters": "这些研究有助于提升AI代理的交互能力和任务处理效率，对推动人工智能向更智能、自主的方向发展具有重要意义。",
+      "key_points": [
+        "AI代理在社交推理游戏中优化说服性通信，如Stackelberg Speaker研究。",
+        "记忆增强系统通过Thought-Retriever检索思想而非原始数据，改善代理性能。",
+        "代理在长时程任务中易出现故障，研究诊断其崩溃原因以提升鲁棒性。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2510.09087",
+        "https://arxiv.org/abs/2604.12231",
+        "https://arxiv.org/abs/2604.09121",
+        "https://arxiv.org/abs/2604.12513",
+        "https://arxiv.org/abs/2604.11978"
+      ],
+      "summary_provider": "openai",
+      "prompt_version": "topic-summary-v2-zh",
+      "summary_model": "deepseek-chat"
     },
     {
       "topic_id": "6fa24e99c7c7469d90265d13ebbdf1aaf5aabf4a",
       "topic_key": "general_ai",
       "title": "General AI",
-      "summary": "过去24小时内，围绕 General AI 的内容共有 114 篇，来自 13 个来源。重点包括：Show HN: AI connects your health data after a supplement nearly killed me racing；How to See Inside Your AI Model in 3 Lines of Python；AI and reasoning: Are we in danger?。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 575,
-      "article_count": 114,
-      "source_count": 13,
-      "ai_deep_count": 16,
-      "freshest_published_at": "2026-04-15T00:55:06.000Z",
+      "topic_score": 374,
+      "article_count": 68,
+      "source_count": 9,
+      "ai_deep_count": 15,
+      "freshest_published_at": "2026-04-15T04:29:28.000Z",
       "signals": [],
+      "top_titles": [
+        "The tech jobs bust is real. Don't blame AI (yet)",
+        "给大模型灌自己的网文，能让他按照自己风格输出吗",
+        "Decidable By Construction: Design-Time Verification for Trustworthy AI"
+      ],
       "source_names": [
         "Ars Technica",
-        "Dev.to",
         "Hacker News",
         "Hacker News AI",
-        "Hacker News Ask",
-        "Schneier on Security",
+        "IT之家",
+        "LinuxDo 最新话题",
         "arXiv AI",
         "arXiv NLP",
         "arXiv 机器学习",
@@ -269,242 +242,325 @@
       ],
       "articles": [
         {
-          "id": "001e859ed3c503b2a81b8ab5db5f4c468869122b",
-          "title": "Show HN: AI connects your health data after a supplement nearly killed me racing",
-          "link": "https://vitalityaihealth.com",
-          "summary": "Article URL: https://vitalityaihealth.com Comments URL: https://news.ycombinator.com/item?id=47773372 Points: 2 # Comments: 1",
+          "id": "91870aac03a2635cc1a738866f7c0a8a1380b7cc",
+          "title": "The tech jobs bust is real. Don't blame AI (yet)",
+          "link": "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+          "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet Comments URL: https://news.ycombinator.com/item?id=47774692 Po…",
           "source_name": "Hacker News AI",
-          "published_at": "2026-04-15T00:55:06.000Z",
+          "published_at": "2026-04-15T04:29:28.000Z",
           "ai_label": "ai_deep",
           "ai_score": 8
         },
         {
-          "id": "87a0ba05448ca193cb065f035e5578977fca1be0",
-          "title": "How to See Inside Your AI Model in 3 Lines of Python",
-          "link": "https://dev.to/staffman76/how-to-see-inside-your-ai-model-in-3-lines-of-python-1cbd",
-          "summary": "I built a tool that makes any PyTorch model inspectable with one line of code. No retraining, no architecture changes, no extra memory. Here's how it works. The Problem You train…",
-          "source_name": "Dev.to",
-          "published_at": "2026-04-15T00:52:21.000Z",
+          "id": "d3bf7f4408e6371ee022932b652109554aa9f0de",
+          "title": "给大模型灌自己的网文，能让他按照自己风格输出吗",
+          "link": "https://linux.do/t/topic/1970590",
+          "summary": "网上看到有人，给大模型灌自己的书，和几千本网文，让大模型按照自己风格往下面写， 这个是可行的吗，如果可行的话，应该要自己本地部署模型吧？有佬这么干过吗 1 个帖子 - 1 位参与者 阅读完整话题",
+          "source_name": "LinuxDo 最新话题",
+          "published_at": "2026-04-15T04:05:40.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 5
         },
         {
-          "id": "603ed5155ca91c5989b5c04865ca90dc1ab25760",
-          "title": "AI and reasoning: Are we in danger?",
-          "link": "https://www.johndcook.com/blog/2026/04/14/ai-and-reasoning-are-we-in-danger/",
-          "summary": "The post AI and reasoning: Are we in danger? first appeared on John D. Cook .",
-          "source_name": "johndcook.com",
-          "published_at": "2026-04-15T00:50:22.000Z",
+          "id": "fdca99b9ac0e34ffab857213400c3eb1eb73a4f1",
+          "title": "Decidable By Construction: Design-Time Verification for Trustworthy AI",
+          "link": "https://arxiv.org/abs/2603.25414",
+          "summary": "arXiv:2603.25414v2 Announce Type: replace-cross Abstract: A prevailing assumption in machine learning is that model correctness must be enforced after the fact. We observe that th…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 6
+          "ai_score": 4
         },
         {
-          "id": "9d8663030bde35f02f5247576373030e444f839c",
-          "title": "Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-          "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-          "summary": "Article URL: https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html Comments URL: https://news.…",
-          "source_name": "Hacker News AI",
-          "published_at": "2026-04-15T00:41:55.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
+          "id": "fc53ef77b155d6f1ddd8beadee028b6bd9737842",
+          "title": "Visual Diffusion Models are Geometric Solvers",
+          "link": "https://arxiv.org/abs/2510.21697",
+          "summary": "arXiv:2510.21697v2 Announce Type: replace-cross Abstract: In this paper we show that visual diffusion models can serve as effective geometric solvers: they can directly reason abo…",
+          "source_name": "arXiv 机器学习",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 5
         },
         {
-          "id": "caecfe4442ec98b693dddc3beb40db77998c911a",
-          "title": "20CM闪崩→20CM涨停→再涨停！300561三个交易日经历了什么？",
-          "link": "https://www.yicai.com/video/103133212.html",
-          "summary": "4月9日尾盘，*ST 汇科（原汇金科技）突然上演离奇“闪崩”，20CM跌停直接把近2万名股东拽入“地狱模式”；谁知次日（4月10日）便巨量封单“一字板”涨停，今天（4月13日）再度以T字涨停强势收尾。短短三个交易日，股价从跌停到连续涨停极限切换，这场“过山车”的背后，藏着怎样的反转逻辑？ 熟悉 A 股的投资者一定对*ST汇科的前身不陌生——它曾是不折不扣的…",
-          "source_name": "第一财经最新",
-          "published_at": "2026-04-15T00:30:46.000Z",
+          "id": "f3275c9e5547ab61c5469613a03180ad48abd6d8",
+          "title": "PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing",
+          "link": "https://arxiv.org/abs/2604.09111",
+          "summary": "arXiv:2604.09111v3 Announce Type: replace-cross Abstract: Recently, artificial intelligence-based dubbing technology has advanced, enabling automated dubbing (AD) to convert the s…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 4
         }
-      ]
+      ],
+      "summary": "该主题涵盖通用人工智能的多个方面，包括技术就业市场、大模型风格模仿和可信AI设计验证。",
+      "why_it_matters": "这些讨论反映了AI技术在实际应用中的挑战和机遇，有助于理解AI对社会和行业的影响。",
+      "key_points": [
+        "技术就业市场下滑，但AI并非主要原因。",
+        "通过输入网文训练大模型以模仿个人风格是可行的。",
+        "设计时验证方法可提升AI系统的可信度。"
+      ],
+      "source_links": [
+        "https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+        "https://linux.do/t/topic/1970590",
+        "https://arxiv.org/abs/2603.25414"
+      ],
+      "summary_provider": "openai",
+      "prompt_version": "topic-summary-v2-zh",
+      "summary_model": "deepseek-chat"
     },
     {
-      "topic_id": "1fa482dac0686c24943cb76f313b915ff8cdce8a",
-      "topic_key": "anthropic_claude",
-      "title": "Anthropic / Claude",
-      "summary": "过去24小时内，围绕 Anthropic / Claude 的内容共有 42 篇，来自 19 个来源。重点包括：OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑；codex free 的速率今天貌似变快了？；佬，github pro+套餐咨询，有经验的佬帮下我。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 283,
-      "article_count": 42,
-      "source_count": 19,
-      "ai_deep_count": 11,
-      "freshest_published_at": "2026-04-15T01:09:01.000Z",
+      "topic_id": "7cb775c73a6ab9fd232591bf06b107cf08157adc",
+      "topic_key": "multimodal",
+      "title": "Multimodal",
+      "topic_score": 255,
+      "article_count": 40,
+      "source_count": 4,
+      "ai_deep_count": 16,
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
-        "claude",
-        "anthropic",
-        "claude code"
+        "multimodal",
+        "computer vision",
+        "speech-to-speech"
+      ],
+      "top_titles": [
+        "EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models",
+        "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+        "Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs"
       ],
       "source_names": [
-        "Ars Technica",
-        "Dev.to",
-        "Hacker News",
-        "Hacker News AI",
-        "Hacker News Ask",
-        "Hacker News LLM",
-        "Hacker News Show",
-        "IT之家",
-        "LinuxDo 最新话题",
-        "Readhub 热门"
-      ],
-      "articles": [
-        {
-          "id": "8df855376d89f8ca01b2012b9fb0b7e81408df53",
-          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-          "link": "https://readhub.cn/topic/8sKjonXlcSM",
-          "summary": "OpenAI允许选定用户群体访问全新人工智能模型GPT - 5.4 - Cyber，该模型旨在发现软件问题以利修复。一周前，竞争对手Anthropic发布人工智能工具Mythos，可识别和利用系统及浏览器漏洞，引发金融机构和政府部门担忧，上周会议警告华尔街领导人严肃对待。OpenAI拟增加早期访问计划参与者，先让数百人测试新模型，未来几周扩大到数千人。 媒…",
-          "source_name": "Readhub 热门",
-          "published_at": "2026-04-15T01:09:01.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 8
-        },
-        {
-          "id": "af4a6ade5c34b5d3f2dc6c43ac17a81b8db830c1",
-          "title": "codex free 的速率今天貌似变快了？",
-          "link": "https://linux.do/t/topic/1968999",
-          "summary": "不确定是把agent从claude code换到codex的原因，还是速度真的变快了 3 个帖子 - 3 位参与者 阅读完整话题",
-          "source_name": "LinuxDo 最新话题",
-          "published_at": "2026-04-15T01:02:44.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 6
-        },
-        {
-          "id": "8a9fbab1570e83a150338030dc195ac757a1b6b9",
-          "title": "佬，github pro+套餐咨询，有经验的佬帮下我",
-          "link": "https://linux.do/t/topic/1968971",
-          "summary": "佬，github pro+套餐咨询，有经验的佬帮下我。 1他这个请求次数500次，是指的是我问一个问题就算1次吗，发起请求就算1次吗？ 2.那如果不同模型呢，一会用gpt，一会用claude，他怎么算？次数累加吗？ 3.response不算次数咯？ 4.还有就是他的gpt5.4能调xhigh模式吗？ 5.买3个账号够一个团队（4-5）个人用吗？ 6.能统一…",
-          "source_name": "LinuxDo 最新话题",
-          "published_at": "2026-04-15T00:57:47.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "22a3f066dc9a0035e16b1574e9a542dd7437d103",
-          "title": "有哪些中转站能有claude，codex用，正规能开fp，价格适中",
-          "link": "https://linux.do/t/topic/1968935",
-          "summary": "考虑考虑看看能不能找公司报销，找找看有没有这样的平台，自己搓的中转站用free账号感觉吃紧了 3 个帖子 - 3 位参与者 阅读完整话题",
-          "source_name": "LinuxDo 最新话题",
-          "published_at": "2026-04-15T00:52:20.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "2ffb7e4f2dac61cf88ea8de662b92448f8ddac4c",
-          "title": "Claude中文字体修复插件（Chrome拓展，支持Windows，Mac）",
-          "link": "https://linux.do/t/topic/1968894",
-          "summary": "本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的帖子已经打上 开源推广 标签： 是 我的开源项目完整开源，无未开源部分： 是 我的开源项目已链接认可 LINUX DO 社区： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色…",
-          "source_name": "LinuxDo 最新话题",
-          "published_at": "2026-04-15T00:46:44.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        }
-      ]
-    },
-    {
-      "topic_id": "4e5193ea72d137455621741c2feecff07f08296c",
-      "topic_key": "openai_gpt",
-      "title": "OpenAI / GPT",
-      "summary": "过去24小时内，围绕 OpenAI / GPT 的内容共有 16 篇，来自 11 个来源。重点包括：Cursor的cli有点cc那味了；“AI 医生”并不可靠，研究称五款头部 AI 平台半数医学建议存在误导性；谷歌 Chrome 浏览器新增 AI Skills 功能，支持保存复用提示词。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 121,
-      "article_count": 16,
-      "source_count": 11,
-      "ai_deep_count": 4,
-      "freshest_published_at": "2026-04-15T01:03:20.000Z",
-      "signals": [
-        "gpt",
-        "openai",
-        "chatgpt",
-        "codex"
-      ],
-      "source_names": [
-        "Hacker News",
-        "IT之家",
-        "LinuxDo 最新话题",
-        "OpenClaw Releases",
-        "Readhub 热门",
-        "The Verge",
-        "V2EX 技术",
         "arXiv AI",
+        "arXiv NLP",
         "arXiv 机器学习",
         "arXiv 计算机视觉"
       ],
       "articles": [
         {
-          "id": "ef0cf0a20dca42430cceff77d9b708a427223167",
-          "title": "Cursor的cli有点cc那味了",
-          "link": "https://linux.do/t/topic/1969007",
-          "summary": "刚刚体验，看起来挺像cc，但是读文件什么的还是像codex那样用powershell 1 个帖子 - 1 位参与者 阅读完整话题",
-          "source_name": "LinuxDo 最新话题",
-          "published_at": "2026-04-15T01:03:20.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
+          "id": "fd36063cecd121ba51da31880114ee4911988d4e",
+          "title": "EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models",
+          "link": "https://arxiv.org/abs/2604.11043",
+          "summary": "arXiv:2604.11043v2 Announce Type: replace Abstract: Unified multimodal embedding spaces underpin practical applications such as cross-modal retrieval and zero-shot recognition. In…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 11
         },
         {
-          "id": "d9bd732cdc9117051e1adb1ae4060a964edc7b36",
-          "title": "“AI 医生”并不可靠，研究称五款头部 AI 平台半数医学建议存在误导性",
-          "link": "https://www.ithome.com/0/939/189.htm",
-          "summary": "IT之家 4 月 15 日消息，北京时间今天（4 月 15 日）早间，据彭博社报道，最新研究指出，AI 聊天机器人在约一半情况下会提供存在问题的医疗建议。 来自美国、加拿大和英国的研究团队对五款主流平台 ChatGPT、Gemini、Meta AI、Grok 和 DeepSeek 进行了测试。他们围绕五类健康主题提出 10 个问题。本周发表在《BMJ Op…",
-          "source_name": "IT之家",
-          "published_at": "2026-04-15T00:30:53.000Z",
+          "id": "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f",
+          "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+          "link": "https://arxiv.org/abs/2604.12767",
+          "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual toke…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 14
+        },
+        {
+          "id": "f38aad4ffc734c54f48b60d68e8956c064f40028",
+          "title": "Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs",
+          "link": "https://arxiv.org/abs/2604.12035",
+          "summary": "arXiv:2604.12035v1 Announce Type: new Abstract: Visual token pruning is a widely used strategy for efficient inference in multimodal large language models (MLLMs), but existing wo…",
+          "source_name": "arXiv 计算机视觉",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 9
+        },
+        {
+          "id": "f22bb74b642a7740195f980369980e942f89c021",
+          "title": "Edu-MMBias: A Three-Tier Multimodal Benchmark for Auditing Social Bias in Vision-Language Models under Educational Contexts",
+          "link": "https://arxiv.org/abs/2604.10200",
+          "summary": "arXiv:2604.10200v2 Announce Type: replace Abstract: As Vision-Language Models (VLMs) become integral to educational decision-making, ensuring their fairness is paramount. However,…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 9
+        },
+        {
+          "id": "f2297b3672995d741ace7fbb4412d34742d79a0b",
+          "title": "Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension",
+          "link": "https://arxiv.org/abs/2604.12213",
+          "summary": "arXiv:2604.12213v1 Announce Type: new Abstract: Preserving multimodal signals across agent boundaries is necessary for accurate cross-modal reasoning, but it is not sufficient. We…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 7
+        }
+      ],
+      "summary": "多模态研究聚焦于统一嵌入模型、大型语言模型优化和视觉令牌剪枝等方向，旨在提升跨模态传输效率和模型校准能力。",
+      "why_it_matters": "这些进展有助于推动人工智能在跨模态检索、教育公平和高效推理等领域的实际应用，增强模型的可靠性和可扩展性。",
+      "key_points": [
+        "多模态嵌入模型通过改进零样本跨模态传输提升统一表示能力",
+        "视觉令牌剪枝和层融合策略优化多模态大型语言模型的效率和校准",
+        "研究关注教育场景下的社会偏见审计，确保模型公平性"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2604.11043",
+        "https://arxiv.org/abs/2604.12767",
+        "https://arxiv.org/abs/2604.12035",
+        "https://arxiv.org/abs/2604.10200",
+        "https://arxiv.org/abs/2604.12213"
+      ],
+      "summary_provider": "openai",
+      "prompt_version": "topic-summary-v2-zh",
+      "summary_model": "deepseek-chat"
+    },
+    {
+      "topic_id": "1fa482dac0686c24943cb76f313b915ff8cdce8a",
+      "topic_key": "anthropic_claude",
+      "title": "Anthropic / Claude",
+      "topic_score": 246,
+      "article_count": 39,
+      "source_count": 19,
+      "ai_deep_count": 6,
+      "freshest_published_at": "2026-04-15T04:37:20.000Z",
+      "signals": [
+        "claude",
+        "claude code",
+        "anthropic"
+      ],
+      "top_titles": [
+        "My AI bill got too expensive to ignore, so I built a menu bar counter",
+        "反重力ide水平怎么样",
+        "We Parsed 580 AI Instruction Files. 96% of the Content Can't Be Verified."
+      ],
+      "source_names": [
+        "Ars Technica",
+        "Dev.to",
+        "Hacker News",
+        "Hacker News Ask",
+        "Hacker News LLM",
+        "Hacker News OpenClaw",
+        "Hacker News Show",
+        "IT之家",
+        "LinuxDo 最新话题",
+        "Simon Willison's Blog"
+      ],
+      "articles": [
+        {
+          "id": "3037713d064dc5f6379791843118b3420d045f81",
+          "title": "My AI bill got too expensive to ignore, so I built a menu bar counter",
+          "link": "https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68",
+          "summary": "A few months ago I kept losing track of how much I was actually spending on AI. Not the estimate in my head. The real number. That was the problem. I’d finish a day of shipping wi…",
+          "source_name": "Dev.to",
+          "published_at": "2026-04-15T04:37:20.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 5
+        },
+        {
+          "id": "203ad58d2134e9d07dcb6e48d33f7411a31d1d29",
+          "title": "反重力ide水平怎么样",
+          "link": "https://linux.do/t/topic/1970759",
+          "summary": "和claude code或者codex之类的比 感觉我自用 反代反重力不是很划算每天都封号，如果是直连会不会好点？ 另外这个ide需要梯子环境吗 我本地可以挂 但是开发环境在服务器上 不太好挂梯子 可以像vscode一样ssh远程开发吗 1 个帖子 - 1 位参与者 阅读完整话题",
+          "source_name": "LinuxDo 最新话题",
+          "published_at": "2026-04-15T04:32:24.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 6
         },
         {
-          "id": "2e1c8ad95330b39e18c4be2ad5ca470606037e14",
-          "title": "谷歌 Chrome 浏览器新增 AI Skills 功能，支持保存复用提示词",
-          "link": "https://www.ithome.com/0/939/166.htm",
-          "summary": "IT之家 4 月 15 日消息，谷歌当地时间周二宣布，将为其 Chrome 浏览器新增更多人工智能功能。该公司将推出一项名为 Skills（技能）的新功能，允许用户保存并重复使用自己常用的 AI 提示词，这些提示词可在不同网页间通用，无需重复输入。 该功能与谷歌将 Gemini AI 集成到 Chrome 浏览器的举措相呼应。与此同时，浏览器生态也迎来了一…",
-          "source_name": "IT之家",
-          "published_at": "2026-04-14T22:48:13.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 8
-        },
-        {
-          "id": "bec0c720c1cbc65788a61444dc4ea61e0f2b451e",
-          "title": "Trusted access for the next era of cyber defense",
-          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
-          "summary": "Comments",
-          "source_name": "Hacker News",
-          "published_at": "2026-04-14T20:07:20.000Z",
+          "id": "a64a1b7ddf364e529495f38eb87d39adca691133",
+          "title": "We Parsed 580 AI Instruction Files. 96% of the Content Can't Be Verified.",
+          "link": "https://dev.to/moonrunnerkc/we-parsed-580-ai-instruction-files-96-of-the-content-cant-be-verified-4cg5",
+          "summary": "Every AI coding agent reads an instruction file. CLAUDE.md, AGENTS.md, .cursorrules, whatever your agent uses. You write rules in it. The agent says \"Done.\" And you have no idea w…",
+          "source_name": "Dev.to",
+          "published_at": "2026-04-15T04:31:26.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 4
+          "ai_score": 7
         },
         {
-          "id": "134a20ecb28ec0b7ce746ccb73826c441ab48036",
-          "title": "The attacks on Sam Altman are a warning for the AI world",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-          "summary": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extin…",
-          "source_name": "The Verge",
-          "published_at": "2026-04-14T19:20:05.000Z",
+          "id": "6168c856f2caf57ca730cf3db48a7fcc9ffcaba9",
+          "title": "Why Your AI-Assisted Code Breaks After Week One (And What to Do About It)",
+          "link": "https://dev.to/panav_mhatre_732271d2d44b/why-your-ai-assisted-code-breaks-after-week-one-and-what-to-do-about-it-2mak",
+          "summary": "There's a pattern I keep seeing with developers who use Claude heavily for building features. Week one is great. The code ships. Things work. The velocity feels real. Week three i…",
+          "source_name": "Dev.to",
+          "published_at": "2026-04-15T04:25:09.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 5
+        },
+        {
+          "id": "3010bb1ec34af3cffb847c529a067903c3d394a2",
+          "title": "有没有长期关注 Claude 的朋友，我建了一个 Channel 自动抓取 Claude Team 的推文",
+          "link": "https://www.v2ex.com/t/1206034#reply1",
+          "summary": "这周发现 Cursor 的年订阅到期了，虽然还是去年从闲鱼入的，但是买完好像就用了一个月就吃灰了，这一年一直在用 Claude Code ，不管是工作还是个人生活。 我知晓 Claude Code 的一些新功能，或者是一些不错的分享，都是来源于 X 上面 Team Member 的一些推文，但是刷 X 还有个坏处就是不够聚焦，有时候刷着刷着就上瘾，而且难以…",
+          "source_name": "V2EX 技术",
+          "published_at": "2026-04-15T04:22:33.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 6
         }
-      ]
+      ],
+      "summary": "该话题聚焦于Anthropic的Claude AI工具，特别是Claude Code在开发中的应用，讨论了成本控制、代码可靠性以及用户社区分享。",
+      "why_it_matters": "这反映了AI辅助编程的普及趋势，以及用户对工具效率、成本和长期维护性的关注，对开发者选择和使用AI工具有实际指导意义。",
+      "key_points": [
+        "用户通过构建菜单栏计数器来监控AI使用成本，突显成本管理的重要性。",
+        "分析显示96%的AI指令文件内容无法验证，引发对AI生成代码可靠性的担忧。",
+        "开发者分享Claude Code的使用经验，包括功能更新和社区渠道，促进工具优化和知识共享。"
+      ],
+      "source_links": [
+        "https://dev.to/godnick/my-ai-bill-got-too-expensive-to-ignore-so-i-built-a-menu-bar-counter-4j68",
+        "https://linux.do/t/topic/1970759",
+        "https://dev.to/moonrunnerkc/we-parsed-580-ai-instruction-files-96-of-the-content-cant-be-verified-4cg5",
+        "https://dev.to/panav_mhatre_732271d2d44b/why-your-ai-assisted-code-breaks-after-week-one-and-what-to-do-about-it-2mak",
+        "https://www.v2ex.com/t/1206034#reply1"
+      ],
+      "summary_provider": "openai",
+      "prompt_version": "topic-summary-v2-zh",
+      "summary_model": "deepseek-chat"
     },
     {
       "topic_id": "6a62703e7c4ce92be96db85bbbd263acc0015bb7",
       "topic_key": "google_gemini",
       "title": "Google / Gemini / DeepMind",
-      "summary": "过去24小时内，围绕 Google / Gemini / DeepMind 的内容共有 7 篇，来自 4 个来源。重点包括：Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable；Turn your best AI prompts into one-click tools in Chrome；Google adds AI Skills to Chrome to help you save favorite workflows。",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 57,
-      "article_count": 7,
-      "source_count": 4,
-      "ai_deep_count": 3,
-      "freshest_published_at": "2026-04-14T17:00:37.000Z",
+      "topic_score": 77,
+      "article_count": 8,
+      "source_count": 6,
+      "ai_deep_count": 5,
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
         "gemini",
         "google ai"
       ],
+      "top_titles": [
+        "When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP",
+        "Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows",
+        "用多了 AI 后，有没有觉得 AI 生成的文章有很强的既视感？"
+      ],
       "source_names": [
         "Ars Technica",
         "Google AI Blog",
+        "MarkTechPost (Playwright)",
         "TechCrunch",
-        "arXiv 计算机视觉"
+        "V2EX 技术",
+        "arXiv AI"
       ],
       "articles": [
+        {
+          "id": "da76f21dc44b69e1abd88b8a48a5ed4bc8fa7ea0",
+          "title": "When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP",
+          "link": "https://arxiv.org/abs/2604.12540",
+          "summary": "arXiv:2604.12540v1 Announce Type: cross Abstract: Data scarcity limits NLP development for low-resource African languages. We evaluate two data augmentation methods -- LLM-based g…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 11
+        },
+        {
+          "id": "dad9a78eacf25d34dcb10e9a612bc8dc960d5e59",
+          "title": "Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows",
+          "link": "https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/",
+          "summary": "Google just announced the release of Skills in Chrome, a new feature built into Gemini in Chrome that lets users save frequently used AI...",
+          "source_name": "MarkTechPost (Playwright)",
+          "published_at": "2026-04-15T03:54:17.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 17
+        },
+        {
+          "id": "b543f3f97fcaff851117e456546a75ebc7981667",
+          "title": "用多了 AI 后，有没有觉得 AI 生成的文章有很强的既视感？",
+          "link": "https://www.v2ex.com/t/1205977#reply24",
+          "summary": "包括但不限于： 排比比喻：这不是 xx, 而是 xxx 彩虹屁：这是一个极其硬核且充满数学直觉的思考！这是一个非常具有挑战性且设计复杂的核心脚本！ 我就在这里，不躲，不藏，不绕，不逃，稳稳地接住你（豆包） 我只是个人工智能，所以没法在这方面帮到你。（ gemini 废物模式） 。。。 这类 AI 句式已经看太多了，甚至最近有点越来越多。以至于现在一看就知道…",
+          "source_name": "V2EX 技术",
+          "published_at": "2026-04-15T02:08:20.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 6
+        },
         {
           "id": "59f21e61149ccf0faf073267f86bb7d03ff129eb",
           "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
@@ -524,240 +580,491 @@
           "published_at": "2026-04-14T17:00:00.000Z",
           "ai_label": "ai_deep",
           "ai_score": 13
-        },
+        }
+      ],
+      "summary": "过去24小时内，围绕 Google / Gemini / DeepMind 的内容共有 8 篇，来自 6 个来源。重点包括：When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP；Google Launches ‘Skills’ in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows；用多了 AI 后，有没有觉得 AI…",
+      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
+      "key_points": [
+        "过去24小时共抓到 8 篇相关内容。",
+        "相关信息覆盖 6 个不同来源。",
+        "代表性标题包括：When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2604.12540",
+        "https://www.marktechpost.com/2026/04/14/google-launches-skills-in-chrome-turning-reusable-ai-prompts-into-one-click-browser-workflows/",
+        "https://www.v2ex.com/t/1205977#reply24"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
+    },
+    {
+      "topic_id": "4e5193ea72d137455621741c2feecff07f08296c",
+      "topic_key": "openai_gpt",
+      "title": "OpenAI / GPT",
+      "topic_score": 66,
+      "article_count": 9,
+      "source_count": 7,
+      "ai_deep_count": 1,
+      "freshest_published_at": "2026-04-15T04:33:26.000Z",
+      "signals": [
+        "openai",
+        "gpt",
+        "codex",
+        "chatgpt"
+      ],
+      "top_titles": [
+        "记录 chatgpt pro x5 无质保存活时间",
+        "codex客户端bug",
+        "Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector"
+      ],
+      "source_names": [
+        "Hacker News",
+        "LinuxDo 最新话题",
+        "OpenClaw Releases",
+        "The Verge",
+        "V2EX 技术",
+        "arXiv NLP",
+        "第一财经头条"
+      ],
+      "articles": [
         {
-          "id": "2da129696970fa2b35ebe6c5ff88135c4c8934c5",
-          "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-          "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-          "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
-          "source_name": "TechCrunch",
-          "published_at": "2026-04-14T17:00:00.000Z",
+          "id": "04df00cd06f928b8639eea331ffe64532b069869",
+          "title": "记录 chatgpt pro x5 无质保存活时间",
+          "link": "https://linux.do/t/topic/1970768",
+          "summary": "1.该账号频繁使用codex,以及网页端gpt pro 2.账号类型：账号花费110 RMB激活码，属于无质保账号，使用激活码激活，属于自己注册的号 3.使用破限codex 时间记录： 04.13 早上购买,接入sub2api 04.14 频繁使用gpt pro 04.15 稳定输出，额度根本用不完 3 个帖子 - 3 位参与者 阅读完整话题",
+          "source_name": "LinuxDo 最新话题",
+          "published_at": "2026-04-15T04:33:26.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 6
+          "ai_score": 4
         },
         {
-          "id": "148b4369a175851c869549f628c316f1dbab61b7",
-          "title": "Google brings its Gemini Personal Intelligence feature to India",
-          "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-          "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-          "source_name": "TechCrunch",
-          "published_at": "2026-04-14T14:48:34.000Z",
+          "id": "04c331201a3c9f5b95c882af004ea0b92261cb49",
+          "title": "codex客户端bug",
+          "link": "https://linux.do/t/topic/1970690",
+          "summary": "openai官方是没人发现这两个按钮无法点击吗？更新了两个版本都没修复 2 个帖子 - 2 位参与者 阅读完整话题",
+          "source_name": "LinuxDo 最新话题",
+          "published_at": "2026-04-15T04:21:44.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 5
+          "ai_score": 4
         },
         {
-          "id": "d6460099a4123c9efe0e362119ccf2bf4158a252",
-          "title": "Bringing people together at AI for the Economy Forum",
-          "link": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-          "summary": "Bringing people together at AI for the Economy Forum",
-          "source_name": "Google AI Blog",
-          "published_at": "2026-04-14T09:00:00.000Z",
+          "id": "72310999ecad704638fd6f6c728471a96eb851fd",
+          "title": "Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector",
+          "link": "https://arxiv.org/abs/2509.07177",
+          "summary": "arXiv:2509.07177v3 Announce Type: replace Abstract: Large language models have demonstrated impressive capabilities across various domains. However, their general-purpose nature o…",
+          "source_name": "arXiv NLP",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 9
+        },
+        {
+          "id": "3b8daf16b3e428c7692337019525dd0a2efee807",
+          "title": "OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports",
+          "link": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/",
+          "summary": "Comments",
+          "source_name": "Hacker News",
+          "published_at": "2026-04-15T01:36:22.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 4
+        },
+        {
+          "id": "bec0c720c1cbc65788a61444dc4ea61e0f2b451e",
+          "title": "Trusted access for the next era of cyber defense",
+          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+          "summary": "Comments",
+          "source_name": "Hacker News",
+          "published_at": "2026-04-14T20:07:20.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 4
+        }
+      ],
+      "summary": "过去24小时内，围绕 OpenAI / GPT 的内容共有 9 篇，来自 7 个来源。重点包括：记录 chatgpt pro x5 无质保存活时间；codex客户端bug；Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector。",
+      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
+      "key_points": [
+        "过去24小时共抓到 9 篇相关内容。",
+        "相关信息覆盖 7 个不同来源。",
+        "代表性标题包括：记录 chatgpt pro x5 无质保存活时间。"
+      ],
+      "source_links": [
+        "https://linux.do/t/topic/1970768",
+        "https://linux.do/t/topic/1970690",
+        "https://arxiv.org/abs/2509.07177"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
+    },
+    {
+      "topic_id": "f751b8828ef23efd613b30602303a90e4e09e42d",
+      "topic_key": "qwen",
+      "title": "Qwen",
+      "topic_score": 44,
+      "article_count": 4,
+      "source_count": 4,
+      "ai_deep_count": 3,
+      "freshest_published_at": "2026-04-15T04:29:59.000Z",
+      "signals": [
+        "qwen"
+      ],
+      "top_titles": [
+        "小红书开源大模型强化学习训练引擎Relax",
+        "When Self-Reference Fails to Close: Matrix-Level Dynamics in Large Language Models",
+        "fix: handle OpenRouter Qwen3 reasoning_details streams (#66905) (than…"
+      ],
+      "source_names": [
+        "Hacker News LLM",
+        "OpenClaw Commits",
+        "arXiv NLP",
+        "第一财经最新"
+      ],
+      "articles": [
+        {
+          "id": "df2c438e023dbfd51025e6600e739a47dd98421d",
+          "title": "小红书开源大模型强化学习训练引擎Relax",
+          "link": "https://www.yicai.com/news/103133854.html",
+          "summary": "小红书开源大模型强化学习训练引擎Relax 小红书AI平台团队今日正式开源Relax —一款面向全模态与 Agentic 场景设计的大模型强化学习训练引擎。 Relax 基于 Megatron-LM 和 SGLang 高性能后端构建，将全模态数据支持、服务化容错架构和异步训练流水线三个维度统一解决。在Qwen3-Omni-30B上，Relax 验证了图像、…",
+          "source_name": "第一财经最新",
+          "published_at": "2026-04-15T04:29:59.000Z",
           "ai_label": "ai_deep",
           "ai_score": 11
+        },
+        {
+          "id": "02292cd988b4c67c78f9e76e18c893c1cccf27d2",
+          "title": "When Self-Reference Fails to Close: Matrix-Level Dynamics in Large Language Models",
+          "link": "https://arxiv.org/abs/2604.12128",
+          "summary": "arXiv:2604.12128v1 Announce Type: new Abstract: We investigate how self-referential inputs alter the internal matrix dynamics of large language models. Measuring 106 scalar metric…",
+          "source_name": "arXiv NLP",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 9
+        },
+        {
+          "id": "85936c698c1e3aa4e60bc9bc7cc88a78811d8316",
+          "title": "fix: handle OpenRouter Qwen3 reasoning_details streams (#66905) (than…",
+          "link": "https://github.com/openclaw/openclaw/commit/e0bf756b50b538d68719a5646d902367682b1d09",
+          "summary": "fix: handle OpenRouter Qwen3 reasoning_details streams (#66905) (thanks @bladin) * fix(openrouter): handle reasoning_details field in Qwen3 stream parsing Add support for the reas…",
+          "source_name": "OpenClaw Commits",
+          "published_at": "2026-04-15T02:45:58.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 7
+        },
+        {
+          "id": "8cd0d985c73253e11543d8aa4b5628fbd1f4535e",
+          "title": "One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy",
+          "link": "https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/",
+          "summary": "Article URL: https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/ Comments URL: https://news.ycombinator.com/item?id=47771990 Points: 2 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "published_at": "2026-04-14T21:54:05.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 13
         }
-      ]
+      ],
+      "summary": "过去24小时内，围绕 Qwen 的内容共有 4 篇，来自 4 个来源。重点包括：小红书开源大模型强化学习训练引擎Relax；When Self-Reference Fails to Close: Matrix-Level Dynamics in Large Language Models；fix: handle OpenRouter Qwen3 reasoning_details streams (#66905) (than…。",
+      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
+      "key_points": [
+        "过去24小时共抓到 4 篇相关内容。",
+        "相关信息覆盖 4 个不同来源。",
+        "代表性标题包括：小红书开源大模型强化学习训练引擎Relax。"
+      ],
+      "source_links": [
+        "https://www.yicai.com/news/103133854.html",
+        "https://arxiv.org/abs/2604.12128",
+        "https://github.com/openclaw/openclaw/commit/e0bf756b50b538d68719a5646d902367682b1d09"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
     },
     {
       "topic_id": "6a5d14ddc1bce0234388304581a1eff69d43c531",
       "topic_key": "reasoning_models",
       "title": "Reasoning Models",
-      "summary": "过去24小时内，围绕 Reasoning Models 的内容共有 7 篇，来自 2 个来源。重点包括：AI Achieves a Perfect LSAT Score；Conflicts Make Large Reasoning Models Vulnerable to Attacks；Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models。",
-      "why_it_matters": "该主题命中了多条高置信 AI 信号，适合进入优先阅读队列。",
-      "topic_score": 45,
-      "article_count": 7,
-      "source_count": 2,
+      "topic_score": 30,
+      "article_count": 4,
+      "source_count": 1,
       "ai_deep_count": 2,
-      "freshest_published_at": "2026-04-14T04:00:00.000Z",
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
         "reasoning model"
       ],
+      "top_titles": [
+        "Are Video Reasoning Models Ready to Go Outside?",
+        "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+        "Red Teaming Large Reasoning Models"
+      ],
       "source_names": [
-        "arXiv AI",
-        "arXiv NLP"
+        "arXiv AI"
       ],
       "articles": [
         {
-          "id": "f7dfb68ce8242653dd8631a3825418590e828dd6",
-          "title": "AI Achieves a Perfect LSAT Score",
-          "link": "https://arxiv.org/abs/2604.10034",
-          "summary": "arXiv:2604.10034v1 Announce Type: new Abstract: This paper reports the first documented instance of a language model achieving a perfect score on an officially disclosed Law Schoo…",
+          "id": "fd66190c2bfa672f158551a78d42f0ebd9b3bc4b",
+          "title": "Are Video Reasoning Models Ready to Go Outside?",
+          "link": "https://arxiv.org/abs/2603.10652",
+          "summary": "arXiv:2603.10652v2 Announce Type: replace-cross Abstract: In real-world deployment, vision-language models often encounter disturbances such as weather, occlusion, and camera moti…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 4
+          "ai_score": 6
         },
         {
-          "id": "d9b9708fde80ff22e54b0109d94255a243e7682d",
-          "title": "Conflicts Make Large Reasoning Models Vulnerable to Attacks",
-          "link": "https://arxiv.org/abs/2604.09750",
-          "summary": "arXiv:2604.09750v1 Announce Type: cross Abstract: Large Reasoning Models (LRMs) have achieved remarkable performance across diverse domains, yet their decision-making under confli…",
+          "id": "a172ab15068bf2c8fec0e81706e08aa2613fc4a6",
+          "title": "Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation",
+          "link": "https://arxiv.org/abs/2604.13010",
+          "summary": "arXiv:2604.13010v1 Announce Type: cross Abstract: On-policy distillation (OPD) has emerged as an efficient post-training paradigm for large language models. However, standard OPD…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "b26d23b60f33bd940ee2dfa5f02c702008e16c85",
-          "title": "Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models",
-          "link": "https://arxiv.org/abs/2503.21380",
-          "summary": "arXiv:2503.21380v3 Announce Type: replace Abstract: The rapid advancement of large reasoning models has saturated existing math benchmarks, underscoring the urgent need for more c…",
-          "source_name": "arXiv NLP",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_deep",
           "ai_score": 9
         },
         {
-          "id": "a83a50165c7ad1a59ff3f03165ae8b71d19e5f76",
-          "title": "SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context",
-          "link": "https://arxiv.org/abs/2604.11716",
-          "summary": "arXiv:2604.11716v1 Announce Type: new Abstract: Prior representative ReAct-style approaches in autonomous Software Engineering (SWE) typically lack the explicit System-2 reasoning…",
+          "id": "6c37239c77d82b21d57278cbb24eaecce20e201b",
+          "title": "Red Teaming Large Reasoning Models",
+          "link": "https://arxiv.org/abs/2512.00412",
+          "summary": "arXiv:2512.00412v4 Announce Type: replace-cross Abstract: Large Reasoning Models (LRMs) have emerged as a powerful advancement in multi-step reasoning tasks, offering enhanced tra…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "6eb473bc843357109dde114cccede8c79440b8b6",
-          "title": "MEMENTO: Teaching LLMs to Manage Their Own Context",
-          "link": "https://arxiv.org/abs/2604.09852",
-          "summary": "arXiv:2604.09852v1 Announce Type: new Abstract: Reasoning models think in long, unstructured streams with no mechanism for compressing or organizing their own intermediate state.…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 7
+        },
+        {
+          "id": "0919569eb4ca7c9a7368e86809a6ef83b2b1c164",
+          "title": "Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training",
+          "link": "https://arxiv.org/abs/2509.25758",
+          "summary": "arXiv:2509.25758v2 Announce Type: replace Abstract: The remarkable capabilities of modern large reasoning models are largely unlocked through post-training techniques such as supe…",
+          "source_name": "arXiv AI",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_label": "ai_deep",
+          "ai_score": 8
         }
-      ]
+      ],
+      "summary": "过去24小时内，围绕 Reasoning Models 的内容共有 4 篇，来自 1 个来源。重点包括：Are Video Reasoning Models Ready to Go Outside?；Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation；Red Teaming Large Reasoning Models。",
+      "why_it_matters": "该主题命中了多条高置信 AI 信号，适合进入优先阅读队列。",
+      "key_points": [
+        "过去24小时共抓到 4 篇相关内容。",
+        "相关信息覆盖 1 个不同来源。",
+        "代表性标题包括：Are Video Reasoning Models Ready to Go Outside?。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2603.10652",
+        "https://arxiv.org/abs/2604.13010",
+        "https://arxiv.org/abs/2512.00412"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
     },
     {
       "topic_id": "be8109f07b1ad5a7b968403ab68305e860eb44af",
       "topic_key": "open_source_models",
       "title": "Open-source Models",
-      "summary": "过去24小时内，围绕 Open-source Models 的内容共有 5 篇，来自 3 个来源。重点包括：CapyMOA: Efficient Machine Learning for Data Streams and Online Continual Learning in Python；Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps；FREE-Switch: Frequency-based Dyn…",
-      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
-      "topic_score": 36,
-      "article_count": 5,
+      "topic_score": 28,
+      "article_count": 3,
       "source_count": 3,
       "ai_deep_count": 1,
-      "freshest_published_at": "2026-04-14T04:00:00.000Z",
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
-        "open-source",
-        "weights"
+        "weights",
+        "open-source"
+      ],
+      "top_titles": [
+        "Loop Corrections to the Training and Generalization Errors of Random Feature Models",
+        "Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors",
+        "Toward an Open-Source Playbook for OpenClaw Deployment"
       ],
       "source_names": [
+        "Hacker News OpenClaw",
         "arXiv AI",
-        "arXiv 机器学习",
-        "arXiv 计算机视觉"
+        "arXiv NLP"
       ],
       "articles": [
         {
-          "id": "d36aaa62a0bb3cd177fc7ab408a1873a7598f9bf",
-          "title": "CapyMOA: Efficient Machine Learning for Data Streams and Online Continual Learning in Python",
-          "link": "https://arxiv.org/abs/2502.07432",
-          "summary": "arXiv:2502.07432v2 Announce Type: replace Abstract: CapyMOA is an open-source Python library for efficient machine learning on data streams and online continual learning. It provi…",
-          "source_name": "arXiv 机器学习",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "cf227ba95f2742ce2782bd2da9ababa872fdc127",
-          "title": "Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps",
-          "link": "https://arxiv.org/abs/2604.09688",
-          "summary": "arXiv:2604.09688v1 Announce Type: new Abstract: Recent large-scale generative models enable high-quality 3D synthesis. However, the public accessibility of pre-trained weights int…",
-          "source_name": "arXiv 计算机视觉",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 4
-        },
-        {
-          "id": "c98d9714580cff90ec447626e43fc04399ca710f",
-          "title": "FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer",
-          "link": "https://arxiv.org/abs/2604.10023",
-          "summary": "arXiv:2604.10023v1 Announce Type: cross Abstract: With the growing availability of open-sourced adapters trained on the same diffusion backbone for diverse scenes and objects, com…",
+          "id": "d31a6fd709ac06a90ee1fc2649a8b762fc31be60",
+          "title": "Loop Corrections to the Training and Generalization Errors of Random Feature Models",
+          "link": "https://arxiv.org/abs/2604.12827",
+          "summary": "arXiv:2604.12827v1 Announce Type: cross Abstract: We investigate random feature models in which neural networks sampled from a prescribed initialization ensemble are frozen and us…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 4
         },
         {
-          "id": "6e2f66b5d31889f779d5299009d13d579b4ce865",
-          "title": "Fairboard: a quantitative framework for equity assessment of healthcare models",
-          "link": "https://arxiv.org/abs/2604.09656",
-          "summary": "arXiv:2604.09656v1 Announce Type: cross Abstract: Despite there now being more than 1,000 FDA-authorised AI medical devices, formal equity assessments -- whether model performance…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "id": "82513a2b664d07d03385e71f2df49e8fbff93c41",
+          "title": "Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors",
+          "link": "https://arxiv.org/abs/2604.12359",
+          "summary": "arXiv:2604.12359v1 Announce Type: cross Abstract: Safety-aligned large language models (LLMs) are increasingly deployed in real-world pipelines, yet this deployment also enlarges…",
+          "source_name": "arXiv NLP",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_candidate",
-          "ai_score": 4
+          "ai_score": 5
         },
         {
-          "id": "03aa226e49957035f3b3e3ac6b03e4ad0d2f3b1e",
-          "title": "WebLLM: A High-Performance In-Browser LLM Inference Engine",
-          "link": "https://arxiv.org/abs/2412.15803",
-          "summary": "arXiv:2412.15803v2 Announce Type: replace-cross Abstract: Advancements in large language models (LLMs) have unlocked remarkable capabilities. While deploying these models typicall…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "id": "b87003ec79848ef01aa033ed8474cd10aca82704",
+          "title": "Toward an Open-Source Playbook for OpenClaw Deployment",
+          "link": "https://autoclaw.sh",
+          "summary": "Article URL: https://autoclaw.sh Comments URL: https://news.ycombinator.com/item?id=47764352 Points: 6 # Comments: 0",
+          "source_name": "Hacker News OpenClaw",
+          "published_at": "2026-04-14T11:45:28.000Z",
           "ai_label": "ai_deep",
-          "ai_score": 13
+          "ai_score": 8
         }
-      ]
+      ],
+      "summary": "过去24小时内，围绕 Open-source Models 的内容共有 3 篇，来自 3 个来源。重点包括：Loop Corrections to the Training and Generalization Errors of Random Feature Models；Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors；Toward an Open-Source Playbook for OpenClaw Depl…",
+      "why_it_matters": "该主题已经在多个来源交叉出现，说明它不只是单点消息。",
+      "key_points": [
+        "过去24小时共抓到 3 篇相关内容。",
+        "相关信息覆盖 3 个不同来源。",
+        "代表性标题包括：Loop Corrections to the Training and Generalization Errors of Random Feature Models。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2604.12827",
+        "https://arxiv.org/abs/2604.12359",
+        "https://autoclaw.sh"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
     },
     {
       "topic_id": "e92bc6ff6384c2f2b00cf4e9e7ef8e5ca867cb06",
       "topic_key": "meta_llama",
       "title": "Meta / Llama",
-      "summary": "过去24小时内，围绕 Meta / Llama 的内容共有 2 篇，来自 2 个来源。重点包括：SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration；Back to the Barn with LLAMAs: Evolving Pretrained LLM Backbones in Finetuning Vision Language Models。",
-      "why_it_matters": "该主题命中了多条高置信 AI 信号，适合进入优先阅读队列。",
-      "topic_score": 25,
-      "article_count": 2,
-      "source_count": 2,
-      "ai_deep_count": 2,
-      "freshest_published_at": "2026-04-14T04:00:00.000Z",
+      "topic_score": 13,
+      "article_count": 1,
+      "source_count": 1,
+      "ai_deep_count": 1,
+      "freshest_published_at": "2026-04-15T04:00:00.000Z",
       "signals": [
         "llama"
       ],
+      "top_titles": [
+        "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference"
+      ],
       "source_names": [
-        "arXiv AI",
-        "arXiv 机器学习"
+        "arXiv AI"
       ],
       "articles": [
         {
-          "id": "713c45c477e5a9b389d73e97a3742a22dad4b5be",
-          "title": "SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration",
-          "link": "https://arxiv.org/abs/2409.02231",
-          "summary": "arXiv:2409.02231v5 Announce Type: replace-cross Abstract: We show that large language model (LLMs) can be transformed via supervised fine-tuning (SFT) of engineered prompts into S…",
-          "source_name": "arXiv 机器学习",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 13
-        },
-        {
-          "id": "33a46516a4032f157a4f5590c714dccd72a59402",
-          "title": "Back to the Barn with LLAMAs: Evolving Pretrained LLM Backbones in Finetuning Vision Language Models",
-          "link": "https://arxiv.org/abs/2604.10985",
-          "summary": "arXiv:2604.10985v1 Announce Type: new Abstract: Vision-Language Models (VLMs) have rapidly advanced by leveraging powerful pre-trained Large Language Models (LLMs) as core reasoni…",
+          "id": "ab8ee663de2aece77102a43b27614b7122e648c8",
+          "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
+          "link": "https://arxiv.org/abs/2604.12168",
+          "summary": "arXiv:2604.12168v1 Announce Type: cross Abstract: The applications of Generative Artificial Intelligence (GenAI) and their intersections with data-driven fields, such as healthcar…",
           "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
+          "published_at": "2026-04-15T04:00:00.000Z",
           "ai_label": "ai_deep",
-          "ai_score": 14
+          "ai_score": 12
         }
-      ]
+      ],
+      "summary": "过去24小时内，围绕 Meta / Llama 的内容共有 1 篇，来自 1 个来源。重点包括：Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference。",
+      "why_it_matters": "该主题目前主要由 llama 等信号触发，适合后续继续观察。",
+      "key_points": [
+        "过去24小时共抓到 1 篇相关内容。",
+        "相关信息覆盖 1 个不同来源。",
+        "代表性标题包括：Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference。"
+      ],
+      "source_links": [
+        "https://arxiv.org/abs/2604.12168"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
+    },
+    {
+      "topic_id": "0b3377404f22e868ac22d506e8b0fa3e32f42654",
+      "topic_key": "kimi",
+      "title": "Kimi / Moonshot",
+      "topic_score": 8,
+      "article_count": 1,
+      "source_count": 1,
+      "ai_deep_count": 0,
+      "freshest_published_at": "2026-04-15T03:06:34.000Z",
+      "signals": [
+        "kimi"
+      ],
+      "top_titles": [
+        "月之暗面发布提醒：所有融资活动由公司直接负责"
+      ],
+      "source_names": [
+        "Readhub 热门"
+      ],
+      "articles": [
+        {
+          "id": "c6909035b8690dd87cde7bdbc2630baed2e1dc30",
+          "title": "月之暗面发布提醒：所有融资活动由公司直接负责",
+          "link": "https://readhub.cn/topic/8sKFoaJZy9Y",
+          "summary": "4月14日晚，人工智能大模型企业月之暗面发布提醒，近期市场出现假借其公司名义的不实融资信息，所有融资活动由公司直接负责，非官方渠道流传的“投资份额”风险巨大，公司保留追究擅自发布股权交易信息者法律责任的权利。月之暗面旗下有Kimi智能助手产品，此前已完成多轮融资，2026年2月完成超7亿美元融资，由阿里等老股东联合领投，正开启新一轮100亿 - 120亿美…",
+          "source_name": "Readhub 热门",
+          "published_at": "2026-04-15T03:06:34.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 6
+        }
+      ],
+      "summary": "过去24小时内，围绕 Kimi / Moonshot 的内容共有 1 篇，来自 1 个来源。重点包括：月之暗面发布提醒：所有融资活动由公司直接负责。",
+      "why_it_matters": "该主题目前主要由 kimi 等信号触发，适合后续继续观察。",
+      "key_points": [
+        "过去24小时共抓到 1 篇相关内容。",
+        "相关信息覆盖 1 个不同来源。",
+        "代表性标题包括：月之暗面发布提醒：所有融资活动由公司直接负责。"
+      ],
+      "source_links": [
+        "https://readhub.cn/topic/8sKFoaJZy9Y"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
+    },
+    {
+      "topic_id": "62a1d949c77deb36d6c0058e7656bb67f3e6319a",
+      "topic_key": "coding_agents",
+      "title": "Coding Agents",
+      "topic_score": 8,
+      "article_count": 1,
+      "source_count": 1,
+      "ai_deep_count": 0,
+      "freshest_published_at": "2026-04-15T02:20:42.000Z",
+      "signals": [
+        "cursor"
+      ],
+      "top_titles": [
+        "feat(bluebubbles): replay missed webhook messages after gateway resta…"
+      ],
+      "source_names": [
+        "OpenClaw Commits"
+      ],
+      "articles": [
+        {
+          "id": "f32e3b60d4aa4145de8da3cf1a062b868c1f3af6",
+          "title": "feat(bluebubbles): replay missed webhook messages after gateway resta…",
+          "link": "https://github.com/openclaw/openclaw/commit/6f1d321aababd96e7b67e4b8dc7fdd5d9c1a554b",
+          "summary": "feat(bluebubbles): replay missed webhook messages after gateway restart (#66857) Adds an in-process startup catchup pass to the BlueBubbles channel that queries BB Server for mess…",
+          "source_name": "OpenClaw Commits",
+          "published_at": "2026-04-15T02:20:42.000Z",
+          "ai_label": "ai_candidate",
+          "ai_score": 4
+        }
+      ],
+      "summary": "过去24小时内，围绕 Coding Agents 的内容共有 1 篇，来自 1 个来源。重点包括：feat(bluebubbles): replay missed webhook messages after gateway resta…。",
+      "why_it_matters": "该主题目前主要由 cursor 等信号触发，适合后续继续观察。",
+      "key_points": [
+        "过去24小时共抓到 1 篇相关内容。",
+        "相关信息覆盖 1 个不同来源。",
+        "代表性标题包括：feat(bluebubbles): replay missed webhook messages after gateway resta…。"
+      ],
+      "source_links": [
+        "https://github.com/openclaw/openclaw/commit/6f1d321aababd96e7b67e4b8dc7fdd5d9c1a554b"
+      ],
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
     },
     {
       "topic_id": "61e7a9a44ec34ad47c761aa2a4bff704a2b82175",
       "topic_key": "deepseek",
       "title": "DeepSeek",
-      "summary": "过去24小时内，围绕 DeepSeek 的内容共有 3 篇，来自 2 个来源。重点包括：月薪3万，去内蒙草原给DeepSeek守机房；Solving Physics Olympiad via Reinforcement Learning on Physics Simulators；Agentic Application in Power Grid Static Analysis: Automatic Code Generation and Error Correction。",
-      "why_it_matters": "该主题目前主要由 deepseek 等信号触发，适合后续继续观察。",
-      "topic_score": 24,
-      "article_count": 3,
-      "source_count": 2,
-      "ai_deep_count": 1,
+      "topic_score": 8,
+      "article_count": 1,
+      "source_count": 1,
+      "ai_deep_count": 0,
       "freshest_published_at": "2026-04-14T10:35:06.000Z",
       "signals": [
         "deepseek"
       ],
+      "top_titles": [
+        "月薪3万，去内蒙草原给DeepSeek守机房"
+      ],
       "source_names": [
-        "arXiv AI",
         "华尔街见闻最热"
       ],
       "articles": [
@@ -770,99 +1077,22 @@
           "published_at": "2026-04-14T10:35:06.000Z",
           "ai_label": "ai_candidate",
           "ai_score": 4
-        },
-        {
-          "id": "bf5f567ecf235cadc872b4eaf2cd03bce11de92a",
-          "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-          "link": "https://arxiv.org/abs/2604.11805",
-          "summary": "arXiv:2604.11805v1 Announce Type: cross Abstract: We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progres…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 6
-        },
-        {
-          "id": "9770e1d28b16acf3cfdcb08918ac7ebddd96da46",
-          "title": "Agentic Application in Power Grid Static Analysis: Automatic Code Generation and Error Correction",
-          "link": "https://arxiv.org/abs/2604.09995",
-          "summary": "arXiv:2604.09995v1 Announce Type: cross Abstract: This paper introduces an LLM agent that automates power grid static analysis by converting natural language into MATPOWER scripts…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 9
         }
-      ]
-    },
-    {
-      "topic_id": "f751b8828ef23efd613b30602303a90e4e09e42d",
-      "topic_key": "qwen",
-      "title": "Qwen",
-      "summary": "过去24小时内，围绕 Qwen 的内容共有 2 篇，来自 2 个来源。重点包括：One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy；Tuning Qwen2.5-VL to Improve Its Web Interaction Skills。",
-      "why_it_matters": "该主题目前主要由 qwen 等信号触发，适合后续继续观察。",
-      "topic_score": 20,
-      "article_count": 2,
-      "source_count": 2,
-      "ai_deep_count": 1,
-      "freshest_published_at": "2026-04-14T21:54:05.000Z",
-      "signals": [
-        "qwen"
       ],
-      "source_names": [
-        "Hacker News LLM",
-        "arXiv AI"
+      "summary": "过去24小时内，围绕 DeepSeek 的内容共有 1 篇，来自 1 个来源。重点包括：月薪3万，去内蒙草原给DeepSeek守机房。",
+      "why_it_matters": "该主题目前主要由 deepseek 等信号触发，适合后续继续观察。",
+      "key_points": [
+        "过去24小时共抓到 1 篇相关内容。",
+        "相关信息覆盖 1 个不同来源。",
+        "代表性标题包括：月薪3万，去内蒙草原给DeepSeek守机房。"
       ],
-      "articles": [
-        {
-          "id": "8cd0d985c73253e11543d8aa4b5628fbd1f4535e",
-          "title": "One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy",
-          "link": "https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/",
-          "summary": "Article URL: https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/ Comments URL: https://news.ycombinator.com/item?id=47771990 Points: 2 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "published_at": "2026-04-14T21:54:05.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 13
-        },
-        {
-          "id": "75627fd5e5db38f9e30d33f3668c6192b39d7989",
-          "title": "Tuning Qwen2.5-VL to Improve Its Web Interaction Skills",
-          "link": "https://arxiv.org/abs/2604.09571",
-          "summary": "arXiv:2604.09571v1 Announce Type: cross Abstract: Recent advances in vision-language models (VLMs) have sparked growing interest in using them to automate web tasks, yet their fea…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_candidate",
-          "ai_score": 5
-        }
-      ]
-    },
-    {
-      "topic_id": "62a1d949c77deb36d6c0058e7656bb67f3e6319a",
-      "topic_key": "coding_agents",
-      "title": "Coding Agents",
-      "summary": "过去24小时内，围绕 Coding Agents 的内容共有 1 篇，来自 1 个来源。重点包括：Characterizing Performance-Energy Trade-offs of Large Language Models in Multi-Request Workflows。",
-      "why_it_matters": "该主题目前主要由 copilot 等信号触发，适合后续继续观察。",
-      "topic_score": 13,
-      "article_count": 1,
-      "source_count": 1,
-      "ai_deep_count": 1,
-      "freshest_published_at": "2026-04-14T04:00:00.000Z",
-      "signals": [
-        "copilot"
+      "source_links": [
+        "https://wallstreetcn.com/articles/3769935"
       ],
-      "source_names": [
-        "arXiv AI"
-      ],
-      "articles": [
-        {
-          "id": "7115e01285710ca24f3fe2b9a050c0a294e4b30a",
-          "title": "Characterizing Performance-Energy Trade-offs of Large Language Models in Multi-Request Workflows",
-          "link": "https://arxiv.org/abs/2604.09611",
-          "summary": "arXiv:2604.09611v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used in applications forming multi-request workflows like document summarization, s…",
-          "source_name": "arXiv AI",
-          "published_at": "2026-04-14T04:00:00.000Z",
-          "ai_label": "ai_deep",
-          "ai_score": 11
-        }
-      ]
+      "summary_provider": "rule_summary",
+      "prompt_version": "topic-summary-v2-zh"
     }
-  ]
+  ],
+  "prompt_version": "topic-summary-v2-zh",
+  "summary_model": "deepseek-chat"
 }
