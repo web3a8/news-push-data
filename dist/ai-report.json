@@ -1,22 +1,146 @@
 {
-  "dataset_id": "2026-04-15T14:03:53.079Z",
-  "generated_at": "2026-04-15T14:03:53.079Z",
+  "dataset_id": "2026-04-15T17:15:05.542Z",
+  "generated_at": "2026-04-15T17:15:05.542Z",
   "relevance_version": "rules-v1",
   "report_engine_version": "report-v1",
   "report_provider": "openai",
-  "report_prompt_version": "ai-report-v2-zh-protocol",
+  "report_prompt_version": "ai-report-v3-zh-protocol",
   "report_model": "deepseek-chat",
   "fallback_used": false,
   "report_fallback_from": null,
   "report_fallback_reason": null,
-  "article_count": 173,
+  "article_count": 154,
   "source_count": 16,
-  "global_brief": "OpenAI发布了专用于网络防御的GPT-5.4-Cyber模型，同时哈佛研究指出AI大模型用于医疗初步诊断的错误率高达80%。此外，Google DeepMind发布了增强实体推理能力的Gemini Robotics-ER 1.6模型。",
+  "global_brief": "谷歌发布新一代语音模型Gemini 3.1 Flash TTS，强调对语音表达和控制的精细调控。OpenAI则更新了其Agents SDK，并推出了专注于网络防御的GPT-5.4-Cyber模型。同时，哈佛研究指出，在患者信息不完整的情况下，大型语言模型用于初步医疗诊断的错误率高达80%（S1）。",
   "highlight_facts": [
     {
-      "title": "哈佛研究称AI大模型医疗诊断错误率达80%",
-      "summary": "哈佛大学最新研究显示，使用AI大型语言模型进行初步疾病诊断时，错误率高达80%（S1）。研究指出，当患者无法提供完整的健康检测信息时，AI的诊断结果并不可靠。",
+      "title": "谷歌发布新一代语音模型Gemini 3.1 Flash TTS",
+      "summary": "谷歌发布了Gemini 3.1 Flash TTS预览版文本转语音模型，该模型专注于提升语音质量、表达控制和多语言能力，并引入了精细的音频标签以实现对AI语音生成的精确控制（S2，S6，S7）。",
       "score": 9.0,
+      "article_ids": [
+        "5a8d8c76920f7867eb5df068616a7f347b97cb03",
+        "de1aeacccb52ffeca67e395c330d53ca44d29627",
+        "495e6895d549b5ca2905afb9c88b088c5fa8b4d8"
+      ],
+      "references": [
+        {
+          "id": "5a8d8c76920f7867eb5df068616a7f347b97cb03",
+          "title": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice",
+          "summary": "Google has introduced Gemini 3.1 Flash TTS, a preview text-to-speech model focused on improving speech quality, expressive control, and multilingual generation. Unlike previous it…",
+          "source_name": "MarkTechPost",
+          "source_code": "S2",
+          "link": "https://www.marktechpost.com/2026/04/15/google-ai-launches-gemini-3-1-flash-tts-a-new-benchmark-in-expressive-and-controllable-ai-voice/",
+          "published_at": "2026-04-15T17:06:17.000Z",
+          "ai_score": 19,
+          "ai_label": "ai_deep",
+          "importance_score": 68,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm",
+            "multimodal"
+          ],
+          "entities": [
+            "Google"
+          ]
+        },
+        {
+          "id": "de1aeacccb52ffeca67e395c330d53ca44d29627",
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+          "source_name": "Google DeepMind",
+          "source_code": "S6",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+          "published_at": "2026-04-15T16:03:19.000Z",
+          "ai_score": 19,
+          "ai_label": "ai_deep",
+          "importance_score": 64,
+          "event_type": "general_update",
+          "topic_tags": [
+            "llm",
+            "multimodal"
+          ],
+          "entities": [
+            "Google"
+          ]
+        },
+        {
+          "id": "495e6895d549b5ca2905afb9c88b088c5fa8b4d8",
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "summary": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "source_name": "Google AI Blog",
+          "source_code": "S7",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+          "published_at": "2026-04-15T15:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep",
+          "importance_score": 64,
+          "event_type": "general_update",
+          "topic_tags": [
+            "llm",
+            "multimodal"
+          ],
+          "entities": [
+            "Google"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "OpenAI更新Agents SDK并推出网络安全专用模型",
+      "summary": "OpenAI更新了其Agents SDK，增加了原生沙箱执行和模型原生工具等功能，以帮助开发者构建安全、长期运行的AI代理（S3）。同时，OpenAI发布了GPT-5.4-Cyber，这是其旗舰模型GPT-5.4的变体，专门针对防御性网络安全任务进行了优化，并扩大了安全团队的访问权限（S5）。",
+      "score": 9.0,
+      "article_ids": [
+        "1f68c31ade69035cab215897c3ce931dccc34150",
+        "472efccecb23382f113020e6b3e320d134127fe1"
+      ],
+      "references": [
+        {
+          "id": "1f68c31ade69035cab215897c3ce931dccc34150",
+          "title": "The next evolution of the Agents SDK",
+          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+          "source_name": "OpenAI 博客",
+          "source_code": "S3",
+          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+          "published_at": "2026-04-15T10:00:00.000Z",
+          "ai_score": 17,
+          "ai_label": "ai_deep",
+          "importance_score": 68,
+          "event_type": "product_update",
+          "topic_tags": [
+            "agents",
+            "open_source"
+          ],
+          "entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "id": "472efccecb23382f113020e6b3e320d134127fe1",
+          "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+          "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
+          "source_name": "The Hacker News",
+          "source_code": "S5",
+          "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+          "published_at": "2026-04-15T04:30:00.000Z",
+          "ai_score": 9,
+          "ai_label": "ai_deep",
+          "importance_score": 65,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm",
+            "safety"
+          ],
+          "entities": [
+            "OpenAI",
+            "Anthropic"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "哈佛研究：LLM用于初步医疗诊断错误率高",
+      "summary": "哈佛大学最新研究显示，当患者无法提供完整的健康检测信息时，使用AI大型语言模型（如ChatGPT或DeepSeek）进行初步疾病诊断，其错误率高达80%（S1）。",
+      "score": 8.0,
       "article_ids": [
         "60a1db43653df43670e935a582ce64cf08b88d97"
       ],
@@ -31,7 +155,7 @@
           "published_at": "2026-04-15T10:48:30.000Z",
           "ai_score": 10,
           "ai_label": "ai_deep",
-          "importance_score": 73,
+          "importance_score": 71,
           "event_type": "research",
           "topic_tags": [
             "llm"
@@ -45,55 +169,24 @@
       ]
     },
     {
-      "title": "OpenAI发布网络安全专用模型GPT-5.4-Cyber",
-      "summary": "OpenAI发布了其最新旗舰模型GPT-5.4的变体GPT-5.4-Cyber，该模型专门针对防御性网络安全任务进行了优化，并扩大了安全团队的访问权限（S2）。",
-      "score": 8.0,
+      "title": "Google DeepMind发布机器人模型Gemini Robotics-ER 1.6",
+      "summary": "Google DeepMind发布了Gemini Robotics-ER 1.6模型，该模型旨在为物理AI带来增强的具身推理和仪器读取能力（S2）。",
+      "score": 7.0,
       "article_ids": [
-        "472efccecb23382f113020e6b3e320d134127fe1"
+        "44c72ed44cafa7d3945aadb2c879161985683bb9"
       ],
       "references": [
         {
-          "id": "472efccecb23382f113020e6b3e320d134127fe1",
-          "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-          "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
-          "source_name": "The Hacker News",
-          "source_code": "S2",
-          "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-          "published_at": "2026-04-15T04:30:00.000Z",
-          "ai_score": 9,
-          "ai_label": "ai_deep",
-          "importance_score": 67,
-          "event_type": "model_release",
-          "topic_tags": [
-            "llm",
-            "safety"
-          ],
-          "entities": [
-            "OpenAI",
-            "Anthropic"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Google DeepMind发布增强版机器人模型Gemini Robotics-ER 1.6",
-      "summary": "Google DeepMind发布了Gemini Robotics-ER 1.6，这是其实体推理模型的一次重大升级，旨在作为物理AI的大脑，并增强了仪器读取能力（S3）。",
-      "score": 8.0,
-      "article_ids": [
-        "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7"
-      ],
-      "references": [
-        {
-          "id": "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7",
+          "id": "44c72ed44cafa7d3945aadb2c879161985683bb9",
           "title": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
-          "summary": "Google DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the 'cognitive brain' of...",
-          "source_name": "MarkTechPost (Playwright)",
-          "source_code": "S3",
+          "summary": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
+          "source_name": "MarkTechPost",
+          "source_code": "S2",
           "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
-          "published_at": "2026-04-15T07:13:56.000Z",
-          "ai_score": 20,
+          "published_at": "2026-04-15T00:00:00.000Z",
+          "ai_score": 18,
           "ai_label": "ai_deep",
-          "importance_score": 66,
+          "importance_score": 64,
           "event_type": "model_release",
           "topic_tags": [
             "llm"
@@ -105,38 +198,37 @@
       ]
     },
     {
-      "title": "Anthropic暂时禁止OpenClaw创建者访问Claude",
-      "summary": "Anthropic暂时阻止了Claude订阅用户使用OpenClaw，并暂时禁止了OpenClaw的创建者访问Claude服务（S7）。",
+      "title": "研究显示AI编码代理功能提升但安全性不足",
+      "summary": "一项研究指出，AI编码代理在生成功能性代码方面表现越来越好，但在代码安全性方面并未同步提升（S4）。",
       "score": 7.0,
       "article_ids": [
-        "cd22fe319be3c107cd80feca7257054ce2e52efb"
+        "6102f0036b0c1338b560dfe71e74b624a42f262f"
       ],
       "references": [
         {
-          "id": "cd22fe319be3c107cd80feca7257054ce2e52efb",
-          "title": "Anthropic blocked Claude subscribers from using OpenClaw",
-          "summary": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Po…",
-          "source_name": "Hacker News OpenClaw",
-          "source_code": "S7",
-          "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-          "published_at": "2026-04-15T10:50:14.000Z",
-          "ai_score": 12,
+          "id": "6102f0036b0c1338b560dfe71e74b624a42f262f",
+          "title": "AI Coding Agents get better at functional code, but not security",
+          "summary": "Article URL: https://www.endorlabs.com/research/ai-code-security-benchmark Comments URL: https://news.ycombinator.com/item?id=47781260 Points: 1 # Comments: 0",
+          "source_name": "Hacker News AI",
+          "source_code": "S4",
+          "link": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+          "published_at": "2026-04-15T16:17:54.000Z",
+          "ai_score": 11,
           "ai_label": "ai_deep",
           "importance_score": 60,
-          "event_type": "general_update",
+          "event_type": "research",
           "topic_tags": [
-            "llm"
+            "agents",
+            "safety"
           ],
-          "entities": [
-            "Anthropic"
-          ]
+          "entities": []
         }
       ]
     },
     {
       "title": "Meta研究在Llama 3上应用全同态加密",
-      "summary": "Meta的研究人员探索了在Llama 3模型上应用全同态加密，以实现隐私保护的LLM推理（S5）。",
-      "score": 7.0,
+      "summary": "一项研究探索了在Meta的Llama 3模型上应用全同态加密，以实现隐私保护的LLM推理（S8）。",
+      "score": 6.0,
       "article_ids": [
         "ab8ee663de2aece77102a43b27614b7122e648c8"
       ],
@@ -146,12 +238,12 @@
           "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
           "summary": "arXiv:2604.12168v1 Announce Type: cross Abstract: The applications of Generative Artificial Intelligence (GenAI) and their intersections with data-driven fields, such as healthcar…",
           "source_name": "arXiv AI",
-          "source_code": "S5",
+          "source_code": "S8",
           "link": "https://arxiv.org/abs/2604.12168",
           "published_at": "2026-04-15T04:00:00.000Z",
           "ai_score": 12,
           "ai_label": "ai_deep",
-          "importance_score": 65,
+          "importance_score": 63,
           "event_type": "research",
           "topic_tags": [
             "llm",
@@ -164,44 +256,16 @@
           ]
         }
       ]
-    },
-    {
-      "title": "谷歌在Chrome中引入“技能”功能",
-      "summary": "谷歌在Chrome浏览器中引入了“技能”功能，允许用户保存自定义提示或从谷歌库中获取预设技能，使Gemini提示可即时复用（S8）。",
-      "score": 6.0,
-      "article_ids": [
-        "59f21e61149ccf0faf073267f86bb7d03ff129eb"
-      ],
-      "references": [
-        {
-          "id": "59f21e61149ccf0faf073267f86bb7d03ff129eb",
-          "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-          "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
-          "source_name": "Ars Technica",
-          "source_code": "S8",
-          "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-          "published_at": "2026-04-14T17:00:37.000Z",
-          "ai_score": 10,
-          "ai_label": "ai_deep",
-          "importance_score": 60,
-          "event_type": "product_update",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "Google"
-          ]
-        }
-      ]
     }
   ],
   "highlight_opinions": [
     {
-      "title": "AI医疗诊断需谨慎，信息完整性是关键",
-      "summary": "哈佛研究（S1）表明，AI聊天机器人需要通过充分的患者信息才能作出精准诊断，这揭示了当前AI在医疗辅助应用中的核心局限，即对输入信息质量的强依赖性。",
+      "title": "大模型在严肃专业领域应用面临可靠性质疑",
+      "summary": "哈佛研究揭示LLM在医疗诊断中的高错误率（S1），同时有研究指出AI编码代理在安全性方面的短板（S4）。这表明，尽管大模型能力强大，但在需要高可靠性和专业知识的严肃应用场景（如医疗、安全编码）中，其输出的可信度仍面临严峻挑战，依赖不完整信息或缺乏领域深度对齐可能导致严重后果。",
       "score": 8.0,
       "article_ids": [
-        "60a1db43653df43670e935a582ce64cf08b88d97"
+        "60a1db43653df43670e935a582ce64cf08b88d97",
+        "6102f0036b0c1338b560dfe71e74b624a42f262f"
       ],
       "references": [
         {
@@ -214,7 +278,7 @@
           "published_at": "2026-04-15T10:48:30.000Z",
           "ai_score": 10,
           "ai_label": "ai_deep",
-          "importance_score": 73,
+          "importance_score": 71,
           "event_type": "research",
           "topic_tags": [
             "llm"
@@ -224,15 +288,35 @@
             "Google",
             "DeepSeek"
           ]
+        },
+        {
+          "id": "6102f0036b0c1338b560dfe71e74b624a42f262f",
+          "title": "AI Coding Agents get better at functional code, but not security",
+          "summary": "Article URL: https://www.endorlabs.com/research/ai-code-security-benchmark Comments URL: https://news.ycombinator.com/item?id=47781260 Points: 1 # Comments: 0",
+          "source_name": "Hacker News AI",
+          "source_code": "S4",
+          "link": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+          "published_at": "2026-04-15T16:17:54.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep",
+          "importance_score": 60,
+          "event_type": "research",
+          "topic_tags": [
+            "agents",
+            "safety"
+          ],
+          "entities": []
         }
       ]
     },
     {
-      "title": "专用网络安全模型标志AI安全应用深化",
-      "summary": "OpenAI发布GPT-5.4-Cyber（S2）表明，主流AI公司正将通用大模型能力针对特定高价值、高风险领域（如网络安全）进行深度定制和产品化。",
+      "title": "主要AI公司正通过垂直化模型争夺专业市场",
+      "summary": "OpenAI推出针对网络安全的GPT-5.4-Cyber模型（S5），谷歌发布专注于机器人具身推理的Gemini Robotics-ER 1.6（S2），以及学术研究探索面向能源领域的专用大模型（S10）。这显示AI竞争正从通用能力转向针对特定行业或任务（如安全、机器人、能源）的深度优化和垂直整合，以建立专业壁垒。",
       "score": 7.0,
       "article_ids": [
-        "472efccecb23382f113020e6b3e320d134127fe1"
+        "472efccecb23382f113020e6b3e320d134127fe1",
+        "44c72ed44cafa7d3945aadb2c879161985683bb9",
+        "72310999ecad704638fd6f6c728471a96eb851fd"
       ],
       "references": [
         {
@@ -240,12 +324,12 @@
           "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
           "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
           "source_name": "The Hacker News",
-          "source_code": "S2",
+          "source_code": "S5",
           "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
           "published_at": "2026-04-15T04:30:00.000Z",
           "ai_score": 9,
           "ai_label": "ai_deep",
-          "importance_score": 67,
+          "importance_score": 65,
           "event_type": "model_release",
           "topic_tags": [
             "llm",
@@ -255,28 +339,18 @@
             "OpenAI",
             "Anthropic"
           ]
-        }
-      ]
-    },
-    {
-      "title": "实体推理模型升级推动AI与物理世界交互",
-      "summary": "Google DeepMind发布Gemini Robotics-ER 1.6（S3），代表了AI从纯数字交互向增强物理世界理解和操作能力的重要发展趋势。",
-      "score": 7.0,
-      "article_ids": [
-        "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7"
-      ],
-      "references": [
+        },
         {
-          "id": "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7",
+          "id": "44c72ed44cafa7d3945aadb2c879161985683bb9",
           "title": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
-          "summary": "Google DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the 'cognitive brain' of...",
-          "source_name": "MarkTechPost (Playwright)",
-          "source_code": "S3",
+          "summary": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
+          "source_name": "MarkTechPost",
+          "source_code": "S2",
           "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
-          "published_at": "2026-04-15T07:13:56.000Z",
-          "ai_score": 20,
+          "published_at": "2026-04-15T00:00:00.000Z",
+          "ai_score": 18,
           "ai_label": "ai_deep",
-          "importance_score": 66,
+          "importance_score": 64,
           "event_type": "model_release",
           "topic_tags": [
             "llm"
@@ -284,120 +358,214 @@
           "entities": [
             "Google"
           ]
-        }
-      ]
-    },
-    {
-      "title": "开源社区持续推动LLM工具与代理框架创新",
-      "summary": "社区涌现了多个LLM工具与代理框架，如LLM-primer（S4）、SynapseKit（S4）、Memwright（S4）等，显示出开发者正积极构建基础设施以优化LLM应用体验和效率。",
-      "score": 6.0,
-      "article_ids": [
-        "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
-        "92c112ffed6d3de3309fb902531a7dac2f3aa4b8",
-        "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee"
-      ],
-      "references": [
-        {
-          "id": "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
-          "title": "Show HN: LLM-primer – pre-warmed Claude Code session pool, zero startup wait",
-          "summary": "Claude Code sessions that read a real CLAUDE.md take 30-60 seconds to initialize. Fine once. Friction when you're switching contexts constantly. llm-primer keeps a pool of warm se…",
-          "source_name": "Hacker News LLM",
-          "source_code": "S4",
-          "link": "https://github.com/asakin/llm-primer",
-          "published_at": "2026-04-15T13:30:13.000Z",
-          "ai_score": 17,
-          "ai_label": "ai_deep",
-          "importance_score": 66,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "Anthropic"
-          ]
         },
         {
-          "id": "92c112ffed6d3de3309fb902531a7dac2f3aa4b8",
-          "title": "Show HN: SynapseKit – Async-native Python framework for LLM pipelines and agents",
-          "summary": "Article URL: https://github.com/SynapseKit/SynapseKit Comments URL: https://news.ycombinator.com/item?id=47777703 Points: 3 # Comments: 2",
-          "source_name": "Hacker News LLM",
-          "source_code": "S4",
-          "link": "https://github.com/SynapseKit/SynapseKit",
-          "published_at": "2026-04-15T11:36:22.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep",
-          "importance_score": 66,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents"
-          ],
-          "entities": [
-            "GitHub"
-          ]
-        },
-        {
-          "id": "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee",
-          "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
-          "summary": "Article URL: https://github.com/bolnet/agent-memory Comments URL: https://news.ycombinator.com/item?id=47773981 Points: 3 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S4",
-          "link": "https://github.com/bolnet/agent-memory",
-          "published_at": "2026-04-15T02:31:15.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep",
-          "importance_score": 64,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents"
-          ],
-          "entities": [
-            "GitHub"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "学术研究聚焦LLM安全性、效率与长程任务挑战",
-      "summary": "近期大量arXiv论文（S5，S6）集中于LLM的安全性评估（如TEMPLATEFUZZ）、推理效率优化（如Vec-LUT）以及长程任务中代理系统的失效诊断，反映了学界对AI实用化瓶颈的深入探究。",
-      "score": 6.0,
-      "article_ids": [
-        "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
-        "8dab14ff2bdea450db7411da201956a37c3694f8",
-        "eb01572af90f688c7887f4d8717f24fb624a89a4"
-      ],
-      "references": [
-        {
-          "id": "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
-          "title": "TEMPLATEFUZZ: Fine-Grained Chat Template Fuzzing for Jailbreaking and Red Teaming LLMs",
-          "summary": "arXiv:2604.12232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed across diverse domains, yet their vulnerability to jailbreak attacks, wher…",
-          "source_name": "arXiv AI",
-          "source_code": "S5",
-          "link": "https://arxiv.org/abs/2604.12232",
+          "id": "72310999ecad704638fd6f6c728471a96eb851fd",
+          "title": "Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector",
+          "summary": "arXiv:2509.07177v3 Announce Type: replace Abstract: Large language models have demonstrated impressive capabilities across various domains. However, their general-purpose nature o…",
+          "source_name": "arXiv NLP",
+          "source_code": "S10",
+          "link": "https://arxiv.org/abs/2509.07177",
           "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 10,
+          "ai_score": 9,
           "ai_label": "ai_deep",
           "importance_score": 60,
-          "event_type": "security",
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "open_source"
+          ],
+          "entities": [
+            "OpenAI"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "多模态与语音生成技术进入精细化控制阶段",
+      "summary": "谷歌Gemini 3.1 Flash TTS强调通过“精细音频标签”实现表达控制（S2，S6），同时多项研究关注多模态大模型的幻觉缓解（S8）和高效部署（S8）。这表明，在多模态和语音生成领域，技术焦点正从基础能力构建转向对输出质量、可控性和实用效率的深度优化，以满足更复杂的应用需求。",
+      "score": 7.0,
+      "article_ids": [
+        "5a8d8c76920f7867eb5df068616a7f347b97cb03",
+        "de1aeacccb52ffeca67e395c330d53ca44d29627",
+        "5c004e73d4df1b8e4bf22104095d673fd79e06a8",
+        "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f"
+      ],
+      "references": [
+        {
+          "id": "5a8d8c76920f7867eb5df068616a7f347b97cb03",
+          "title": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice",
+          "summary": "Google has introduced Gemini 3.1 Flash TTS, a preview text-to-speech model focused on improving speech quality, expressive control, and multilingual generation. Unlike previous it…",
+          "source_name": "MarkTechPost",
+          "source_code": "S2",
+          "link": "https://www.marktechpost.com/2026/04/15/google-ai-launches-gemini-3-1-flash-tts-a-new-benchmark-in-expressive-and-controllable-ai-voice/",
+          "published_at": "2026-04-15T17:06:17.000Z",
+          "ai_score": 19,
+          "ai_label": "ai_deep",
+          "importance_score": 68,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm",
+            "multimodal"
+          ],
+          "entities": [
+            "Google"
+          ]
+        },
+        {
+          "id": "de1aeacccb52ffeca67e395c330d53ca44d29627",
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+          "source_name": "Google DeepMind",
+          "source_code": "S6",
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+          "published_at": "2026-04-15T16:03:19.000Z",
+          "ai_score": 19,
+          "ai_label": "ai_deep",
+          "importance_score": 64,
+          "event_type": "general_update",
+          "topic_tags": [
+            "llm",
+            "multimodal"
+          ],
+          "entities": [
+            "Google"
+          ]
+        },
+        {
+          "id": "5c004e73d4df1b8e4bf22104095d673fd79e06a8",
+          "title": "Decoding by Perturbation: Mitigating MLLM Hallucinations via Dynamic Textual Perturbation",
+          "summary": "arXiv:2604.12424v1 Announce Type: cross Abstract: Multimodal Large Language Models frequently suffer from inference hallucinations, partially stemming from language priors dominat…",
+          "source_name": "arXiv AI",
+          "source_code": "S8",
+          "link": "https://arxiv.org/abs/2604.12424",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep",
+          "importance_score": 57,
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "multimodal",
+            "open_source",
+            "inference"
+          ],
+          "entities": []
+        },
+        {
+          "id": "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f",
+          "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+          "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual toke…",
+          "source_name": "arXiv AI",
+          "source_code": "S8",
+          "link": "https://arxiv.org/abs/2604.12767",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 14,
+          "ai_label": "ai_deep",
+          "importance_score": 57,
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "multimodal",
+            "open_source",
+            "inference"
+          ],
+          "entities": []
+        }
+      ]
+    },
+    {
+      "title": "AI代理开发基础设施与安全性成为平台竞争关键",
+      "summary": "OpenAI更新Agents SDK，强化安全沙箱和工具集成（S3）；TinyFish AI发布整合搜索、浏览等功能的AI代理全栈网络基础设施平台（S2）。这反映出，随着AI代理应用增多，提供稳定、安全且功能完备的开发与运行平台，正成为各大厂商构建生态和吸引开发者的核心竞争点。",
+      "score": 7.0,
+      "article_ids": [
+        "1f68c31ade69035cab215897c3ce931dccc34150",
+        "529b14761d430652701636ae14f423259da580e4"
+      ],
+      "references": [
+        {
+          "id": "1f68c31ade69035cab215897c3ce931dccc34150",
+          "title": "The next evolution of the Agents SDK",
+          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+          "source_name": "OpenAI 博客",
+          "source_code": "S3",
+          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+          "published_at": "2026-04-15T10:00:00.000Z",
+          "ai_score": 17,
+          "ai_label": "ai_deep",
+          "importance_score": 68,
+          "event_type": "product_update",
+          "topic_tags": [
+            "agents",
+            "open_source"
+          ],
+          "entities": [
+            "OpenAI"
+          ]
+        },
+        {
+          "id": "529b14761d430652701636ae14f423259da580e4",
+          "title": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key",
+          "summary": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key Agentic AI April 14, 2026",
+          "source_name": "MarkTechPost",
+          "source_code": "S2",
+          "link": "https://www.marktechpost.com/2026/04/14/tinyfish-ai-releases-full-web-infrastructure-platform-for-ai-agents/",
+          "published_at": "2026-04-14T18:53:27.000Z",
+          "ai_score": 15,
+          "ai_label": "ai_deep",
+          "importance_score": 58,
+          "event_type": "model_release",
+          "topic_tags": [
+            "agents"
+          ],
+          "entities": []
+        }
+      ]
+    },
+    {
+      "title": "开源与学术研究持续聚焦大模型效率与安全瓶颈",
+      "summary": "大量arXiv研究涉及大模型推理效率提升（如低比特推理、向量查找表）（S8）、安全对齐的脆弱性（S8）以及针对低资源语言的优化（S8）。这表明，在产业界发布新模型的同时，学术界和开源社区正集中力量攻克大模型在部署成本、安全鲁棒性和普惠性方面的根本性技术瓶颈。",
+      "score": 6.0,
+      "article_ids": [
+        "ab8ee663de2aece77102a43b27614b7122e648c8",
+        "8dab14ff2bdea450db7411da201956a37c3694f8",
+        "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
+        "da76f21dc44b69e1abd88b8a48a5ed4bc8fa7ea0"
+      ],
+      "references": [
+        {
+          "id": "ab8ee663de2aece77102a43b27614b7122e648c8",
+          "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
+          "summary": "arXiv:2604.12168v1 Announce Type: cross Abstract: The applications of Generative Artificial Intelligence (GenAI) and their intersections with data-driven fields, such as healthcar…",
+          "source_name": "arXiv AI",
+          "source_code": "S8",
+          "link": "https://arxiv.org/abs/2604.12168",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep",
+          "importance_score": 63,
+          "event_type": "research",
           "topic_tags": [
             "llm",
             "open_source",
+            "inference",
             "safety"
           ],
-          "entities": []
+          "entities": [
+            "Meta"
+          ]
         },
         {
           "id": "8dab14ff2bdea450db7411da201956a37c3694f8",
           "title": "Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices",
           "summary": "arXiv:2512.06443v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly deployed on edge devices. To meet strict resource constraints, real-world d…",
           "source_name": "arXiv AI",
-          "source_code": "S5",
+          "source_code": "S8",
           "link": "https://arxiv.org/abs/2512.06443",
           "published_at": "2026-04-15T04:00:00.000Z",
           "ai_score": 12,
           "ai_label": "ai_deep",
-          "importance_score": 59,
+          "importance_score": 57,
           "event_type": "research",
           "topic_tags": [
             "llm",
@@ -407,71 +575,42 @@
           "entities": []
         },
         {
-          "id": "eb01572af90f688c7887f4d8717f24fb624a89a4",
-          "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-          "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that…",
+          "id": "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
+          "title": "TEMPLATEFUZZ: Fine-Grained Chat Template Fuzzing for Jailbreaking and Red Teaming LLMs",
+          "summary": "arXiv:2604.12232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed across diverse domains, yet their vulnerability to jailbreak attacks, wher…",
           "source_name": "arXiv AI",
-          "source_code": "S5",
-          "link": "https://arxiv.org/abs/2604.11978",
+          "source_code": "S8",
+          "link": "https://arxiv.org/abs/2604.12232",
           "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 12,
+          "ai_score": 10,
           "ai_label": "ai_deep",
-          "importance_score": 59,
+          "importance_score": 58,
+          "event_type": "security",
+          "topic_tags": [
+            "llm",
+            "open_source",
+            "safety"
+          ],
+          "entities": []
+        },
+        {
+          "id": "da76f21dc44b69e1abd88b8a48a5ed4bc8fa7ea0",
+          "title": "When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP",
+          "summary": "arXiv:2604.12540v1 Announce Type: cross Abstract: Data scarcity limits NLP development for low-resource African languages. We evaluate two data augmentation methods -- LLM-based g…",
+          "source_name": "arXiv AI",
+          "source_code": "S8",
+          "link": "https://arxiv.org/abs/2604.12540",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep",
+          "importance_score": 63,
           "event_type": "research",
           "topic_tags": [
             "llm",
-            "agents"
-          ],
-          "entities": []
-        }
-      ]
-    },
-    {
-      "title": "模型与工具集成引发新的产品形态探索",
-      "summary": "开发者探索将Claude Code与OpenClaw等工具结合（S7），以及让Claude自行设计网页浏览方式（LAD）（S4），体现了社区正在尝试通过集成现有AI能力来创造新的、更强大的应用形态。",
-      "score": 6.0,
-      "article_ids": [
-        "232ea8b474e0774ac47bb369f726971b52ef0cb8",
-        "77b3cde5eb805711b6c34ab3be3da8a9d47b062d"
-      ],
-      "references": [
-        {
-          "id": "232ea8b474e0774ac47bb369f726971b52ef0cb8",
-          "title": "What if Claude Code and OpenClaw had a child?",
-          "summary": "Article URL: https://redcrab.ai Comments URL: https://news.ycombinator.com/item?id=47766906 Points: 3 # Comments: 5",
-          "source_name": "Hacker News OpenClaw",
-          "source_code": "S7",
-          "link": "https://redcrab.ai",
-          "published_at": "2026-04-14T15:27:40.000Z",
-          "ai_score": 12,
-          "ai_label": "ai_deep",
-          "importance_score": 61,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm"
+            "open_source"
           ],
           "entities": [
-            "Anthropic"
-          ]
-        },
-        {
-          "id": "77b3cde5eb805711b6c34ab3be3da8a9d47b062d",
-          "title": "I asked Claude how it wants to browse the web. It built LAD (LLM-as-DOM)",
-          "summary": "Article URL: https://github.com/menot-you/llm-as-dom Comments URL: https://news.ycombinator.com/item?id=47772172 Points: 1 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S4",
-          "link": "https://github.com/menot-you/llm-as-dom",
-          "published_at": "2026-04-14T22:14:36.000Z",
-          "ai_score": 15,
-          "ai_label": "ai_deep",
-          "importance_score": 61,
-          "event_type": "general_update",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "Anthropic",
-            "GitHub"
+            "Google"
           ]
         }
       ]
@@ -479,12 +618,9 @@
   ],
   "title_translations": {
     "60a1db43653df43670e935a582ce64cf08b88d97": "哈佛最新研究：用AI大型语言模型看病，80%的初步诊断都是错的",
-    "472efccecb23382f113020e6b3e320d134127fe1": "OpenAI发布GPT-5.4-Cyber，扩大安全团队访问权限",
-    "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7": "Google DeepMind发布Gemini Robotics-ER 1.6：为物理AI带来增强的实体推理与仪器读取能力",
-    "3d2c20b60f191c998703bdceb2d38d849d0ba5e3": "展示HN：LLM-primer – 预热的Claude Code会话池，实现零启动等待",
-    "92c112ffed6d3de3309fb902531a7dac2f3aa4b8": "展示HN：SynapseKit – 用于LLM管道和代理的异步原生Python框架",
-    "ab8ee663de2aece77102a43b27614b7122e648c8": "在Llama 3模型上应用全同态加密以实现隐私保护的LLM推理",
-    "cd22fe319be3c107cd80feca7257054ce2e52efb": "Anthropic阻止了Claude订阅用户使用OpenClaw",
-    "59f21e61149ccf0faf073267f86bb7d03ff129eb": "谷歌在Chrome中引入“技能”功能，使Gemini提示可即时复用"
+    "5a8d8c76920f7867eb5df068616a7f347b97cb03": "谷歌AI发布Gemini 3.1 Flash TTS：在富有表现力和可控的AI语音领域树立新标杆",
+    "1f68c31ade69035cab215897c3ce931dccc34150": "Agents SDK的下一阶段进化",
+    "0b7140eac38437ff91d89a4ebf35ba814393e74e": "在针对OpenAI阿尔特曼的激烈攻击背后，是AI领域日益扩大的分歧",
+    "6bceaa1736dbae629b39db9ebf4121d123cf1452": "展示HN：Hormuz Trail - 俄勒冈小道 parody/黑盒AI编码练习"
   }
 }
