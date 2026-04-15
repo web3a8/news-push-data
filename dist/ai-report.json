@@ -1,6 +1,6 @@
 {
-  "dataset_id": "2026-04-15T06:51:50.315Z",
-  "generated_at": "2026-04-15T06:51:50.315Z",
+  "dataset_id": "2026-04-15T14:03:53.079Z",
+  "generated_at": "2026-04-15T14:03:53.079Z",
   "relevance_version": "rules-v1",
   "report_engine_version": "report-v1",
   "report_provider": "openai",
@@ -9,370 +9,482 @@
   "fallback_used": false,
   "report_fallback_from": null,
   "report_fallback_reason": null,
-  "article_count": 150,
-  "source_count": 11,
-  "global_brief": "社区涌现多个新的LLM推理引擎项目，包括C#原生实现和高效推理框架。同时，学术界持续关注LLM评估、安全性和多模态模型优化，发布了大量相关论文。",
+  "article_count": 173,
+  "source_count": 16,
+  "global_brief": "OpenAI发布了专用于网络防御的GPT-5.4-Cyber模型，同时哈佛研究指出AI大模型用于医疗初步诊断的错误率高达80%。此外，Google DeepMind发布了增强实体推理能力的Gemini Robotics-ER 1.6模型。",
   "highlight_facts": [
     {
-      "title": "多个新的LLM推理引擎项目发布",
-      "summary": "社区发布了多个新的LLM推理引擎项目，包括一个用C#/.NET从头编写的引擎（S1），以及一个名为DotLLM的C#推理引擎构建项目（S1）。同时，一篇关于高效LLM推理框架Nano-vLLM的深度解析文章也受到关注（S1）。",
+      "title": "哈佛研究称AI大模型医疗诊断错误率达80%",
+      "summary": "哈佛大学最新研究显示，使用AI大型语言模型进行初步疾病诊断时，错误率高达80%（S1）。研究指出，当患者无法提供完整的健康检测信息时，AI的诊断结果并不可靠。",
       "score": 9.0,
       "article_ids": [
-        "e117ba7796a089dc68a203a841278de53829968a",
-        "e12382077dc2a9a9ae809a0d1c11139b2faccdb0",
-        "ccd35c9ceadaa7d673c677c1b73d96916365e540"
+        "60a1db43653df43670e935a582ce64cf08b88d97"
       ],
       "references": [
         {
-          "id": "e117ba7796a089dc68a203a841278de53829968a",
-          "title": "LLM inference engine written ground-up natively in C#/.NET",
-          "summary": "Article URL: https://dotllm.dev/ Comments URL: https://news.ycombinator.com/item?id=47768210 Points: 4 # Comments: 0",
-          "source_name": "Hacker News LLM",
+          "id": "60a1db43653df43670e935a582ce64cf08b88d97",
+          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
+          "summary": "AI聊天机器人需要通过充分的患者信息，才能对疾病作出更为精准的诊断，患者无法提供完整的健康检测信息时，AI提供的结果并不可靠。 在AI大模型快速发展的今天，很多人在生病或出现症状时的第一反应已经不再是去医院挂急诊，而是求助于ChatGPT或者DeepSeek这类AI聊天机器人。 尽管这些通用聊天机器人在日常生活的很多方面都能成为人类的好助手，但在医学方面，…",
+          "source_name": "第一财经头条",
           "source_code": "S1",
-          "link": "https://dotllm.dev/",
-          "published_at": "2026-04-14T17:00:18.000Z",
-          "ai_score": 15,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "e12382077dc2a9a9ae809a0d1c11139b2faccdb0",
-          "title": "DotLLM – Building an LLM Inference Engine in C#",
-          "summary": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47767498 Points: 3 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://kokosa.dev/blog/2026/dotllm/",
-          "published_at": "2026-04-14T16:08:00.000Z",
-          "ai_score": 15,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "ccd35c9ceadaa7d673c677c1b73d96916365e540",
-          "title": "Deep Dive into Efficient LLM Inference with Nano-vLLM",
-          "summary": "Article URL: https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/ Comments URL: https://news.ycombinator.com/item?id=47772916 Points: 3 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/",
-          "published_at": "2026-04-14T23:43:45.000Z",
-          "ai_score": 16,
-          "ai_label": "ai_deep"
+          "link": "https://www.yicai.com/news/103134482.html",
+          "published_at": "2026-04-15T10:48:30.000Z",
+          "ai_score": 10,
+          "ai_label": "ai_deep",
+          "importance_score": 73,
+          "event_type": "research",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "OpenAI",
+            "Google",
+            "DeepSeek"
+          ]
         }
       ]
     },
     {
-      "title": "研究者提出无需基准的LLM相互评估新范式",
-      "summary": "一篇arXiv论文提出了一种名为“League of LLMs”的无需基准的范式，用于大型语言模型之间的相互评估（S2）。",
+      "title": "OpenAI发布网络安全专用模型GPT-5.4-Cyber",
+      "summary": "OpenAI发布了其最新旗舰模型GPT-5.4的变体GPT-5.4-Cyber，该模型专门针对防御性网络安全任务进行了优化，并扩大了安全团队的访问权限（S2）。",
       "score": 8.0,
       "article_ids": [
-        "93bb717316a489476172d20407e61eefd59fbd9d"
+        "472efccecb23382f113020e6b3e320d134127fe1"
       ],
       "references": [
         {
-          "id": "93bb717316a489476172d20407e61eefd59fbd9d",
-          "title": "League of LLMs: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models",
-          "summary": "arXiv:2507.22359v4 Announce Type: replace Abstract: Although large language models (LLMs) have shown exceptional capabilities across a wide range of tasks, reliable evaluation rem…",
-          "source_name": "arXiv AI",
+          "id": "472efccecb23382f113020e6b3e320d134127fe1",
+          "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+          "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
+          "source_name": "The Hacker News",
           "source_code": "S2",
-          "link": "https://arxiv.org/abs/2507.22359",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 16,
-          "ai_label": "ai_deep"
+          "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+          "published_at": "2026-04-15T04:30:00.000Z",
+          "ai_score": 9,
+          "ai_label": "ai_deep",
+          "importance_score": 67,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm",
+            "safety"
+          ],
+          "entities": [
+            "OpenAI",
+            "Anthropic"
+          ]
         }
       ]
     },
     {
-      "title": "研究者提出多模态大语言模型优化新方法",
-      "summary": "一篇arXiv论文提出了CLASP方法，通过类自适应层融合和双阶段剪枝来减少多模态大语言模型的计算开销（S2）。",
+      "title": "Google DeepMind发布增强版机器人模型Gemini Robotics-ER 1.6",
+      "summary": "Google DeepMind发布了Gemini Robotics-ER 1.6，这是其实体推理模型的一次重大升级，旨在作为物理AI的大脑，并增强了仪器读取能力（S3）。",
       "score": 8.0,
       "article_ids": [
-        "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f"
+        "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7"
       ],
       "references": [
         {
-          "id": "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f",
-          "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
-          "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual toke…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12767",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 14,
-          "ai_label": "ai_deep"
+          "id": "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7",
+          "title": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
+          "summary": "Google DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the 'cognitive brain' of...",
+          "source_name": "MarkTechPost (Playwright)",
+          "source_code": "S3",
+          "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
+          "published_at": "2026-04-15T07:13:56.000Z",
+          "ai_score": 20,
+          "ai_label": "ai_deep",
+          "importance_score": 66,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Google"
+          ]
         }
       ]
     },
     {
-      "title": "联邦学习下的大语言模型安全性研究发布",
-      "summary": "一篇arXiv论文深入研究了联邦大语言模型的安全性，提出了Safe-FedLLM框架（S2）。",
-      "score": 8.0,
-      "article_ids": [
-        "ed3430eda109f51200a13ba28133b5b6bf582dcf"
-      ],
-      "references": [
-        {
-          "id": "ed3430eda109f51200a13ba28133b5b6bf582dcf",
-          "title": "Safe-FedLLM: Delving into the Safety of Federated Large Language Models",
-          "summary": "arXiv:2601.07177v2 Announce Type: replace-cross Abstract: Federated learning (FL) addresses privacy and data-silo issues in the training of large language models (LLMs). Most prio…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2601.07177",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 14,
-          "ai_label": "ai_deep"
-        }
-      ]
-    },
-    {
-      "title": "研究者探索长上下文对LLM性能的影响",
-      "summary": "一篇名为“Context Rot”的文章研究了增加输入令牌如何影响LLM的性能（S1）。",
+      "title": "Anthropic暂时禁止OpenClaw创建者访问Claude",
+      "summary": "Anthropic暂时阻止了Claude订阅用户使用OpenClaw，并暂时禁止了OpenClaw的创建者访问Claude服务（S7）。",
       "score": 7.0,
       "article_ids": [
-        "41ccdf85a4e2c3242fa15bb9276802bf91dc269d"
+        "cd22fe319be3c107cd80feca7257054ce2e52efb"
       ],
       "references": [
         {
-          "id": "41ccdf85a4e2c3242fa15bb9276802bf91dc269d",
-          "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
-          "summary": "Article URL: https://www.trychroma.com/research/context-rot Comments URL: https://news.ycombinator.com/item?id=47769695 Points: 1 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://www.trychroma.com/research/context-rot",
-          "published_at": "2026-04-14T18:49:47.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
+          "id": "cd22fe319be3c107cd80feca7257054ce2e52efb",
+          "title": "Anthropic blocked Claude subscribers from using OpenClaw",
+          "summary": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Po…",
+          "source_name": "Hacker News OpenClaw",
+          "source_code": "S7",
+          "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+          "published_at": "2026-04-15T10:50:14.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep",
+          "importance_score": 60,
+          "event_type": "general_update",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Anthropic"
+          ]
         }
       ]
     },
     {
-      "title": "研究者提出提升LLM代理长期记忆的新架构",
-      "summary": "一篇arXiv论文提出了GAM，一种用于LLM代理的基于层次图结构的智能记忆架构，以维持连贯的长期交互（S2）。",
+      "title": "Meta研究在Llama 3上应用全同态加密",
+      "summary": "Meta的研究人员探索了在Llama 3模型上应用全同态加密，以实现隐私保护的LLM推理（S5）。",
       "score": 7.0,
       "article_ids": [
-        "b7dcfc813587dfb7def7dea66900767a3f1ddc14"
+        "ab8ee663de2aece77102a43b27614b7122e648c8"
       ],
       "references": [
         {
-          "id": "b7dcfc813587dfb7def7dea66900767a3f1ddc14",
-          "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
-          "summary": "arXiv:2604.12285v1 Announce Type: new Abstract: To sustain coherent long-term interactions, Large Language Model (LLM) agents must navigate the tension between acquiring new infor…",
+          "id": "ab8ee663de2aece77102a43b27614b7122e648c8",
+          "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
+          "summary": "arXiv:2604.12168v1 Announce Type: cross Abstract: The applications of Generative Artificial Intelligence (GenAI) and their intersections with data-driven fields, such as healthcar…",
           "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12285",
+          "source_code": "S5",
+          "link": "https://arxiv.org/abs/2604.12168",
           "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
+          "ai_score": 12,
+          "ai_label": "ai_deep",
+          "importance_score": 65,
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "open_source",
+            "inference",
+            "safety"
+          ],
+          "entities": [
+            "Meta"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "谷歌在Chrome中引入“技能”功能",
+      "summary": "谷歌在Chrome浏览器中引入了“技能”功能，允许用户保存自定义提示或从谷歌库中获取预设技能，使Gemini提示可即时复用（S8）。",
+      "score": 6.0,
+      "article_ids": [
+        "59f21e61149ccf0faf073267f86bb7d03ff129eb"
+      ],
+      "references": [
+        {
+          "id": "59f21e61149ccf0faf073267f86bb7d03ff129eb",
+          "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
+          "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
+          "source_name": "Ars Technica",
+          "source_code": "S8",
+          "link": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+          "published_at": "2026-04-14T17:00:37.000Z",
+          "ai_score": 10,
+          "ai_label": "ai_deep",
+          "importance_score": 60,
+          "event_type": "product_update",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Google"
+          ]
         }
       ]
     }
   ],
   "highlight_opinions": [
     {
-      "title": "社区对构建“智能体应用”的兴趣持续增长",
-      "summary": "受Andrej Karpathy的LLM Wiki启发，出现了用于创建“智能体应用”的Idea File项目（S1），同时也有观点认为当前LLM代理缺乏超越文本到SQL的上下文层（S1），这反映了社区对实用化、可扩展的智能体架构的探索和需求。",
+      "title": "AI医疗诊断需谨慎，信息完整性是关键",
+      "summary": "哈佛研究（S1）表明，AI聊天机器人需要通过充分的患者信息才能作出精准诊断，这揭示了当前AI在医疗辅助应用中的核心局限，即对输入信息质量的强依赖性。",
       "score": 8.0,
       "article_ids": [
-        "7560a26b897bb1dc35518370ae635d6924f8b69f",
-        "56ee2c3fccc1312fd17cf8835ca6c08ab2c75bfc"
+        "60a1db43653df43670e935a582ce64cf08b88d97"
       ],
       "references": [
         {
-          "id": "7560a26b897bb1dc35518370ae635d6924f8b69f",
-          "title": "Show HN: Idea File for LLM Cycling Coach",
-          "summary": "This is heavily inspired by Andrej Karpathy's LLM Wiki, and could be used to create many other types of \"Agentic Apps\" or however you want to call them. My specific implementation…",
-          "source_name": "Hacker News LLM",
+          "id": "60a1db43653df43670e935a582ce64cf08b88d97",
+          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
+          "summary": "AI聊天机器人需要通过充分的患者信息，才能对疾病作出更为精准的诊断，患者无法提供完整的健康检测信息时，AI提供的结果并不可靠。 在AI大模型快速发展的今天，很多人在生病或出现症状时的第一反应已经不再是去医院挂急诊，而是求助于ChatGPT或者DeepSeek这类AI聊天机器人。 尽管这些通用聊天机器人在日常生活的很多方面都能成为人类的好助手，但在医学方面，…",
+          "source_name": "第一财经头条",
           "source_code": "S1",
-          "link": "https://gist.github.com/leourbina/4db27d9a0a86b9e1551bf9d4b3fd6dad",
-          "published_at": "2026-04-15T03:00:07.000Z",
-          "ai_score": 18,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "56ee2c3fccc1312fd17cf8835ca6c08ab2c75bfc",
-          "title": "The Missing Context Layer: Why Your LLM Agent Can't Do More Than Text-to-SQL",
-          "summary": "Article URL: https://airbyte.com/blog/the-missing-context-layer Comments URL: https://news.ycombinator.com/item?id=47768158 Points: 2 # Comments: 1",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://airbyte.com/blog/the-missing-context-layer",
-          "published_at": "2026-04-14T16:56:30.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep"
+          "link": "https://www.yicai.com/news/103134482.html",
+          "published_at": "2026-04-15T10:48:30.000Z",
+          "ai_score": 10,
+          "ai_label": "ai_deep",
+          "importance_score": 73,
+          "event_type": "research",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "OpenAI",
+            "Google",
+            "DeepSeek"
+          ]
         }
       ]
     },
     {
-      "title": "降低LLM推理成本成为工程实践焦点",
-      "summary": "社区展示了多种降低LLM推理成本的技术，包括通过流式传输减少首令牌时间（S1）、使用三层缓存架构降低API成本（S1）、以及NVIDIA提出的LLM压缩方案（S1），这表明成本优化是当前LLM部署的核心挑战之一。",
-      "score": 8.0,
-      "article_ids": [
-        "9039256faa1ede3132422e6a3bcf0fb3194b722c",
-        "a3858d0919b466796d673ca22f2a77d672dba6e9",
-        "a4d4c7b808c43d0eb2d796b19c903b4991d4128c"
-      ],
-      "references": [
-        {
-          "id": "9039256faa1ede3132422e6a3bcf0fb3194b722c",
-          "title": "Show HN: Reduce TTFT via Streaming to an LLM",
-          "summary": "Article URL: https://rajveerbachkaniwala.com/assets/stream2llm-mlsys26.pdf Comments URL: https://news.ycombinator.com/item?id=47768747 Points: 1 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://rajveerbachkaniwala.com/assets/stream2llm-mlsys26.pdf",
-          "published_at": "2026-04-14T17:42:53.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "a3858d0919b466796d673ca22f2a77d672dba6e9",
-          "title": "A 3-Layer Cache Architecture Cuts LLM API Costs by 75%",
-          "summary": "Article URL: https://github.com/kylemaa/distributed-semantic-cache/blob/main/docs/blog/three-layer-cache-architecture.md Comments URL: https://news.ycombinator.com/item?id=4777000…",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://github.com/kylemaa/distributed-semantic-cache/blob/main/docs/blog/three-layer-cache-architecture.md",
-          "published_at": "2026-04-14T19:10:40.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "a4d4c7b808c43d0eb2d796b19c903b4991d4128c",
-          "title": "NVIDIA LLM compression to save money",
-          "summary": "Article URL: https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/ Comments URL: https://news.ycombinator.com/item?id=47770127 Po…",
-          "source_name": "Hacker News LLM",
-          "source_code": "S1",
-          "link": "https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/",
-          "published_at": "2026-04-14T19:19:04.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep"
-        }
-      ]
-    },
-    {
-      "title": "LLM安全对齐的脆弱性引发持续关注",
-      "summary": "多篇论文指出LLM的安全对齐在微调过程中非常脆弱（S2），并且安全基准的测量存在碎片化和治理薄弱的问题（S2），这凸显了确保LLM安全性的复杂性和长期性。",
+      "title": "专用网络安全模型标志AI安全应用深化",
+      "summary": "OpenAI发布GPT-5.4-Cyber（S2）表明，主流AI公司正将通用大模型能力针对特定高价值、高风险领域（如网络安全）进行深度定制和产品化。",
       "score": 7.0,
       "article_ids": [
-        "8bf40bd9a2938939b438b2b1259f25080b4ff036",
-        "4ecf96906934f87c11444ea61f62643ac00f4391"
+        "472efccecb23382f113020e6b3e320d134127fe1"
       ],
       "references": [
         {
-          "id": "8bf40bd9a2938939b438b2b1259f25080b4ff036",
-          "title": "Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints",
-          "summary": "arXiv:2604.12384v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) remains highly fragile during fine-tuning, where even benign adaptation can degrad…",
-          "source_name": "arXiv AI",
+          "id": "472efccecb23382f113020e6b3e320d134127fe1",
+          "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+          "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
+          "source_name": "The Hacker News",
           "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12384",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "4ecf96906934f87c11444ea61f62643ac00f4391",
-          "title": "AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance",
-          "summary": "arXiv:2604.12875v1 Announce Type: new Abstract: The rapid expansion of large language model (LLM) safety evaluation has produced a substantial benchmark ecosystem, but not a corre…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12875",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 12,
-          "ai_label": "ai_deep"
+          "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+          "published_at": "2026-04-15T04:30:00.000Z",
+          "ai_score": 9,
+          "ai_label": "ai_deep",
+          "importance_score": 67,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm",
+            "safety"
+          ],
+          "entities": [
+            "OpenAI",
+            "Anthropic"
+          ]
         }
       ]
     },
     {
-      "title": "针对LLM的特定领域微调和评估成为研究趋势",
-      "summary": "研究涵盖了为报告摘要微调LLM（S2）、评估LLM在编码任务中的推理能力（S2）、以及构建用于汽车助手的LLM基准测试（S2），这表明研究正从通用能力评估转向更具体、更专业的应用场景优化。",
+      "title": "实体推理模型升级推动AI与物理世界交互",
+      "summary": "Google DeepMind发布Gemini Robotics-ER 1.6（S3），代表了AI从纯数字交互向增强物理世界理解和操作能力的重要发展趋势。",
       "score": 7.0,
       "article_ids": [
-        "0ce28435fa556533a547372a94a0aa7e5d8294b1",
-        "7c0de434845e1df5736bc698ece38957905d6a6b",
-        "e7280a1ffffc7c2eaf7e46b5fb5345f93aa533c2"
+        "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7"
       ],
       "references": [
         {
-          "id": "0ce28435fa556533a547372a94a0aa7e5d8294b1",
-          "title": "Fine-Tuning LLMs for Report Summarization: Analysis on Supervised and Unsupervised Data",
-          "summary": "arXiv:2503.10676v2 Announce Type: replace-cross Abstract: We study the efficacy of fine-tuning Large Language Models (LLMs) for the specific task of report (government archives, n…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2503.10676",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "7c0de434845e1df5736bc698ece38957905d6a6b",
-          "title": "Beyond Output Correctness: Benchmarking and Evaluating Large Language Model Reasoning in Coding Tasks",
-          "summary": "arXiv:2604.12379v1 Announce Type: cross Abstract: Large language models (LLMs) increasingly rely on explicit reasoning to solve coding tasks, yet evaluating the quality of this re…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12379",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
-        },
-        {
-          "id": "e7280a1ffffc7c2eaf7e46b5fb5345f93aa533c2",
-          "title": "DeepTest Tool Competition 2026: Benchmarking an LLM-Based Automotive Assistant",
-          "summary": "arXiv:2604.12615v1 Announce Type: new Abstract: This report summarizes the results of the first edition of the Large Language Model (LLM) Testing competition, held as part of the…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2604.12615",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep"
+          "id": "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7",
+          "title": "Google DeepMind Releases Gemini Robotics-ER 1.6: Bringing Enhanced Embodied Reasoning and Instrument Reading to Physical AI",
+          "summary": "Google DeepMind research team introduced Gemini Robotics-ER 1.6, a significant upgrade to its embodied reasoning model designed to serve as the 'cognitive brain' of...",
+          "source_name": "MarkTechPost (Playwright)",
+          "source_code": "S3",
+          "link": "https://www.marktechpost.com/2026/04/15/google-deepmind-releases-gemini-robotics-er-1-6-bringing-enhanced-embodied-reasoning-and-instrument-reading-to-physical-ai/",
+          "published_at": "2026-04-15T07:13:56.000Z",
+          "ai_score": 20,
+          "ai_label": "ai_deep",
+          "importance_score": 66,
+          "event_type": "model_release",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Google"
+          ]
         }
       ]
     },
     {
-      "title": "边缘设备上的高效LLM推理方案受到重视",
-      "summary": "有论文提出了Vec-LUT方法，用于在边缘设备上进行并行超低位LLM推理（S2），这反映了将强大模型部署到资源受限终端的市场需求和技术探索。",
+      "title": "开源社区持续推动LLM工具与代理框架创新",
+      "summary": "社区涌现了多个LLM工具与代理框架，如LLM-primer（S4）、SynapseKit（S4）、Memwright（S4）等，显示出开发者正积极构建基础设施以优化LLM应用体验和效率。",
       "score": 6.0,
       "article_ids": [
-        "8dab14ff2bdea450db7411da201956a37c3694f8"
+        "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
+        "92c112ffed6d3de3309fb902531a7dac2f3aa4b8",
+        "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee"
       ],
       "references": [
+        {
+          "id": "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
+          "title": "Show HN: LLM-primer – pre-warmed Claude Code session pool, zero startup wait",
+          "summary": "Claude Code sessions that read a real CLAUDE.md take 30-60 seconds to initialize. Fine once. Friction when you're switching contexts constantly. llm-primer keeps a pool of warm se…",
+          "source_name": "Hacker News LLM",
+          "source_code": "S4",
+          "link": "https://github.com/asakin/llm-primer",
+          "published_at": "2026-04-15T13:30:13.000Z",
+          "ai_score": 17,
+          "ai_label": "ai_deep",
+          "importance_score": 66,
+          "event_type": "tooling",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Anthropic"
+          ]
+        },
+        {
+          "id": "92c112ffed6d3de3309fb902531a7dac2f3aa4b8",
+          "title": "Show HN: SynapseKit – Async-native Python framework for LLM pipelines and agents",
+          "summary": "Article URL: https://github.com/SynapseKit/SynapseKit Comments URL: https://news.ycombinator.com/item?id=47777703 Points: 3 # Comments: 2",
+          "source_name": "Hacker News LLM",
+          "source_code": "S4",
+          "link": "https://github.com/SynapseKit/SynapseKit",
+          "published_at": "2026-04-15T11:36:22.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep",
+          "importance_score": 66,
+          "event_type": "tooling",
+          "topic_tags": [
+            "llm",
+            "agents"
+          ],
+          "entities": [
+            "GitHub"
+          ]
+        },
+        {
+          "id": "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee",
+          "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
+          "summary": "Article URL: https://github.com/bolnet/agent-memory Comments URL: https://news.ycombinator.com/item?id=47773981 Points: 3 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S4",
+          "link": "https://github.com/bolnet/agent-memory",
+          "published_at": "2026-04-15T02:31:15.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep",
+          "importance_score": 64,
+          "event_type": "tooling",
+          "topic_tags": [
+            "llm",
+            "agents"
+          ],
+          "entities": [
+            "GitHub"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "学术研究聚焦LLM安全性、效率与长程任务挑战",
+      "summary": "近期大量arXiv论文（S5，S6）集中于LLM的安全性评估（如TEMPLATEFUZZ）、推理效率优化（如Vec-LUT）以及长程任务中代理系统的失效诊断，反映了学界对AI实用化瓶颈的深入探究。",
+      "score": 6.0,
+      "article_ids": [
+        "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
+        "8dab14ff2bdea450db7411da201956a37c3694f8",
+        "eb01572af90f688c7887f4d8717f24fb624a89a4"
+      ],
+      "references": [
+        {
+          "id": "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
+          "title": "TEMPLATEFUZZ: Fine-Grained Chat Template Fuzzing for Jailbreaking and Red Teaming LLMs",
+          "summary": "arXiv:2604.12232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed across diverse domains, yet their vulnerability to jailbreak attacks, wher…",
+          "source_name": "arXiv AI",
+          "source_code": "S5",
+          "link": "https://arxiv.org/abs/2604.12232",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 10,
+          "ai_label": "ai_deep",
+          "importance_score": 60,
+          "event_type": "security",
+          "topic_tags": [
+            "llm",
+            "open_source",
+            "safety"
+          ],
+          "entities": []
+        },
         {
           "id": "8dab14ff2bdea450db7411da201956a37c3694f8",
           "title": "Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices",
           "summary": "arXiv:2512.06443v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly deployed on edge devices. To meet strict resource constraints, real-world d…",
           "source_name": "arXiv AI",
-          "source_code": "S2",
+          "source_code": "S5",
           "link": "https://arxiv.org/abs/2512.06443",
           "published_at": "2026-04-15T04:00:00.000Z",
           "ai_score": 12,
-          "ai_label": "ai_deep"
+          "ai_label": "ai_deep",
+          "importance_score": 59,
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "open_source",
+            "inference"
+          ],
+          "entities": []
+        },
+        {
+          "id": "eb01572af90f688c7887f4d8717f24fb624a89a4",
+          "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+          "summary": "arXiv:2604.11978v1 Announce Type: new Abstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks that…",
+          "source_name": "arXiv AI",
+          "source_code": "S5",
+          "link": "https://arxiv.org/abs/2604.11978",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep",
+          "importance_score": 59,
+          "event_type": "research",
+          "topic_tags": [
+            "llm",
+            "agents"
+          ],
+          "entities": []
         }
       ]
     },
     {
-      "title": "开源模型与知识图谱结合以增强推理能力",
-      "summary": "一篇论文提出了KG-Hopper方法，通过强化学习赋能紧凑的开源LLM进行知识图谱推理（S2），这代表了增强较小模型能力的一种有前景的方向。",
+      "title": "模型与工具集成引发新的产品形态探索",
+      "summary": "开发者探索将Claude Code与OpenClaw等工具结合（S7），以及让Claude自行设计网页浏览方式（LAD）（S4），体现了社区正在尝试通过集成现有AI能力来创造新的、更强大的应用形态。",
       "score": 6.0,
       "article_ids": [
-        "5bc562faed2fd0ec4892ae9a4d41c59eab746ea7"
+        "232ea8b474e0774ac47bb369f726971b52ef0cb8",
+        "77b3cde5eb805711b6c34ab3be3da8a9d47b062d"
       ],
       "references": [
         {
-          "id": "5bc562faed2fd0ec4892ae9a4d41c59eab746ea7",
-          "title": "KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning",
-          "summary": "arXiv:2603.21440v4 Announce Type: replace-cross Abstract: Large Language Models (LLMs) demonstrate impressive natural language capabilities but often struggle with knowledge-inten…",
-          "source_name": "arXiv AI",
-          "source_code": "S2",
-          "link": "https://arxiv.org/abs/2603.21440",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep"
+          "id": "232ea8b474e0774ac47bb369f726971b52ef0cb8",
+          "title": "What if Claude Code and OpenClaw had a child?",
+          "summary": "Article URL: https://redcrab.ai Comments URL: https://news.ycombinator.com/item?id=47766906 Points: 3 # Comments: 5",
+          "source_name": "Hacker News OpenClaw",
+          "source_code": "S7",
+          "link": "https://redcrab.ai",
+          "published_at": "2026-04-14T15:27:40.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep",
+          "importance_score": 61,
+          "event_type": "tooling",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Anthropic"
+          ]
+        },
+        {
+          "id": "77b3cde5eb805711b6c34ab3be3da8a9d47b062d",
+          "title": "I asked Claude how it wants to browse the web. It built LAD (LLM-as-DOM)",
+          "summary": "Article URL: https://github.com/menot-you/llm-as-dom Comments URL: https://news.ycombinator.com/item?id=47772172 Points: 1 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S4",
+          "link": "https://github.com/menot-you/llm-as-dom",
+          "published_at": "2026-04-14T22:14:36.000Z",
+          "ai_score": 15,
+          "ai_label": "ai_deep",
+          "importance_score": 61,
+          "event_type": "general_update",
+          "topic_tags": [
+            "llm"
+          ],
+          "entities": [
+            "Anthropic",
+            "GitHub"
+          ]
         }
       ]
     }
   ],
   "title_translations": {
-    "7560a26b897bb1dc35518370ae635d6924f8b69f": "展示HN：LLM自行车教练的创意文件",
-    "93bb717316a489476172d20407e61eefd59fbd9d": "LLM联盟：一种用于大型语言模型相互评估的无基准范式",
-    "ccd35c9ceadaa7d673c677c1b73d96916365e540": "深入探讨使用Nano-vLLM进行高效LLM推理",
-    "77b3cde5eb805711b6c34ab3be3da8a9d47b062d": "我问Claude它想如何浏览网页。它构建了LAD（LLM即DOM）",
-    "e117ba7796a089dc68a203a841278de53829968a": "用C#/.NET从头编写的LLM推理引擎",
-    "e12382077dc2a9a9ae809a0d1c11139b2faccdb0": "DotLLM – 在C#中构建LLM推理引擎",
-    "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f": "CLASP：面向多模态大语言模型的类自适应层融合与双阶段剪枝",
-    "ed3430eda109f51200a13ba28133b5b6bf582dcf": "Safe-FedLLM：探究联邦大语言模型的安全性",
-    "361802efb1f8057e363c2066d4e2d5b0e42ff5e1": "AgenticAI-DialogGen：用于微调和评估LLM短期与长期记忆的主题引导对话生成"
+    "60a1db43653df43670e935a582ce64cf08b88d97": "哈佛最新研究：用AI大型语言模型看病，80%的初步诊断都是错的",
+    "472efccecb23382f113020e6b3e320d134127fe1": "OpenAI发布GPT-5.4-Cyber，扩大安全团队访问权限",
+    "fc4b8db0df80b223bc4dd05ae4f46801cdfdb3a7": "Google DeepMind发布Gemini Robotics-ER 1.6：为物理AI带来增强的实体推理与仪器读取能力",
+    "3d2c20b60f191c998703bdceb2d38d849d0ba5e3": "展示HN：LLM-primer – 预热的Claude Code会话池，实现零启动等待",
+    "92c112ffed6d3de3309fb902531a7dac2f3aa4b8": "展示HN：SynapseKit – 用于LLM管道和代理的异步原生Python框架",
+    "ab8ee663de2aece77102a43b27614b7122e648c8": "在Llama 3模型上应用全同态加密以实现隐私保护的LLM推理",
+    "cd22fe319be3c107cd80feca7257054ce2e52efb": "Anthropic阻止了Claude订阅用户使用OpenClaw",
+    "59f21e61149ccf0faf073267f86bb7d03ff129eb": "谷歌在Chrome中引入“技能”功能，使Gemini提示可即时复用"
   }
 }
