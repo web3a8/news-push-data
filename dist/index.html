@@ -168,6 +168,7 @@
 
       .nav-list {
         display: grid;
+        grid-template-columns: minmax(0, 1fr);
         gap: 10px;
         max-height: calc(100vh - 144px);
         overflow-y: auto;
@@ -195,6 +196,8 @@
 
       .nav-item {
         width: 100%;
+        min-width: 0;
+        max-width: 100%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -219,7 +222,8 @@
         background: var(--accent-soft);
       }
 
-      .nav-item span {
+      .nav-label {
+        flex: 1 1 auto;
         min-width: 0;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -239,6 +243,9 @@
         border: 1px solid var(--line);
         color: var(--muted);
         font-size: 0.76rem;
+        overflow: visible;
+        text-overflow: clip;
+        white-space: nowrap;
       }
 
       .feed {
@@ -816,7 +823,7 @@
               class="nav-item ${name === state.sourceFilter ? "active" : ""}"
               data-source="${escapeHtml(name)}"
             >
-              <span>${escapeHtml(name)}</span>
+              <span class="nav-label">${escapeHtml(name)}</span>
               <span class="nav-count">${formatNumber(count)}</span>
             </button>
           `)
