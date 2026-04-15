@@ -246,6 +246,55 @@
         font-size: 0.8rem;
       }
 
+      .report-band-ref:hover {
+        border-color: var(--accent-line);
+        transform: translateY(-1px);
+      }
+
+      .report-band-ref-icon {
+        width: 12px;
+        height: 12px;
+        flex: 0 0 12px;
+        color: currentColor;
+        opacity: 0.88;
+      }
+
+      .report-band-ref-tone-0 {
+        background: color-mix(in srgb, #dbeafe 72%, var(--panel));
+        border-color: color-mix(in srgb, #93c5fd 72%, var(--line));
+        color: color-mix(in srgb, #1d4ed8 84%, var(--text));
+      }
+
+      .report-band-ref-tone-1 {
+        background: color-mix(in srgb, #dcfce7 72%, var(--panel));
+        border-color: color-mix(in srgb, #86efac 72%, var(--line));
+        color: color-mix(in srgb, #166534 84%, var(--text));
+      }
+
+      .report-band-ref-tone-2 {
+        background: color-mix(in srgb, #fef3c7 72%, var(--panel));
+        border-color: color-mix(in srgb, #fcd34d 72%, var(--line));
+        color: color-mix(in srgb, #92400e 84%, var(--text));
+      }
+
+      .report-band-ref-tone-3 {
+        background: color-mix(in srgb, #fce7f3 72%, var(--panel));
+        border-color: color-mix(in srgb, #f9a8d4 72%, var(--line));
+        color: color-mix(in srgb, #9d174d 84%, var(--text));
+      }
+
+      .report-band-ref-tone-4 {
+        background: color-mix(in srgb, #e0f2fe 72%, var(--panel));
+        border-color: color-mix(in srgb, #7dd3fc 72%, var(--line));
+        color: color-mix(in srgb, #0f766e 84%, var(--text));
+      }
+
+      .report-band-ref-tone-5 {
+        background: color-mix(in srgb, #ede9fe 72%, var(--panel));
+        border-color: color-mix(in srgb, #c4b5fd 72%, var(--line));
+        color: color-mix(in srgb, #6d28d9 84%, var(--text));
+      }
+
       .layout {
         display: grid;
         grid-template-columns: 250px minmax(0, 1fr);
@@ -876,6 +925,15 @@
           .trim();
       }
 
+      function stripReportSourceCodes(value) {
+        return String(value || "")
+          .replace(/\s*[（(]\s*(?:S\d+\s*[,，、/]\s*)*S\d+\s*[)）]\s*/gi, " ")
+          .replace(/\s+/g, " ")
+          .replace(/\s+([，。！？；：,.!?;:])/g, "$1")
+          .replace(/([，。！？；：,.!?;:])\s*([，。！？；：,.!?;:])/g, "$1")
+          .trim();
+      }
+
       function buildTextUnits(value) {
         const normalized = String(value || "")
           .toLowerCase()
@@ -968,9 +1026,7 @@
         const title = String(item.title || "")
           .replace(/\s+/g, " ")
           .trim();
-        const summary = String(item.summary || item.title || "")
-          .replace(/\s+/g, " ")
-          .trim();
+        const summary = stripReportSourceCodes(item.summary || item.title || "");
 
         if (!title || !summary) {
           return null;
@@ -1044,7 +1100,7 @@
 
         return {
           ...report,
-          global_brief: String(report.global_brief || "").replace(/\s+/g, " ").trim(),
+          global_brief: stripReportSourceCodes(report.global_brief || ""),
           highlight_facts: facts,
           highlight_opinions: opinions
         };
@@ -1108,8 +1164,11 @@
           <div class="report-band-refs">
             ${references
               .slice(0, 4)
-              .map((reference) => `
-                <a class="report-band-ref" href="${escapeHtml(reference.link || "#")}" target="_blank" rel="noreferrer">
+              .map((reference, index) => `
+                <a class="report-band-ref report-band-ref-tone-${index % 6}" href="${escapeHtml(reference.link || "#")}" target="_blank" rel="noreferrer">
+                  <svg class="report-band-ref-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M10 14 14 10M7.5 16.5l-1 1a3 3 0 1 1-4.2-4.2l3.4-3.4a3 3 0 0 1 4.2 0M16.5 7.5l1-1a3 3 0 1 1 4.2 4.2l-3.4 3.4a3 3 0 0 1-4.2 0" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
                   <span>${escapeHtml(sanitizeSourceName(reference.source_name || ""))}</span>
                 </a>
               `)
