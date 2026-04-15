@@ -144,6 +144,108 @@
         padding: 24px 0 40px;
       }
 
+      .report-band {
+        padding-top: 24px;
+      }
+
+      .report-band[hidden] {
+        display: none;
+      }
+
+      .report-band-inner {
+        width: min(1320px, calc(100vw - 32px));
+        margin: 0 auto;
+        border: 1px solid var(--line);
+        border-radius: 26px;
+        background: var(--panel);
+        box-shadow: var(--shadow);
+        padding: 22px 24px;
+        display: grid;
+        gap: 18px;
+      }
+
+      .report-band-title {
+        margin: 0;
+        font-size: 1rem;
+        font-weight: 800;
+        letter-spacing: -0.02em;
+      }
+
+      .report-band-brief {
+        margin: 0;
+        color: var(--text);
+        font-size: 0.96rem;
+        line-height: 1.82;
+      }
+
+      .report-band-columns {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .report-band-group {
+        display: grid;
+        gap: 12px;
+      }
+
+      .report-band-group[hidden] {
+        display: none;
+      }
+
+      .report-band-group-title {
+        margin: 0;
+        font-size: 0.9rem;
+        font-weight: 800;
+        letter-spacing: -0.01em;
+      }
+
+      .report-band-list {
+        display: grid;
+        gap: 12px;
+      }
+
+      .report-band-item {
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: var(--panel-soft);
+      }
+
+      .report-band-item-title {
+        margin: 0;
+        font-size: 0.95rem;
+        font-weight: 700;
+        line-height: 1.58;
+      }
+
+      .report-band-item-summary {
+        margin: 8px 0 0;
+        color: var(--muted);
+        font-size: 0.9rem;
+        line-height: 1.72;
+      }
+
+      .report-band-refs {
+        margin-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .report-band-ref {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        min-height: 28px;
+        padding: 0 10px;
+        border-radius: 999px;
+        border: 1px solid var(--line);
+        background: var(--panel);
+        color: var(--muted);
+        font-size: 0.8rem;
+      }
+
       .layout {
         display: grid;
         grid-template-columns: 250px minmax(0, 1fr);
@@ -568,70 +670,6 @@
         }
       }
 
-      .brief-strip {
-        padding: 18px 24px 20px;
-        border-bottom: 1px solid var(--line);
-        background: color-mix(in srgb, var(--panel-soft) 72%, var(--panel));
-      }
-
-      .brief-strip[hidden] {
-        display: none;
-      }
-
-      .brief-strip-title {
-        margin: 0 0 12px;
-        font-size: 0.92rem;
-        font-weight: 800;
-        letter-spacing: -0.02em;
-      }
-
-      .brief-strip-list {
-        display: grid;
-        gap: 12px;
-      }
-
-      .brief-strip-item {
-        padding: 14px 16px;
-        border: 1px solid var(--line);
-        border-radius: 18px;
-        background: var(--panel);
-      }
-
-      .brief-strip-item-title {
-        margin: 0;
-        font-size: 0.95rem;
-        font-weight: 700;
-        line-height: 1.55;
-      }
-
-      .brief-strip-item-title a:hover {
-        color: var(--accent);
-      }
-
-      .brief-strip-item-summary {
-        margin: 8px 0 0;
-        color: var(--muted);
-        font-size: 0.9rem;
-        line-height: 1.72;
-      }
-
-      .brief-strip-item-why {
-        margin: 8px 0 0;
-        color: var(--text);
-        font-size: 0.88rem;
-        line-height: 1.68;
-      }
-
-      .brief-strip-item-meta {
-        margin-top: 10px;
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        flex-wrap: wrap;
-        color: var(--muted);
-        font-size: 0.8rem;
-      }
-
       @media (max-width: 720px) {
         .topbar-inner {
           align-items: flex-start;
@@ -652,6 +690,15 @@
         .theme-toggle {
           flex: 1 1 calc(33.333% - 7px);
           justify-content: center;
+        }
+
+        .report-band-inner {
+          width: min(100vw - 20px, 1320px);
+          padding: 18px 16px;
+        }
+
+        .report-band-columns {
+          grid-template-columns: 1fr;
         }
 
         .nav-list {
@@ -713,6 +760,25 @@
       </div>
     </header>
 
+    <section class="report-band" id="ai-report-section" hidden>
+      <div class="report-band-inner">
+        <div>
+          <h2 class="report-band-title">AI 摘要</h2>
+          <p class="report-band-brief" id="ai-report-brief"></p>
+        </div>
+        <div class="report-band-columns">
+          <section class="report-band-group" id="ai-report-facts-group" hidden>
+            <h3 class="report-band-group-title">重要事实</h3>
+            <div class="report-band-list" id="ai-report-facts"></div>
+          </section>
+          <section class="report-band-group" id="ai-report-opinions-group" hidden>
+            <h3 class="report-band-group-title">关键观点</h3>
+            <div class="report-band-list" id="ai-report-opinions"></div>
+          </section>
+        </div>
+      </div>
+    </section>
+
     <main class="page">
       <div class="layout">
         <aside class="nav">
@@ -732,10 +798,6 @@
               <input id="search-input" type="search" placeholder="搜索标题或来源">
             </label>
           </div>
-          <section class="brief-strip" id="ai-brief-section" hidden>
-            <h2 class="brief-strip-title">AI 摘要</h2>
-            <div class="brief-strip-list" id="ai-brief-list"></div>
-          </section>
           <ul class="list" id="article-list">
             <li class="empty">正在读取最新数据…</li>
           </ul>
@@ -746,7 +808,7 @@
     <script>
       const state = {
         articles: [],
-        aiBrief: [],
+        aiReport: null,
         sourceFilter: "全部",
         query: "",
         generatedAt: ""
@@ -760,8 +822,12 @@
       const themeIcon = document.getElementById("theme-icon");
       const brandSubtitle = document.getElementById("brand-subtitle");
       const feedSection = document.querySelector(".feed");
-      const aiBriefSection = document.getElementById("ai-brief-section");
-      const aiBriefList = document.getElementById("ai-brief-list");
+      const aiReportSection = document.getElementById("ai-report-section");
+      const aiReportBrief = document.getElementById("ai-report-brief");
+      const aiReportFactsGroup = document.getElementById("ai-report-facts-group");
+      const aiReportFacts = document.getElementById("ai-report-facts");
+      const aiReportOpinionsGroup = document.getElementById("ai-report-opinions-group");
+      const aiReportOpinions = document.getElementById("ai-report-opinions");
 
       function escapeHtml(value) {
         return String(value || "")
@@ -842,45 +908,63 @@
         });
       }
 
-      function shouldShowBrief() {
-        return state.sourceFilter === "全部" && !state.query.trim() && state.aiBrief.length > 0;
+      function renderReferenceLinks(references) {
+        if (!Array.isArray(references) || !references.length) {
+          return "";
+        }
+
+        return `
+          <div class="report-band-refs">
+            ${references
+              .slice(0, 4)
+              .map((reference) => `
+                <a class="report-band-ref" href="${escapeHtml(reference.link || "#")}" target="_blank" rel="noreferrer">
+                  <span>${escapeHtml(reference.source_name || "")}</span>
+                </a>
+              `)
+              .join("")}
+          </div>
+        `;
       }
 
-      function renderBrief() {
-        if (!aiBriefSection || !aiBriefList) {
-          return;
-        }
-
-        if (!shouldShowBrief()) {
-          aiBriefSection.hidden = true;
-          aiBriefList.innerHTML = "";
-          return;
-        }
-
-        aiBriefSection.hidden = false;
-        aiBriefList.innerHTML = state.aiBrief
-          .slice(0, 5)
-          .map((topic) => {
-            const primaryLink =
-              (topic.top_article && topic.top_article.link) ||
-              (Array.isArray(topic.source_links) ? topic.source_links[0] : "") ||
-              "";
-            const titleHtml = primaryLink
-              ? `<a href="${escapeHtml(primaryLink)}" target="_blank" rel="noreferrer">${escapeHtml(topic.title || "")}</a>`
-              : escapeHtml(topic.title || "");
-            return `
-              <article class="brief-strip-item">
-                <h3 class="brief-strip-item-title">${titleHtml}</h3>
-                ${topic.summary ? `<p class="brief-strip-item-summary">${escapeHtml(topic.summary)}</p>` : ""}
-                ${topic.why_it_matters ? `<p class="brief-strip-item-why">${escapeHtml(topic.why_it_matters)}</p>` : ""}
-                <div class="brief-strip-item-meta">
-                  <span>${formatNumber(topic.article_count || 0)} 条内容</span>
-                  <span>${formatNumber(topic.source_count || 0)} 个来源</span>
-                </div>
-              </article>
-            `;
-          })
+      function renderReportItems(items) {
+        return items
+          .slice(0, 6)
+          .map((item) => `
+            <article class="report-band-item">
+              <h4 class="report-band-item-title">${escapeHtml(item.title || "")}</h4>
+              ${item.summary ? `<p class="report-band-item-summary">${escapeHtml(item.summary)}</p>` : ""}
+              ${renderReferenceLinks(item.references)}
+            </article>
+          `)
           .join("");
+      }
+
+      function renderAiReport() {
+        if (!aiReportSection || !aiReportBrief || !aiReportFacts || !aiReportOpinions) {
+          return;
+        }
+
+        const report = state.aiReport;
+        const hasBrief = Boolean(report && report.global_brief);
+        const facts = Array.isArray(report && report.highlight_facts) ? report.highlight_facts : [];
+        const opinions = Array.isArray(report && report.highlight_opinions) ? report.highlight_opinions : [];
+
+        if (!hasBrief && !facts.length && !opinions.length) {
+          aiReportSection.hidden = true;
+          aiReportBrief.textContent = "";
+          aiReportFacts.innerHTML = "";
+          aiReportOpinions.innerHTML = "";
+          return;
+        }
+
+        aiReportSection.hidden = false;
+        aiReportBrief.textContent = report.global_brief || "";
+
+        aiReportFactsGroup.hidden = facts.length === 0;
+        aiReportOpinionsGroup.hidden = opinions.length === 0;
+        aiReportFacts.innerHTML = renderReportItems(facts);
+        aiReportOpinions.innerHTML = renderReportItems(opinions);
       }
 
       function scrollResultsToTop() {
@@ -945,7 +1029,6 @@
           button.addEventListener("click", () => {
             state.sourceFilter = button.dataset.source;
             renderFilters();
-            renderBrief();
             renderArticles();
             scrollResultsToTop();
           });
@@ -956,7 +1039,6 @@
         const visible = getVisibleArticles();
         const updatedSuffix = state.generatedAt ? ` · 更新于 ${formatDate(state.generatedAt)}` : "";
         feedCaption.textContent = `按发布时间展示最近 24 小时内容${updatedSuffix}。`;
-        renderBrief();
 
         articleList.innerHTML = visible.length
           ? visible
@@ -991,19 +1073,27 @@
 
       async function loadData() {
         try {
-          const [metaResponse, latestLiteResponse, aiBriefResponse] = await Promise.all([
+          const [metaResponse, latestLiteResponse] = await Promise.all([
             fetch("./meta.json", { cache: "no-store" }),
-            fetch("./latest-lite.json", { cache: "no-store" }),
-            fetch("./ai-brief.json", { cache: "no-store" })
+            fetch("./latest-lite.json", { cache: "no-store" })
           ]);
 
-          if (!metaResponse.ok || !latestLiteResponse.ok || !aiBriefResponse.ok) {
+          if (!metaResponse.ok || !latestLiteResponse.ok) {
             throw new Error("数据文件读取失败");
           }
 
           const meta = await metaResponse.json();
           const latestLite = await latestLiteResponse.json();
-          const aiBrief = await aiBriefResponse.json();
+          let aiReport = null;
+
+          try {
+            const aiReportResponse = await fetch("./ai-report.json", { cache: "no-store" });
+            if (aiReportResponse.ok) {
+              aiReport = await aiReportResponse.json();
+            }
+          } catch (error) {
+            aiReport = null;
+          }
           const articles = Array.isArray(latestLite.articles) ? latestLite.articles.slice() : [];
 
           articles.sort((left, right) => {
@@ -1013,13 +1103,13 @@
           });
 
           state.articles = articles;
-          state.aiBrief = Array.isArray(aiBrief && aiBrief.topics) ? aiBrief.topics.slice() : [];
+          state.aiReport = aiReport && typeof aiReport === "object" ? aiReport : null;
           state.generatedAt = meta && meta.generated_at ? meta.generated_at : "";
           if (brandSubtitle) {
             brandSubtitle.textContent = `定时从 ${formatNumber(meta && meta.source_total ? meta.source_total : 0)} 个信源抓取最新资讯，目前专注于AI`;
           }
+          renderAiReport();
           renderFilters();
-          renderBrief();
           renderArticles();
         } catch (error) {
           feedCaption.textContent = "数据读取失败";

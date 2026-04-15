@@ -1,0 +1,378 @@
+{
+  "dataset_id": "2026-04-15T06:51:50.315Z",
+  "generated_at": "2026-04-15T06:51:50.315Z",
+  "relevance_version": "rules-v1",
+  "report_engine_version": "report-v1",
+  "report_provider": "openai",
+  "report_prompt_version": "ai-report-v2-zh-protocol",
+  "report_model": "deepseek-chat",
+  "fallback_used": false,
+  "report_fallback_from": null,
+  "report_fallback_reason": null,
+  "article_count": 150,
+  "source_count": 11,
+  "global_brief": "社区涌现多个新的LLM推理引擎项目，包括C#原生实现和高效推理框架。同时，学术界持续关注LLM评估、安全性和多模态模型优化，发布了大量相关论文。",
+  "highlight_facts": [
+    {
+      "title": "多个新的LLM推理引擎项目发布",
+      "summary": "社区发布了多个新的LLM推理引擎项目，包括一个用C#/.NET从头编写的引擎（S1），以及一个名为DotLLM的C#推理引擎构建项目（S1）。同时，一篇关于高效LLM推理框架Nano-vLLM的深度解析文章也受到关注（S1）。",
+      "score": 9.0,
+      "article_ids": [
+        "e117ba7796a089dc68a203a841278de53829968a",
+        "e12382077dc2a9a9ae809a0d1c11139b2faccdb0",
+        "ccd35c9ceadaa7d673c677c1b73d96916365e540"
+      ],
+      "references": [
+        {
+          "id": "e117ba7796a089dc68a203a841278de53829968a",
+          "title": "LLM inference engine written ground-up natively in C#/.NET",
+          "summary": "Article URL: https://dotllm.dev/ Comments URL: https://news.ycombinator.com/item?id=47768210 Points: 4 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://dotllm.dev/",
+          "published_at": "2026-04-14T17:00:18.000Z",
+          "ai_score": 15,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "e12382077dc2a9a9ae809a0d1c11139b2faccdb0",
+          "title": "DotLLM – Building an LLM Inference Engine in C#",
+          "summary": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47767498 Points: 3 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://kokosa.dev/blog/2026/dotllm/",
+          "published_at": "2026-04-14T16:08:00.000Z",
+          "ai_score": 15,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "ccd35c9ceadaa7d673c677c1b73d96916365e540",
+          "title": "Deep Dive into Efficient LLM Inference with Nano-vLLM",
+          "summary": "Article URL: https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/ Comments URL: https://news.ycombinator.com/item?id=47772916 Points: 3 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://cefboud.com/posts/inside-llm-inference-engine-nano-vllm-explanation/",
+          "published_at": "2026-04-14T23:43:45.000Z",
+          "ai_score": 16,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "研究者提出无需基准的LLM相互评估新范式",
+      "summary": "一篇arXiv论文提出了一种名为“League of LLMs”的无需基准的范式，用于大型语言模型之间的相互评估（S2）。",
+      "score": 8.0,
+      "article_ids": [
+        "93bb717316a489476172d20407e61eefd59fbd9d"
+      ],
+      "references": [
+        {
+          "id": "93bb717316a489476172d20407e61eefd59fbd9d",
+          "title": "League of LLMs: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models",
+          "summary": "arXiv:2507.22359v4 Announce Type: replace Abstract: Although large language models (LLMs) have shown exceptional capabilities across a wide range of tasks, reliable evaluation rem…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2507.22359",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 16,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "研究者提出多模态大语言模型优化新方法",
+      "summary": "一篇arXiv论文提出了CLASP方法，通过类自适应层融合和双阶段剪枝来减少多模态大语言模型的计算开销（S2）。",
+      "score": 8.0,
+      "article_ids": [
+        "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f"
+      ],
+      "references": [
+        {
+          "id": "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f",
+          "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+          "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual toke…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12767",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 14,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "联邦学习下的大语言模型安全性研究发布",
+      "summary": "一篇arXiv论文深入研究了联邦大语言模型的安全性，提出了Safe-FedLLM框架（S2）。",
+      "score": 8.0,
+      "article_ids": [
+        "ed3430eda109f51200a13ba28133b5b6bf582dcf"
+      ],
+      "references": [
+        {
+          "id": "ed3430eda109f51200a13ba28133b5b6bf582dcf",
+          "title": "Safe-FedLLM: Delving into the Safety of Federated Large Language Models",
+          "summary": "arXiv:2601.07177v2 Announce Type: replace-cross Abstract: Federated learning (FL) addresses privacy and data-silo issues in the training of large language models (LLMs). Most prio…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2601.07177",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 14,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "研究者探索长上下文对LLM性能的影响",
+      "summary": "一篇名为“Context Rot”的文章研究了增加输入令牌如何影响LLM的性能（S1）。",
+      "score": 7.0,
+      "article_ids": [
+        "41ccdf85a4e2c3242fa15bb9276802bf91dc269d"
+      ],
+      "references": [
+        {
+          "id": "41ccdf85a4e2c3242fa15bb9276802bf91dc269d",
+          "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
+          "summary": "Article URL: https://www.trychroma.com/research/context-rot Comments URL: https://news.ycombinator.com/item?id=47769695 Points: 1 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://www.trychroma.com/research/context-rot",
+          "published_at": "2026-04-14T18:49:47.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "研究者提出提升LLM代理长期记忆的新架构",
+      "summary": "一篇arXiv论文提出了GAM，一种用于LLM代理的基于层次图结构的智能记忆架构，以维持连贯的长期交互（S2）。",
+      "score": 7.0,
+      "article_ids": [
+        "b7dcfc813587dfb7def7dea66900767a3f1ddc14"
+      ],
+      "references": [
+        {
+          "id": "b7dcfc813587dfb7def7dea66900767a3f1ddc14",
+          "title": "GAM: Hierarchical Graph-based Agentic Memory for LLM Agents",
+          "summary": "arXiv:2604.12285v1 Announce Type: new Abstract: To sustain coherent long-term interactions, Large Language Model (LLM) agents must navigate the tension between acquiring new infor…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12285",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        }
+      ]
+    }
+  ],
+  "highlight_opinions": [
+    {
+      "title": "社区对构建“智能体应用”的兴趣持续增长",
+      "summary": "受Andrej Karpathy的LLM Wiki启发，出现了用于创建“智能体应用”的Idea File项目（S1），同时也有观点认为当前LLM代理缺乏超越文本到SQL的上下文层（S1），这反映了社区对实用化、可扩展的智能体架构的探索和需求。",
+      "score": 8.0,
+      "article_ids": [
+        "7560a26b897bb1dc35518370ae635d6924f8b69f",
+        "56ee2c3fccc1312fd17cf8835ca6c08ab2c75bfc"
+      ],
+      "references": [
+        {
+          "id": "7560a26b897bb1dc35518370ae635d6924f8b69f",
+          "title": "Show HN: Idea File for LLM Cycling Coach",
+          "summary": "This is heavily inspired by Andrej Karpathy's LLM Wiki, and could be used to create many other types of \"Agentic Apps\" or however you want to call them. My specific implementation…",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://gist.github.com/leourbina/4db27d9a0a86b9e1551bf9d4b3fd6dad",
+          "published_at": "2026-04-15T03:00:07.000Z",
+          "ai_score": 18,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "56ee2c3fccc1312fd17cf8835ca6c08ab2c75bfc",
+          "title": "The Missing Context Layer: Why Your LLM Agent Can't Do More Than Text-to-SQL",
+          "summary": "Article URL: https://airbyte.com/blog/the-missing-context-layer Comments URL: https://news.ycombinator.com/item?id=47768158 Points: 2 # Comments: 1",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://airbyte.com/blog/the-missing-context-layer",
+          "published_at": "2026-04-14T16:56:30.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "降低LLM推理成本成为工程实践焦点",
+      "summary": "社区展示了多种降低LLM推理成本的技术，包括通过流式传输减少首令牌时间（S1）、使用三层缓存架构降低API成本（S1）、以及NVIDIA提出的LLM压缩方案（S1），这表明成本优化是当前LLM部署的核心挑战之一。",
+      "score": 8.0,
+      "article_ids": [
+        "9039256faa1ede3132422e6a3bcf0fb3194b722c",
+        "a3858d0919b466796d673ca22f2a77d672dba6e9",
+        "a4d4c7b808c43d0eb2d796b19c903b4991d4128c"
+      ],
+      "references": [
+        {
+          "id": "9039256faa1ede3132422e6a3bcf0fb3194b722c",
+          "title": "Show HN: Reduce TTFT via Streaming to an LLM",
+          "summary": "Article URL: https://rajveerbachkaniwala.com/assets/stream2llm-mlsys26.pdf Comments URL: https://news.ycombinator.com/item?id=47768747 Points: 1 # Comments: 0",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://rajveerbachkaniwala.com/assets/stream2llm-mlsys26.pdf",
+          "published_at": "2026-04-14T17:42:53.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "a3858d0919b466796d673ca22f2a77d672dba6e9",
+          "title": "A 3-Layer Cache Architecture Cuts LLM API Costs by 75%",
+          "summary": "Article URL: https://github.com/kylemaa/distributed-semantic-cache/blob/main/docs/blog/three-layer-cache-architecture.md Comments URL: https://news.ycombinator.com/item?id=4777000…",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://github.com/kylemaa/distributed-semantic-cache/blob/main/docs/blog/three-layer-cache-architecture.md",
+          "published_at": "2026-04-14T19:10:40.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "a4d4c7b808c43d0eb2d796b19c903b4991d4128c",
+          "title": "NVIDIA LLM compression to save money",
+          "summary": "Article URL: https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/ Comments URL: https://news.ycombinator.com/item?id=47770127 Po…",
+          "source_name": "Hacker News LLM",
+          "source_code": "S1",
+          "link": "https://developer.nvidia.com/blog/cut-checkpoint-costs-with-about-30-lines-of-python-and-nvidia-nvcomp/",
+          "published_at": "2026-04-14T19:19:04.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "LLM安全对齐的脆弱性引发持续关注",
+      "summary": "多篇论文指出LLM的安全对齐在微调过程中非常脆弱（S2），并且安全基准的测量存在碎片化和治理薄弱的问题（S2），这凸显了确保LLM安全性的复杂性和长期性。",
+      "score": 7.0,
+      "article_ids": [
+        "8bf40bd9a2938939b438b2b1259f25080b4ff036",
+        "4ecf96906934f87c11444ea61f62643ac00f4391"
+      ],
+      "references": [
+        {
+          "id": "8bf40bd9a2938939b438b2b1259f25080b4ff036",
+          "title": "Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints",
+          "summary": "arXiv:2604.12384v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) remains highly fragile during fine-tuning, where even benign adaptation can degrad…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12384",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "4ecf96906934f87c11444ea61f62643ac00f4391",
+          "title": "AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance",
+          "summary": "arXiv:2604.12875v1 Announce Type: new Abstract: The rapid expansion of large language model (LLM) safety evaluation has produced a substantial benchmark ecosystem, but not a corre…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12875",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "针对LLM的特定领域微调和评估成为研究趋势",
+      "summary": "研究涵盖了为报告摘要微调LLM（S2）、评估LLM在编码任务中的推理能力（S2）、以及构建用于汽车助手的LLM基准测试（S2），这表明研究正从通用能力评估转向更具体、更专业的应用场景优化。",
+      "score": 7.0,
+      "article_ids": [
+        "0ce28435fa556533a547372a94a0aa7e5d8294b1",
+        "7c0de434845e1df5736bc698ece38957905d6a6b",
+        "e7280a1ffffc7c2eaf7e46b5fb5345f93aa533c2"
+      ],
+      "references": [
+        {
+          "id": "0ce28435fa556533a547372a94a0aa7e5d8294b1",
+          "title": "Fine-Tuning LLMs for Report Summarization: Analysis on Supervised and Unsupervised Data",
+          "summary": "arXiv:2503.10676v2 Announce Type: replace-cross Abstract: We study the efficacy of fine-tuning Large Language Models (LLMs) for the specific task of report (government archives, n…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2503.10676",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "7c0de434845e1df5736bc698ece38957905d6a6b",
+          "title": "Beyond Output Correctness: Benchmarking and Evaluating Large Language Model Reasoning in Coding Tasks",
+          "summary": "arXiv:2604.12379v1 Announce Type: cross Abstract: Large language models (LLMs) increasingly rely on explicit reasoning to solve coding tasks, yet evaluating the quality of this re…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12379",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        },
+        {
+          "id": "e7280a1ffffc7c2eaf7e46b5fb5345f93aa533c2",
+          "title": "DeepTest Tool Competition 2026: Benchmarking an LLM-Based Automotive Assistant",
+          "summary": "arXiv:2604.12615v1 Announce Type: new Abstract: This report summarizes the results of the first edition of the Large Language Model (LLM) Testing competition, held as part of the…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2604.12615",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 13,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "边缘设备上的高效LLM推理方案受到重视",
+      "summary": "有论文提出了Vec-LUT方法，用于在边缘设备上进行并行超低位LLM推理（S2），这反映了将强大模型部署到资源受限终端的市场需求和技术探索。",
+      "score": 6.0,
+      "article_ids": [
+        "8dab14ff2bdea450db7411da201956a37c3694f8"
+      ],
+      "references": [
+        {
+          "id": "8dab14ff2bdea450db7411da201956a37c3694f8",
+          "title": "Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices",
+          "summary": "arXiv:2512.06443v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly deployed on edge devices. To meet strict resource constraints, real-world d…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2512.06443",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 12,
+          "ai_label": "ai_deep"
+        }
+      ]
+    },
+    {
+      "title": "开源模型与知识图谱结合以增强推理能力",
+      "summary": "一篇论文提出了KG-Hopper方法，通过强化学习赋能紧凑的开源LLM进行知识图谱推理（S2），这代表了增强较小模型能力的一种有前景的方向。",
+      "score": 6.0,
+      "article_ids": [
+        "5bc562faed2fd0ec4892ae9a4d41c59eab746ea7"
+      ],
+      "references": [
+        {
+          "id": "5bc562faed2fd0ec4892ae9a4d41c59eab746ea7",
+          "title": "KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning",
+          "summary": "arXiv:2603.21440v4 Announce Type: replace-cross Abstract: Large Language Models (LLMs) demonstrate impressive natural language capabilities but often struggle with knowledge-inten…",
+          "source_name": "arXiv AI",
+          "source_code": "S2",
+          "link": "https://arxiv.org/abs/2603.21440",
+          "published_at": "2026-04-15T04:00:00.000Z",
+          "ai_score": 11,
+          "ai_label": "ai_deep"
+        }
+      ]
+    }
+  ],
+  "title_translations": {
+    "7560a26b897bb1dc35518370ae635d6924f8b69f": "展示HN：LLM自行车教练的创意文件",
+    "93bb717316a489476172d20407e61eefd59fbd9d": "LLM联盟：一种用于大型语言模型相互评估的无基准范式",
+    "ccd35c9ceadaa7d673c677c1b73d96916365e540": "深入探讨使用Nano-vLLM进行高效LLM推理",
+    "77b3cde5eb805711b6c34ab3be3da8a9d47b062d": "我问Claude它想如何浏览网页。它构建了LAD（LLM即DOM）",
+    "e117ba7796a089dc68a203a841278de53829968a": "用C#/.NET从头编写的LLM推理引擎",
+    "e12382077dc2a9a9ae809a0d1c11139b2faccdb0": "DotLLM – 在C#中构建LLM推理引擎",
+    "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f": "CLASP：面向多模态大语言模型的类自适应层融合与双阶段剪枝",
+    "ed3430eda109f51200a13ba28133b5b6bf582dcf": "Safe-FedLLM：探究联邦大语言模型的安全性",
+    "361802efb1f8057e363c2066d4e2d5b0e42ff5e1": "AgenticAI-DialogGen：用于微调和评估LLM短期与长期记忆的主题引导对话生成"
+  }
+}
