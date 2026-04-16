@@ -751,6 +751,7 @@
       @media (max-width: 720px) {
         .topbar-inner {
           align-items: flex-start;
+          flex-wrap: wrap;
           padding: 14px 0;
           min-height: unset;
         }
@@ -760,14 +761,20 @@
           width: min(100vw - 20px, 1320px);
         }
 
+        .brand {
+          width: 100%;
+        }
+
         .toolbar {
           width: 100%;
+          justify-content: flex-start;
+          margin-top: 8px;
         }
 
         .toolbar-link,
         .theme-toggle {
-          flex: 1 1 calc(33.333% - 7px);
-          justify-content: center;
+          flex: 0 1 auto;
+          min-width: 0;
         }
 
         .report-band-inner {
