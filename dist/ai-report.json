@@ -1,6 +1,6 @@
 {
-  "dataset_id": "2026-04-16T01:18:29.734Z",
-  "generated_at": "2026-04-16T01:18:29.734Z",
+  "dataset_id": "2026-04-16T03:38:57.442Z",
+  "generated_at": "2026-04-16T03:38:57.442Z",
   "relevance_version": "rules-v1",
   "report_engine_version": "report-v1",
   "report_provider": "openai",
@@ -9,16 +9,46 @@
   "fallback_used": false,
   "report_fallback_from": null,
   "report_fallback_reason": null,
-  "article_count": 176,
-  "source_count": 22,
-  "global_brief": "OpenAI发布了针对网络安全优化的GPT-5.4-Cyber模型，并升级了其Agents SDK，增强了代理的安全性和执行能力。同时，哈佛研究指出AI大模型在医疗诊断中存在高错误率，而Anthropic则因算力紧张调整了企业定价模式。",
+  "article_count": 159,
+  "event_count": 157,
+  "source_count": 20,
+  "report_item_type": "event",
+  "original_event_count": 132,
+  "discussion_event_count": 25,
+  "global_brief": "OpenAI发布其智能体SDK的重大更新，并推出面向网络安全团队的GPT-5.4-Cyber变体。同时，一项哈佛研究指出，在患者信息不完整的情况下，AI大模型用于医疗诊断的准确率堪忧。此外，Anthropic的MCP协议被曝存在设计缺陷，影响广泛。",
   "highlight_facts": [
     {
-      "title": "OpenAI发布网络安全专用模型GPT-5.4-Cyber",
-      "summary": "OpenAI发布了其旗舰模型GPT-5.4的变体GPT-5.4-Cyber，该模型专门针对防御性网络安全任务进行了优化，并向安全团队开放了更广泛的访问权限（S5）。",
+      "title": "OpenAI发布新一代智能体SDK",
+      "summary": "OpenAI更新了其智能体SDK，引入了原生沙箱执行和模型原生工具链，旨在帮助开发者构建更安全、更强大的智能体应用（S1，S2）。",
       "score": 9.0,
       "article_ids": [
-        "472efccecb23382f113020e6b3e320d134127fe1"
+        "cf97f163b3c0b5a877229029731412723d2ce117"
+      ],
+      "references": [
+        {
+          "id": "1f68c31ade69035cab215897c3ce931dccc34150",
+          "title": "The next evolution of the Agents SDK",
+          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+          "source_name": "OpenAI 博客",
+          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+          "published_at": "2026-04-15T10:00:00.000Z"
+        },
+        {
+          "id": "ac3e79076161dc16ec3687822bc1d2f95023f103",
+          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+          "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+          "source_name": "TechCrunch",
+          "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents",
+          "published_at": "2026-04-15T19:28:36.000Z"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI推出网络安全专用模型GPT-5.4-Cyber",
+      "summary": "OpenAI发布了其最新旗舰模型的变体GPT-5.4-Cyber，并扩大了安全团队的访问权限，以应对网络安全挑战（S6）。",
+      "score": 8.0,
+      "article_ids": [
+        "47edd01d721f2ca3eb003250f3167af6b9de43f6"
       ],
       "references": [
         {
@@ -26,80 +56,17 @@
           "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
           "summary": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival An…",
           "source_name": "The Hacker News",
-          "source_code": "S5",
           "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-          "published_at": "2026-04-15T04:30:00.000Z",
-          "ai_score": 9,
-          "ai_label": "ai_deep",
-          "importance_score": 65,
-          "event_type": "model_release",
-          "topic_tags": [
-            "llm",
-            "safety"
-          ],
-          "entities": [
-            "OpenAI",
-            "Anthropic"
-          ]
+          "published_at": "2026-04-15T04:30:00.000Z"
         }
       ]
     },
     {
-      "title": "OpenAI升级Agents SDK，支持原生沙箱执行",
-      "summary": "OpenAI更新了其Agents SDK，引入了原生沙箱执行和模型原生框架，旨在帮助开发者构建更安全、可长期运行的AI代理（S3，S18）。",
-      "score": 9.0,
-      "article_ids": [
-        "1f68c31ade69035cab215897c3ce931dccc34150",
-        "ac3e79076161dc16ec3687822bc1d2f95023f103"
-      ],
-      "references": [
-        {
-          "id": "1f68c31ade69035cab215897c3ce931dccc34150",
-          "title": "The next evolution of the Agents SDK",
-          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-          "source_name": "OpenAI 博客",
-          "source_code": "S3",
-          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-          "published_at": "2026-04-15T10:00:00.000Z",
-          "ai_score": 17,
-          "ai_label": "ai_deep",
-          "importance_score": 66,
-          "event_type": "product_update",
-          "topic_tags": [
-            "agents",
-            "open_source"
-          ],
-          "entities": [
-            "OpenAI"
-          ]
-        },
-        {
-          "id": "ac3e79076161dc16ec3687822bc1d2f95023f103",
-          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-          "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-          "source_name": "TechCrunch",
-          "source_code": "S18",
-          "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-          "published_at": "2026-04-15T19:28:36.000Z",
-          "ai_score": 8,
-          "ai_label": "ai_deep",
-          "importance_score": 58,
-          "event_type": "product_update",
-          "topic_tags": [
-            "agents"
-          ],
-          "entities": [
-            "OpenAI"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "哈佛研究：AI大模型医疗初步诊断错误率达80%",
-      "summary": "哈佛大学最新研究显示，当患者无法提供完整的健康检测信息时，使用ChatGPT或DeepSeek等大型语言模型进行疾病初步诊断，其错误率高达80%（S2）。",
+      "title": "哈佛研究：AI大模型医疗诊断错误率高",
+      "summary": "哈佛大学最新研究显示，当患者无法提供完整的健康检测信息时，使用AI大型语言模型进行初步诊断的错误率高达80%（S3）。",
       "score": 8.0,
       "article_ids": [
-        "60a1db43653df43670e935a582ce64cf08b88d97"
+        "b5a8eae78276301bfcddc3c6812b7f56f455fac3"
       ],
       "references": [
         {
@@ -107,63 +74,35 @@
           "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
           "summary": "AI聊天机器人需要通过充分的患者信息，才能对疾病作出更为精准的诊断，患者无法提供完整的健康检测信息时，AI提供的结果并不可靠。 在AI大模型快速发展的今天，很多人在生病或出现症状时的第一反应已经不再是去医院挂急诊，而是求助于ChatGPT或者DeepSeek这类AI聊天机器人。 尽管这些通用聊天机器人在日常生活的很多方面都能成为人类的好助手，但在医学方面，…",
           "source_name": "第一财经头条",
-          "source_code": "S2",
-          "link": "https://www.yicai.com/news/103134482.html",
-          "published_at": "2026-04-15T10:48:30.000Z",
-          "ai_score": 10,
-          "ai_label": "ai_deep",
-          "importance_score": 69,
-          "event_type": "research",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "OpenAI",
-            "Google",
-            "DeepSeek"
-          ]
+          "link": "https://yicai.com/news/103134482.html",
+          "published_at": "2026-04-15T10:48:30.000Z"
         }
       ]
     },
     {
-      "title": "Anthropic调整企业定价模式，按算力使用量计费",
-      "summary": "由于算力紧缺，Anthropic调整了Claude企业版定价模式，在固定月费基础上，增加了按用户消耗的算力容量付费的机制，部分高频用户成本可能翻倍甚至增至三倍（S6，S15）。",
+      "title": "Anthropic MCP协议曝出设计缺陷",
+      "summary": "网络安全公司OX Security披露，Anthropic的模型上下文协议存在设计缺陷，可能影响超过20万台服务器，并波及Cursor、Claude Code等依赖该协议的工具（S7）。",
       "score": 8.0,
       "article_ids": [
-        "6b6da2f9b5a7e893e4533826b2dad00aaa612641"
+        "d61edca74a32d425099735d57bb672b44e970da1"
       ],
       "references": [
         {
-          "id": "6b6da2f9b5a7e893e4533826b2dad00aaa612641",
-          "title": "算力紧缺之下，Anthropic调整定价模式：按企业AI使用量计费",
-          "summary": "Anthropic 近期调整 Claude 产品定价模式，企业版用户在每月 20 美元/用户固定费用外，需按使用软件时消耗的算力容量付费，部分高频用户成本或翻倍甚至增至三倍，不过用户数少于 150 人的企业不受影响。此次调整是因原有体系下部分客户触及使用上限，部分未用完付费额度，能更好反映客户实际使用方式。Claude 普及带来业务利好，推动 Anthro…",
-          "source_name": "Readhub 热门",
-          "source_code": "S15",
-          "link": "https://readhub.cn/topic/8sKqxl23zEj",
-          "published_at": "2026-04-15T18:29:26.000Z",
-          "ai_score": 8,
-          "ai_label": "ai_deep",
-          "importance_score": 59,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents",
-            "inference"
-          ],
-          "entities": [
-            "OpenAI",
-            "Anthropic"
-          ]
+          "id": "8d35e75a6f26f853df3d9b66bbd217b333c2ed4f",
+          "title": "AI 圈地震：MCP 设计缺陷影响超 20 万台服务器，波及 Cursor、Claude Code 等工具",
+          "summary": "IT之家 4 月 16 日消息，网络安全公司 OX Security 昨日（4 月 15 日）发布报告， 披露 Anthropic 的 MCP（模型上下文协议）存在设计缺陷，可导致远程代码执行。 该设计缺陷影响范围极广，导致超过 20 万台 AI 服务器面临远程代码执行风险。 IT之家注：MCP 全称为 Model Context Protocol，是 A…",
+          "source_name": "IT之家",
+          "link": "https://ithome.com/0/939/750.htm",
+          "published_at": "2026-04-16T02:57:08.000Z"
         }
       ]
     },
     {
       "title": "Google发布新一代语音模型Gemini 3.1 Flash TTS",
-      "summary": "Google DeepMind发布了新一代语音模型Gemini 3.1 Flash TTS，该模型引入了细粒度的音频标签，为用户提供了更精确的控制，以生成富有表现力的AI语音（S8，S9）。",
+      "summary": "Google DeepMind发布了新一代富有表现力的AI语音模型Gemini 3.1 Flash TTS，该模型引入了精细的音频标签，提供更精确的控制（S4，S5）。",
       "score": 7.0,
       "article_ids": [
-        "de1aeacccb52ffeca67e395c330d53ca44d29627",
-        "495e6895d549b5ca2905afb9c88b088c5fa8b4d8"
+        "230e2885dd3ac94928fb6b7b8abce8791c9fdef2"
       ],
       "references": [
         {
@@ -171,49 +110,25 @@
           "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
           "summary": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
           "source_name": "Google DeepMind",
-          "source_code": "S8",
-          "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-          "published_at": "2026-04-15T16:03:19.000Z",
-          "ai_score": 19,
-          "ai_label": "ai_deep",
-          "importance_score": 62,
-          "event_type": "general_update",
-          "topic_tags": [
-            "llm",
-            "multimodal"
-          ],
-          "entities": [
-            "Google"
-          ]
+          "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech",
+          "published_at": "2026-04-15T16:03:19.000Z"
         },
         {
           "id": "495e6895d549b5ca2905afb9c88b088c5fa8b4d8",
           "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
           "summary": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
           "source_name": "Google AI Blog",
-          "source_code": "S9",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-          "published_at": "2026-04-15T15:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep",
-          "importance_score": 62,
-          "event_type": "general_update",
-          "topic_tags": [
-            "llm",
-            "multimodal"
-          ],
-          "entities": [
-            "Google"
-          ]
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts",
+          "published_at": "2026-04-15T15:00:00.000Z"
         }
       ]
     },
     {
-      "title": "Meta研究在Llama 3上实现全同态加密以保护隐私",
-      "summary": "Meta的研究人员提出在Llama 3模型上应用全同态加密技术，旨在实现隐私保护的LLM推理，以应对生成式AI应用中的隐私挑战（S7）。",
+      "title": "Meta研究在Llama 3上实现全同态加密推理",
+      "summary": "一项新研究探索了在Meta的Llama 3模型上应用全同态加密，以实现隐私保护的LLM推理，应对生成式AI应用中的隐私挑战（S8）。",
       "score": 7.0,
       "article_ids": [
-        "ab8ee663de2aece77102a43b27614b7122e648c8"
+        "98f7d1f519bb4fcb967cd5dfdd7bf655372b06df"
       ],
       "references": [
         {
@@ -221,291 +136,145 @@
           "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
           "summary": "arXiv:2604.12168v1 Announce Type: cross Abstract: The applications of Generative Artificial Intelligence (GenAI) and their intersections with data-driven fields, such as healthcar…",
           "source_name": "arXiv AI",
-          "source_code": "S7",
           "link": "https://arxiv.org/abs/2604.12168",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 12,
-          "ai_label": "ai_deep",
-          "importance_score": 63,
-          "event_type": "research",
-          "topic_tags": [
-            "llm",
-            "open_source",
-            "inference",
-            "safety"
-          ],
-          "entities": [
-            "Meta"
-          ]
+          "published_at": "2026-04-15T04:00:00.000Z"
         }
       ]
     }
   ],
   "highlight_opinions": [
     {
-      "title": "代理（Agent）开发工具生态呈现爆发式增长",
-      "summary": "开发者社区对构建长期运行、安全可靠的AI代理兴趣浓厚，这催生了大量相关工具和框架的涌现，从预热的会话池、持久化运行时到自托管内存系统，显示出代理技术正从概念验证快速走向工程化实践（S1，S3，S6，S16）。",
-      "score": 8.0,
+      "title": "智能体基础设施安全风险凸显",
+      "summary": "Anthropic MCP协议的设计缺陷影响广泛，加上社区对MCP服务器被“黑”的讨论，表明随着AI智能体生态的快速扩张，其底层协议和工具链的安全性已成为亟待解决的系统性风险（S7，S15）。",
+      "score": 7.0,
       "article_ids": [
-        "7cb3553f004b72ff82a31cf38fe7eae698b59013",
-        "1f68c31ade69035cab215897c3ce931dccc34150",
-        "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
-        "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee",
-        "3141dd73b228616ae1b6584000e1d2940b0fa2a3",
-        "eaaad5b04bf824608a7a4a4ba3472c9e3fed0662"
+        "d61edca74a32d425099735d57bb672b44e970da1",
+        "395d0887141cdc53fb437f05d74a2c7c0bfa5a99"
       ],
       "references": [
         {
-          "id": "7cb3553f004b72ff82a31cf38fe7eae698b59013",
-          "title": "PeonPing: Sound packs for Claude, Codex, Cursor, and other AI coding agents",
-          "summary": "Article URL: https://www.peonping.com/ Comments URL: https://news.ycombinator.com/item?id=47787323 Points: 1 # Comments: 0",
+          "id": "8d35e75a6f26f853df3d9b66bbd217b333c2ed4f",
+          "title": "AI 圈地震：MCP 设计缺陷影响超 20 万台服务器，波及 Cursor、Claude Code 等工具",
+          "summary": "IT之家 4 月 16 日消息，网络安全公司 OX Security 昨日（4 月 15 日）发布报告， 披露 Anthropic 的 MCP（模型上下文协议）存在设计缺陷，可导致远程代码执行。 该设计缺陷影响范围极广，导致超过 20 万台 AI 服务器面临远程代码执行风险。 IT之家注：MCP 全称为 Model Context Protocol，是 A…",
+          "source_name": "IT之家",
+          "link": "https://ithome.com/0/939/750.htm",
+          "published_at": "2026-04-16T02:57:08.000Z"
+        },
+        {
+          "id": "bc5654a1952655177448ffa5228b45ae7ef04d8d",
+          "title": "Hacking MCP Servers in AI Systems – The Rug Pull: Tool Changes After Approval",
+          "summary": "Article URL: https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410 Comments URL: https://news.ycombinator.com/it…",
           "source_name": "Hacker News AI",
-          "source_code": "S1",
-          "link": "https://www.peonping.com/",
-          "published_at": "2026-04-16T00:45:04.000Z",
-          "ai_score": 14,
-          "ai_label": "ai_deep",
-          "importance_score": 74,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents"
-          ],
-          "entities": [
-            "OpenAI",
-            "Anthropic",
-            "Cursor"
-          ]
-        },
-        {
-          "id": "1f68c31ade69035cab215897c3ce931dccc34150",
-          "title": "The next evolution of the Agents SDK",
-          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-          "source_name": "OpenAI 博客",
-          "source_code": "S3",
-          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-          "published_at": "2026-04-15T10:00:00.000Z",
-          "ai_score": 17,
-          "ai_label": "ai_deep",
-          "importance_score": 66,
-          "event_type": "product_update",
-          "topic_tags": [
-            "agents",
-            "open_source"
-          ],
-          "entities": [
-            "OpenAI"
-          ]
-        },
-        {
-          "id": "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
-          "title": "Show HN: LLM-primer – pre-warmed Claude Code session pool, zero startup wait",
-          "summary": "Claude Code sessions that read a real CLAUDE.md take 30-60 seconds to initialize. Fine once. Friction when you're switching contexts constantly. llm-primer keeps a pool of warm se…",
-          "source_name": "Hacker News LLM",
-          "source_code": "S6",
-          "link": "https://github.com/asakin/llm-primer",
-          "published_at": "2026-04-15T13:30:13.000Z",
-          "ai_score": 17,
-          "ai_label": "ai_deep",
-          "importance_score": 64,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "Anthropic"
-          ]
-        },
-        {
-          "id": "5dfe4cb97c0e89bb09c4ec1a03040324e10be3ee",
-          "title": "Show HN: Memwright – Self-hosted memory for multi-agent teams, no LLM in path",
-          "summary": "Article URL: https://github.com/bolnet/agent-memory Comments URL: https://news.ycombinator.com/item?id=47773981 Points: 3 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S6",
-          "link": "https://github.com/bolnet/agent-memory",
-          "published_at": "2026-04-15T02:31:15.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep",
-          "importance_score": 62,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents"
-          ],
-          "entities": [
-            "GitHub"
-          ]
-        },
-        {
-          "id": "3141dd73b228616ae1b6584000e1d2940b0fa2a3",
-          "title": "Show HN: Springdrift – A persistent runtime for long-lived LLM agents",
-          "summary": "I wanted to share something that I have been working on since about 2019, in one form or another. Springdrift is a persistent, auditable runtime for long-lived agents written in G…",
-          "source_name": "Hacker News LLM",
-          "source_code": "S6",
-          "link": "https://github.com/seamus-brady/springdrift",
-          "published_at": "2026-04-15T21:41:39.000Z",
-          "ai_score": 11,
-          "ai_label": "ai_deep",
-          "importance_score": 60,
-          "event_type": "tooling",
-          "topic_tags": [
-            "llm",
-            "agents"
-          ],
-          "entities": []
-        },
-        {
-          "id": "eaaad5b04bf824608a7a4a4ba3472c9e3fed0662",
-          "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-          "summary": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-          "source_name": "Hugging Face 博客",
-          "source_code": "S16",
-          "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-          "published_at": "2026-04-15T12:07:25.000Z",
-          "ai_score": 16,
-          "ai_label": "ai_deep",
-          "importance_score": 58,
-          "event_type": "tooling",
-          "topic_tags": [
-            "agents"
-          ],
-          "entities": []
+          "link": "https://medium.com/@Koukyosyumei/hacking-mcp-servers-in-ai-systems-the-rug-pull-tool-changes-after-approval-b4f1841da410",
+          "published_at": "2026-04-16T02:44:58.000Z"
         }
       ]
     },
     {
-      "title": "模型安全与对齐研究聚焦于防御漂移和评估碎片化",
-      "summary": "当前AI安全研究不仅关注攻击面（如越狱），更深入探讨模型在微调过程中的安全“漂移”问题，以及安全评估基准本身存在的碎片化和治理薄弱问题。这表明社区正试图从更根本的层面理解和加固模型的安全性（S7）。",
+      "title": "大模型安全对齐与部署的复杂性增加",
+      "summary": "社区讨论显示Anthropic为应对安全问题（如OpenClaw）推行身份验证，同时多项研究聚焦于防止LLM安全漂移、联邦学习安全等议题，反映出产业界在推进模型能力的同时，正面临日益严峻的安全对齐与合规部署挑战（S16，S8）。",
       "score": 7.0,
       "article_ids": [
-        "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
-        "8bf40bd9a2938939b438b2b1259f25080b4ff036",
-        "4ecf96906934f87c11444ea61f62643ac00f4391"
+        "61d8628fc082f1531d32555639f41fe80cd7abf6",
+        "392a7635bfebd28a9047673411177bb8dad44227",
+        "a8426a3ca897222fe1b7099a63b58f166d6c1e99"
       ],
       "references": [
+        {
+          "id": "cd22fe319be3c107cd80feca7257054ce2e52efb",
+          "title": "Anthropic blocked Claude subscribers from using OpenClaw",
+          "summary": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Po…",
+          "source_name": "Hacker News OpenClaw",
+          "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude",
+          "published_at": "2026-04-15T10:50:14.000Z"
+        },
+        {
+          "id": "4ddcd64cd8f7a265fe61b7e2fbf93fa0e8425ea7",
+          "title": "claude code调用其它模型",
+          "summary": "claude code如何配置可以调用其它厂商的模型啊（非claude的），claude消耗太大了有点吃不消 3 个帖子 - 3 位参与者 阅读完整话题",
+          "source_name": "LinuxDo 最新话题",
+          "link": "https://linux.do/t/topic/1978426",
+          "published_at": "2026-04-16T03:29:14.000Z"
+        },
+        {
+          "id": "3376d444d0a80d46c0fa36d56c73a17215fc18dc",
+          "title": "Anthropic 宣布在 Claude 平台推行身份验证机制",
+          "summary": "enzocc: 原文 Anthropic 正在其 Claude 平台逐步推行身份验证机制，当用户访问特定功能或触发常规平台完整性检查时，系统会要求通过第三方合作伙伴 Persona Identities 完成验证以防止滥用、执行使用政策并履行法律义务，用户需提供有效的政府签发证件（如护照、驾照或国民身份证）并拍摄实时自拍。身份验证数据仅用于确认用户身份及合…",
+          "source_name": "V2EX 最热",
+          "link": "https://v2ex.com/t/1206060",
+          "published_at": "2026-04-15T06:12:01.000Z"
+        },
+        {
+          "id": "9bd781f15f1e05c404c7a7bb08421b684c10cb01",
+          "title": "听说 Anthropic 要实名制核查身份信息了，以后是不是用不上 Claude 模型了",
+          "summary": "那以后是不是中转站也用不上了，自己买也买不到了。 那裁员是不是也裁不动了",
+          "source_name": "V2EX 技术",
+          "link": "https://v2ex.com/t/1206233",
+          "published_at": "2026-04-16T00:42:17.000Z"
+        },
         {
           "id": "de34a7779f01ca93f7f7f21b4775fcf7a9558a6a",
           "title": "TEMPLATEFUZZ: Fine-Grained Chat Template Fuzzing for Jailbreaking and Red Teaming LLMs",
           "summary": "arXiv:2604.12232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed across diverse domains, yet their vulnerability to jailbreak attacks, wher…",
           "source_name": "arXiv AI",
-          "source_code": "S7",
           "link": "https://arxiv.org/abs/2604.12232",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 10,
-          "ai_label": "ai_deep",
-          "importance_score": 58,
-          "event_type": "security",
-          "topic_tags": [
-            "llm",
-            "open_source",
-            "safety"
-          ],
-          "entities": []
+          "published_at": "2026-04-15T04:00:00.000Z"
         },
         {
-          "id": "8bf40bd9a2938939b438b2b1259f25080b4ff036",
-          "title": "Preventing Safety Drift in Large Language Models via Coupled Weight and Activation Constraints",
-          "summary": "arXiv:2604.12384v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) remains highly fragile during fine-tuning, where even benign adaptation can degrad…",
+          "id": "ed3430eda109f51200a13ba28133b5b6bf582dcf",
+          "title": "Safe-FedLLM: Delving into the Safety of Federated Large Language Models",
+          "summary": "arXiv:2601.07177v3 Announce Type: replace-cross Abstract: Federated learning (FL) addresses privacy and data-silo issues in the training of large language models (LLMs). Most prio…",
           "source_name": "arXiv AI",
-          "source_code": "S7",
-          "link": "https://arxiv.org/abs/2604.12384",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep",
-          "importance_score": 57,
-          "event_type": "research",
-          "topic_tags": [
-            "llm",
-            "safety"
-          ],
-          "entities": []
-        },
-        {
-          "id": "4ecf96906934f87c11444ea61f62643ac00f4391",
-          "title": "AISafetyBenchExplorer: A Metric-Aware Catalogue of AI Safety Benchmarks Reveals Fragmented Measurement and Weak Benchmark Governance",
-          "summary": "arXiv:2604.12875v1 Announce Type: new Abstract: The rapid expansion of large language model (LLM) safety evaluation has produced a substantial benchmark ecosystem, but not a corre…",
-          "source_name": "arXiv AI",
-          "source_code": "S7",
-          "link": "https://arxiv.org/abs/2604.12875",
-          "published_at": "2026-04-15T04:00:00.000Z",
-          "ai_score": 12,
-          "ai_label": "ai_deep",
-          "importance_score": 57,
-          "event_type": "research",
-          "topic_tags": [
-            "llm",
-            "safety"
-          ],
-          "entities": []
+          "link": "https://arxiv.org/abs/2601.07177",
+          "published_at": "2026-04-15T04:00:00.000Z"
         }
       ]
     },
     {
-      "title": "开源大模型协议争议凸显商业化与社区期望的冲突",
-      "summary": "MiniMax M2.7模型因开源协议禁止商业用途而引发“伪开源”争议，这反映了AI公司希望在利用开源社区进行传播和反馈的同时，又试图通过严格许可保留商业利益的矛盾，可能影响开发者的采用热情（S13）。",
+      "title": "专用化与高效化成为LLM研发两大并行趋势",
+      "summary": "一方面，出现面向能源等垂直领域的专用模型（EnergyGPT）；另一方面，大量研究集中于模型剪枝、低比特推理、动态核心集选择等优化技术。这表明LLM发展正同时向深度专业应用和极致效率两个方向演进（S9，S8）。",
       "score": 6.0,
       "article_ids": [
-        "eed051e36ca5d463caac5a7a0df327870122d006"
+        "45003b1e8e5a5b930a218d92bc8d5c9fe939de61",
+        "4ceb4ac2d48235d02ae6a165fe922a1d1018ab40",
+        "1a0e334cf6745b4521d2b126bafd6ec49e24ca86"
       ],
       "references": [
         {
-          "id": "eed051e36ca5d463caac5a7a0df327870122d006",
-          "title": "MiniMax M2.7 开源协议引争议：严禁商业用途，开发者质疑 “伪开源”",
-          "summary": "[MiniMax M2.7 开源协议引争议：严禁商业用途，开发者质疑 “伪开源”] 国产 AI 大模型厂商 MiniMax（稀宇科技）于近日开源了其最新一代模型 MiniMax-M2.7，该模型在编程能力基准测试 SWE-Pro 中取得 56.22% 的成绩，几乎追平 Anthropic 的 Claude Opus 水平。 然而，这本应值得庆贺的技术突破却…",
-          "source_name": "LinuxDo 最新话题",
-          "source_code": "S13",
-          "link": "https://linux.do/t/topic/1976905",
-          "published_at": "2026-04-16T00:58:54.000Z",
-          "ai_score": 8,
-          "ai_label": "ai_deep",
-          "importance_score": 60,
-          "event_type": "model_release",
-          "topic_tags": [
-            "llm",
-            "open_source"
-          ],
-          "entities": [
-            "Anthropic"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "本地与云端混合部署成为优化LLM成本与性能的新思路",
-      "summary": "面对云端API调用成本和延迟问题，开发者开始探索混合部署策略。通过工具将LLM调用优先路由到本地GPU，仅在必要时回退到云端，这种模式旨在平衡性能、成本和控制权，可能成为企业应用的新趋势（S6）。",
-      "score": 6.0,
-      "article_ids": [
-        "869dde4e67e25f4b2b4024afa4c22550f600aeb9"
-      ],
-      "references": [
+          "id": "72310999ecad704638fd6f6c728471a96eb851fd",
+          "title": "Towards EnergyGPT: A Large Language Model Specialized for the Energy Sector",
+          "summary": "arXiv:2509.07177v3 Announce Type: replace Abstract: Large language models have demonstrated impressive capabilities across various domains. However, their general-purpose nature o…",
+          "source_name": "arXiv NLP",
+          "link": "https://arxiv.org/abs/2509.07177",
+          "published_at": "2026-04-15T04:00:00.000Z"
+        },
         {
-          "id": "869dde4e67e25f4b2b4024afa4c22550f600aeb9",
-          "title": "ModelCascade – Route LLM calls to your own GPU first, cloud second",
-          "summary": "Article URL: https://github.com/wayneColt/modelcascade Comments URL: https://news.ycombinator.com/item?id=47779549 Points: 1 # Comments: 0",
-          "source_name": "Hacker News LLM",
-          "source_code": "S6",
-          "link": "https://github.com/wayneColt/modelcascade",
-          "published_at": "2026-04-15T14:32:07.000Z",
-          "ai_score": 13,
-          "ai_label": "ai_deep",
-          "importance_score": 59,
-          "event_type": "general_update",
-          "topic_tags": [
-            "llm"
-          ],
-          "entities": [
-            "GitHub"
-          ]
+          "id": "fa4d29e2511ac14ab7e2a2d77739a0c65edc636f",
+          "title": "CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models",
+          "summary": "arXiv:2604.12767v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) suffer from substantial computational overhead due to the high redundancy in visual toke…",
+          "source_name": "arXiv AI",
+          "link": "https://arxiv.org/abs/2604.12767",
+          "published_at": "2026-04-15T04:00:00.000Z"
+        },
+        {
+          "id": "dfd026ef1bca70929f2570a3a054d8f7694d954b",
+          "title": "GRACE: A Dynamic Coreset Selection Framework for Large Language Model Optimization",
+          "summary": "arXiv:2604.11810v1 Announce Type: cross Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities in natural language understanding and generation. However,…",
+          "source_name": "arXiv AI",
+          "link": "https://arxiv.org/abs/2604.11810",
+          "published_at": "2026-04-15T04:00:00.000Z"
         }
       ]
     }
   ],
   "title_translations": {
-    "7cb3553f004b72ff82a31cf38fe7eae698b59013": "PeonPing：适用于Claude、Codex、Cursor及其他AI编程代理的声音包",
-    "60a1db43653df43670e935a582ce64cf08b88d97": "哈佛最新研究：用AI大型语言模型看病，80%的初步诊断都是错的",
-    "1f68c31ade69035cab215897c3ce931dccc34150": "Agents SDK的下一阶段进化",
-    "a374f41b83d4fbdeb9f2569c426b20ce372d95ea": "Show HN：制作了一个工具，其中“让它感觉像冷金属”是有效指令",
-    "472efccecb23382f113020e6b3e320d134127fe1": "OpenAI发布GPT-5.4-Cyber，扩大安全团队的访问权限",
-    "3d2c20b60f191c998703bdceb2d38d849d0ba5e3": "Show HN：LLM-primer – 预热的Claude Code会话池，实现零启动等待"
+    "cf97f163b3c0b5a877229029731412723d2ce117": "智能体SDK的下一阶段进化",
+    "b5a8eae78276301bfcddc3c6812b7f56f455fac3": "哈佛最新研究：用AI大型语言模型看病，80%的初步诊断都是错的",
+    "230e2885dd3ac94928fb6b7b8abce8791c9fdef2": "Gemini 3.1 Flash TTS：新一代富有表现力的AI语音",
+    "47edd01d721f2ca3eb003250f3167af6b9de43f6": "OpenAI发布GPT-5.4-Cyber并扩大安全团队访问权限",
+    "d61edca74a32d425099735d57bb672b44e970da1": "AI圈地震：MCP设计缺陷影响超20万台服务器，波及Cursor、Claude Code等工具",
+    "98f7d1f519bb4fcb967cd5dfdd7bf655372b06df": "在Llama 3模型上实现全同态加密以进行隐私保护的LLM推理",
+    "45003b1e8e5a5b930a218d92bc8d5c9fe939de61": "迈向EnergyGPT：一个专为能源领域定制的大型语言模型",
+    "61d8628fc082f1531d32555639f41fe80cd7abf6": "Anthropic阻止Claude订阅用户使用OpenClaw"
   }
 }
