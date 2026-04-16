@@ -15,6 +15,7 @@
         --panel-soft: #fafafa;
         --text: #111827;
         --muted: #6b7280;
+        --muted-subtle: #9ca3af;
         --line: #e5e7eb;
         --line-strong: #d1d5db;
         --accent: #2563eb;
@@ -135,8 +136,7 @@
         flex-wrap: wrap;
       }
 
-      .toolbar-link,
-      .theme-toggle {
+      .toolbar-link {
         display: inline-flex;
         align-items: center;
         gap: 9px;
@@ -150,8 +150,7 @@
         transition: border-color 0.18s ease, background-color 0.18s ease, transform 0.18s ease;
       }
 
-      .toolbar-link:hover,
-      .theme-toggle:hover {
+      .toolbar-link:hover {
         border-color: var(--accent-line);
         background: var(--panel-soft);
         transform: translateY(-1px);
@@ -222,7 +221,7 @@
 
       .report-band-disclaimer {
         margin: 0;
-        color: var(--muted);
+        color: var(--muted-subtle);
         font-size: 0.8rem;
         line-height: 1.65;
         text-align: right;
@@ -875,8 +874,7 @@
           margin-top: 8px;
         }
 
-        .toolbar-link,
-        .theme-toggle {
+        .toolbar-link {
           flex: 0 1 auto;
           min-width: 0;
         }
@@ -938,7 +936,7 @@
             <img class="brand-mark" src="./assets/images/hei.png" alt="大火蒸馏">
             <div class="brand-copy">
               <img class="brand-wordmark" src="./assets/images/txt-logo.png" alt="大火蒸馏文字标识">
-              <p class="brand-subtitle" id="brand-subtitle">AI驱动的新闻前哨站点</p>
+              <p class="brand-subtitle" id="brand-subtitle">AI驱动的新闻前哨站</p>
             </div>
           </div>
         </div>
@@ -949,10 +947,6 @@
             </svg>
             <span>RSS</span>
           </a>
-          <button class="theme-toggle" id="theme-toggle" type="button">
-            <svg class="toolbar-icon" id="theme-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"></svg>
-            <span>切换主题</span>
-          </button>
         </div>
       </div>
     </header>
@@ -1043,7 +1037,7 @@
 
     <footer class="site-footer">
       <div class="site-footer-inner">
-        <div>© 2026 大火蒸馏 · 公开聚合原始信息流，页面内容仅供个人阅读参考。</div>
+        <div>© 2026 新闻前哨 · 公开聚合原始信息流，页面内容仅供个人阅读参考。</div>
         <div class="site-footer-links">
           <a class="site-footer-link" href="./rss.xml">RSS</a>
           <a class="site-footer-link" href="https://github.com/web3a8" target="_blank" rel="noreferrer">GitHub</a>
@@ -1065,8 +1059,6 @@
       const sourceFilters = document.getElementById("source-filters");
       const feedCaption = document.getElementById("feed-caption");
       const searchInput = document.getElementById("search-input");
-      const themeToggle = document.getElementById("theme-toggle");
-      const themeIcon = document.getElementById("theme-icon");
       const brandSubtitle = document.getElementById("brand-subtitle");
       const feedSection = document.querySelector(".feed");
       const aiReportBriefSection = document.getElementById("ai-report-brief-section");
@@ -1391,29 +1383,9 @@
         }
       }
 
-      function getThemeIcon(theme) {
-        if (theme === "dark") {
-          return '<path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>';
-        }
-
-        return '<circle cx="12" cy="12" r="4.2" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.8v2.1M12 19.1v2.1M21.2 12h-2.1M4.9 12H2.8M18.5 5.5 17 7M7 17l-1.5 1.5M18.5 18.5 17 17M7 7 5.5 5.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>';
-      }
-
-      function setTheme(theme) {
-        document.body.dataset.theme = theme;
-        themeIcon.innerHTML = getThemeIcon(theme);
-        localStorage.setItem("news-push-theme", theme);
-      }
-
-      function restoreTheme() {
-        const savedTheme = localStorage.getItem("news-push-theme");
-        if (savedTheme === "dark" || savedTheme === "light") {
-          setTheme(savedTheme);
-          return;
-        }
-
-        const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-        setTheme(prefersDark ? "dark" : "light");
+      function applyDefaultTheme() {
+        document.body.dataset.theme = "light";
+        localStorage.removeItem("news-push-theme");
       }
 
       function getVisibleArticles() {
@@ -1623,7 +1595,7 @@
           state.aiReport = prepareAiReport(aiReport);
           state.generatedAt = rss.generatedAt || "";
           if (brandSubtitle) {
-            brandSubtitle.textContent = "AI驱动的新闻前哨站点";
+            brandSubtitle.textContent = "AI驱动的新闻前哨站";
           }
           renderAiReport();
           renderFilters();
@@ -1639,12 +1611,7 @@
         renderArticles();
       });
 
-      themeToggle.addEventListener("click", () => {
-        const nextTheme = document.body.dataset.theme === "dark" ? "light" : "dark";
-        setTheme(nextTheme);
-      });
-
-      restoreTheme();
+      applyDefaultTheme();
       loadData();
     </script>
   </body>
