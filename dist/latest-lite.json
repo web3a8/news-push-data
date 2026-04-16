@@ -1,8 +1,129 @@
 {
-  "dataset_id": "2026-04-16T03:38:57.442Z",
-  "generated_at": "2026-04-16T03:38:57.442Z",
-  "article_count": 1336,
+  "dataset_id": "2026-04-16T03:44:19.613Z",
+  "generated_at": "2026-04-16T03:44:19.613Z",
+  "article_count": 1361,
   "articles": [
+    {
+      "id": "2242f3eb20df8e211e9d48e37e6d41b8469a3fee",
+      "title": "特朗普称以黎领导人将对话",
+      "link": "https://www.yicai.com/news/103135842.html",
+      "summary": "特朗普称以黎领导人将对话 据新华社，美国总统特朗普15日在社交媒体上发文说，正“努力为以色列和黎巴嫩之间争取一些喘息空间”，两国领导人“明天”将对话。",
+      "source_name": "第一财经最新",
+      "published_at": "2026-04-16T03:44:35.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 27
+    },
+    {
+      "id": "8093bb4f328c98b977179cee51410b8e2f389db6",
+      "title": "越南股指VN指数上涨1%。",
+      "link": "https://wallstreetcn.com/livenews/3088992",
+      "summary": "越南股指VN指数上涨1%。",
+      "source_name": "华尔街见闻实时快讯",
+      "published_at": "2026-04-16T03:44:08.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 21
+    },
+    {
+      "id": "c075613e99216bb21d8f5907c68d815e91636d6e",
+      "title": "特朗普称以黎领导人将对话",
+      "link": "https://m.thepaper.cn/detail/32983213",
+      "summary": "美国总统特朗普15日在社交媒体上发文说，正“努力为以色列和黎巴嫩之间争取一些喘息空间”，两国领导人“明天”将对话。",
+      "source_name": "澎湃新闻头条",
+      "published_at": "2026-04-16T03:43:45.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 21
+    },
+    {
+      "id": "70340e1605e924c83b8696bca35fa0c71ba09d80",
+      "title": "丝芭传媒讣告：创始人王子杰突发心源性疾病去世",
+      "link": "https://www.yicai.com/news/103135835.html",
+      "summary": "丝芭传媒讣告：创始人王子杰突发心源性疾病去世 4月16日，丝芭传媒发布讣告：公司创始人王子杰因突发心源性疾病，经抢救无效，于2026年4月14日19时在上海逝世，享年63岁。",
+      "source_name": "第一财经最新",
+      "published_at": "2026-04-16T03:42:08.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 34
+    },
+    {
+      "id": "1cacd53b6ed60fbc3d4a8ef89c0b37527988c7e7",
+      "title": "记录我在 claude 里调用 gpt 模型的经历（使用 cpa+crs）",
+      "link": "https://linux.do/t/topic/1978563",
+      "summary": "叠甲：可能是我 cpa 不会用导致的这么复杂 之前的提问帖子： 想问下佬们有门道在 claude code 中使用 gpt 的模型编码吗？ - #2，来自 626 总而言之，在这个帖子之后我搭建了一个 cpa，然后 claude 配上后成功使用上了 gpt 的模型。 但—————— 统计信息为0： 啥也看不了+1 导致我想看今天用了多少 token 这种信…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:41:58.000Z",
+      "ai_score": 6,
+      "ai_label": "ai_candidate",
+      "importance_score": 53
+    },
+    {
+      "id": "b7ef2afb28c42334bb75935c6175e83389888cab",
+      "title": "为什么codex在cherrystudio可以对话，cc配置后在vs就一直报错，用的公益站",
+      "link": "https://linux.do/t/topic/1978561",
+      "summary": "Reconnecting… 1/5 Reconnecting… 2/5 Reconnecting… 3/5 Reconnecting… 4/5 Reconnecting… 5/5 stream disconnected before completion: stream closed before response.completed 1 个帖子 - 1…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:41:42.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 32
+    },
+    {
+      "id": "3571c1b5080c41f4150b83cdd57fa3db734200fd",
+      "title": "电商套图skillv1.0-beta测试效果分享【使用qwen、豆包模型】",
+      "link": "https://linux.do/t/topic/1978559",
+      "summary": "首先是回复之前几个佬友的帖子： https://linux.do/t/topic/1961285/2。然后就是给大家看下这次的效果： 对话效果： 图片效果 评价 最近出的这个版本，我对比了几个商用平台的电商套图，和他们差距不大，但问题还是有很多，比如AI生成模特在后续生图中没有锁定，没有提供更多的生图场景模板（集成后，agent会让用户选择，选了之后不同图…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:41:32.000Z",
+      "ai_score": 3,
+      "ai_label": "non_ai",
+      "importance_score": 41
+    },
+    {
+      "id": "f6b605287d0efe632f079ee8ad8ebc5a29b69632",
+      "title": "Chrome Skills启用指南",
+      "link": "https://linux.do/t/topic/1978558",
+      "summary": "时间轴skills挺不错的，效果如图： 1、先升级到最新版：地址栏输入：chrome://settings/help 检查并更新版本。 2、在地址栏输入 chrome://flags，搜索框输入 skills，找到Enables Skills in Gemini in Chrome – Mac, Windows, Linux, ChromeOS，状态改成E…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:41:14.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 38
+    },
+    {
+      "id": "a7502f5d1da0600a0bd0fd44b4ee66254c26e7c5",
+      "title": "内蒙古一研究院1200元买院士证，1000元拿专家证！研究院曝光！",
+      "link": "https://linux.do/t/topic/1978557",
+      "summary": "工作人员表示，由于是第一次开展，只准备招5-10人，还没来得及发证。该单位是一家非营利机构，发送通知进行招募的初衷，是想如果有一些座谈会、相应项目，就请“院士”“专家”给出谋划策，相当于打造单位的智库。而1200元或者1000元的工本费，则是准备给他们配备电脑、办公物品等。“我们院里没钱，关键是还有证书，证书得花钱印的嘛。但现在这个情况，我们就不弄了。”…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:41:09.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 25
+    },
+    {
+      "id": "85fd82bf8967a67054d318d4b5e62f9a78e11646",
+      "title": "国家统计局：一季度内需的贡献率达到了84.7%，同比提高近30个百分点",
+      "link": "https://wallstreetcn.com/livenews/3088990",
+      "summary": "国家统计局副局长毛盛勇表示，一季度内需的贡献率达到了84.7%，同比提高近30个百分点。消费品进口一季度增长了5.4%，说明国内市场需求逐步恢复，为经济持续增长创造条件。特别是服务消费的潜力正在逐步释放，相关部门出台政策，不断支持和鼓励相关行业加快发展。（新华财经）",
+      "source_name": "华尔街见闻实时快讯",
+      "published_at": "2026-04-16T03:40:37.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 26
+    },
+    {
+      "id": "edee3a2f88ea1a68432843538c9732afbbd759e8",
+      "title": "为什么公众号这么喜欢贩卖焦虑--从cc可能要kyc说起",
+      "link": "https://linux.do/t/topic/1978541",
+      "summary": "一个\"部分用例、灰度推出、触发式验证\"的政策调整,在公众号笔下变成了\"全员强制、立即执行、不从就封号\"的生死危机。 \"触发式验证\"根本不是什么新东西,更不是 A社 的独创。这套机制在互联网已经存在很久了。风控弹窗 ≠ 全员强制实名！ 而且我们本来就是不能用CC的，搞得像a社要逼我们上绝路一样。我只能说且用且珍惜，能用赶紧用，用不了的时候也别紧张，总会有出路…",
+      "source_name": "LinuxDo 最新话题",
+      "published_at": "2026-04-16T03:39:24.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 26
+    },
     {
       "id": "b88d3fb05ab8437ea6603d39bd28432253ddf6a4",
       "title": "一季度中欧班列开行和发送货物同比分别增长29%、22%",
@@ -81,17 +202,6 @@
       "importance_score": 28
     },
     {
-      "id": "5c25f1a413f20c4b6b8094a321aeb865f8abb6a1",
-      "title": "太难了，还有机会升3吗",
-      "link": "https://linux.do/t/topic/1978519",
-      "summary": "2 个帖子 - 1 位参与者 阅读完整话题",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:36:00.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
-    },
-    {
       "id": "0b9beccc13daa4827eff063c4037ae6e44ce0454",
       "title": "Hotmail邮箱 50个",
       "link": "https://linux.do/t/topic/1978520",
@@ -128,7 +238,7 @@
       "id": "de078fb2eb95afea7099b0be2fd9a7f6efd38544",
       "title": "想用大香蕉生图，正在学习AIGC",
       "link": "https://linux.do/t/topic/1978515",
-      "summary": "哪里可以香蕉吃到饱 ，反代谷歌之类的没什么时间学习部署ʕ·͡ᴥ·ʔっ 2 个帖子 - 1 位参与者 阅读完整话题",
+      "summary": "哪里可以香蕉吃到饱 ，反代谷歌之类的没什么时间学习部署ʕ·͡ᴥ·ʔっ 3 个帖子 - 2 位参与者 阅读完整话题",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-16T03:35:13.000Z",
       "ai_score": 0,
@@ -436,7 +546,7 @@
       "id": "b257102c5417cbc48afdb79727519be0c88c1ac6",
       "title": "cc-switch的配额与余额展示怎么启用？",
       "link": "https://linux.do/t/topic/1978444",
-      "summary": "cc-switch的最新版本（v3.13.0） 更新日志中有codex的余额展示，但是登录认证后也看不到余额，在软件中似乎找不到显示的开关，求佬解惑 另外，有佬知道这个反代是在cc中就能独立完成吗，具体怎么做呢 1 个帖子 - 1 位参与者 阅读完整话题",
+      "summary": "cc-switch的最新版本（v3.13.0） 更新日志中有codex的余额展示，但是登录认证后也看不到余额，在软件中似乎找不到显示的开关，求佬解惑 另外，有佬知道这个反代是在cc中就能独立完成吗，具体怎么做呢 2 个帖子 - 2 位参与者 阅读完整话题",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-16T03:30:30.000Z",
       "ai_score": 2,
@@ -491,7 +601,7 @@
       "id": "b2441fa3fc29bfa7683a69feaf23ae3eaab62846",
       "title": "【小白股票】一两万本金，现在入场是机会还是当韭菜，请教。",
       "link": "https://linux.do/t/topic/1978436",
-      "summary": "真诚发问，手头有一两万闲钱，放在余额宝里利息太少，想试试股票能不能赚点零花钱。但完全不懂K线、财报这些，看网上有人说现在行情好，也有人说风险大。这种情况适合入场吗？还是先把钱存着？求大佬们给点实在建议，不想当接盘侠。 5 个帖子 - 3 位参与者 阅读完整话题",
+      "summary": "真诚发问，手头有一两万闲钱，放在余额宝里利息太少，想试试股票能不能赚点零花钱。但完全不懂K线、财报这些，看网上有人说现在行情好，也有人说风险大。这种情况适合入场吗？还是先把钱存着？求大佬们给点实在建议，不想当接盘侠。 10 个帖子 - 6 位参与者 阅读完整话题",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-16T03:29:53.000Z",
       "ai_score": 0,
@@ -565,10 +675,10 @@
       "importance_score": 41
     },
     {
-      "id": "a471e89c467d4036f320040dddeeca1e3275c3e2",
-      "title": "特朗普谈以黎局势：正努力在以色列与黎巴嫩之间寻求缓冲空间，以色列与黎巴嫩领导人将于明天进行通话。",
+      "id": "1e0117f9de63d0ecadae3e7e3cd7b9684aa6a8a2",
+      "title": "特朗普称以黎领导人将对话",
       "link": "https://wallstreetcn.com/livenews/3088982",
-      "summary": "特朗普谈以黎局势：正努力在以色列与黎巴嫩之间寻求缓冲空间， 以色列与黎巴嫩领导人将于明天进行通话。",
+      "summary": "美国总统特朗普15日在社交媒体上发文说，正“努力为以色列和黎巴嫩之间争取一些喘息空间”，两国领导人“明天”将对话。（新华社）",
       "source_name": "华尔街见闻实时快讯",
       "published_at": "2026-04-16T03:28:46.000Z",
       "ai_score": 0,
@@ -634,7 +744,7 @@
       "id": "6230b2e0965b5eb6f849b60cf7f288fed065b710",
       "title": "OPUS4.7已在vertex上线",
       "link": "https://linux.do/t/topic/1978390",
-      "summary": "25 个帖子 - 17 位参与者 阅读完整话题",
+      "summary": "34 个帖子 - 28 位参与者 阅读完整话题",
       "source_name": "LinuxDo 最新话题",
       "published_at": "2026-04-16T03:27:19.000Z",
       "ai_score": 0,
@@ -662,17 +772,6 @@
       "ai_score": 2,
       "ai_label": "non_ai",
       "importance_score": 32
-    },
-    {
-      "id": "1a9cfb51e2572c2a27e25feaaf6d74a2fa605db6",
-      "title": "今年一季度中欧班列开行5460列，同比增长29%",
-      "link": "https://m.thepaper.cn/detail/32983060",
-      "summary": "澎湃新闻记者从中国国家铁路集团有限公司（下称“国铁集团”）获悉，今年一季度，铁路部门持续深化国内国际协调合作，加强中欧班列运输组织，提升跨境物流服务品质和效率，中欧班列累计开行5460列，发送货物54.6万标箱，同比分别增长29%、22%，呈现量质齐升良好态势，中欧班列国际物流品牌市场竞争力持续提升，为中欧贸易往来和沿线经济社会发展注入了新活力。 一是通道…",
-      "source_name": "澎湃新闻头条",
-      "published_at": "2026-04-16T03:27:07.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
     },
     {
       "id": "7641bdccb944b437e28e0c52395ad9e77f6dbfba",
@@ -840,28 +939,6 @@
       "importance_score": 34
     },
     {
-      "id": "c0528eed91ea7ee98293a3e26da6cb6a9f2399ef",
-      "title": "Gemini APP 怎么登陆 不了",
-      "link": "https://linux.do/t/topic/1978265",
-      "summary": "gemini app mac上怎么登陆授权成功 但是 没反应啊 佬们有碰到过吗 5 个帖子 - 3 位参与者 阅读完整话题",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:20:13.000Z",
-      "ai_score": 2,
-      "ai_label": "non_ai",
-      "importance_score": 32
-    },
-    {
-      "id": "2359a60de54f8ff3a02e87fc2ddfc1244dcf7370",
-      "title": "使用opencode导致C盘爆满如何解决?",
-      "link": "https://linux.do/t/topic/1978266",
-      "summary": "大家平时怎么清理C盘啊，我使用opencode进行编码时，我已经告诉他将工程文件创建在其他盘，但他不会调用我在其他盘创建的python环境，直接在C重新下载了一个，导致C盘爆满，然后我反过来清理C盘，用软件清理效益甚微，但是我发现在这个路径下：C:\\Users\\用户名\\AppData\\Local\\Temp，有很多临时文件占了很大空间，我都删除的话没影响吧，…",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:20:13.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
-    },
-    {
       "id": "ed3dad99239159b55465e69c35dedf5e175f5379",
       "title": "AIモデル ローカル実行 vs API: どちらを選ぶべき？",
       "link": "https://dev.to/aakira/aimoderu-rokarushi-xing-vs-api-dotirawoxuan-bubeki-1b3e",
@@ -884,17 +961,6 @@
       "importance_score": 21
     },
     {
-      "id": "155bd8708541416002251058019960df56d3ad19",
-      "title": "Pro 5X 现在只50块了",
-      "link": "https://linux.do/t/topic/1978240",
-      "summary": "如图 便宜的不得了了 14 个帖子 - 13 位参与者 阅读完整话题",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:18:50.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 23
-    },
-    {
       "id": "aa92f04ae6f48600902c4a22a9356d5e269cddc1",
       "title": "The Norman Door Problem in AI Developer Tools",
       "link": "https://dev.to/whoffagents/the-norman-door-problem-in-ai-developer-tools-47am",
@@ -904,17 +970,6 @@
       "ai_score": 3,
       "ai_label": "non_ai",
       "importance_score": 30
-    },
-    {
-      "id": "9606a355d7b87c08597301020836112e6cba8eae",
-      "title": "Google账号修改国家地区方法",
-      "link": "https://linux.do/t/topic/1978222",
-      "summary": "转载 https://linux.do/t/topic/1186531 想要开通学生优惠，或者具备学生优惠资格或者其他活动，均有限制国家地区情况，所以结合自己成功转区的实践，分享一些经验： 前置条件 一个你要修改地区的节点，比如你想修改至美国，要选择美国节点，最好能用两天这个节点再申请转区。 步骤 查看账号当前国家/地区版本 访问以下网址： https:/…",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:17:33.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 26
     },
     {
       "id": "80a305aab6c6a9e9a3c4085771d74f06343f0c7b",
@@ -948,17 +1003,6 @@
       "ai_score": 2,
       "ai_label": "non_ai",
       "importance_score": 27
-    },
-    {
-      "id": "521b126b3cc03af510eb3efa39214c7e91397d90",
-      "title": "还有国内的服务器薅吗",
-      "link": "https://linux.do/t/topic/1978212",
-      "summary": "佬们 还有国内的服务器薅吗 之前的服务器五月份要过期了 16 个帖子 - 7 位参与者 阅读完整话题",
-      "source_name": "LinuxDo 最新话题",
-      "published_at": "2026-04-16T03:16:36.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
     },
     {
       "id": "31481bb14ac4154ca2587808f716632f3858f225",
@@ -1038,9 +1082,9 @@
       "importance_score": 27
     },
     {
-      "id": "c123f0d74c49207c106f295325cc2bf698291c1d",
+      "id": "69b5fede817ac57e1e646c18dee88aeac6a0a68b",
       "title": "「地理套利」是不是程序员最好的选择？",
-      "link": "https://www.v2ex.com/t/1206280#reply5",
+      "link": "https://www.v2ex.com/t/1206280#reply7",
       "summary": "「地理套利」的意思就是在收入高的地方工作， 赚了钱之后或者后续通过远程工作到方式到生活成本更低的地方生活。 我觉得整体是可行的，因为互联网行业本身高收入，但是一线城市的高收入和高房价匹配， 如果无需考虑房价因素，那么，靠本行业工作积累的钱，接下来生活的也会相对轻松很多。 只是，这条路有没有可能的坑之类的？来讨论下。",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-16T03:10:05.000Z",
@@ -1324,15 +1368,15 @@
       "importance_score": 27
     },
     {
-      "id": "b64997b11c74c111aa1294e23261e66d16d5b82c",
-      "title": "昨日创业板指创10年新高后回调翻绿 技术性调整不改上升趋势？｜晨会博弈",
-      "link": "https://www.yicai.com/video/103135733.html",
-      "summary": "华西证券： 本轮反弹核心是创业板，高辨识度算力与新能源龙头是情绪锚点。若算力主线延续，市场有望复刻2015年10月持续反弹；否则可能类似2022年3月反弹后回落，短期维持交易思维，不宜线性外推。中信建投证券： 创业板改革引入做市商、ETF盘后交易、大宗交易确认机制，并允许基金投顾配置创业板ETF，适时推出股指期货，有助于提升流动性并丰富风险管理工具。",
-      "source_name": "第一财经最新",
-      "published_at": "2026-04-16T02:58:04.000Z",
-      "ai_score": 2,
+      "id": "071c0ffaae80c6edb2ebac6fcc5643216ded63d4",
+      "title": "有人说 [外包] 太难听了，很土，有没有什么别的、更好听的名称。",
+      "link": "https://www.v2ex.com/t/1206278",
+      "summary": "mode171: V 站外包大佬的数量，算是个人已知最多的站了。 外包这个名称有没有什么别的、更好听的名称。征求一下",
+      "source_name": "V2EX 最热",
+      "published_at": "2026-04-16T02:57:37.000Z",
+      "ai_score": 0,
       "ai_label": "non_ai",
-      "importance_score": 31
+      "importance_score": 21
     },
     {
       "id": "8d35e75a6f26f853df3d9b66bbd217b333c2ed4f",
@@ -1346,17 +1390,6 @@
       "importance_score": 64
     },
     {
-      "id": "59b53699a59512fe71b77e0da83c4bf6529a92a2",
-      "title": "宁德时代连发多条重要公告 涉及分红和一季报等",
-      "link": "https://www.yicai.com/video/103135730.html",
-      "summary": "宁德时代连发多条重要公告 涉及分红和一季报、对外投资。宁德时代2025年度每10股派69.57元，分红总额超304亿元，股权登记日为2026年4月21日，除权除息日及现金红利发放日为2026年4月22日。宁德时代一季度净利润207.38亿元，同比增长48.52%。",
-      "source_name": "第一财经最新",
-      "published_at": "2026-04-16T02:56:54.000Z",
-      "ai_score": 2,
-      "ai_label": "non_ai",
-      "importance_score": 27
-    },
-    {
       "id": "8fc7de8bd43dadbc48eca748f08d81e52a388644",
       "title": "1991 年经典电影《纵横四海》首登内地大银幕，4K 高清修复版定档 5 月 3 日",
       "link": "https://www.ithome.com/0/939/749.htm",
@@ -1366,6 +1399,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 23
+    },
+    {
+      "id": "91ac1c5edd69d5232088d07e892f3bf0a661576c",
+      "title": "Mesh LLM",
+      "link": "https://github.com/Mesh-LLM/mesh-llm",
+      "summary": "Article URL: https://github.com/Mesh-LLM/mesh-llm Comments URL: https://news.ycombinator.com/item?id=47788109 Points: 3 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-16T02:55:56.000Z",
+      "ai_score": 13,
+      "ai_label": "ai_deep",
+      "importance_score": 61
     },
     {
       "id": "3b4e90980f3539dcfe1d0bdfff2ebe27cf6d15a3",
@@ -1467,9 +1511,20 @@
       "importance_score": 28
     },
     {
-      "id": "cac66b77bc32101017b65cfd603c43c9af65a9e9",
+      "id": "6c9d9c2d0c09dad933fac616a8a3f6a6ab348785",
+      "title": "Show HN: Themery – A theme engine that compiles one palette to every major IDE",
+      "link": "https://www.themery.dev/",
+      "summary": "Article URL: https://www.themery.dev/ Comments URL: https://news.ycombinator.com/item?id=47788076 Points: 2 # Comments: 0",
+      "source_name": "Hacker News Show",
+      "published_at": "2026-04-16T02:50:45.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 29
+    },
+    {
+      "id": "9cc0476d2636abf0a475759141713b389993cf30",
       "title": "现在这个时间节点是不是另外一个汇编转向高级编程语言的时刻",
-      "link": "https://www.v2ex.com/t/1206276#reply6",
+      "link": "https://www.v2ex.com/t/1206276#reply8",
       "summary": "最开始我觉得 vibe coding 就像个玩具，写出来的代码特别难维护。 之后慢慢的出现了 MCP 、SKILL 、SUBAGENT 这些概念，还有像 glitch 这种专门的 AI 工具，能把 AI 设计和 coding 打通。更不用说模型能力也在慢慢提升了。 现在完全能搭一套用自然语言驱动的工作流，输入自然语言，直接输出产品就行。一个不怎么懂程序开发…",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-16T02:48:49.000Z",
@@ -1753,9 +1808,9 @@
       "importance_score": 29
     },
     {
-      "id": "38ed7934056ccd559c05247d4195f089e3cbb132",
+      "id": "e356b49979fcfdb094c115a08c6a249c24c0b845",
       "title": "Codex 里的 GPT5.4 也能降智？上午让它改两个问题，改了一个小时了， plus 额度用了一半了还是没改好，和前几天用的体感完全不一样。要它改的问题也不复杂。服了。",
-      "link": "https://www.v2ex.com/t/1206270#reply3",
+      "link": "https://www.v2ex.com/t/1206270#reply4",
       "summary": "Codex 里的 GPT5.4 也能降智？上午让它改两个问题，改了一个小时了， plus 额度用了一半了还是没改好，和前几天用的体感完全不一样。要它改的问题也不复杂。服了。",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-16T02:33:56.000Z",
@@ -2512,17 +2567,6 @@
       "importance_score": 21
     },
     {
-      "id": "dc115305ab50ff780507e1531c051ebaf2fb0575",
-      "title": "创业板指涨超2%，宁德时代涨近6%，沪指涨0.25%，深成指涨1.21%，电池、算力租赁、游戏传媒等方向涨幅居前，沪深京三市上涨个股近2800只。",
-      "link": "https://wallstreetcn.com/livenews/3088913",
-      "summary": "创业板指涨超2%，宁德时代涨近6%，沪指涨0.25%，深成指涨1.21%，电池、算力租赁、游戏传媒等方向涨幅居前，沪深京三市上涨个股近2800只。",
-      "source_name": "华尔街见闻实时快讯",
-      "published_at": "2026-04-16T01:59:28.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
-    },
-    {
       "id": "1b1b0f52f16e50e4ebd10346b9e82663730cfbc7",
       "title": "QA: fix private runtime source loading (#67428)",
       "link": "https://github.com/openclaw/openclaw/commit/d5933af80bf1710de844215b84bd61e236997f29",
@@ -2543,17 +2587,6 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 21
-    },
-    {
-      "id": "b6c99cdde7a9377850ac4a06128d699047b50db8",
-      "title": "日本财务大臣片山皋月：G7讨论了全球经济、关键矿产、乌克兰等议题。 美国财长贝森特周三没有参加G7会议。 已经告诉G7日本正以高度紧迫感关注汇市。 早些时候在...",
-      "link": "https://wallstreetcn.com/livenews/3088908",
-      "summary": "日本财务大臣片山皋月：G7讨论了全球经济、关键矿产、乌克兰等议题。 美国财长贝森特周三没有参加G7会议。 已经告诉G7日本正以高度紧迫感关注汇市。 早些时候在双边会谈中与贝森特讨论了外汇问题。 在G7峰会期间表示，石油市场趋势正在影响外汇市场。 贝森特在双边会谈中没有提及货币政策。",
-      "source_name": "华尔街见闻实时快讯",
-      "published_at": "2026-04-16T01:55:42.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 26
     },
     {
       "id": "016242e9f2d6be7b2801ef0a422dcbc61ae14c83",
@@ -2636,7 +2669,7 @@
       "id": "3c74f966a9634705cf85ecbe33eeba3f61161270",
       "title": "Show HN: Object Storage Comparisons",
       "link": "https://storage.mixpeek.com",
-      "summary": "Article URL: https://storage.mixpeek.com Comments URL: https://news.ycombinator.com/item?id=47787635 Points: 1 # Comments: 0",
+      "summary": "Article URL: https://storage.mixpeek.com Comments URL: https://news.ycombinator.com/item?id=47787635 Points: 2 # Comments: 0",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-16T01:36:49.000Z",
       "ai_score": 5,
@@ -2721,9 +2754,9 @@
       "importance_score": 22
     },
     {
-      "id": "31e680cb8b46f5b2a7badec036c76d184acfaa22",
+      "id": "fb7ad9bb539d1662e2769ad5e7f8465f40434862",
       "title": "CLaude 说是后面要实名了",
-      "link": "https://www.v2ex.com/t/1206243#reply17",
+      "link": "https://www.v2ex.com/t/1206243#reply18",
       "summary": "实名了感觉我即将成为一个废物，哈哈哈",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-16T01:27:33.000Z",
@@ -2779,7 +2812,7 @@
       "id": "4badabd1622047d3f28e648ac0d202518af9e9d0",
       "title": "Show HN: Leaking AWS Keys from a Trading Competition Sandbox via stdout",
       "link": "https://github.com/JakOb-dotcom/cloud-sandbox-security-analysis/",
-      "summary": "Article URL: https://github.com/JakOb-dotcom/cloud-sandbox-security-analysis/ Comments URL: https://news.ycombinator.com/item?id=47787582 Points: 2 # Comments: 0",
+      "summary": "Article URL: https://github.com/JakOb-dotcom/cloud-sandbox-security-analysis/ Comments URL: https://news.ycombinator.com/item?id=47787582 Points: 3 # Comments: 0",
       "source_name": "Hacker News Show",
       "published_at": "2026-04-16T01:24:46.000Z",
       "ai_score": 2,
@@ -3326,6 +3359,17 @@
       "importance_score": 31
     },
     {
+      "id": "165b5bec61e2817b741bd6ccb792274e833fab9e",
+      "title": "突发：Claude引入强实名制验证，必须真人手持证件自拍，否则直接封号",
+      "link": "https://www.36kr.com/p/3768647944307458",
+      "summary": "Claude 这次直接把刀架到用户脖子上了！ Claude 开始强实名制：身份验证一上，证件一交，自拍一拍，封号风险立刻抬到新高度！ 很多人原来还抱着一点侥幸，觉得平台多少留点缝，多少还在遮掩。 现在不用猜了，Anthropic 自己把路堵给你看了！ 对用户来说，这波最可怕的地方，根本不在于流程麻烦，时间多花几分钟。 真正致命的是，账号风险一下子从模糊状态…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-16T00:15:05.000Z",
+      "ai_score": 4,
+      "ai_label": "ai_candidate",
+      "importance_score": 38
+    },
+    {
       "id": "e2e566c7f600c9c36353d01e9cfa5427789da021",
       "title": "Robot Police Dogs Powered by AI Take over Atlanta's Streets",
       "link": "https://www.newsweek.com/robot-police-dogs-powered-by-ai-take-over-atlantas-streets-11782889",
@@ -3381,6 +3425,17 @@
       "importance_score": 21
     },
     {
+      "id": "7aedb65b681757fa70f8ed60354e90124e6cf0bc",
+      "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
+      "link": "https://www.36kr.com/p/3768734631527176",
+      "summary": "今日热点导览 京东宣布推出“机器人救护车” 抖音集团将投入5亿专项资金扶持真人短剧 永辉超市38亿追款获胜，王健林等承担连带保证责任 张雪机车LOGO抄袭？设计公司发声明回应 小米汽车公布降噪处理新专利 TOP 3大新闻 美国将退还超1万亿元关税 据路透社报道，美国特朗普政府计划于当地时间4月20日正式启动一个关税退款系统，用于向进口商退还1660亿美元（…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-16T00:00:35.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 21
+    },
+    {
       "id": "ffe48cde930f7d0665866d8e5323da74abe93b82",
       "title": "“二战模式”再现！五角大楼与美国汽车巨头洽谈“转产军火”，弥补弹药库存不足",
       "link": "https://wallstreetcn.com/articles/3770087",
@@ -3390,17 +3445,6 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 26
-    },
-    {
-      "id": "c4b6e349dd8753bd1a5d7b3cc7d1c027cd40f172",
-      "title": "人民日报刊文： 着力纠正做“太平官”的错误政绩观",
-      "link": "https://m.thepaper.cn/detail/32981257",
-      "summary": "为官避事平生耻。习近平总书记深刻指出：“担当和作为是一体的，不作为就是不担当，有作为就要有担当”，并严肃批评有些领导干部“不思进取、为官不为，抱着‘当一天和尚撞一天钟’的心态，只要不出事，宁愿不做事，满足于做四平八稳的‘太平官’”。这些“太平官”遇事搞好人主义、当“好好先生”，对问题视而不见、对歪风姑息纵容，看似无明显违纪，实则消解斗志、涣散人心、贻误事业…",
-      "source_name": "澎湃新闻头条",
-      "published_at": "2026-04-15T23:54:04.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 21
     },
     {
       "id": "c7a5563f07731ef63e03925d3ff5e06f3456243f",
@@ -3711,6 +3755,17 @@
       "importance_score": 55
     },
     {
+      "id": "1fbd821fa982d602ebc99f2691ee2d24840bedf7",
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+      "summary": "Comments",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T21:48:18.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 29
+    },
+    {
       "id": "a374f41b83d4fbdeb9f2569c426b20ce372d95ea",
       "title": "Show HN: Made a tool where \"make it feel like cold metal\" is a valid instruction",
       "link": "https://cast.bsct.so/",
@@ -3730,7 +3785,7 @@
       "published_at": "2026-04-15T21:43:28.000Z",
       "ai_score": 2,
       "ai_label": "non_ai",
-      "importance_score": 32
+      "importance_score": 30
     },
     {
       "id": "edeecf30017cc29d2fd1ea1bf3daf8340c3a9e21",
@@ -3741,18 +3796,18 @@
       "published_at": "2026-04-15T21:42:59.000Z",
       "ai_score": 2,
       "ai_label": "non_ai",
-      "importance_score": 29
+      "importance_score": 27
     },
     {
-      "id": "42256a7eab1a59ed960d105873697c9101896b8e",
+      "id": "3141dd73b228616ae1b6584000e1d2940b0fa2a3",
       "title": "Show HN: Springdrift – A persistent runtime for long-lived LLM agents",
       "link": "https://github.com/seamus-brady/springdrift",
       "summary": "I wanted to share something that I have been working on since about 2019, in one form or another. Springdrift is a persistent, auditable runtime for long-lived agents written in G…",
-      "source_name": "Hacker News Show",
+      "source_name": "Hacker News LLM",
       "published_at": "2026-04-15T21:41:39.000Z",
-      "ai_score": 5,
-      "ai_label": "ai_candidate",
-      "importance_score": 42
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 58
     },
     {
       "id": "54e225439bf154b32290be2eb397e6d63f01bb77",
@@ -3865,6 +3920,17 @@
       "importance_score": 27
     },
     {
+      "id": "436deedcf4c528707abcdb13f2eecfb302c7df37",
+      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+      "link": "https://github.com/gastownhall/gastown/issues/3649",
+      "summary": "Article URL: https://github.com/gastownhall/gastown/issues/3649 Comments URL: https://news.ycombinator.com/item?id=47785053 Points: 222 # Comments: 110",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T20:49:48.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 59
+    },
+    {
       "id": "dc1e671a6a52383c8f776e65f1e04f910ae5e5d9",
       "title": "fix(dreaming): default storage.mode to \"separate\" so phase blocks sto…",
       "link": "https://github.com/openclaw/openclaw/commit/8c392f0019b0c2666cd3bcf739c3cd990a79383c",
@@ -3907,17 +3973,6 @@
       "ai_score": 6,
       "ai_label": "ai_candidate",
       "importance_score": 48
-    },
-    {
-      "id": "ad067fa6c3069bb4bd8396144f664a71e9a3c722",
-      "title": "Show HN: Mdview.io – online md viewer with responsive tables",
-      "link": "https://mdview.io/",
-      "summary": "Article URL: https://mdview.io/ Comments URL: https://news.ycombinator.com/item?id=47784900 Points: 1 # Comments: 0",
-      "source_name": "Hacker News Show",
-      "published_at": "2026-04-15T20:37:38.000Z",
-      "ai_score": 2,
-      "ai_label": "non_ai",
-      "importance_score": 27
     },
     {
       "id": "a4732b2787f91ee8b93547e7efd0d4eeac32ae24",
@@ -4151,6 +4206,17 @@
       "importance_score": 19
     },
     {
+      "id": "f93d5425f7f5e3f83f9bb2c1faaab76243b04532",
+      "title": "Show HN: I Made a TradingView Alternative (Local and LLM) [video]",
+      "link": "https://www.youtube.com/watch?v=IHY4MLH8PoU",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IHY4MLH8PoU Comments URL: https://news.ycombinator.com/item?id=47783842 Points: 1 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T19:15:02.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 55
+    },
+    {
       "id": "e6bf04c5568b8684f78fe7032b7a8a13a1f3bc82",
       "title": "test: harden gateway live docker flake handling",
       "link": "https://github.com/openclaw/openclaw/commit/4caa8824764b8974908a86d36fdb66c7d59f92b2",
@@ -4270,6 +4336,17 @@
       "ai_score": 3,
       "ai_label": "non_ai",
       "importance_score": 37
+    },
+    {
+      "id": "7fc1fe1cb331a2ab4c602cadd009c7626a07a0ef",
+      "title": "A Survey of Workflow Optimization for LLM Agents",
+      "link": "https://arxiv.org/abs/2603.22386",
+      "summary": "Article URL: https://arxiv.org/abs/2603.22386 Comments URL: https://news.ycombinator.com/item?id=47783523 Points: 2 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T18:52:47.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 58
     },
     {
       "id": "4190b6199b9e83bb33a8490872e7b05e364c56ca",
@@ -4413,17 +4490,6 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 19
-    },
-    {
-      "id": "5c58d5e898e871add2418e2039fe23eaf928fc84",
-      "title": "Stopping the Meta AI director's \"OpenClaw failure with an out-of-band killswitch",
-      "link": "https://highflame.com/blogs/why-metas-ai-alignment-director-couldnt-stop-her-own-agent--and-how-to-fix-it",
-      "summary": "Article URL: https://highflame.com/blogs/why-metas-ai-alignment-director-couldnt-stop-her-own-agent--and-how-to-fix-it Comments URL: https://news.ycombinator.com/item?id=47782763…",
-      "source_name": "Hacker News OpenClaw",
-      "published_at": "2026-04-15T17:57:01.000Z",
-      "ai_score": 9,
-      "ai_label": "ai_deep",
-      "importance_score": 60
     },
     {
       "id": "b38de88e9d907ae532ecedf7d39fbdf7ca8ecbad",
@@ -4822,6 +4888,17 @@
       "importance_score": 19
     },
     {
+      "id": "8e06979f2408fa1442965bf28e730396bca5a331",
+      "title": "Open Source Isn't Dead",
+      "link": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "summary": "Article URL: https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats Comments URL: https://news.ycombinator.com/item?id=47780712 Points: 313 # Comments: 167",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T15:43:37.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 26
+    },
+    {
       "id": "1f521b9f5ffc3a280da64a151c1558b0a1304e1c",
       "title": "★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again",
       "link": "https://daringfireball.net/2026/04/piece_android_iphone_apps",
@@ -4830,7 +4907,7 @@
       "published_at": "2026-04-15T15:40:02.000Z",
       "ai_score": 2,
       "ai_label": "non_ai",
-      "importance_score": 25
+      "importance_score": 23
     },
     {
       "id": "6d30ebc51cf1723b05003f657f5b297f87f7187e",
@@ -4886,6 +4963,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 21
+    },
+    {
+      "id": "338086b9c421407683da027cdc064d3c600bf45d",
+      "title": "Ask HN: Which LLM model and agentic CLI are you using for local development?",
+      "link": "https://news.ycombinator.com/item?id=47780444",
+      "summary": "I’ve been testing a handful of models the past few weeks, but I still haven’t settled on one yet… I’m curious to see what models, their sizes, on what hardware, and which agentic…",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T15:25:49.000Z",
+      "ai_score": 16,
+      "ai_label": "ai_deep",
+      "importance_score": 56
     },
     {
       "id": "6a2bdd751aa4c0e612cdd4542e38ebebe51d5f1d",
@@ -4998,6 +5086,28 @@
       "importance_score": 22
     },
     {
+      "id": "4685fcf679167b92e6fcdb05d9b79bb45a674818",
+      "title": "Elevated errors on Claude.ai, API, Claude Code",
+      "link": "https://claudestatus.com/",
+      "summary": "Article URL: https://claudestatus.com/ Comments URL: https://news.ycombinator.com/item?id=47779730 Points: 242 # Comments: 216",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T14:44:00.000Z",
+      "ai_score": 6,
+      "ai_label": "ai_candidate",
+      "importance_score": 47
+    },
+    {
+      "id": "bb0dd562cc549811d83799c274b91e8fd31be7b4",
+      "title": "KillBench shows every major LLM is biased against Americans",
+      "link": "https://twitter.com/whitecircle/status/2044041397188305156",
+      "summary": "Article URL: https://twitter.com/whitecircle/status/2044041397188305156 Comments URL: https://news.ycombinator.com/item?id=47779696 Points: 3 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T14:41:54.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 53
+    },
+    {
       "id": "3c35c22cf009dd784fec7a233cf2a8987d109125",
       "title": "今天在反重力上用 claude 一点都不丝滑，有同样的感受吗？",
       "link": "https://www.v2ex.com/t/1206199#reply13",
@@ -5018,6 +5128,28 @@
       "ai_score": 2,
       "ai_label": "non_ai",
       "importance_score": 23
+    },
+    {
+      "id": "869dde4e67e25f4b2b4024afa4c22550f600aeb9",
+      "title": "ModelCascade – Route LLM calls to your own GPU first, cloud second",
+      "link": "https://github.com/wayneColt/modelcascade",
+      "summary": "Article URL: https://github.com/wayneColt/modelcascade Comments URL: https://news.ycombinator.com/item?id=47779549 Points: 1 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T14:32:07.000Z",
+      "ai_score": 13,
+      "ai_label": "ai_deep",
+      "importance_score": 57
+    },
+    {
+      "id": "2f12a0899802d3dd08185502c338636c0eff5921",
+      "title": "LLM pricing is 100x Harder than you think",
+      "link": "https://portkey.ai/blog/llm-pricing-2/",
+      "summary": "Article URL: https://portkey.ai/blog/llm-pricing-2/ Comments URL: https://news.ycombinator.com/item?id=47779454 Points: 2 # Comments: 2",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T14:26:13.000Z",
+      "ai_score": 13,
+      "ai_label": "ai_deep",
+      "importance_score": 55
     },
     {
       "id": "e130a2e70fe879cf0b3f1e74f0376173808f71e3",
@@ -5064,6 +5196,17 @@
       "importance_score": 22
     },
     {
+      "id": "614b8cd326de3c76dd72287077cb33765f32fe37",
+      "title": "国产AI芯片崛起：三大门派、瓜分英伟达",
+      "link": "https://www.36kr.com/p/3767894822925058",
+      "summary": "2025年，国产AI芯片出货量和市占率又上了新高。 根据IDC最新发布的年度数据，中国AI加速卡市场总出货量达到约400万张，本土厂商合计出货约165万张，市场份额首次突破四成，达到41%。 这一数据的背后，是从英伟达一家独大的格局 ，正式进入华为领跑、多强并起的新阶段。 回顾2024年，英伟达虽仍占据约70%的市场份额（出货量超190万张），但国产势力已…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T14:12:10.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 26
+    },
+    {
       "id": "f6daad561e428aaccf57345892f5eab0a5595250",
       "title": "What’s the deal with Alzheimer’s disease and amyloid?",
       "link": "https://arstechnica.com/science/2026/04/whats-the-deal-with-alzheimers-disease-and-amyloid/",
@@ -5108,6 +5251,17 @@
       "importance_score": 22
     },
     {
+      "id": "6292dec0ddc02fc563fe4d0487210da6083a8a93",
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "summary": "Comments",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T13:47:40.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 25
+    },
+    {
       "id": "0dc02094d3ab4bbbddc1d405c294f094abde3eba",
       "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
       "link": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/",
@@ -5117,6 +5271,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
+    },
+    {
+      "id": "4b82bad666e85710d40d4f2feb446414dc196f64",
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "link": "https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs",
+      "summary": "Article URL: https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs Comments URL: https://news.ycombinator.com/item?id=47778758 Points: 245 # Comments: 167",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T13:34:11.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 25
     },
     {
       "id": "eb9ee9486fd5373d45d81156d99c7b435ff8cec1",
@@ -5139,6 +5304,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 28
+    },
+    {
+      "id": "3d2c20b60f191c998703bdceb2d38d849d0ba5e3",
+      "title": "Show HN: LLM-primer – pre-warmed Claude Code session pool, zero startup wait",
+      "link": "https://github.com/asakin/llm-primer",
+      "summary": "Claude Code sessions that read a real CLAUDE.md take 30-60 seconds to initialize. Fine once. Friction when you're switching contexts constantly. llm-primer keeps a pool of warm se…",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T13:30:13.000Z",
+      "ai_score": 17,
+      "ai_label": "ai_deep",
+      "importance_score": 62
     },
     {
       "id": "25b771b0789aa7206f693b59d5ca6f655babbbda",
@@ -5249,6 +5425,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
+    },
+    {
+      "id": "dc98e17c5ab8604869ea81ace780e496ab01f18c",
+      "title": "Show HN: Chat-rs, yet another LLM provider",
+      "link": "https://github.com/eggermarc/chat-rs",
+      "summary": "Hello everyone! I'm happy to announce chat-rs, another LLM inference provider written in rust with streaming capabilities, tool calling, and intuitive ergonomics. I was heavily in…",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T13:00:12.000Z",
+      "ai_score": 14,
+      "ai_label": "ai_deep",
+      "importance_score": 53
     },
     {
       "id": "ca884fe242fd052e1c3627d4580316f1f81e3907",
@@ -5372,17 +5559,6 @@
       "importance_score": 17
     },
     {
-      "id": "baf6153b6348e706be4ae67b07bc7f6a0db2b3eb",
-      "title": "Deploy OpenClaw on AWS: Choose the right options for your AI workload",
-      "link": "https://builder.aws.com",
-      "summary": "Article URL: https://builder.aws.com Comments URL: https://news.ycombinator.com/item?id=47778290 Points: 1 # Comments: 0",
-      "source_name": "Hacker News OpenClaw",
-      "published_at": "2026-04-15T12:48:58.000Z",
-      "ai_score": 8,
-      "ai_label": "ai_deep",
-      "importance_score": 45
-    },
-    {
       "id": "72204ddbf93ee012d4c56081288b61bd979258e1",
       "title": "11亿人在刷屏，中国网络视听市场规模超1.2万亿元",
       "link": "https://www.yicai.com/news/103134814.html",
@@ -5493,17 +5669,6 @@
       "importance_score": 17
     },
     {
-      "id": "5aa1fcb2accfb2ddb3b1612b44b879ea618da5c8",
-      "title": "Do you even need a database?",
-      "link": "https://www.dbpro.app/blog/do-you-even-need-a-database",
-      "summary": "Comments",
-      "source_name": "Hacker News",
-      "published_at": "2026-04-15T12:26:11.000Z",
-      "ai_score": 2,
-      "ai_label": "non_ai",
-      "importance_score": 25
-    },
-    {
       "id": "5fb09fa85aec95e46c9e8f0b4abfc2a063346ac8",
       "title": "额度提升、规则简化，央行上调境外贷款杠杆率",
       "link": "https://www.yicai.com/news/103134621.html",
@@ -5543,17 +5708,6 @@
       "summary": "创新药与科技成两大“吸金池” 4月15日，港股三大指数温和收红，而创新药板块上演爆发式上涨，恒生创新药指数单日暴涨5.77%。相关ETF更是包揽全市场涨幅前十，多只产品涨幅超4%，且成交额出现明显增加。 资金面同样释放积极信号，南向资金当日净买入42.22亿港元，近一个月累计净买入超168亿港元；多只港股科技和创新相关主题ETF近一个月净流入超10亿元，公…",
       "source_name": "第一财经头条",
       "published_at": "2026-04-15T12:15:56.000Z",
-      "ai_score": 0,
-      "ai_label": "non_ai",
-      "importance_score": 17
-    },
-    {
-      "id": "3d5e0d4155870715ba678d86bd551b155c1b81f4",
-      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-      "link": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reacto…",
-      "source_name": "MIT Technology Review",
-      "published_at": "2026-04-15T12:10:00.000Z",
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
@@ -5647,6 +5801,17 @@
       "importance_score": 21
     },
     {
+      "id": "92c112ffed6d3de3309fb902531a7dac2f3aa4b8",
+      "title": "Show HN: SynapseKit – Async-native Python framework for LLM pipelines and agents",
+      "link": "https://github.com/SynapseKit/SynapseKit",
+      "summary": "Article URL: https://github.com/SynapseKit/SynapseKit Comments URL: https://news.ycombinator.com/item?id=47777703 Points: 4 # Comments: 2",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T11:36:22.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 62
+    },
+    {
       "id": "f2e529bc8848e8ffcc857f2b3ee0df6544c8ad80",
       "title": "GOGDNS 一款简易的私人 DNS 服务器",
       "link": "https://www.v2ex.com/t/1206166#reply7",
@@ -5713,15 +5878,26 @@
       "importance_score": 39
     },
     {
-      "id": "c4fc0bca421d480d4cf78fc01b191203282ba1f1",
-      "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-      "link": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
-      "summary": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account,…",
-      "source_name": "MIT Technology Review",
-      "published_at": "2026-04-15T11:26:12.000Z",
-      "ai_score": 0,
+      "id": "9aa58b69f140eacbd4a53f79ad0eb45cb93797f0",
+      "title": "Hermes Agent抄袭中国团队代码实锤，被锤后回应：你删号",
+      "link": "https://www.36kr.com/p/3767967755371011",
+      "summary": "【导读】炸裂！GitHub狂揽8.5万Star的Hermes Agent竟是抄袭？硅谷知名AI实验室Nous Research的明星项目，被指控整套自进化架构照搬自中国团队EvoMap的开源引擎Evolver。10步主循环一模一样，术语全换了但架构纹丝不动，7份公开材料对原作只字未提。被锤后对方回应更离谱：「Delete your account。」 AI…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T11:21:08.000Z",
+      "ai_score": -3,
       "ai_label": "non_ai",
-      "importance_score": 22
+      "importance_score": 30
+    },
+    {
+      "id": "79f1d1e36e7a9e77b13e400cdfc01989ddcfac62",
+      "title": "Claude Opus 4.7 或本周上线，但 Anthropic 要查你证件了",
+      "link": "https://www.36kr.com/p/3767982270661126",
+      "summary": "生产队的驴都没有 Anthropic 这么忙，从今年年初 Claude Cowork 发布之后， Anthropic 的更新就没有停止过，说一天一项都不为过。 根据 the information 的报道， Anthropic 在本周甚至会推出 Opus 4.7 ，和前几天社交媒体上爆料，类似 Lovable 的 AI 设计工具。 与此同时，Anthrop…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T11:20:08.000Z",
+      "ai_score": 4,
+      "ai_label": "ai_candidate",
+      "importance_score": 42
     },
     {
       "id": "bf013eebd22c7a9850e144a80079deeb22944adf",
@@ -5790,17 +5966,6 @@
       "importance_score": 45
     },
     {
-      "id": "cd22fe319be3c107cd80feca7257054ce2e52efb",
-      "title": "Anthropic blocked Claude subscribers from using OpenClaw",
-      "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "summary": "Article URL: https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/ Comments URL: https://news.ycombinator.com/item?id=47777280 Po…",
-      "source_name": "Hacker News OpenClaw",
-      "published_at": "2026-04-15T10:50:14.000Z",
-      "ai_score": 12,
-      "ai_label": "ai_deep",
-      "importance_score": 56
-    },
-    {
       "id": "60a1db43653df43670e935a582ce64cf08b88d97",
       "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
       "link": "https://www.yicai.com/news/103134482.html",
@@ -5821,6 +5986,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
+    },
+    {
+      "id": "2afc7a20451f7e15502771ec06b9b5b781d3d821",
+      "title": "Backpacks got worse on purpose",
+      "link": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
+      "summary": "Article URL: https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose Comments URL: https://news.ycombinator.com/item?id=47777209 Points: 395 # Comments: 364",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T10:42:28.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 25
     },
     {
       "id": "036dde4649922c66a72db189c9d96c674143555e",
@@ -5854,6 +6030,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
+    },
+    {
+      "id": "d9cf2aaf8374e9ee105bc2f8256e681b9d7771bb",
+      "title": "A 400 Word Prompt That Makes LLM Paragraphs More Bearable",
+      "link": "https://mikecaulfield.substack.com/p/a-300-word-prompt-that-makes-llm",
+      "summary": "Article URL: https://mikecaulfield.substack.com/p/a-300-word-prompt-that-makes-llm Comments URL: https://news.ycombinator.com/item?id=47777053 Points: 1 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T10:21:47.000Z",
+      "ai_score": 17,
+      "ai_label": "ai_deep",
+      "importance_score": 53
     },
     {
       "id": "76bca50b66252d66b6ee0d7aa331047c5250b2ec",
@@ -5966,6 +6153,17 @@
       "importance_score": 24
     },
     {
+      "id": "93fe8ce35c485b89f00ec2576d38070290bb873a",
+      "title": "Want to write a compiler? Just read these two papers (2008)",
+      "link": "https://prog21.dadgum.com/30.html",
+      "summary": "Article URL: https://prog21.dadgum.com/30.html Comments URL: https://news.ycombinator.com/item?id=47776796 Points: 472 # Comments: 140",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T09:41:19.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 29
+    },
+    {
       "id": "b7bc3c49c31ec3dd678a030e9dcfe375dd4f779b",
       "title": "开局收获上万差评的游戏：《红色沙漠》为何能这么快翻身？",
       "link": "https://sspai.com/post/108679",
@@ -6043,15 +6241,37 @@
       "importance_score": 54
     },
     {
-      "id": "133c2f1a2fb5df71f6b0ed879942473dde6fc424",
-      "title": "No one’s sure if synthetic mirror life will kill us all",
-      "link": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
-      "summary": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresi…",
-      "source_name": "MIT Technology Review",
-      "published_at": "2026-04-15T09:00:00.000Z",
+      "id": "41bd1e808b36e9a3d40f6be41d5ee3024b462cd9",
+      "title": "DotLLM – Building an LLM Inference Engine in C#",
+      "link": "https://kokosa.dev/blog/2026/dotllm/",
+      "summary": "Article URL: https://kokosa.dev/blog/2026/dotllm/ Comments URL: https://news.ycombinator.com/item?id=47776579 Points: 3 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T09:13:59.000Z",
+      "ai_score": 15,
+      "ai_label": "ai_deep",
+      "importance_score": 53
+    },
+    {
+      "id": "f409bfce72f113d9e7d02ded63f42a78f6a43fdd",
+      "title": "Good sleep, good learning, good life (2012)",
+      "link": "https://super-memory.com/articles/sleep.htm",
+      "summary": "Article URL: https://super-memory.com/articles/sleep.htm Comments URL: https://news.ycombinator.com/item?id=47776557 Points: 376 # Comments: 190",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T09:11:18.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 25
+    },
+    {
+      "id": "f996cf9067961742559a12017a83a41561f554c9",
+      "title": "客厅电视买多大合适？TCL、海信、创维、小米、海尔、长虹、华为、康佳、三星等给出推荐规范",
+      "link": "https://www.ithome.com/0/939/517.htm",
+      "summary": "IT之家 4 月 15 日消息，中国电子视像行业协会今日（4 月 15 日）官宣 关于发布实施《客厅平板电视主流尺寸推荐规范》团体标准的通知 ，该标准于 2026 年 4 月 13 日正式实施。 IT之家从标准文件获悉，该标准确定了平板电视最小观看距离、最佳观看距离等指标，并根据公式给出了平板电视推荐尺寸。 根据标准文件， 双眼水平视角约在 30°~42°…",
+      "source_name": "IT之家 24h",
+      "published_at": "2026-04-15T09:06:07.000Z",
       "ai_score": 0,
       "ai_label": "non_ai",
-      "importance_score": 17
+      "importance_score": 24
     },
     {
       "id": "6eb2c524dacc641ed48ba55b67b9169187f79105",
@@ -6076,9 +6296,9 @@
       "importance_score": 34
     },
     {
-      "id": "fe345fd8f9532728b6b795b456b3c6f7b7c606bd",
+      "id": "8038f824a170702930f66709d492f9f0a3f6ed2a",
       "title": "OpenAI Plus 和 Team 都缩水了吗",
-      "link": "https://www.v2ex.com/t/1206127#reply15",
+      "link": "https://www.v2ex.com/t/1206127#reply16",
       "summary": "之前 1 个号管饱，现在 3 个号轮着用，还是不够用，这可咋好 ╮(╯▽╰)╭",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-15T08:46:02.000Z",
@@ -6151,6 +6371,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 24
+    },
+    {
+      "id": "3c2a472e2b63f2e8cd88b399269530af3f67e27b",
+      "title": "苹果疯狂狙击Vibe Coding App",
+      "link": "https://www.36kr.com/p/3767754300162567",
+      "summary": "1 苹果 App Store 阻止多款 Vibe Coding 应用更新 在苹果创立五十周年之际，这家曾以“让每个人都能使用计算机”为使命的公司，正再次站在技术路线与平台治理的十字路口。 近期，苹果在其 App Store 中对多款“Vibe Coding”应用采取了限制措施，引发了开发者社区与行业观察者的广泛讨论。 据多方信息显示，苹果已阻止至少两款基于…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T07:52:50.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 22
     },
     {
       "id": "fe58d38de6a157977c02bb1744c04f46ee0140a0",
@@ -6252,6 +6483,17 @@
       "importance_score": 26
     },
     {
+      "id": "a28ae4da86c76f7c6380a0c08d0a7b554f8bd264",
+      "title": "Wacli – WhatsApp CLI",
+      "link": "https://github.com/steipete/wacli",
+      "summary": "Article URL: https://github.com/steipete/wacli Comments URL: https://news.ycombinator.com/item?id=47775628 Points: 231 # Comments: 149",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T07:04:45.000Z",
+      "ai_score": 2,
+      "ai_label": "non_ai",
+      "importance_score": 30
+    },
+    {
       "id": "2c85d7c78af9865467be018501f8d891bf08fc76",
       "title": "一日一技｜Liquid Glass 液态变磨砂",
       "link": "https://sspai.com/post/108656",
@@ -6318,9 +6560,9 @@
       "importance_score": 17
     },
     {
-      "id": "24f6bcb9d0b1791bec4d1bd858943458c9e91f0b",
+      "id": "cb07ba6be7210e3b0cceef2a4948922f683fd5b1",
       "title": "现在推荐什么路由器刷 openwrt 的？或者能 ssh 进去的",
-      "link": "https://www.v2ex.com/t/1206063#reply48",
+      "link": "https://www.v2ex.com/t/1206063#reply50",
       "summary": "目前看了红米 ax6000 和京东云雅典娜，这两个的话更推荐哪个？ 再奢望下有没有能同时支持 5G 卡的。。既能 5G 卡上网，又能插网线上网，还能 ssh 或者 openwrt ，一机解决所有场景。",
       "source_name": "V2EX 技术",
       "published_at": "2026-04-15T06:14:24.000Z",
@@ -6382,17 +6624,6 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 17
-    },
-    {
-      "id": "eee1739e7e595b198cc45b6db0b116c3e11d027b",
-      "title": "Building trust in the AI era with privacy-led UX",
-      "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-      "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship.…",
-      "source_name": "MIT Technology Review",
-      "published_at": "2026-04-15T06:00:00.000Z",
-      "ai_score": 3,
-      "ai_label": "non_ai",
-      "importance_score": 26
     },
     {
       "id": "7dba19b1c86cf9143066642c8c7b0c85d521f9f2",
@@ -6483,6 +6714,17 @@
       "importance_score": 17
     },
     {
+      "id": "501eb29063af4751bfd864294cb5d158d009b6a5",
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "summary": "Article URL: https://www.gizmoweek.com/gemma-4-runs-iphone/ Comments URL: https://news.ycombinator.com/item?id=47774971 Points: 273 # Comments: 168",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T05:19:06.000Z",
+      "ai_score": 4,
+      "ai_label": "ai_candidate",
+      "importance_score": 36
+    },
+    {
       "id": "f8c2550e122ff03ed0713d0651b96aaab638e780",
       "title": "Coleman Promo Codes and Deals: Up to 75% Off in April",
       "link": "https://www.wired.com/story/coleman-promo-code/",
@@ -6571,15 +6813,15 @@
       "importance_score": 17
     },
     {
-      "id": "0f007de4360a9c09505f56a7e029305597edf20b",
-      "title": "27 届毕业生的迷思",
-      "link": "https://www.v2ex.com/t/1206037",
-      "summary": "JLKN13Nnz: 23 年在 v 站发的帖子 https://www.v2ex.com/t/962775#reply29 现在在找暑期实习，我才发现最大的错误就是选择读研，没有在本科的时候选择就业。 读研期间干一堆烂事，研二才开始做自己的课题，一边学开发找工作，实验室以前资源也一般，没什么科研成果，浪费了三年时间，还不一定找得到本科努力就能去的大厂。…",
-      "source_name": "V2EX 最热",
-      "published_at": "2026-04-15T04:37:45.000Z",
-      "ai_score": 0,
+      "id": "4ec7ea4685223f32e0200fa82a0154e05f8aac71",
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
+      "summary": "Article URL: https://iczelia.net/posts/e16-20-year-old-bug/ Comments URL: https://news.ycombinator.com/item?id=47774789 Points: 256 # Comments: 156",
+      "source_name": "Hacker News 最佳",
+      "published_at": "2026-04-15T04:47:00.000Z",
+      "ai_score": 2,
       "ai_label": "non_ai",
-      "importance_score": 17
+      "importance_score": 25
     },
     {
       "id": "472efccecb23382f113020e6b3e320d134127fe1",
@@ -6591,6 +6833,17 @@
       "ai_score": 9,
       "ai_label": "ai_deep",
       "importance_score": 65
+    },
+    {
+      "id": "b67b023c4728368cf9c56a7e1cbb3202a8bf0454",
+      "title": "Show HN: Firefox Sidebar Local LLM",
+      "link": "https://github.com/skorotkiewicz/firefox-ai",
+      "summary": "Article URL: https://github.com/skorotkiewicz/firefox-ai Comments URL: https://news.ycombinator.com/item?id=47774670 Points: 1 # Comments: 0",
+      "source_name": "Hacker News LLM",
+      "published_at": "2026-04-15T04:26:08.000Z",
+      "ai_score": 11,
+      "ai_label": "ai_deep",
+      "importance_score": 57
     },
     {
       "id": "f3bf0d756d8c1fb424bd2249fe20a26418ed90fe",
@@ -6613,6 +6866,17 @@
       "ai_score": 2,
       "ai_label": "non_ai",
       "importance_score": 27
+    },
+    {
+      "id": "2baccee449a7103dd708a9e124be75b81851a300",
+      "title": "刚刚，李飞飞最新成果发布，手机也能跑亿级粒子的 3D 世界了",
+      "link": "https://www.36kr.com/p/3767557281268483",
+      "summary": "拍一圈照片，就能生成一个可交互的 3D 世界，已经不是什么新鲜话题了。但问题是如何把一个大世界塞进普通人的手机浏览器里。 就在刚刚，李飞飞旗下 AI 世界模型公司 World Labs 发布并开源了一个最新成果：Spark 2.0。 这个专为网页端设计的动态 3D 高斯点云（3DGS）渲染引擎，让在任何设备的浏览器里流畅运行上亿粒子的超大 3D 场景，开始…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T04:04:06.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 24
     },
     {
       "id": "fdca99b9ac0e34ffab857213400c3eb1eb73a4f1",
@@ -14698,6 +14962,17 @@
       "ai_score": 0,
       "ai_label": "non_ai",
       "importance_score": 25
+    },
+    {
+      "id": "95813c51797791e4f6e61bb3a302d3f221799717",
+      "title": "智谱让微信支付宝躺赢了",
+      "link": "https://www.36kr.com/p/3767538055463681",
+      "summary": "最近几天，X上的一些AI博主，突然开始提及一个与AI不相关的问题：怎么注册支付宝/微信支付等中国支付工具。 这个看似和AI不相关的讨论，起源于一个智谱GLM Coding Plan用户的吐槽：同样的Max套餐，中国用户的费用是469元每月，约合68美元每月，而海外用户则要160美元每月，贵了一倍还多。 于是，怎么用上国区CodingPlan，成了一众海外用…",
+      "source_name": "今日热榜 - 36氪",
+      "published_at": "2026-04-15T03:45:39.000Z",
+      "ai_score": 0,
+      "ai_label": "non_ai",
+      "importance_score": 21
     }
   ]
 }
