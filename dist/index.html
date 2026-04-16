@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>news push</title>
+    <title>新闻蒸馏</title>
     <style>
       :root {
         color-scheme: light;
@@ -169,6 +169,31 @@
         font-size: 1rem;
         font-weight: 800;
         letter-spacing: -0.02em;
+      }
+
+      .report-band-header {
+        display: grid;
+        gap: 8px;
+      }
+
+      .report-band-title-row {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .report-band-title-icon {
+        width: 18px;
+        height: 18px;
+        flex: 0 0 18px;
+        color: var(--accent);
+      }
+
+      .report-band-disclaimer {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.8rem;
+        line-height: 1.65;
       }
 
       .report-band-brief {
@@ -405,6 +430,41 @@
         background: var(--panel);
         box-shadow: var(--shadow);
         overflow: hidden;
+      }
+
+      .site-footer {
+        padding: 28px 0 40px;
+      }
+
+      .site-footer-inner {
+        width: min(1320px, calc(100vw - 32px));
+        margin: 0 auto;
+        border-top: 1px solid var(--line);
+        padding-top: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        flex-wrap: wrap;
+        color: var(--muted);
+        font-size: 0.84rem;
+        line-height: 1.7;
+      }
+
+      .site-footer-links {
+        display: inline-flex;
+        align-items: center;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+
+      .site-footer-link {
+        color: var(--muted);
+        transition: color 0.18s ease;
+      }
+
+      .site-footer-link:hover {
+        color: var(--text);
       }
 
       .focus {
@@ -820,8 +880,8 @@
     <header class="topbar">
       <div class="topbar-inner">
         <div class="brand">
-          <h1 class="brand-title"><span>&gt;</span> news push</h1>
-          <p class="brand-subtitle" id="brand-subtitle">定时从 -- 个信源抓取最新资讯，目前专注于AI</p>
+          <h1 class="brand-title">新闻蒸馏</h1>
+          <p class="brand-subtitle" id="brand-subtitle">Less, but Better</p>
         </div>
         <div class="toolbar">
           <a class="toolbar-link" href="./rss.xml">
@@ -840,8 +900,15 @@
 
     <section class="report-band" id="ai-report-brief-section" hidden>
       <div class="report-band-inner">
-        <div>
-          <h2 class="report-band-title">AI 摘要</h2>
+        <div class="report-band-header">
+          <div class="report-band-title-row">
+            <svg class="report-band-title-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M12 3.75 5.75 7.25v5.5c0 3.4 2.51 6.45 6.25 7.5 3.74-1.05 6.25-4.1 6.25-7.5v-5.5L12 3.75Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="m9.25 12 1.75 1.75 3.75-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <h2 class="report-band-title">已经蒸馏</h2>
+          </div>
+          <p class="report-band-disclaimer">此处观点由AI生成，仅供参考</p>
           <p class="report-band-brief" id="ai-report-brief"></p>
         </div>
       </div>
@@ -850,7 +917,16 @@
     <section class="report-band" id="ai-report-facts-section" hidden>
       <div class="report-band-inner">
         <section class="report-band-group">
-          <h3 class="report-band-group-title">重要事实</h3>
+          <div class="report-band-header">
+            <div class="report-band-title-row">
+              <svg class="report-band-title-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M12 4.75 6.5 7.5v4.25c0 3.06 2.23 5.8 5.5 6.75 3.27-.95 5.5-3.69 5.5-6.75V7.5L12 4.75Z" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M9.25 12h5.5M12 9.25v5.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              <h3 class="report-band-group-title">AI大事件</h3>
+            </div>
+            <p class="report-band-disclaimer">此处观点由AI生成，仅供参考</p>
+          </div>
           <div class="report-band-list" id="ai-report-facts"></div>
         </section>
       </div>
@@ -859,7 +935,16 @@
     <section class="report-band" id="ai-report-opinions-section" hidden>
       <div class="report-band-inner">
         <section class="report-band-group">
-          <h3 class="report-band-group-title">关键观点</h3>
+          <div class="report-band-header">
+            <div class="report-band-title-row">
+              <svg class="report-band-title-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M12 5.25c-3.94 0-7.13 3.19-7.13 7.12S8.06 19.5 12 19.5s7.13-3.19 7.13-7.13S15.94 5.25 12 5.25Z" stroke="currentColor" stroke-width="1.8"/>
+                <path d="M12 9v3.25l2.25 1.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              <h3 class="report-band-group-title">洞察</h3>
+            </div>
+            <p class="report-band-disclaimer">此处观点由AI生成，仅供参考</p>
+          </div>
           <div class="report-band-list" id="ai-report-opinions"></div>
         </section>
       </div>
@@ -890,6 +975,17 @@
         </section>
       </div>
     </main>
+
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <div>© 2026 新闻蒸馏 · 公开聚合原始信息流，页面内容仅供个人阅读参考。</div>
+        <div class="site-footer-links">
+          <a class="site-footer-link" href="./rss.xml">RSS</a>
+          <a class="site-footer-link" href="https://github.com/web3a8" target="_blank" rel="noreferrer">GitHub</a>
+          <a class="site-footer-link" href="https://github.com/web3a8/news-push-data" target="_blank" rel="noreferrer">Repository</a>
+        </div>
+      </div>
+    </footer>
 
     <script>
       const state = {
@@ -1462,7 +1558,7 @@
           state.aiReport = prepareAiReport(aiReport);
           state.generatedAt = rss.generatedAt || "";
           if (brandSubtitle) {
-            brandSubtitle.textContent = `定时从 ${formatNumber(rss.sourceCount || 0)} 个信源抓取最新资讯，目前专注于AI`;
+            brandSubtitle.textContent = "Less, but Better";
           }
           renderAiReport();
           renderFilters();
