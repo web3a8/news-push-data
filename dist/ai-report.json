@@ -1,121 +1,31 @@
 {
-  "global_brief": "AI研究持续聚焦于大语言模型的能力评估与安全强化，特别是在临床推理、多语言适应性和智能体应用方面。同时，产业界正积极推动AI智能体进入应用开发领域，并关注模型安全与红队测试工具的成熟化。",
+  "global_brief": "过去24小时的 AI 动态主要集中在：Benchmarking Linguistic Adaptation in Comparable-Sized LLMs: A Study of Llama-3.1-8B, Mistral-7B-v0.1, and Qwen3-8B on Romanized Nepali；美国医学会旗下期刊：现阶段 AI 难以直接应用于临床决策，早期诊断错误率达到 80%；QU-NLP at ArchEHR-QA 2026: Two-Stage QLoRA Fine-Tuning of Qwen3-4B for Patient-Or…",
   "highlight_facts": [
     {
-      "title": "谷歌向AI智能体开放Android开发指南访问权限",
-      "summary": "谷歌向AI智能体开放了最新的Android开发指南访问权限，旨在帮助AI开发出更高质量的应用程序 。",
-      "references": [
-        {
-          "source_name": "IT之家",
-          "link": "https://ithome.com/0/940/550.htm"
-        }
-      ]
+      "title": "Benchmarking Linguistic Adaptation in Comparable-Sized LLMs: A Study of Llama-3.1-8B, Mistral-7B-v0.1, and Qwen3-8B on Romanized Nepali",
+      "summary": "arXiv:2604.14171v1 Announce Type: cross Abstract: Romanized Nepali, the Nepali language written in the Latin alphabet,…；Benchmarking Linguistic Adaptation in Comparable-Sized LLMs: A Study of Llama-3.1-8B, Mistral-7B-v0…",
+      "references": []
     },
     {
-      "title": "研究显示当前LLM在临床早期诊断中错误率超80%",
-      "summary": "美国医学会旗下期刊JAMA Network Open发文指出，现有大型语言模型在临床推理，尤其是早期鉴别诊断阶段存在明显短板，错误率普遍超过80% 。",
-      "references": [
-        {
-          "source_name": "IT之家",
-          "link": "https://ithome.com/0/940/553.htm"
-        }
-      ]
+      "title": "美国医学会旗下期刊：现阶段 AI 难以直接应用于临床决策，早期诊断错误率达到 80%",
+      "summary": "IT之家 4 月 17 日消息，美国医学会旗下期刊 JAMA Network Open 发文，透露业界现有的大型语言模型（LLMs）在临床推理方面仍存在明显短板，尤其是在早期的鉴别诊断阶段，错误率普遍超过 80%。 IT之家参考论文获悉，…；美国医学会旗下期刊：现阶段 AI 难以直接应用于临床决策，早期诊断错误率达到 80%",
+      "references": []
     },
     {
-      "title": "Anthropic发布Claude Mythos Preview模型，网络安全能力引关注",
-      "summary": "Anthropic发布了Claude Mythos Preview模型，该模型在发现和利用软件漏洞方面展现出强大能力，引发了关于AI与网络安全的讨论 。",
-      "references": [
-        {
-          "source_name": "Schneier on Security",
-          "link": "https://schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html"
-        }
-      ]
+      "title": "QU-NLP at ArchEHR-QA 2026: Two-Stage QLoRA Fine-Tuning of Qwen3-4B for Patient-Oriented Clinical Question Answering and Evidence Sentence Alignment",
+      "summary": "arXiv:2604.14175v1 Announce Type: cross Abstract: We present a unified system addressing both Subtask 3 (answer generat…；QU-NLP at ArchEHR-QA 2026: Two-Stage QLoRA Fine-Tuning of Qwen3-4B for Patient-Oriented Clinical Q…",
+      "references": []
     },
     {
-      "title": "研究评估Llama-3.1-8B等模型在罗马化尼泊尔语上的适应性",
-      "summary": "一项研究对Llama-3.1-8B、Mistral-7B-v0.1和Qwen3-8B等规模相当的大语言模型在罗马化尼泊尔语（用拉丁字母书写的尼泊尔语）上的语言适应能力进行了基准测试 。",
-      "references": [
-        {
-          "source_name": "arXiv AI",
-          "link": "https://arxiv.org/abs/2604.14171"
-        }
-      ]
+      "title": "Searching Meta Reasoning Skeleton to Guide LLM Reasoning",
+      "summary": "arXiv:2510.04116v4 Announce Type: replace Abstract: Meta reasoning behaviors work as a skeleton to guide large language…；Searching Meta Reasoning Skeleton to Guide LLM Reasoning",
+      "references": []
     },
     {
-      "title": "研究提出GAMBIT框架，用于测试多模态大语言模型的越狱脆弱性",
-      "summary": "研究人员提出了GAMBIT框架，这是一个游戏化的越狱框架，旨在评估广泛部署的多模态大语言模型的安全性 。",
-      "references": [
-        {
-          "source_name": "arXiv 计算机视觉",
-          "link": "https://arxiv.org/abs/2601.03416"
-        }
-      ]
-    },
-    {
-      "title": "研究利用两阶段QLoRA微调Qwen3-4B用于临床问答",
-      "summary": "QU-NLP团队在ArchEHR-QA 2026任务中，采用两阶段QLoRA方法对Qwen3-4B模型进行微调，用于面向患者的临床问题解答和证据句子对齐 。",
-      "references": [
-        {
-          "source_name": "arXiv AI",
-          "link": "https://arxiv.org/abs/2604.14175"
-        },
-        {
-          "source_name": "arXiv NLP",
-          "link": "https://arxiv.org/abs/2604.14164"
-        }
-      ]
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "summary": "7 ways to travel smarter this summer, with help from Google",
+      "references": []
     }
   ],
-  "highlight_opinions": [
-    {
-      "title": "AI临床应用面临高错误率挑战，落地仍需谨慎",
-      "summary": "尽管有研究在探索LLM用于临床问答，但权威医学期刊指出当前模型在早期诊断中的错误率极高 。这表明将AI直接应用于高风险临床决策仍不成熟，相关产品的部署需要更严格的验证和监管。",
-      "references": [
-        {
-          "source_name": "IT之家",
-          "link": "https://ithome.com/0/940/553.htm"
-        },
-        {
-          "source_name": "arXiv AI",
-          "link": "https://arxiv.org/abs/2604.14175"
-        },
-        {
-          "source_name": "arXiv NLP",
-          "link": "https://arxiv.org/abs/2604.14164"
-        }
-      ]
-    },
-    {
-      "title": "大模型安全攻防对抗升级，红队工具生态趋于成熟",
-      "summary": "随着生成式AI的成熟，针对它的威胁也在增加。AI红队测试已从小众安全实践演变为关键防御环节，并出现了专门的工具列表 。同时，新的越狱测试框架 和具有强大漏洞利用能力的模型 相继出现，预示着AI安全领域的攻防对抗将更加激烈和专业化。",
-      "references": [
-        {
-          "source_name": "MarkTechPost",
-          "link": "https://marktechpost.com/2026/04/17/top-ai-red-teaming-tools"
-        },
-        {
-          "source_name": "arXiv 计算机视觉",
-          "link": "https://arxiv.org/abs/2601.03416"
-        },
-        {
-          "source_name": "Schneier on Security",
-          "link": "https://schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html"
-        }
-      ]
-    },
-    {
-      "title": "AI智能体正从工具演变为应用开发者，产业整合加速",
-      "summary": "谷歌向AI智能体开放核心开发资源 ，社区讨论也聚焦于让智能体像人类一样浏览网站而非简单调用API 。这显示产业界正积极推动AI智能体超越辅助角色，向能够理解并操作复杂环境（如整个开发流程或网站）的自主应用构建者演进。",
-      "references": [
-        {
-          "source_name": "IT之家",
-          "link": "https://ithome.com/0/940/550.htm"
-        },
-        {
-          "source_name": "Hacker News AI",
-          "link": "https://rtrvr.ai/rover/blog/four-architectures-website-ai-agents"
-        }
-      ]
-    }
-  ]
+  "highlight_opinions": []
 }
