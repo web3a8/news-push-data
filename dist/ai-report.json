@@ -1,9 +1,29 @@
 {
-  "global_brief": "Anthropic公开了Claude系统提示词的历史版本，成为唯一公布此信息的主要AI实验室。社区对本地LLM的使用、AI代理的基准测试和工具化部署展现出浓厚兴趣。同时，中国多所高校正在组建人工智能学院，以响应国家战略。",
+  "global_brief": "Anthropic 发布了 Claude Opus 4.7 模型，在智能体编码、高分辨率视觉和长程自主任务方面进行了重大升级。NVIDIA 发布了首个用于混合量子-经典系统的开源量子 AI 模型家族 Ising。社区围绕 Claude 的更新、AI 编码工具链以及 LLM 订阅选择展开了广泛讨论。",
   "highlight_facts": [
     {
-      "title": "Anthropic公开Claude系统提示词历史版本",
-      "summary": "Anthropic发布了Claude Opus 4.6与4.7版本之间的系统提示词变更，使其成为唯一公布其用户端聊天系统提示词的主要AI实验室 。",
+      "title": "Anthropic 发布 Claude Opus 4.7 模型",
+      "summary": "Anthropic 发布了 Claude Opus 4.7，这是一个重大升级，主要针对智能体编码、高分辨率视觉和长程自主任务进行了优化 。",
+      "references": [
+        {
+          "source_name": "MarkTechPost",
+          "link": "https://marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA 发布首个开源量子 AI 模型家族 Ising",
+      "summary": "NVIDIA 发布了 Ising，这是首个用于混合量子-经典系统的开源量子 AI 模型家族，旨在推动量子计算与 AI 的结合 。",
+      "references": [
+        {
+          "source_name": "MarkTechPost",
+          "link": "https://marktechpost.com/2026/04/19/nvidia-releases-ising"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic 公开了 Claude 系统提示词的变更历史",
+      "summary": "Anthropic 是唯一公开其面向用户的聊天系统提示词的主要 AI 实验室，其博客展示了 Claude Opus 4.6 到 4.7 版本之间系统提示词的变化 。",
       "references": [
         {
           "source_name": "Simon Willison's Blog",
@@ -16,84 +36,40 @@
       ]
     },
     {
-      "title": "多所中国高校组建人工智能学院",
-      "summary": "近期，包括郑州师范学院在内的多所中国高校完成了人工智能产业学院的组建，以响应国家人工智能发展战略并深化产教融合 。",
+      "title": "开发者展示结合使用 Claude Code 和 Codex 提升 .NET 开发效率",
+      "summary": "一位开发者分享了如何结合使用 Claude Code 和 Codex 这两种 AI 编码工具，以更快的速度构建 .NET 功能 。",
       "references": [
         {
-          "source_name": "澎湃新闻头条",
-          "link": "https://m.thepaper.cn/detail/33004495"
+          "source_name": "Dev.to",
+          "link": "https://dev.to/bigboybamo/how-i-use-claude-code-and-codex-together-to-build-net-features-faster-1n40"
         }
       ]
     },
     {
-      "title": "开源工具BenchJack用于扫描AI代理基准测试漏洞",
-      "summary": "一个名为BenchJack的开源项目发布，旨在扫描AI代理基准测试中的可攻击性漏洞 。",
+      "title": "社区出现针对 Claude Code 的 Rust 原生 TUI 实现",
+      "summary": "社区贡献者开发了 Claude Code Rust，这是一个用 Rust 重新实现的 Claude Code CLI 的 TUI 界面，旨在避免 V8 堆内存溢出问题，并支持 16k 上下文 。",
       "references": [
         {
-          "source_name": "Hacker News AI",
-          "link": "https://github.com/benchjack/benchjack"
+          "source_name": "Hacker News Show",
+          "link": "https://github.com/srothgan/claude-code-rust"
         }
       ]
     },
     {
-      "title": "教程发布：在CUDA上运行PrismML Bonsai 1位LLM",
-      "summary": "MarkTechPost发布了一篇编码教程，详细介绍了如何在CUDA上使用GGUF格式运行PrismML Bonsai 1位大语言模型，并涵盖基准测试、聊天、JSON和RAG功能 。",
+      "title": "社区发布面向 Claude 和 Gemini 的多智能体任务管理平台",
+      "summary": "社区展示了一个名为 AgentRQ 的实时人机任务协作平台，专为 Claude Code 和 ACP 兼容的智能体（如 Gemini）构建，用于多智能体任务管理 。",
       "references": [
         {
-          "source_name": "MarkTechPost",
-          "link": "https://marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag"
-        }
-      ]
-    },
-    {
-      "title": "技术文章探讨LLM的高斯分布权重",
-      "summary": "一篇技术文章探讨了用于大语言模型的高斯分布权重，作为对4位浮点格式FP4的补充研究 。",
-      "references": [
-        {
-          "source_name": "johndcook.com",
-          "link": "https://johndcook.com/blog/2026/04/18/qlora"
-        }
-      ]
-    },
-    {
-      "title": "AI代理致电爱尔兰所有酒吧统计健力士啤酒价格",
-      "summary": "一个AI代理通过电话联系了爱尔兰的所有酒吧，以建立健力士啤酒的价格索引 。",
-      "references": [
-        {
-          "source_name": "Hacker News AI",
-          "link": "https://guinndex.ai/"
+          "source_name": "Hacker News Show",
+          "link": "https://agentrq.com/"
         }
       ]
     }
   ],
   "highlight_opinions": [
     {
-      "title": "社区对本地LLM的实际应用场景存在广泛探索",
-      "summary": "技术社区正在积极讨论本地LLM（如Gemma 4, Qwen 3.6）的具体用例，反映出从模型发布到实际落地应用的关注点转移 。",
-      "references": [
-        {
-          "source_name": "Hacker News Ask",
-          "link": "https://news.ycombinator.com/item?id=47816187"
-        }
-      ]
-    },
-    {
-      "title": "AI代理工具与平台正朝多任务协作与安全管理方向发展",
-      "summary": "开发者社区展示了多个面向Claude、Gemini等模型的多智能体任务管理平台 ，并分享注重安全的沙盒化AI代理设置方案 ，表明代理工具生态趋于成熟和实用化。",
-      "references": [
-        {
-          "source_name": "Hacker News Show",
-          "link": "https://agentrq.com/"
-        },
-        {
-          "source_name": "Hacker News AI",
-          "link": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026"
-        }
-      ]
-    },
-    {
-      "title": "主流闭源LLM订阅服务的比较成为社区热议话题",
-      "summary": "关于ChatGPT、Gemini和Claude哪家订阅服务更优的讨论在社区中热度很高，显示出用户对商用AI服务性价比和能力的持续关注 。",
+      "title": "社区对主流 LLM 订阅服务的价值进行持续比较和评估",
+      "summary": "社区持续讨论 ChatGPT、Gemini 和 Claude 等主流 LLM 订阅服务的优劣，反映出用户在选择付费服务时对性价比和功能匹配度的关注 。",
       "references": [
         {
           "source_name": "Hacker News LLM",
@@ -102,30 +78,16 @@
       ]
     },
     {
-      "title": "针对LLM的专业化与垂直领域优化成为开源社区新趋势",
-      "summary": "社区出现了多个针对特定领域（如宗教文本、圣经考据）进行优化的开源LLM项目 ，以及专注于解决LLM在特定方面（如可靠性可视化）问题的工具，表明开源生态正向深度专业化发展。",
+      "title": "AI 编码工具生态正从单一工具使用向工具链组合演进",
+      "summary": "开发者实践表明，结合使用不同 AI 编码工具（如 Claude Code 和 Codex）能更高效地完成特定任务，这预示着工具链组合使用将成为提升开发效率的新趋势 。",
       "references": [
         {
-          "source_name": "Hacker News LLM",
-          "link": "https://github.com/salaamalykum/quran-semantic-search"
+          "source_name": "Dev.to",
+          "link": "https://dev.to/bigboybamo/how-i-use-claude-code-and-codex-together-to-build-net-features-faster-1n40"
         },
         {
-          "source_name": "Hacker News LLM",
-          "link": "https://github.com/Jossifresben/BibCrit"
-        },
-        {
-          "source_name": "Hacker News LLM",
-          "link": "https://adamsohn.com/reliably-incorrect"
-        }
-      ]
-    },
-    {
-      "title": "代码生成AI的生产力提升与实际开发效率之间存在认知差距",
-      "summary": "尽管有观点认为AI写代码速度提升百倍，但社区同时也在质疑为何整体软件开发生产率未见同等幅度增长，引发对工具集成度、工作流和人类角色转变的思考 。",
-      "references": [
-        {
-          "source_name": "Hacker News AI",
-          "link": "https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt"
+          "source_name": "V2EX 技术",
+          "link": "https://v2ex.com/t/1206910"
         }
       ]
     }
