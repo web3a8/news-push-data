@@ -5,7 +5,7 @@
     <link>https://web3a8.github.io/news-push-data/</link>
     <description>目前专注于 AI 的精简资讯流</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Apr 2026 21:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:28:00 GMT</lastBuildDate>
     <item>
       <title>Blue Origin&#x27;s rocket reuse achievement marred by upper stage failure</title>
       <link>https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster</link>
@@ -23,105 +23,121 @@
       <category>Ars Technica</category>
     </item>
     <item>
-      <title>Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent</title>
-      <link>https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn</link>
-      <guid>https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn</guid>
-      <description>The Mentoring Gap in Tech The technology industry has a well-documented pipeline problem. We talk endlessly about hiring, about talent shortages, about the difficulty of finding &quot;…</description>
+      <title>Three Months of AI-Powered Freelancing with ClawX: The Raw Truth</title>
+      <link>https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70</link>
+      <guid>https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70</guid>
+      <description>Three Months of AI-Powered Freelancing with ClawX: The Raw Truth Honestly, when I first built ClawX, I thought I was creating the future of freelance work. AI agents handling task…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>CodexBar: Open-Source Tool for OpenAI Codex and Claude Code Usage Stats</title>
-      <link>https://dev.to/stelixx-insider/codexbar-open-source-tool-for-openai-codex-and-claude-code-usage-stats-je0</link>
-      <guid>https://dev.to/stelixx-insider/codexbar-open-source-tool-for-openai-codex-and-claude-code-usage-stats-je0</guid>
-      <description>CodexBar: Seamlessly Track OpenAI Codex &amp; Claude Code Usage Without Login As AI-powered coding assistants become integral to developer workflows, understanding their usage becomes…</description>
+      <title>Grok 4.3 Review: What&#x27;s New in xAI&#x27;s Latest Model (April 2026)</title>
+      <link>https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l</link>
+      <guid>https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l</guid>
+      <description>TechSifted has no affiliate relationship with xAI. xAI didn&#x27;t send a press release. No blog post, no fanfare. Grok 4.3 Beta just appeared in the model selector on grok.com on Apri…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice</title>
-      <link>https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj</link>
-      <guid>https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj</guid>
-      <description>We’ve all been there. You’re working on a lightweight Go microservice. You ask your AI agent to add a simple health-check endpoint. The agent responds: &quot;Sure! I&#x27;ll just install th…</description>
+      <title>Why your landing page is leaking money</title>
+      <link>https://dev.to/apollo_ag/why-your-landing-page-is-leaking-money-3ifc</link>
+      <guid>https://dev.to/apollo_ag/why-your-landing-page-is-leaking-money-3ifc</guid>
+      <description>Why Your Landing Page Is Leaking Money: A Technical Deep Dive Landing pages are the digital storefronts of your business, yet most developers unknowingly build them with critical…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA</title>
-      <link>https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a</link>
-      <guid>https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a</guid>
-      <description>Um bom questionamento nos dias atuais é: &quot;Será que as coisas mudaram mesmo no mundo de desenvolvimento de software?&quot; Pergunta necessária e que me fez lembrar que nunca é demais re…</description>
+      <title>Smoke Test — Article — 2026-04-20</title>
+      <link>https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7</link>
+      <guid>https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7</guid>
+      <description>Introduction This is a smoke test of the Notion → n8n → WordPress pipeline on Rick&#x27;s VPS. If you are reading this on staging10.thunk.co, the article content type is working. The g…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs</title>
-      <link>https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8</link>
-      <guid>https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8</guid>
-      <description>Last year I tried to create an email account for a side project. Gmail wanted my phone number. Outlook wanted my phone number. ProtonMail — the &quot;privacy&quot; email — wanted my phone n…</description>
+      <title>We Built a Free, Fully Private Remote Control App for Windows. No Cloud, No Ads, No Compromise.</title>
+      <link>https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh</link>
+      <guid>https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh</guid>
+      <description>Most remote control apps make the same trade: convenience in exchange for your data passing through someone else&#x27;s server. We wanted to build something different. An app that give…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>I built a $250 website business that runs itself — here&#x27;s the architecture</title>
-      <link>https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37</link>
-      <guid>https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37</guid>
-      <description>Most &quot;websites as a service&quot; are $3K setup plus a monthly retainer. Mine is $250 once, live in 24 hours, and the customer drives every edit by sending a plain-English email. That&#x27;…</description>
+      <title>Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS</title>
+      <link>https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56</link>
+      <guid>https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56</guid>
+      <description>When I work on analytics pipelines for event-driven systems, one of the biggest mistakes I see is treating ingestion as “just connect source A to sink B.” In production, ingestion…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>I added profile-specific duplicate rules to my CSV intake console #5</title>
-      <link>https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno</link>
-      <guid>https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno</guid>
-      <description>In the previous step, I added company-specific CSV import profiles so the intake flow could understand different source formats: [Previous article: company-specific CSV import pro…</description>
+      <title>ApplyPilot - self-hosted job search companion (open source, BYOK Gemini)</title>
+      <link>https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n</link>
+      <guid>https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n</guid>
+      <description>ApplyPilot is a self-hosted, AI-powered job search companion. Paste a job posting and five AI agents run an orchestrated pipeline — analyze the role, score your fit, research the…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>The $36,000 A/B Test: What Optimizely Charges vs. What the Algorithm Actually Costs</title>
-      <link>https://dev.to/whatsonyourmind/the-36000-ab-test-what-optimizely-charges-vs-what-the-algorithm-actually-costs-al7</link>
-      <guid>https://dev.to/whatsonyourmind/the-36000-ab-test-what-optimizely-charges-vs-what-the-algorithm-actually-costs-al7</guid>
-      <description>You Just Want to Test Two Buttons You&#x27;re a developer at a Series A startup. Your product manager walks over and says: &quot;We need to A/B test the signup flow. Three variants, maybe f…</description>
+      <title>How I Built a Lightweight Turn-Based Relay Server with Java 25 Virtual Threads And Reconnect Handling</title>
+      <link>https://dev.to/turnkit-dev/how-i-built-a-lightweight-turn-based-relay-server-with-java-25-virtual-threads-and-reconnect-2jg2</link>
+      <guid>https://dev.to/turnkit-dev/how-i-built-a-lightweight-turn-based-relay-server-with-java-25-virtual-threads-and-reconnect-2jg2</guid>
+      <description>Turn-based multiplayer is deceptively hard. Here&#x27;s how I designed a simple, fast, and cost-effective relay backend that auto reconnects dropped clients and keeps egress + resource…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>My first daily update here - moving on with day 107</title>
-      <link>https://dev.to/archieau/my-first-daily-update-here-moving-on-with-day-107-5cpo</link>
-      <guid>https://dev.to/archieau/my-first-daily-update-here-moving-on-with-day-107-5cpo</guid>
-      <description>I have a long-running series of daily web dev diary on LinkedIn, but I decided to move it to a more developer-related community, so here is how my day of learning went! I&#x27;m contin…</description>
+      <title>🐾 Green Paws: an Earth Day AI assistant helping dog owners go green one walk at a time</title>
+      <link>https://dev.to/nerisina/green-paws-an-earth-day-ai-assistant-helping-dog-owners-go-green-one-walk-at-a-time-4hjl</link>
+      <guid>https://dev.to/nerisina/green-paws-an-earth-day-ai-assistant-helping-dog-owners-go-green-one-walk-at-a-time-4hjl</guid>
+      <description>This is a submission for Weekend Challenge: Earth Day Edition What I Built Green Paws is an Earth Day AI chatbot that helps dog owners find eco-friendly alternatives to plastic po…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>The Rise of Inference Optimization: The Real LLM Infra Trend Shaping 2026</title>
-      <link>https://dev.to/lukas_brunner/the-rise-of-inference-optimization-the-real-llm-infra-trend-shaping-2026-4e4o</link>
-      <guid>https://dev.to/lukas_brunner/the-rise-of-inference-optimization-the-real-llm-infra-trend-shaping-2026-4e4o</guid>
-      <description>The large language model space is moving fast, but one trend is quietly defining the next phase of AI: inference optimization. While headlines focus on bigger models and benchmark…</description>
+      <title>Five Unsolved-Problem Deep Dives and the Gilbreath-Collatz Structural Isomorphism (Rei-AIOS Paper 120)</title>
+      <link>https://dev.to/fc0web/five-unsolved-problem-deep-dives-and-the-gilbreath-collatz-structural-isomorphism-rei-aios-paper-31jh</link>
+      <guid>https://dev.to/fc0web/five-unsolved-problem-deep-dives-and-the-gilbreath-collatz-structural-isomorphism-rei-aios-paper-31jh</guid>
+      <description>This article is a re-publication of Rei-AIOS Paper 120 for the dev.to community. The canonical version with full reference list is in the permanent archives below: Zenodo (DOI, ca…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>Moonbug: a cosmic lunar calendar and event catalogue</title>
-      <link>https://dev.to/amani_moses_3166424e7ee1c/moonbug-a-cosmic-lunar-calendar-and-event-catalogue-mdn</link>
-      <guid>https://dev.to/amani_moses_3166424e7ee1c/moonbug-a-cosmic-lunar-calendar-and-event-catalogue-mdn</guid>
-      <description>How I Built It: The &quot;Boss-Agent&quot; Workflow My development process was a study in AI orchestration. I operated at a &quot;Boss-Agent&quot; level, managing two distinct AI entities to take Moo…</description>
+      <title>It Might Already Be Too Late to Fix This</title>
+      <link>https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m</link>
+      <guid>https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m</guid>
+      <description>This is a submission for Weekend Challenge: Earth Day Edition It might already be too late to fix this. Yes, you heard it right. It’s an Earth Recovery Protocol. A plan to help Ea…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>Designing a Scalable Character Stats &amp; Abilities System for an MMORPG (UE5)</title>
-      <link>https://dev.to/domtechgaming/designing-a-scalable-character-stats-abilities-system-for-an-mmorpg-ue5-49ml</link>
-      <guid>https://dev.to/domtechgaming/designing-a-scalable-character-stats-abilities-system-for-an-mmorpg-ue5-49ml</guid>
-      <description>Dev Log #8 — Character Stats &amp; Abilities System (Magickness™) Development is moving deeper into core RPG systems for Magickness™ . This dev log focuses on building the foundation…</description>
+      <title>Moyacchi ; Your AI Eco Companion</title>
+      <link>https://dev.to/devishwas/moyacchi-your-ai-eco-companion-487n</link>
+      <guid>https://dev.to/devishwas/moyacchi-your-ai-eco-companion-487n</guid>
+      <description>This is a submission for Weekend Challenge: Earth Day Edition This is a submission for Weekend Challenge: Earth Day Edition What I Built Most people have no idea what their daily…</description>
       <source>Dev.to</source>
       <category>Dev.to</category>
     </item>
     <item>
-      <title>Swiss authorities want to reduce dependency on Microsoft</title>
-      <link>https://swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</link>
-      <guid>https://swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</guid>
+      <title>2,100 Swiss municipalities showing which provider handles their official email</title>
+      <link>https://mxmap.ch/</link>
+      <guid>https://mxmap.ch/</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Ex-CEO, ex-CFO of bankrupt AI company charged with fraud</title>
+      <link>https://reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17</link>
+      <guid>https://reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>C++26: Reflection, Memory Safety, Contracts, and a New Async Model</title>
+      <link>https://infoq.com/news/2026/04/cpp-26-reflection-safety-async</link>
+      <guid>https://infoq.com/news/2026/04/cpp-26-reflection-safety-async</guid>
       <description>Comments</description>
       <source>Hacker News</source>
       <category>Hacker News</category>
@@ -143,6 +159,14 @@
       <category>Hacker News</category>
     </item>
     <item>
+      <title>Six Levels of Dark Mode</title>
+      <link>https://cssence.com/2024/six-levels-of-dark-mode</link>
+      <guid>https://cssence.com/2024/six-levels-of-dark-mode</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
       <title>Show HN: Faceoff – A terminal UI for following NHL games</title>
       <link>https://vincentgregoire.com/faceoff</link>
       <guid>https://vincentgregoire.com/faceoff</guid>
@@ -151,9 +175,17 @@
       <category>Hacker News</category>
     </item>
     <item>
-      <title>The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips</title>
+      <title>The Bromine Chokepoint</title>
       <link>https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips</link>
       <guid>https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Hot Wiring the Lisp Machine</title>
+      <link>https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine</link>
+      <guid>https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine</guid>
       <description>Comments</description>
       <source>Hacker News</source>
       <category>Hacker News</category>
@@ -199,6 +231,14 @@
       <category>Hacker News</category>
     </item>
     <item>
+      <title>A Brief History of Fish Sauce</title>
+      <link>https://legalnomads.com/fish-sauce</link>
+      <guid>https://legalnomads.com/fish-sauce</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
       <title>The seven programming ur-languages (2022)</title>
       <link>https://madhadron.com/programming/seven_ur_languages.html</link>
       <guid>https://madhadron.com/programming/seven_ur_languages.html</guid>
@@ -215,12 +255,76 @@
       <category>Hacker News</category>
     </item>
     <item>
-      <title>The world in which IPv6 was a good design (2017)</title>
-      <link>https://apenwarr.ca/log/20170810</link>
-      <guid>https://apenwarr.ca/log/20170810</guid>
-      <description>Comments</description>
-      <source>Hacker News</source>
-      <category>Hacker News</category>
+      <title>Swiss AI Initiative</title>
+      <link>https://swiss-ai.org/</link>
+      <guid>https://swiss-ai.org/</guid>
+      <description>Swiss AI Initiative</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Headless Everything for Personal AI</title>
+      <link>https://interconnected.org/home/2026/04/18/headless</link>
+      <guid>https://interconnected.org/home/2026/04/18/headless</guid>
+      <description>Headless Everything for Personal AI</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Ask HN: Has AI impacted entry-level programming skills?</title>
+      <link>https://news.ycombinator.com/item?id=47828087</link>
+      <guid>https://news.ycombinator.com/item?id=47828087</guid>
+      <description>I&#x27;m an academic. When I taught C++ last year, many students struggled because the IDE completed a lot of the code for them; their programming assignments scored high marks, but th…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>CEOs admit AI had no impact on employment or productivity</title>
+      <link>https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study</link>
+      <guid>https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study</guid>
+      <description>CEOs admit AI had no impact on employment or productivity</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Why your AI assistant is suddenly selling to you</title>
+      <link>https://economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you</link>
+      <guid>https://economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you</guid>
+      <description>Why your AI assistant is suddenly selling to you</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Show HN: Auxx.ai – Customer Support CRM (Mix of Attio and N8n)</title>
+      <link>https://auxx.ai/</link>
+      <guid>https://auxx.ai/</guid>
+      <description>Hey HN! Markus here. I have been building a Customer Support CRM for the last 12 months to help my dad&#x27;s business. He was drowning in support messages (dealing with returns, produ…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI Agent Traps</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438</link>
+      <guid>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438</guid>
+      <description>AI Agent Traps</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents</title>
+      <link>https://fabraix.com/</link>
+      <guid>https://fabraix.com/</guid>
+      <description>We built Nyx to solve a problem we kept hitting while building agents: AI agents break in ways traditional software doesn&#x27;t. Logic bugs, reasoning failures, edge cases that manual…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI&#x27;s New Training Data: Your Old Work Slacks and Emails</title>
+      <link>https://forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails</link>
+      <guid>https://forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails</guid>
+      <description>AI&#x27;s New Training Data: Your Old Work Slacks and Emails</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
     </item>
     <item>
       <title>How are you handling security for AI agents that use MCP tools?</title>
@@ -303,84 +407,36 @@
       <category>Hacker News AI</category>
     </item>
     <item>
-      <title>Cardynal – AI support agent for businesses, no code, WhatsApp and web chat</title>
-      <link>https://cardynal.io/</link>
-      <guid>https://cardynal.io/</guid>
-      <description>Cardynal – AI support agent for businesses, no code, WhatsApp and web chat</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
+      <title>Claude UI Feature Request</title>
+      <link>https://news.ycombinator.com/item?id=47828154</link>
+      <guid>https://news.ycombinator.com/item?id=47828154</guid>
+      <description>Putting this here in the hope that someone at Anthropic reads it. Searching through old conversations is difficult with the current app and web interface. Could you have the model…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
     </item>
     <item>
-      <title>Uber&#x27;s AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend</title>
-      <link>https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html</link>
-      <guid>https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html</guid>
-      <description>Uber&#x27;s AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
+      <title>Claude Design(ed) Numble.today</title>
+      <link>https://news.ycombinator.com/item?id=47828101</link>
+      <guid>https://news.ycombinator.com/item?id=47828101</guid>
+      <description>The new Claude Design designed https://numble.today How would you rate it’s work?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
     </item>
     <item>
-      <title>The Missing Human Half of AI</title>
-      <link>https://utkarshapoorva.com/writing/missing-human-half-of-ai</link>
-      <guid>https://utkarshapoorva.com/writing/missing-human-half-of-ai</guid>
-      <description>The Missing Human Half of AI</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
+      <title>What early exponential growth can&#x27;t tell us about runaway processes</title>
+      <link>https://news.ycombinator.com/item?id=47827979</link>
+      <guid>https://news.ycombinator.com/item?id=47827979</guid>
+      <description>This is an essay about a simple but (I think) underappreciated point: If a process follows a logistic curve, then early behavior is almost indistinguishable from exponential growt…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
     </item>
     <item>
-      <title>MCPs are the music of AI Agents. We built the player</title>
-      <link>https://github.com/vinkius-labs/mcp-explorer</link>
-      <guid>https://github.com/vinkius-labs/mcp-explorer</guid>
-      <description>MCPs are the music of AI Agents. We built the player</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>Show HN: Bridge the gap between AI code/app generation and human understanding</title>
-      <link>https://sourcebridge.ai/</link>
-      <guid>https://sourcebridge.ai/</guid>
-      <description>Show HN: Bridge the gap between AI code/app generation and human understanding</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>Building Autonomous Business Systems with AI Agents</title>
-      <link>https://ainative.business/book</link>
-      <guid>https://ainative.business/book</guid>
-      <description>Building Autonomous Business Systems with AI Agents</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>Self-healing GitHub CI that won&#x27;t let AI touch your application code</title>
-      <link>https://github.com/mosidze/aiheal</link>
-      <guid>https://github.com/mosidze/aiheal</guid>
-      <description>Self-healing GitHub CI that won&#x27;t let AI touch your application code</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>AI Is Killing Open Source SaaS Too</title>
-      <link>https://nmn.gl/blog/open-source-killed-ai</link>
-      <guid>https://nmn.gl/blog/open-source-killed-ai</guid>
-      <description>AI Is Killing Open Source SaaS Too</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>543 Hours: What happens when AI runs while you sleep</title>
-      <link>https://michael.roth.rocks/research/543-hours</link>
-      <guid>https://michael.roth.rocks/research/543-hours</guid>
-      <description>543 Hours: What happens when AI runs while you sleep</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
-    </item>
-    <item>
-      <title>Passmark: Open-source Playwright library for AI regression testing</title>
-      <link>https://passmark.dev/</link>
-      <guid>https://passmark.dev/</guid>
-      <description>Passmark: Open-source Playwright library for AI regression testing</description>
-      <source>Hacker News AI</source>
-      <category>Hacker News AI</category>
+      <title>Showcase: Kylrix; stop switching apps, your productivity suite all in one place</title>
+      <link>https://news.ycombinator.com/item?id=47827662</link>
+      <guid>https://news.ycombinator.com/item?id=47827662</guid>
+      <description>we just launched Kylrix, the open-source, E2EE Notion/Discord alternative. Notes, voice huddles, forms, and a secure vault—deeply integrated so your tools finally talk to each oth…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
     </item>
     <item>
       <title>Ask HN: Tactical/military reasons for difficulty unblocking the Hormuz Straits?</title>
@@ -487,52 +543,156 @@
       <category>Hacker News Ask</category>
     </item>
     <item>
-      <title>Need some suggestions and ideas on agricultural using AI</title>
-      <link>https://news.ycombinator.com/item?id=47823272</link>
-      <guid>https://news.ycombinator.com/item?id=47823272</guid>
-      <description>Need some suggestions and ideas on agricultural using AI</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>Show HN: Lmcli v0.5.0 – A useable tool for LLM minimalists</title>
+      <link>https://codeberg.org/mlow/lmcli</link>
+      <guid>https://codeberg.org/mlow/lmcli</guid>
+      <description>I have put a lot of hours into making `lmcli` my go-to tool for all of my work with LLMs, including coding! Written in Go for snappy performance and a lean codebase. I wanted a to…</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
     </item>
     <item>
-      <title>Ask HN: Is your Mac&#x27;s menu bar throwing errors?</title>
-      <link>https://news.ycombinator.com/item?id=47823093</link>
-      <guid>https://news.ycombinator.com/item?id=47823093</guid>
-      <description>I&#x27;ve noticed on Macos 26 any third party menu bar program I install will cause the console application to fill with logs with &quot;WindowServer _CGXPackagesSetWindowConstraints: Inval…</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>The LLM costs are not going up</title>
+      <link>https://simianwords.bearblog.dev/conclusive-proofs-that-llm-costs-are-going-down</link>
+      <guid>https://simianwords.bearblog.dev/conclusive-proofs-that-llm-costs-are-going-down</guid>
+      <description>The LLM costs are not going up</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
     </item>
     <item>
-      <title>Ask HN: How did you land your first projects as a solo engineer/consultant?</title>
-      <link>https://news.ycombinator.com/item?id=47822940</link>
-      <guid>https://news.ycombinator.com/item?id=47822940</guid>
-      <description>I’ve spent roughly the last decade and some change as a software engineer, and recently decided to start a solo consultancy. I’m focused on helping SMEs sort out the messy back-of…</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>Auto pentest your LLM endpoint and watch the chat in real-time</title>
+      <link>https://wraith.sh/scan</link>
+      <guid>https://wraith.sh/scan</guid>
+      <description>Auto pentest your LLM endpoint and watch the chat in real-time</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
     </item>
     <item>
-      <title>Ask HN: Should I build *another* Markdown task manager?</title>
-      <link>https://news.ycombinator.com/item?id=47822928</link>
-      <guid>https://news.ycombinator.com/item?id=47822928</guid>
-      <description>I was feeling annoyed by Jira again and had to somehow get that out of my system. So I wrote a sketch of a task management system, that I would enjoy using. This is written like a…</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>Show HN: A privacy-first, local-LLM note app for iOS (Google Keep alternative)</title>
+      <link>https://github.com/moeen-mahmud/remen</link>
+      <guid>https://github.com/moeen-mahmud/remen</guid>
+      <description>Show HN: A privacy-first, local-LLM note app for iOS (Google Keep alternative)</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
     </item>
     <item>
-      <title>How to raise fund from investor for my startup?</title>
-      <link>https://news.ycombinator.com/item?id=47822898</link>
-      <guid>https://news.ycombinator.com/item?id=47822898</guid>
-      <description>I have being finding the investor for 3 years but no investor i have found. I tried many ways like linkedin,reddit etc. But no result I saw. I am very frustrate with this stuff. P…</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>The State of LLM Bug Bounties in 2026</title>
+      <link>https://wraith.sh/learn/state-of-llm-bug-bounties-2026</link>
+      <guid>https://wraith.sh/learn/state-of-llm-bug-bounties-2026</guid>
+      <description>The State of LLM Bug Bounties in 2026</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
     </item>
     <item>
-      <title>Ask HN: May be a basic question, but how can I use AI well?</title>
-      <link>https://news.ycombinator.com/item?id=47822787</link>
-      <guid>https://news.ycombinator.com/item?id=47822787</guid>
-      <description>I am a programmer with about seven years of experience, but I would say I am below many of the programmers here, and most of the work I do is fairly simple. I mainly work on WPF a…</description>
-      <source>Hacker News Ask</source>
-      <category>Hacker News Ask</category>
+      <title>Tide: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference</title>
+      <link>https://arxiv.org/abs/2603.21365</link>
+      <guid>https://arxiv.org/abs/2603.21365</guid>
+      <description>Tide: Token-Informed Depth Execution for Per-Token Early Exit in LLM Inference</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Track HN: Comparing 156 LLM Launch Posts on Hacker News</title>
+      <link>https://track-hacker-news.com/reports/llm-launches</link>
+      <guid>https://track-hacker-news.com/reports/llm-launches</guid>
+      <description>Track HN: Comparing 156 LLM Launch Posts on Hacker News</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy</title>
+      <link>https://artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best</link>
+      <guid>https://artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best</guid>
+      <description>ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Show HN: 5-translation RAG matrix fixing LLM religious hallucinations</title>
+      <link>https://github.com/salaamalykum/quran-semantic-search</link>
+      <guid>https://github.com/salaamalykum/quran-semantic-search</guid>
+      <description>Show HN: 5-translation RAG matrix fixing LLM religious hallucinations</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>TensorRT LLM</title>
+      <link>https://github.com/NVIDIA/TensorRT-LLM</link>
+      <guid>https://github.com/NVIDIA/TensorRT-LLM</guid>
+      <description>TensorRT LLM</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>I Created OpenClaw – Peter Steinberger, TedTalk, YT)</title>
+      <link>https://youtube.com/watch?v=7rzYDM6vMtI</link>
+      <guid>https://youtube.com/watch?v=7rzYDM6vMtI</guid>
+      <description>I Created OpenClaw – Peter Steinberger, TedTalk, YT)</description>
+      <source>Hacker News OpenClaw</source>
+      <category>Hacker News OpenClaw</category>
+    </item>
+    <item>
+      <title>Claude is skeptical about OpenClaw</title>
+      <link>https://wecreatethis.com/blog/post?slug=claude-is-skeptical-about-openclaw</link>
+      <guid>https://wecreatethis.com/blog/post?slug=claude-is-skeptical-about-openclaw</guid>
+      <description>Claude is skeptical about OpenClaw</description>
+      <source>Hacker News OpenClaw</source>
+      <category>Hacker News OpenClaw</category>
+    </item>
+    <item>
+      <title>Swiss authorities want to reduce dependency on Microsoft</title>
+      <link>https://swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</link>
+      <guid>https://swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532</guid>
+      <description>Swiss authorities want to reduce dependency on Microsoft</description>
+      <source>Hacker News 首页</source>
+      <category>Hacker News 首页</category>
+    </item>
+    <item>
+      <title>泰坦军团 26.5 英寸 G27T6T 显示器开售：2K 360Hz 刷新率、1000nits 高亮，国补价 3298.5 元</title>
+      <link>https://ithome.com/0/940/967.htm</link>
+      <guid>https://ithome.com/0/940/967.htm</guid>
+      <description>IT之家 4 月 20 日消息，泰坦军团 G27T6T 显示器近日在京东平台上架发售，搭载 26.5 英寸三星 QD-OLED 2K 360Hz 显示屏，国补价 3298.5 元。 IT之家从商品页面获悉，该产品搭载新一代 QD-OLED 面板，通过优化子像素布局方案，从而展现出更清晰的图像和更锐利的文字，改善观看体验。新品支持 360Hz 刷新率、0.0…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>券后 349 元，HKC 15.6 英寸便携式显示器悦享 16F1 上架发售</title>
+      <link>https://ithome.com/0/940/966.htm</link>
+      <guid>https://ithome.com/0/940/966.htm</guid>
+      <description>IT之家 4 月 20 日消息，HKC 15.6 英寸便携式显示器“悦享 16F1”现已上架发售，指导价 499 元，领取 150 元券后到手价为 349 元 。这款显示器分辨率为 1920*1080，主打“即插即用”的使用体验。 京东 HKC 15.6 英寸便携式显示器 悦享 16F1 券后 349 元 领 150 元券 IT之家汇总这款显示器主要信息如…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>消息称谷歌正与 Marvell 洽谈合作开发两款 AI 芯片，挑战英伟达霸主地位</title>
+      <link>https://ithome.com/0/940/965.htm</link>
+      <guid>https://ithome.com/0/940/965.htm</guid>
+      <description>IT之家 4 月 20 日消息，据 The Information 援引两位知情人士消息报道，Alphabet 旗下谷歌正与 Marvell Technology 洽谈合作，研发两款全新芯片，旨在更高效地运行人工智能模型。 报道称，其中一款芯片为内存处理单元，设计用于配合谷歌的张量处理单元（TPU）使用；另一款则是专为运行人工智能模型打造的全新张量处理单元…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>未达科学盈亏平衡，两大核聚变企业急于上市引行业担忧</title>
+      <link>https://ithome.com/0/940/964.htm</link>
+      <guid>https://ithome.com/0/940/964.htm</guid>
+      <description>IT之家 4 月 20 日消息，据 Techcrunch 报道，每个新兴行业都会出现这样的情况：创始人和投资者朝着共同目标奋进，可一旦资金开始源源不断涌入，双方的共同愿景便开始出现分歧。 核聚变能源领域正裂痕初现，尽管过去 12 个月里核聚变初创企业总计融资 16 亿美元（IT之家注：现汇率约合 109.41 亿元人民币），让整体氛围依旧乐观高涨，但这并未…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>携程滴滴客服回应订购火车票受限：受 12306 风控升级影响</title>
+      <link>https://ithome.com/0/940/963.htm</link>
+      <guid>https://ithome.com/0/940/963.htm</guid>
+      <description>IT之家 4 月 20 日消息，据九派新闻 4 月 19 日报道，近日，多位网友发帖称，在商旅平台订购火车票时显示 12306 请求异常，占座失败或出票失败。对此，同程商旅、携程商旅、滴滴企业版客服均回应称，受 12306 风控升级及五一预订高峰期影响，火车票出票系统有异常波动或延迟；但均正在修复恢复中。 IT之家注意到，4 月 10 日，中央网信办、国家…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>古尔曼：苹果 iOS 27 主屏幕编辑将加入撤销 / 重做快捷开关</title>
+      <link>https://ithome.com/0/940/962.htm</link>
+      <guid>https://ithome.com/0/940/962.htm</guid>
+      <description>IT之家 4 月 20 日消息，距离苹果全球开发者大会（WWDC26）仅剩不到两个月的时间，届时苹果将发布新一代的 iOS、macOS、watchOS 等系统。截至目前，关于 iOS 27 的传闻显示，今年的系统更新将主要聚焦于稳定性，除苹果最终兑现其人工智能相关承诺外，新增功能较为有限。 尽管 iOS 27 不会带来重大革新，但仍会加入一些轻度的自定义功…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
     </item>
     <item>
       <title>谷雨：春去夏来，雨水无闲，百谷种田间</title>
@@ -967,52 +1127,20 @@
       <category>IT之家</category>
     </item>
     <item>
-      <title>消息称 AMD R9 9950X3D2 默认 PPT 功耗达 250W，较现款提高 50W</title>
-      <link>https://ithome.com/0/940/883.htm</link>
-      <guid>https://ithome.com/0/940/883.htm</guid>
-      <description>IT之家 4 月 19 日消息，AMD 即将推出的锐龙 9 9950X3D2 双 3D V-Cache 处理器将于 4 月 22 日 21:00 开售，国行价格暂未公布，海外定价 899 美元（IT之家注：现汇率约合 6147 元人民币）。 据 @9550pro 最新爆料，该处理器将具备 250W 封装功率（Package Power Tracking，即…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
-    </item>
-    <item>
-      <title>带奶瓶参赛：北京人形机器人半马惊现“小短腿机器人”</title>
-      <link>https://ithome.com/0/940/873.htm</link>
-      <guid>https://ithome.com/0/940/873.htm</guid>
-      <description>IT之家 4 月 19 日消息，据中国新闻网报道，一款“小短腿机器人”今天惊现 2026 北京亦庄机器人半马大赛，引发网友热议。 从视频中可以看到，这款机器人通体红色，迈着矫健的步伐跑遍全场，手里还拿着一个奶瓶。 被网友戏称为“小机器人还没断奶就出来跑马拉松了” 。 据了解，这款机器人是高擎动力出品的 Mini Pi plus，搭载自主设计的一体化伺服关节…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
-    </item>
-    <item>
       <title>脖子以下全是腿：网友自制“豆脚”机器人现身北京人形机器人马拉松</title>
       <link>https://ithome.com/0/940/872.htm</link>
       <guid>https://ithome.com/0/940/872.htm</guid>
       <description>IT之家 4 月 19 日消息，2026 北京亦庄半程马拉松今日正式鸣枪开跑。本届赛事以“亦马当先”为主题，起点设于北京亦庄通明湖畔的科创十七街，终点为南海子公园，全长 21.0975 公里。 就在各家厂商各显神通之时， 一台“脖子以下全是腿”的机器人也在此次马拉松中亮相 ，并迅速出圈。该机器人因独特的矮小身材设计 + 豆包标志性的虚拟人物脸部形象而被网友…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
-    </item>
-    <item>
-      <title>捷达品牌 JETTA X 概念车预告视频发布，4 月 21 日全球首秀</title>
-      <link>https://ithome.com/0/940/870.htm</link>
-      <guid>https://ithome.com/0/940/870.htm</guid>
-      <description>IT之家 4 月 19 日消息，一汽-大众旗下捷达品牌 JETTA X 概念车预告视频发布，将于 4 月 21 日举办的大众集团之夜上全球首秀，有望亮相 4 月 24 日开幕的 2026 北京车展。 从预告图中可以看出，JETTA X 概念车整体造型方正硬朗。前脸配备全新设计的分体式灯组，搭配黑色前包围，进一步强化了前脸的力量感。 车身侧面线条肌肉感十足，…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
-    </item>
-    <item>
-      <title>微软收购初创公司 Fintool，AI 金融研究工具将深度融入 Office 全家桶</title>
-      <link>https://ithome.com/0/940/869.htm</link>
-      <guid>https://ithome.com/0/940/869.htm</guid>
-      <description>IT之家 4 月 19 日消息，微软已收购金融科技初创公司 Fintool，该公司以面向金融专业人士打造人工智能研究工具而闻名。尽管微软既未正式公布此项交易，也未披露具体条款，但 Fintool 创始人已在社交平台 X 及公司官网上发布了收购相关信息。此次收购彰显出微软愈发强烈的野心，即借助人工智能助手的能力优化 Microsoft 365 的使用体验。…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
     </item>
     <item>
       <title>华为 Pura X Max 横向阔折叠手机真机曝光，展开就像一台小平板</title>
       <link>https://ithome.com/0/940/868.htm</link>
       <guid>https://ithome.com/0/940/868.htm</guid>
-      <description>IT之家 4 月 19 日消息，华为 Pura X Max 已正式亮相，新机是行业首款横向阔折叠手机， 定档 4 月 20 日发布 。官网显示，新机可选幻夜黑、橄榄金等 5 款配色，同时拥有典藏版可选。 博主 @i冰宇宙 今日分享了华为 Pura X Max 的真机外观。画面显示，华为 Pura X Max 采用内外双屏设计，外屏看着与 Pura X 手机…</description>
-      <source>IT之家</source>
-      <category>IT之家</category>
+      <description>感谢IT之家网友 雨雪载途 的线索投递！ IT之家 4 月 19 日消息，华为 Pura X Max 已正式亮相，新机是行业首款横向阔折叠手机， 定档 4 月 20 日发布 。官网显示，新机可选幻夜黑、橄榄金等 5 款配色，同时拥有典藏版可选。 博主 @i冰宇宙 今日分享了华为 Pura X Max 的真机外观。画面显示，华为 Pura X Max 采用内…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
     </item>
     <item>
       <title>五一假期售票开始以来，12306 已拒绝“抢票软件”出票 105.6 万张</title>
@@ -1063,10 +1191,90 @@
       <category>IT之家 24h</category>
     </item>
     <item>
+      <title>codex/cc 怎么写word和ppt？</title>
+      <link>https://linux.do/t/topic/2006304</link>
+      <guid>https://linux.do/t/topic/2006304</guid>
+      <description>本地环境是mac+wps，没安装office。不知道佬们有没有什么合适的方案？我记得claude 桌面版是可以怼到office上的，但是office在mac上难用的厉害 6 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>感觉20x也不过如此？</title>
+      <link>https://linux.do/t/topic/2006295</link>
+      <guid>https://linux.do/t/topic/2006295</guid>
+      <description>熬穿了，一晚上蹬了周限的9%，单会话，要是多开了话感觉刚好能蹬完？就是额度刚刚好合适，不过听说最近搞双倍活动，那么活动结束后的20x貌似就不够我用了 晚安佬友们 4 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>GPT Plus 用CPA反代风险</title>
+      <link>https://linux.do/t/topic/2006292</link>
+      <guid>https://linux.do/t/topic/2006292</guid>
+      <description>请教下各位佬，把plus反代给龙虾或CC使用会不会掉订阅或被BAN号。 3 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>有什么推荐的电纸书阅读器吗</title>
+      <link>https://linux.do/t/topic/2006287</link>
+      <guid>https://linux.do/t/topic/2006287</guid>
+      <description>有什么推荐的电纸书阅读器吗, 最近想读一些书, 但是实体书有时候还是太麻烦了, 又不想用手机啥的(比较费眼睛), 预算可以1-2k+吧, 对这个的依赖还是挺多的 然后希望细节啥的能好一点, 比如残影, 设计 对书的话没啥要求, 不需要内置的商店啥的, 我直接从zlib下即可 求推荐, 有没有什么让你很满意的产品 4 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>win11抽什么风，快捷方式为何会出现一个绿钩</title>
+      <link>https://linux.do/t/topic/2006283</link>
+      <guid>https://linux.do/t/topic/2006283</guid>
+      <description>解决方法是直接右键刷新一下即可（网上搜的），就是不知道是什么原因，有佬知道吗 3 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>【神奇项目在哪里】依赖DrissionPage的项目是不是只能手工写？</title>
+      <link>https://linux.do/t/topic/2006280</link>
+      <guid>https://linux.do/t/topic/2006280</guid>
+      <description>用了下国产AI生成代码无法直接运行。 然后自己古法编程，开始找文档，看代码。 发现诸多神秘行为。 官网给出3个开源仓库链接，分别是 gitee | github | gitcode ，这很正常。但为什么 三个仓库版本都不一样 呢？ 最新的版本在gitcode更新，而他的链接在最后 。 开源项目卖文档，国内项目基操已经习惯了，一般首页有二维码默认是卖文档的…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>收一个小鸡 建公益站的，4H8G 最好是isp的 低延迟的，寻一手opus4.7上游。</title>
+      <link>https://linux.do/t/topic/2006275</link>
+      <guid>https://linux.do/t/topic/2006275</guid>
+      <description>直接私我价格和配置 也可以评论区直接报价，给我便宜的 以后当云股东！！！ 免费蹬！！！！！！寻一手opus4.7上游。 7 个帖子 - 5 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>GPT没有渠道，有大佬介绍下吗</title>
+      <link>https://linux.do/t/topic/2006274</link>
+      <guid>https://linux.do/t/topic/2006274</guid>
+      <description>（话题已被作者删除） 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>GooglePlay订阅ChatGPT会多扣几美元</title>
+      <link>https://linux.do/t/topic/2006269</link>
+      <guid>https://linux.do/t/topic/2006269</guid>
+      <description>使用Google Play绑定国内外币信用卡，支付成功后预算与开支里面，显示的订阅金额分别是$21.55和$86.25，但是实际订阅的时候那个弹窗显示的$19.99，实际扣款就多了$7.8，我看别的佬友就是是不多不少扣的，难道这是多出来的谷歌税 3 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>现在做agent项目是不是直接类cc套skill+mcp或cli就行了?工具都不用做?</title>
+      <link>https://linux.do/t/topic/2006264</link>
+      <guid>https://linux.do/t/topic/2006264</guid>
+      <description>大厂agent应用岗平时开发什么?都是再搭工作流?RAG落寞了啊 5 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
       <title>佬们的GPT-IMAGE-2在哪用的呀</title>
       <link>https://linux.do/t/topic/2006250</link>
       <guid>https://linux.do/t/topic/2006250</guid>
-      <description>嫖了个plus，直接image生图还是挺垃圾的呀，和站里看到的差远了 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <description>嫖了个plus，直接image生图还是挺垃圾的呀，和站里看到的差远了 3 个帖子 - 2 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1074,7 +1282,7 @@
       <title>失眠到五点，明天还有体育课，好难受啊</title>
       <link>https://linux.do/t/topic/2006247</link>
       <guid>https://linux.do/t/topic/2006247</guid>
-      <description>好怕猝死，好想请假，以后工作了恐怕也有整晚失眠的时候吧，可工作又不能随便请假，想想就觉得可怕 6 个帖子 - 6 位参与者 阅读完整话题</description>
+      <description>好怕猝死，好想请假，以后工作了恐怕也有整晚失眠的时候吧，可工作又不能随便请假，想想就觉得可怕 12 个帖子 - 12 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1082,7 +1290,7 @@
       <title>（纯炫耀不开源）可能是全网第一个实现chatgpt网页版生图2api的</title>
       <link>https://linux.do/t/topic/2006246</link>
       <guid>https://linux.do/t/topic/2006246</guid>
-      <description>从周六开始做做到现在终于成功了，嘻嘻 8 个帖子 - 7 位参与者 阅读完整话题</description>
+      <description>从周六开始做做到现在终于成功了，嘻嘻 9 个帖子 - 8 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1098,7 +1306,7 @@
       <title>gpt拉闸之后可以选择什么？</title>
       <link>https://linux.do/t/topic/2006231</link>
       <guid>https://linux.do/t/topic/2006231</guid>
-      <description>gpt低价的渠道大抵是没有办法了罢，拉闸之后佬友们更推荐什么呢？正价GPT和Claude，还有Gemini家庭组拼车？细想下来我好像也不拿ai干什么复杂工作，顶多做做学校作业，整理整理东西，帮助写写论文处理实验数据什么的？2.5pro时代很喜欢Gemini，为什么感觉到了3开始Gemini有时候会变得很笨，一头雾水啊，正好大半夜睡不着，来问下佬友们 11…</description>
+      <description>gpt低价的渠道大抵是没有办法了罢，拉闸之后佬友们更推荐什么呢？正价GPT和Claude，还有Gemini家庭组拼车？细想下来我好像也不拿ai干什么复杂工作，顶多做做学校作业，整理整理东西，帮助写写论文处理实验数据什么的？2.5pro时代很喜欢Gemini，为什么感觉到了3开始Gemini有时候会变得很笨，一头雾水啊，正好大半夜睡不着，来问下佬友们 13…</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1138,7 +1346,7 @@
       <title>Codex多轮对话后重复回答问题</title>
       <link>https://linux.do/t/topic/2006193</link>
       <guid>https://linux.do/t/topic/2006193</guid>
-      <description>我发现使用Codex在经过多轮对话后，再次提问的时候，有时候会重复上一次的回答，即使这两次的问题差异很大，也不会识别出来，直接会完全忽略掉该次问题。这样的情况出现过很多次了，我想问问佬们有遇到过这样的情况吗？这会是什么原因造成的呢，按理说背景信息过多也不会完全忽略该次问题，更不会完全重复上一个问题的回答吧？用的模型是GPT-5.4。 14 个帖子 - 10…</description>
+      <description>我发现使用Codex在经过多轮对话后，再次提问的时候，有时候会重复上一次的回答，即使这两次的问题差异很大，也不会识别出来，直接会完全忽略掉该次问题。这样的情况出现过很多次了，我想问问佬们有遇到过这样的情况吗？这会是什么原因造成的呢，按理说背景信息过多也不会完全忽略该次问题，更不会完全重复上一个问题的回答吧？用的模型是GPT-5.4。 17 个帖子 - 13…</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1186,7 +1394,7 @@
       <title>QQ音乐说开启自启动不会自启动()</title>
       <link>https://linux.do/t/topic/2006167</link>
       <guid>https://linux.do/t/topic/2006167</guid>
-      <description>系统仍然认为其后台启动，不知道谁是真的喵: 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <description>系统仍然认为其后台启动，不知道谁是真的喵: 2 个帖子 - 2 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1194,7 +1402,7 @@
       <title>开个小中转站需要买个什么样的服务器</title>
       <link>https://linux.do/t/topic/2006166</link>
       <guid>https://linux.do/t/topic/2006166</guid>
-      <description>请大佬给点意见 我太懵逼了 有必要买isp的服务器吗 机房IP是不是不能行， 在服务器上同时部署注册机 会不会一锅端了0 0 那注册完的账号咋弄到服务器上呢9 9 7 个帖子 - 3 位参与者 阅读完整话题</description>
+      <description>请大佬给点意见 我太懵逼了 有必要买isp的服务器吗 机房IP是不是不能行， 在服务器上同时部署注册机 会不会一锅端了0 0 那注册完的账号咋弄到服务器上呢9 9 9 个帖子 - 4 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1210,7 +1418,7 @@
       <title>🐢终于轮到我了吗</title>
       <link>https://linux.do/t/topic/2006156</link>
       <guid>https://linux.do/t/topic/2006156</guid>
-      <description>天天看大伙开，每次都是ABC，没想到这次轮到我了? 选的东京区域，中行Visa借记卡 4 个帖子 - 3 位参与者 阅读完整话题</description>
+      <description>天天看大伙开，每次都是ABC，没想到这次轮到我了? 选的东京区域，中行Visa借记卡 5 个帖子 - 4 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1219,86 +1427,6 @@
       <link>https://linux.do/t/topic/2006154</link>
       <guid>https://linux.do/t/topic/2006154</guid>
       <description>低价羊毛token token如何利用最大化 并不能&quot;我全都要&quot; 选这个等于不表态 点击以查看投票。 如果只能选一个 佬友们认为如何获得低价渠道(低价羊毛 bug等等) 和 如何利用现有的token创造更真实的价值(agent等工具使用技巧 以及项目方向等) 哪个更重要呢 4 个帖子 - 4 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>问一下佬，如果要是想出几个ULTRA席位的话，要在哪发帖</title>
-      <link>https://linux.do/t/topic/2006152</link>
-      <guid>https://linux.do/t/topic/2006152</guid>
-      <description>上次抽奖还有几个位置 ，问一下在哪里可以去出 4 个帖子 - 3 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>询问Vultr</title>
-      <link>https://linux.do/t/topic/2006146</link>
-      <guid>https://linux.do/t/topic/2006146</guid>
-      <description>各位佬，当时注册机、小龙虾火热的时候想折腾，听从ai推荐在vultr上冲了10刀，现在注册机折腾不动，小龙虾调不好，就停在这了。现在vulter上还有5刀，想看看还能做点什么，用掉拉倒。现在优先级是做个机场，实验性质部署newapi、sub2api，练练手，部署其他github项目。看帖子似乎说vultr ip不好，是不是直接放弃机场？ 5 个帖子 - 4…</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>codex 号好慢阿</title>
-      <link>https://linux.do/t/topic/2006143</link>
-      <guid>https://linux.do/t/topic/2006143</guid>
-      <description>之前可以飙到12-13的 6 个帖子 - 3 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>优化LLM的prompt(实际上是skill)好折磨啊？佬友们有没有什么技巧或者好法子？</title>
-      <link>https://linux.do/t/topic/2006140</link>
-      <guid>https://linux.do/t/topic/2006140</guid>
-      <description>如题，每次优化一手，然后先等agent跑个20-1小时，看看结果，然后花10分钟优化一下，然后再跑，折磨。各位有没有什么好法子吗？ 5 个帖子 - 4 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>蹬了多少 Github Copilot 的 token？这个插件让你看清楚 【开源推广】</title>
-      <link>https://linux.do/t/topic/2006137</link>
-      <guid>https://linux.do/t/topic/2006137</guid>
-      <description>本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的帖子已经打上 开源推广 标签： 是 我的开源项目完整开源，无未开源部分： 是 我的开源项目已链接认可 LINUX DO 社区： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色…</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>无敌了智谱，偷偷给我路由到 glm-4.7</title>
-      <link>https://linux.do/t/topic/2006134</link>
-      <guid>https://linux.do/t/topic/2006134</guid>
-      <description>先声明一下，我是 max 老用户 就不说上周一直 429 的事了。 这周简单用了一下，发现速度和之前比不是一般的快，还以为改性了。 心血来潮上传 https://token.poco-ai.com 看一下 token 用量。 结果如图，这是这周的 token 用量，glm-5.1 只有 glm-4.7 的百分之一 ？？？给我看笑了都 粉转黑了，这地方不让用…</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>兜兜转转还是上了pro 20x的车</title>
-      <link>https://linux.do/t/topic/2006126</link>
-      <guid>https://linux.do/t/topic/2006126</guid>
-      <description>开了十几个team号，其中买了两个母号，死了一个，有的则是直接买的子号，一整天都在修我的项目，看起来pro是真不错啊，20x的，真的是不怎么掉额度，震撼到我了 ps：163，126，gmail邮箱都不会弹手机号，账号是手搓的 17 个帖子 - 7 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>gemma 4模型很神奇 32K的时候输出日语泰语</title>
-      <link>https://linux.do/t/topic/2006122</link>
-      <guid>https://linux.do/t/topic/2006122</guid>
-      <description>1 个帖子 - 1 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>foxcode用的是free号池吗？好慢啊</title>
-      <link>https://linux.do/t/topic/2006105</link>
-      <guid>https://linux.do/t/topic/2006105</guid>
-      <description>又是打完一把王者了还没跑完，今天常用的中转挂了，备用中转又挂了，想起了fox里额度还没用完，能用，但是也太慢了 11 个帖子 - 8 位参与者 阅读完整话题</description>
-      <source>LinuxDo 最新话题</source>
-      <category>LinuxDo 最新话题</category>
-    </item>
-    <item>
-      <title>佬友 谷歌订阅claude被封号要申诉吗 还是坐着等退款 两天没有任何消息有点小慌</title>
-      <link>https://linux.do/t/topic/2006102</link>
-      <guid>https://linux.do/t/topic/2006102</guid>
-      <description>佬友 谷歌订阅claude被封号要申诉吗 还是坐着等退款 两天没有任何消息有点小慌 而且感觉回不去了 还想接着订阅下一个5x 但是下一个谷歌还不退就是250刀了 哈人 搜了一下各大平台经验有人说谷歌会自动退款 有人说申诉了才退款 所以特来问问佬友 （猜测被封的原因是ip变动） 8 个帖子 - 3 位参与者 阅读完整话题</description>
       <source>LinuxDo 最新话题</source>
       <category>LinuxDo 最新话题</category>
     </item>
@@ -1351,20 +1479,52 @@
       <category>MarkTechPost</category>
     </item>
     <item>
-      <title>A Coding Guide for Property-Based Testing Using Hypothesis with Stateful, Differential, and Metamorphic Test Design</title>
-      <link>https://marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design</link>
-      <guid>https://marktechpost.com/2026/04/18/a-coding-guide-for-property-based-testing-using-hypothesis-with-stateful-differential-and-metamorphic-test-design</guid>
-      <description>A Coding Guide for Property-Based Testing Using Hypothesis with Stateful, Differential, and Metamorphic Test Design AI Shorts April 18, 2026</description>
-      <source>MarkTechPost</source>
-      <category>MarkTechPost</category>
+      <title>Tests: isolate sessions spawn registry seam</title>
+      <link>https://github.com/openclaw/openclaw/commit/6159b17cdf001563aeecc16c12c27cf4ea29abd7</link>
+      <guid>https://github.com/openclaw/openclaw/commit/6159b17cdf001563aeecc16c12c27cf4ea29abd7</guid>
+      <description>Tests: isolate sessions spawn registry seam</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
     </item>
     <item>
-      <title>Anthropic Releases Claude Opus 4.7: A Major Upgrade for Agentic Coding, High-Resolution Vision, and Long-Horizon Autonomous Tasks</title>
-      <link>https://marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks</link>
-      <guid>https://marktechpost.com/2026/04/18/anthropic-releases-claude-opus-4-7-a-major-upgrade-for-agentic-coding-high-resolution-vision-and-long-horizon-autonomous-tasks</guid>
-      <description>Anthropic Releases Claude Opus 4.7: A Major Upgrade for Agentic Coding, High-Resolution Vision, and Long-Horizon Autonomous Tasks Agentic AI April 18, 2026</description>
-      <source>MarkTechPost</source>
-      <category>MarkTechPost</category>
+      <title>fix: preserve deleted main session targets</title>
+      <link>https://github.com/openclaw/openclaw/commit/f06493f0eaffa23a18229d17eaccb07c1039e28b</link>
+      <guid>https://github.com/openclaw/openclaw/commit/f06493f0eaffa23a18229d17eaccb07c1039e28b</guid>
+      <description>fix: preserve deleted main session targets</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>fix: invalidate orphaned sessions on agent deletion (#65986)</title>
+      <link>https://github.com/openclaw/openclaw/commit/d41c9860d79d816034bfa79a21c7f64b99f29c05</link>
+      <guid>https://github.com/openclaw/openclaw/commit/d41c9860d79d816034bfa79a21c7f64b99f29c05</guid>
+      <description>fix: invalidate orphaned sessions on agent deletion (#65986) Merged via squash. Prepared head SHA: bc7c167dd946fd9b2e76fc3022c60e655e01f1cd Co-authored-by: bittoby &lt;218712309+bitt…</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>fix(subagent): include role, session key, and timing in error payload…</title>
+      <link>https://github.com/openclaw/openclaw/commit/4277078bc515914c48190721897a8fba92ed37c7</link>
+      <guid>https://github.com/openclaw/openclaw/commit/4277078bc515914c48190721897a8fba92ed37c7</guid>
+      <description>fix(subagent): include role, session key, and timing in error payloads (#68726) Merged via squash. Prepared head SHA: 55c756142f29ec707f80e186d2f6b98f9b8a4665 Co-authored-by: BKF-…</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>qa-matrix: cover Matrix allowlist hot reload</title>
+      <link>https://github.com/openclaw/openclaw/commit/f9a18751271a3959bca4e04809bffea5d940d580</link>
+      <guid>https://github.com/openclaw/openclaw/commit/f9a18751271a3959bca4e04809bffea5d940d580</guid>
+      <description>qa-matrix: cover Matrix allowlist hot reload Add a Matrix QA scenario that removes an observer from the running account group allowlist and verifies the existing gateway stops rep…</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>fix(matrix): align mention-stripped command body</title>
+      <link>https://github.com/openclaw/openclaw/commit/f309656325143775be16bbd8caf3b79d7eb0cb0e</link>
+      <guid>https://github.com/openclaw/openclaw/commit/f309656325143775be16bbd8caf3b79d7eb0cb0e</guid>
+      <description>fix(matrix): align mention-stripped command body</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
     </item>
     <item>
       <title>refactor(terminal): optimize log sanitization (#67205)</title>
@@ -1479,54 +1639,6 @@
       <category>OpenClaw Commits</category>
     </item>
     <item>
-      <title>fix: reject invalid cron announce delivery config (#69015)</title>
-      <link>https://github.com/openclaw/openclaw/commit/64089fd15ed4ba8296612b1a622d11b5662c8b96</link>
-      <guid>https://github.com/openclaw/openclaw/commit/64089fd15ed4ba8296612b1a622d11b5662c8b96</guid>
-      <description>fix: reject invalid cron announce delivery config (#69015) * test(gateway): cover invalid cron announce delivery config * fix(gateway): reject invalid cron announce delivery confi…</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
-      <title>fix(cron): key delivery dedupe by execution</title>
-      <link>https://github.com/openclaw/openclaw/commit/21cfc21e4f2035fb4521e10419cf7bde84c0a521</link>
-      <guid>https://github.com/openclaw/openclaw/commit/21cfc21e4f2035fb4521e10419cf7bde84c0a521</guid>
-      <description>fix(cron): key delivery dedupe by execution</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
-      <title>fix: key recurring delivery dedupe to execution (#69000)</title>
-      <link>https://github.com/openclaw/openclaw/commit/99fb9ab44498d8c999bda06af993d69be4830e3f</link>
-      <guid>https://github.com/openclaw/openclaw/commit/99fb9ab44498d8c999bda06af993d69be4830e3f</guid>
-      <description>fix: key recurring delivery dedupe to execution (#69000)</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
-      <title>refactor(cron): share execution id helper</title>
-      <link>https://github.com/openclaw/openclaw/commit/f44a7423c239e2af9fd7a9d6a9e62692c57c9864</link>
-      <guid>https://github.com/openclaw/openclaw/commit/f44a7423c239e2af9fd7a9d6a9e62692c57c9864</guid>
-      <description>refactor(cron): share execution id helper</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
-      <title>test(cron): cover recurring delivery dedupe</title>
-      <link>https://github.com/openclaw/openclaw/commit/34334f0e6800ad0d33b01fbc40c235b69650bdbf</link>
-      <guid>https://github.com/openclaw/openclaw/commit/34334f0e6800ad0d33b01fbc40c235b69650bdbf</guid>
-      <description>test(cron): cover recurring delivery dedupe</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
-      <title>bluebubbles: consolidate HTTP traffic through typed BlueBubblesClient…</title>
-      <link>https://github.com/openclaw/openclaw/commit/055c17b0887701b3879eb0127c12b32fcd290683</link>
-      <guid>https://github.com/openclaw/openclaw/commit/055c17b0887701b3879eb0127c12b32fcd290683</guid>
-      <description>bluebubbles: consolidate HTTP traffic through typed BlueBubblesClient (#68234) Merged via squash. Prepared head SHA: ee72657bc8b58e32a0e8a874c6a9e05daeebd085 Co-authored-by: omars…</description>
-      <source>OpenClaw Commits</source>
-      <category>OpenClaw Commits</category>
-    </item>
-    <item>
       <title>openclaw 2026.4.19-beta.2</title>
       <link>https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.2</link>
       <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.2</guid>
@@ -1557,6 +1669,30 @@
       <description>A cloud-native AI agent that can build literally anything Discussion | Link</description>
       <source>Product Hunt</source>
       <category>Product Hunt</category>
+    </item>
+    <item>
+      <title>国家发展改革委下达2026年第二批“两重”建设项目清单</title>
+      <link>https://readhub.cn/topic/8sSWtfaa0Ze</link>
+      <guid>https://readhub.cn/topic/8sSWtfaa0Ze</guid>
+      <description>近日，国家发展改革委会同有关部门下达2026年第二批“两重”建设项目清单，安排超长期特别国债资金2168亿元支持336个重大项目，涉及人工智能等重点领域。加上此前已下达的3897亿元，今年累计安排“两重”建设资金6065亿元，占全年8000亿元的76%，下达进度快于去年。相关负责人表示将完善投融资等机制，加快“软建设”，强化资金监管，尽早形成更多实物工作量…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>华为乾崑智驾累计辅助驾驶总里程突破100亿公里</title>
+      <link>https://readhub.cn/topic/8sSSyIBsTzi</link>
+      <guid>https://readhub.cn/topic/8sSSyIBsTzi</guid>
+      <description>华为智能汽车解决方案BU CEO靳玉志宣布，华为乾崑智驾累计辅助驾驶总里程率先在中国突破100亿公里，约7个月实现从50亿公里翻倍。搭载乾崑智驾的车型2025年总销量超90万台，两年成长10倍，2025年8月搭载量突破100万辆。伴随规模扩大，智驾安全能力持续迭代，1 - 2月ADS安全行驶里程倍数提升10%。此外，ADS 5测试版已“路测”一个多月，WE…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>中央气象台4月20日06时继续发布暴雨蓝色预警</title>
+      <link>https://readhub.cn/topic/8sT857CdJZ5</link>
+      <guid>https://readhub.cn/topic/8sT857CdJZ5</guid>
+      <description>中央气象台4月20日06时继续发布暴雨蓝色预警，预计4月20日08时至21日08时，贵州东部、湖南、江西中西部等地部分地区有大到暴雨，湖南南部和东部、广西北部等地局地有大暴雨，部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。 媒体报道 中央气象台4月20日06时继续发布暴雨蓝色预警 格隆汇/财联社 中央气象台4月20日06时继续发布大风黄色预警…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
     </item>
     <item>
       <title>第139届广交会第一期今日闭展 首期境外采购商到会人数创新高</title>
@@ -1775,28 +1911,12 @@
       <category>Readhub 热门</category>
     </item>
     <item>
-      <title>“16万年一遇”彗星迎来观测最佳时机</title>
-      <link>https://readhub.cn/topic/8sRrScFXmah</link>
-      <guid>https://readhub.cn/topic/8sRrScFXmah</guid>
-      <description>来自太阳系边缘、回归周期约16万年的长周期彗星C/2025 R3近日进入最佳观测窗口，它于2025年9月被发现。4月19日凌晨，天文爱好者在云南大理西湖记录到其升起景象，彗头清晰、彗尾修长，日出前90分钟，该彗星低悬于东方天空，肉眼可见。 媒体报道 16万年一遇！C/2025 R3彗星现身山西夜空 中国科技网 “16万年一遇”彗星迎来观测最佳时机 格隆汇/…</description>
-      <source>Readhub 热门</source>
-      <category>Readhub 热门</category>
-    </item>
-    <item>
-      <title>香港明天将公布新一批重点引进企业</title>
-      <link>https://readhub.cn/topic/8sRvjWF28Bs</link>
-      <guid>https://readhub.cn/topic/8sRvjWF28Bs</guid>
-      <description>香港特区政府财政司司长陈茂波4月19日表示，引进重点企业办公室4月20日将公布第六批重点企业名单，含多间市值达千亿港元的公司，涵盖生命健康科技等前沿领域。此前引进办已成功引进逾100间重点企业，聚焦多个领域，企业来源涵盖内地和欧美多地，展现香港营商和创科环境及双向平台吸引力。 媒体报道 香港明日公布新一批引进重点企业名单 涵盖AI领域等多间市值千亿公司 新…</description>
-      <source>Readhub 热门</source>
-      <category>Readhub 热门</category>
-    </item>
-    <item>
-      <title>五一假期售票开始以来，12306已拒绝抢票软件出票105.6万张</title>
-      <link>https://readhub.cn/topic/8sRvjQKZzGZ</link>
-      <guid>https://readhub.cn/topic/8sRvjQKZzGZ</guid>
-      <description>五一假期售票开始至4月18日24时，12306为防范“抢票软件”恶意刷票抢票等非正常访问行为，营造公平购票环境，已拒绝“抢票软件”出票105.6万张。 媒体报道 铁路12306持续识别遏制恶意抢票行为 已拒绝出票105.6万张票 中国科技网 重拳整治抢票软件！五一假期开售以来 12306拒出违规车票105.6万张 快科技 五一假期售票开始以来 12306已…</description>
-      <source>Readhub 热门</source>
-      <category>Readhub 热门</category>
+      <title>Headless everything for personal AI</title>
+      <link>https://simonwillison.net/2026/Apr/19/headless-everything</link>
+      <guid>https://simonwillison.net/2026/Apr/19/headless-everything</guid>
+      <description>Headless everything for personal AI Matt Webb thinks headless services are about to become much more common: Why? Because using personal AIs is a better experience for users than…</description>
+      <source>Simon Willison&#x27;s Blog</source>
+      <category>Simon Willison&#x27;s Blog</category>
     </item>
     <item>
       <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
@@ -1871,14 +1991,6 @@
       <category>TechCrunch</category>
     </item>
     <item>
-      <title>Tesla brings its robotaxi service to Dallas and Houston</title>
-      <link>https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston</link>
-      <guid>https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston</guid>
-      <description>The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 20…</description>
-      <source>TechCrunch</source>
-      <category>TechCrunch</category>
-    </item>
-    <item>
       <title>Blue Origin successfully reused its New Glenn rocket</title>
       <link>https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket</link>
       <guid>https://theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket</guid>
@@ -1911,6 +2023,22 @@
       <category>The Verge</category>
     </item>
     <item>
+      <title>中年人爱上 AI 编程，就像爱上钓鱼</title>
+      <link>https://v2ex.com/t/1207048</link>
+      <guid>https://v2ex.com/t/1207048</guid>
+      <description>真的上瘾，停不下来。酒也不喝了，有空就坐在电脑前面。最近吭哧吭哧做了个 SEO 评测工具，auditedge.app,全部 ai 制作，自己看着还行，发出来让大家拍砖。砸醒我吧，太上瘾了。</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>每月 AI 支出都超过生活费了</title>
+      <link>https://v2ex.com/t/1207046</link>
+      <guid>https://v2ex.com/t/1207046</guid>
+      <description>cc 和 Codex 写代码是真的强，随便改个一两百行，编译几乎不报错</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
       <title>写了个自用的 Harness - Powerball Harness</title>
       <link>https://v2ex.com/t/1207042</link>
       <guid>https://v2ex.com/t/1207042</guid>
@@ -1919,10 +2047,10 @@
       <category>V2EX 技术</category>
     </item>
     <item>
-      <title>海外域名防红技术讨论</title>
-      <link>https://v2ex.com/t/1207036</link>
-      <guid>https://v2ex.com/t/1207036</guid>
-      <description>危险网站 您尝试访问的网站上的攻击者可能会诱使您安装软件或泄露某些信息，例如您的密码、手机号码或信用卡号码。Chrome 强烈建议您返回到安全的浏览环境。详细了解此警告 有研究域名防红这方面的大佬不，方便一起讨论一下不，目前我的方案成本太高，互相讨论或者一起解决</description>
+      <title>低价 GPT 到底有多少漏洞，怎么封了还有</title>
+      <link>https://v2ex.com/t/1207040</link>
+      <guid>https://v2ex.com/t/1207040</guid>
+      <description>昨天我看就有修复了票据重复使用的漏洞，而且账号 vip 都掉了， 今天我看别的地方还能买到低价 codex, 群主说他知道的就有三个不同的漏洞开会员，离谱</description>
       <source>V2EX 技术</source>
       <category>V2EX 技术</category>
     </item>
@@ -1931,14 +2059,6 @@
       <link>https://v2ex.com/t/1207032</link>
       <guid>https://v2ex.com/t/1207032</guid>
       <description>由于需要做内容增强 RAG ，需要通过 tools / function call 去搜索官网、官方数据集。然后再让模型学习增强的数据集后，输出建议。 为了测试模型的“忠诚”度，故意污染了部分 function call 的 output 数据给模型。 然后，吃惊的地方是，GPT 居然说： 不过我刚查到的数据结果质量不太行，你不要太信任我的答复。 表现最好…</description>
-      <source>V2EX 技术</source>
-      <category>V2EX 技术</category>
-    </item>
-    <item>
-      <title>macos 推荐一个超级好用的鼠标给各位, 60 块左右</title>
-      <link>https://v2ex.com/t/1207031</link>
-      <guid>https://v2ex.com/t/1207031</guid>
-      <description>拼多多搜雷神 ML6Pro,12000 的 DPI 很丝滑, 按键声很机械, 大家可以买来试试, 然后说下感觉.</description>
       <source>V2EX 技术</source>
       <category>V2EX 技术</category>
     </item>
@@ -1963,22 +2083,6 @@
       <link>https://v2ex.com/t/1207023</link>
       <guid>https://v2ex.com/t/1207023</guid>
       <description>GitHub 开源： https://github.com/zanjie1999/meFileServer 写这个程序的原因是因为想从朋友那传单文件 50G 文件过来，怕因为网络原因传一半断了只能重传，又不想麻烦朋友去安装文件同步软件，现有的 Web 文件管理器无法支持断点续传，因此写了这个程序 方便的让别人给你不限速的直连传文件，无论是你传给他还是他传给…</description>
-      <source>V2EX 技术</source>
-      <category>V2EX 技术</category>
-    </item>
-    <item>
-      <title>为啥 Google 搜索中吉大、武大官网被狗皮膏药夺舍？</title>
-      <link>https://v2ex.com/t/1207020</link>
-      <guid>https://v2ex.com/t/1207020</guid>
-      <description>google 搜索吉林大学，武汉大学等学校的二级单位，发现无法显示官网地址。 例如：“武汉大学计算机学院”，出来的第一条结果永远是： http://www.lianpp.com/ 这个毒瘤网站的结果，跟狗皮膏药一样无法去除。有了他之后，官网二级网站根本无法在 Google 搜索结果中显示。 更惨的是武汉大学官方主页也被夺舍！ 吉林大学好一点，学校官网可以搜…</description>
-      <source>V2EX 技术</source>
-      <category>V2EX 技术</category>
-    </item>
-    <item>
-      <title>出海技术团队招聘（核心岗位｜加速器方向）</title>
-      <link>https://v2ex.com/t/1207002</link>
-      <guid>https://v2ex.com/t/1207002</guid>
-      <description>统一待遇 底薪：5000 ~ 10000 元 / 月（能力强可谈） 利润分红：3% ~ 5%（核心成员可给期权） 海外补贴：1000 ~ 3000 元 / 月 休假福利：每季度 15 天带薪休假 + 往返机票 报销福利：饮食 + 住宿全额报销 项目属于出海业务 + 高执行节奏团队，偏结果导向 🧠 一、后端工程师（ PHP 主+ Go 接口） 岗位职责： 使…</description>
       <source>V2EX 技术</source>
       <category>V2EX 技术</category>
     </item>
@@ -2083,14 +2187,6 @@
       <link>https://v2ex.com/t/1206934</link>
       <guid>https://v2ex.com/t/1206934</guid>
       <description>要求如下: ①加密备份 ②提供校验数据完整性的子命令 ③CLI(GUI 程序请勿推荐)</description>
-      <source>V2EX 技术</source>
-      <category>V2EX 技术</category>
-    </item>
-    <item>
-      <title>有人会愿意为没有比官方便宜的 Claude 中转付费吗？</title>
-      <link>https://v2ex.com/t/1206923</link>
-      <guid>https://v2ex.com/t/1206923</guid>
-      <description>感觉干净的 Claude 中转都不便宜，看起来有些甚至还比官方贵，这种为何还有人付费？</description>
       <source>V2EX 技术</source>
       <category>V2EX 技术</category>
     </item>
@@ -2239,22 +2335,6 @@
       <category>blog.jim-nielsen.com</category>
     </item>
     <item>
-      <title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
-      <link>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384</link>
-      <guid>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384</guid>
-      <description>Marc Malkin, Variety: Jessica Chastain says Apple TV is finally going to release her political thriller series “The Savant.” [...] “Before it was like, ‘I don’t know if we’re goin…</description>
-      <source>daringfireball.net</source>
-      <category>daringfireball.net</category>
-    </item>
-    <item>
-      <title>WorkOS FGA: The Authorization Layer for AI Agents</title>
-      <link>https://workos.com/blog/agents-need-authorization-not-just-authentication</link>
-      <guid>https://workos.com/blog/agents-need-authorization-not-just-authentication</guid>
-      <description>My thanks to WorkOS for sponsoring last week at DF. Every AI agent demo looks magical, but most hit a wall in enterprise deployment. It’s not model quality or latency. It’s author…</description>
-      <source>daringfireball.net</source>
-      <category>daringfireball.net</category>
-    </item>
-    <item>
       <title>Figma&#x27;s woes compound with Claude Design</title>
       <link>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design</link>
       <guid>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design</guid>
@@ -2277,6 +2357,270 @@
       <description>Wander Console 0.5.0 is out. It is the fifth release of Wander, a small, decentralised, self-hosted web console that lets visitors to your website explore interesting websites and…</description>
       <source>susam.net</source>
       <category>susam.net</category>
+    </item>
+    <item>
+      <title>果然，最恨 AI 的人，是大学毕业生</title>
+      <link>https://36kr.com/p/3773230505820930</link>
+      <guid>https://36kr.com/p/3773230505820930</guid>
+      <description>生成式 AI 爆发这两年，人们理所当然地以为，作为互联网原住民的年轻人，是这项技术最狂热的信徒。 表面看确实如此。皮尤研究中心的数据显示，54% 的美国青少年已经开始用 ChatGPT 等工具完成学业。盖洛普最新发布的《Z 世代的声音：AI 悖论》报告也显示，美国 14 至 29 岁人群中，超过一半（51%）保持着每日或每周使用 AI 的高频习惯。 但行为…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>华人数学家封神，王虹、唐云清斩获数学界「奥斯卡」</title>
+      <link>https://36kr.com/p/3773501645259269</link>
+      <guid>https://36kr.com/p/3773501645259269</guid>
+      <description>今天，素有「数学界奥斯卡」美誉的2026年突破奖出炉了！ 在本届名单中，数学新视野奖（New Horizons in Mathematics Prize）表现尤为亮眼。 四位顶尖青年学者共享殊荣，其中半数席位由华人女性数学家占据，她们分别是： 纽约大学的王虹，UC伯克利的唐云清。 另外两位顶尖头脑，则是斯坦福大学的Otis Chodosh，以及唐云清的科研…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>巨头都在抢光芯片</title>
+      <link>https://36kr.com/p/3773208573723397</link>
+      <guid>https://36kr.com/p/3773208573723397</guid>
+      <description>2026年的前几个月，光芯片行业的并购节奏密集到有些令人目眩。 英伟达在3月2日同一天宣布向Lumentum和Coherent分别注资20亿美元；三周后，再度向Marvell砸下20亿美元；同月，Credo Technology宣布以7.5亿美元收购以色列硅光子公司DustPhotonics，而就在几个月前，Marvell刚刚以最高55亿美元完成了对Cel…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>梁文锋想通了</title>
+      <link>https://36kr.com/p/3773160330248960</link>
+      <guid>https://36kr.com/p/3773160330248960</guid>
+      <description>DeepSeek终于传出了融资消息。 据外媒报道，DeepSeek正在寻求至少3亿美元的首轮外部融资，估值至少100亿美元。 字母榜向深度求索求证，但对方未予回应。 2025年初DeepSeek爆火之后，投资人们曾密集寻找见梁文锋的机会，但DeepSeek长期没有开放融资窗口。 过去一年，DeepSeek最特殊的地方，恰恰在于它不像一家典型AI公司。 它背…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>擦边带货的“国民牛奶”，撕开了老字号的遮羞布</title>
+      <link>https://36kr.com/p/3772102046171907</link>
+      <guid>https://36kr.com/p/3772102046171907</guid>
+      <description>如果牛奶界也有自己的“乐事”，那一定是海河牛奶。 别的乳企还在在价格战里卷生卷死，它却凭借奇葩口味硬控大学生。 香菜牛油果、薄荷巧克力、天津炸糕……一研发起新口味，海河就发狠了，忘情了； 30多种猎奇口味，每周一款轮番上新，把牛奶做成了口味盲盒。 这家成立于1957年的天津老牌乳企，这两年画风突变，直接被00后捧成“ 网红顶流 ”。 营收也从4.6亿蹿到1…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>亏25亿，杭州89年小哥IPO：友商赚了107亿</title>
+      <link>https://36kr.com/p/3772254457201152</link>
+      <guid>https://36kr.com/p/3772254457201152</guid>
+      <description>AI对算力的渴求夸张到什么程度？每3.5个月翻一倍！ 这种消耗下，传统电子芯片已经接近物理极限。 怎么办？有人考虑用光来完成计算，加大芯片算力。 最近，一家“用光计算”的公司曦智科技，通过港交所上市聆讯，即将IPO。 AI算力，正在从电的时代走向光的时代。背后有哪些新机会？ - 01 - 把论文做成独角兽 曦智科技创始人沈亦晨1989年出生于浙江杭州，父亲…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>花上千块给毛孩子买机票的年轻人， 后悔了吗？</title>
+      <link>https://36kr.com/p/3773096350745350</link>
+      <guid>https://36kr.com/p/3773096350745350</guid>
+      <description>最近，广州白云机场 T3航站楼的一个洗手间，在社交平台上火了。 在T3过了安检后，抬头看见男女洗手间和母婴室的标志旁，多出了一块蓝底指示牌，上面画着一个人牵着狗的图案。 顺着这个标志走过去，是一个专门留给宠物的空间。 里面放置了尿垫、猫砂盆和绿色假草坪，还有洗手台和花洒供宠主清洁。不少人第一次在国内机场见到这样的配置，连连感叹“太宠了”“T3还是太先进了”…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>比Nano Banana还夯的生图模型泄露，截图不再是证据了 | 附提示词</title>
+      <link>https://36kr.com/p/3773044974453509</link>
+      <guid>https://36kr.com/p/3773044974453509</guid>
+      <description>你对文生图的印象还停留在 Nano Banana 吗？ 可是孩子，时代又变了。 @johnAGI168 https://x.com/johnAGI168/status/2044781168151724067 @0115hippo https://x.com/0115hippo/status/2044722124611539160 4 月初，LM Arena…</description>
+      <source>今日热榜 - 36氪</source>
+      <category>今日热榜 - 36氪</category>
+    </item>
+    <item>
+      <title>沪上阿姨：控股股东在内的全体IPO前股东自愿延长禁售期</title>
+      <link>https://wallstreetcn.com/livenews/3090692</link>
+      <guid>https://wallstreetcn.com/livenews/3090692</guid>
+      <description>4月19日晚间，沪上阿姨在港交所公告，公司接获包含控股股东在内的全体首次公开发售前股东的通知，据此，其各自承诺自原禁售期届满日期至其后的6个月或者3个月的延长禁售期期间，不会以任何方式减持彼等各自持有的公司股份。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>伊朗在霍尔木兹海峡划定新航线 未经许可不得通行</title>
+      <link>https://wallstreetcn.com/livenews/3090689</link>
+      <guid>https://wallstreetcn.com/livenews/3090689</guid>
+      <description>当地时间19日，据伊朗方面消息，伊朗伊斯兰革命卫队海军已划定一条从霍尔木兹岛以南至拉腊克岛以南水域的新航线。据悉，该航线被命名为“拉腊克走廊”，未经革命卫队海军许可不得通行。（央视）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>美元/日元盘中触及159关口，日内涨超0.2%。</title>
+      <link>https://wallstreetcn.com/livenews/3090688</link>
+      <guid>https://wallstreetcn.com/livenews/3090688</guid>
+      <description>美元/日元盘中触及159关口，日内涨超0.2%。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>华尔街见闻早餐 | 2026年4月20日</title>
+      <link>https://wallstreetcn.com/livenews/3090687</link>
+      <guid>https://wallstreetcn.com/livenews/3090687</guid>
+      <description>国际原油周一开盘涨超7%，美股期货跌近1%。 伊朗周末开火逼退油轮，宣布开放后不到24小时再封锁霍尔木兹，指美国违反承诺未解除对伊海上封锁。 特朗普：美代表团将抵伊斯兰堡参加谈判，伊朗已“严重违反”停火，但美伊仍能达成协议；伊媒：伊朗拒绝参加与美第二轮谈判。 特朗普称美军在阿曼湾武力拦截并控制一艘伊朗货船，伊军：已发射无人机还击。 美联储理事沃勒：中东战争…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>法媒：一艘法国船在霍尔木兹海峡遭“警告性射击”</title>
+      <link>https://wallstreetcn.com/livenews/3090686</link>
+      <guid>https://wallstreetcn.com/livenews/3090686</guid>
+      <description>据法国媒体4月19日报道，法国达飞海运集团一艘船18日在霍尔木兹海峡遭遇“警告性射击”。《世界报》援引达飞海运集团方面消息报道，该集团一艘船18日在霍尔木兹海峡受到“警告性射击”，但船员无恙。（新华社）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>英国4月Rightmove平均房屋要价指数同比 -0.9%，前值 -0.2%。</title>
+      <link>https://wallstreetcn.com/livenews/3090685</link>
+      <guid>https://wallstreetcn.com/livenews/3090685</guid>
+      <description>英国4月Rightmove平均房屋要价指数同比 -0.9%，前值 -0.2%。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>英国4月Rightmove平均房屋要价指数环比 0.8%，前值 0.8%。</title>
+      <link>https://wallstreetcn.com/livenews/3090684</link>
+      <guid>https://wallstreetcn.com/livenews/3090684</guid>
+      <description>英国4月Rightmove平均房屋要价指数环比 0.8%，前值 0.8%。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>伊朗总统：美方在谈判及停火阶段持续背信弃义</title>
+      <link>https://wallstreetcn.com/livenews/3090683</link>
+      <guid>https://wallstreetcn.com/livenews/3090683</guid>
+      <description>伊朗总统佩泽希齐扬19日与巴基斯坦总理夏巴兹通电话时表示，美国在谈判及停火阶段持续表现出背信弃义行为，凸显美方企图放弃外交手段的真面目。 据伊朗方面消息，佩泽希齐扬与夏巴兹就地区最新局势、伊斯兰堡谈判以及停火相关事宜交换意见。他对巴方为实现和平所作坚定努力表示赞赏，并特别感谢夏巴兹及巴陆军参谋长穆尼尔所作贡献。 佩泽希齐扬指出，美国在谈判及停火阶段持续表现…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>商业不动产试点提速，业内人士称REITs市场料持续扩容</title>
+      <link>https://wallstreetcn.com/livenews/3090682</link>
+      <guid>https://wallstreetcn.com/livenews/3090682</guid>
+      <description>近期，我国公募不动产投资信托基金（REITs）市场申报提速，以商业不动产REITs为代表的新品类不断扩容，多只标志性“首单”创新产品亮相。机构人士测算，随着商业不动产REITs试点步入加速推进阶段，REITs市场将持续扩容。今年以来，交易所已受理的商业不动产REITs拟募集资金规模，已超过去年全年REITs发行总量。今年新上市REITs规模有望达到千亿元量…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>激活增长新动能，重大工程项目牵引投资回升</title>
+      <link>https://wallstreetcn.com/livenews/3090681</link>
+      <guid>https://wallstreetcn.com/livenews/3090681</guid>
+      <description>随着广州新机场等一批重点项目开工建设，基建投资成为稳增长的关键力量。与此同时，各地因地制宜发展新质生产力，带动高技术产业投资较快增长。专家预计，随着扩投资政策持续发力、重大工程项目加快推进，对投资增长的支撑力度仍将较强。（中证报）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>伊朗军方：美军向伊朗货船开火，伊方发射无人机还击</title>
+      <link>https://wallstreetcn.com/livenews/3090680</link>
+      <guid>https://wallstreetcn.com/livenews/3090680</guid>
+      <description>据伊朗光明通讯社20日凌晨报道，伊朗武装部队哈塔姆安比亚中央总部发言人表示，美军19日在阿曼湾海域袭击一艘伊朗集装箱货船，伊朗武装部队随后发射多架无人机，打击数艘美方军舰。（新华社）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>新西兰3月12个月贸易帐 -31.91亿纽元，前值 -29.98亿纽元。</title>
+      <link>https://wallstreetcn.com/livenews/3090677</link>
+      <guid>https://wallstreetcn.com/livenews/3090677</guid>
+      <description>新西兰3月12个月贸易帐 -31.91亿纽元，前值 -29.98亿纽元。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>新西兰3月出口 79.4亿纽元，前值 66.3亿纽元。</title>
+      <link>https://wallstreetcn.com/livenews/3090678</link>
+      <guid>https://wallstreetcn.com/livenews/3090678</guid>
+      <description>新西兰3月出口 79.4亿纽元，前值 66.3亿纽元。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>新西兰3月贸易帐 6.98亿纽元，前值 -2.57亿纽元。</title>
+      <link>https://wallstreetcn.com/livenews/3090676</link>
+      <guid>https://wallstreetcn.com/livenews/3090676</guid>
+      <description>新西兰3月贸易帐 6.98亿纽元，前值 -2.57亿纽元。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>新西兰3月进口 72.5亿纽元，前值 68.9亿纽元。</title>
+      <link>https://wallstreetcn.com/livenews/3090679</link>
+      <guid>https://wallstreetcn.com/livenews/3090679</guid>
+      <description>新西兰3月进口 72.5亿纽元，前值 68.9亿纽元。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>北斗时空智能装备助力人形机器人“自主奔跑”</title>
+      <link>https://wallstreetcn.com/livenews/3090675</link>
+      <guid>https://wallstreetcn.com/livenews/3090675</guid>
+      <description>2026北京亦庄半程马拉松暨人形机器人半程马拉松比赛4月19日鸣枪开跑。参赛的人形机器人整体能力显著提升，不仅奔跑速度大幅加快，“认路”能力也明显增强。据悉，本届赛事中有超过三分之二的“自主跑”赛队搭载了北斗时空智能套件装备。回顾2025年首届比赛，绝大部分机器人都依赖遥控，技术人员一边跟随一边操控。而在今年的赛事中，更多参赛队伍选择了以自主导航模式参赛。…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>提醒：日内请重点关注（以下均为北京时间）</title>
+      <link>https://wallstreetcn.com/livenews/3090674</link>
+      <guid>https://wallstreetcn.com/livenews/3090674</guid>
+      <description>① 09:00 中国至4月贷款市场报价利率(LPR)； ② 14:00 德国3月PPI； ③ 20:30 加拿大3月CPI； ④ 23:00 德国总理默茨与欧洲央行行长拉加德发表讲话； 微信小程序搜索“见闻历”，了解更多。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>国有大行H股创新高，南向资金与国资背景的资金持续“扫货”</title>
+      <link>https://wallstreetcn.com/livenews/3090673</link>
+      <guid>https://wallstreetcn.com/livenews/3090673</guid>
+      <description>今年以来，建设银行、工商银行、中国银行等大行H股股价走势强劲，不仅跑赢大盘，更在4月中旬集体创下阶段性新高。相比之下，其A股股价近期表现整体弱于H股。截至4月17日收盘，AH股溢价指数报118.38点，此外，国有大行H股折价幅度通常大于市场平均水平，以此推算，较A股普遍折价约15%至25%。 自去年以来，代表内地的南向资金与国资背景的资金持续“扫货”。以邮…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>外围扰动正逐步钝化，机构看好科技主线热度延续</title>
+      <link>https://wallstreetcn.com/livenews/3090672</link>
+      <guid>https://wallstreetcn.com/livenews/3090672</guid>
+      <description>券商策略报告认为，虽然中东局势处于拉锯博弈状态，其走向仍存诸多变数，但地缘冲击最大的阶段已经过去，市场对外围因素扰动的反应正逐步钝化。当前正值A股财报密集披露期，算力、储能、光通信等科技成长赛道龙头公司盈利确定性突出。后续资金向高景气度成长板块集中的趋势仍将持续一段时间。从大势研判来看，机构一致认为，海外中东局势博弈反复，但市场波动率已回落至冲突前的水平。…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>保加利亚大选初步结果：前总统拉德夫所领导联盟有望获胜</title>
+      <link>https://wallstreetcn.com/livenews/3090671</link>
+      <guid>https://wallstreetcn.com/livenews/3090671</guid>
+      <description>据保加利亚通讯社20日凌晨报道，保中央选举委员会开始公布19日国民议会选举初步计票结果，前总统鲁门·拉德夫领导的政党联盟“进步保加利亚”获得43.46%的选票，有望赢得本次大选。（新华社）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>金正恩观摩地对地战术弹道导弹试射</title>
+      <link>https://wallstreetcn.com/livenews/3090670</link>
+      <guid>https://wallstreetcn.com/livenews/3090670</guid>
+      <description>据朝中社20日报道，朝鲜导弹总局19日试射改良版“火星炮-11丁”型地对地战术弹道导弹，朝鲜劳动党总书记、国务委员长金正恩观摩试射。报道说，试射目的在于评估导弹战斗部的特点和威力，以136公里外的岛屿目标为中心，发射5枚战术弹道导弹，高密度击中面积为12.5至13公顷的目标区域。（新华社）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>【一伊朗油轮突破美国封锁进入伊朗水域】19日自伊朗方面获悉，一艘悬挂伊朗国旗的巨型油轮已突破美国封锁，成功进入伊朗水域。（央视）</title>
+      <link>https://wallstreetcn.com/livenews/3090669</link>
+      <guid>https://wallstreetcn.com/livenews/3090669</guid>
+      <description>【一伊朗油轮突破美国封锁进入伊朗水域】19日自伊朗方面获悉，一艘悬挂伊朗国旗的巨型油轮已突破美国封锁，成功进入伊朗水域。（央视）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>美军向伊朗商船开火 伊军：将予以回应和报复</title>
+      <link>https://wallstreetcn.com/livenews/3090668</link>
+      <guid>https://wallstreetcn.com/livenews/3090668</guid>
+      <description>当地时间20日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，美国违反停火协议，在阿曼湾海域向一艘伊朗商船开火，并派遣多名士兵登上甲板，使该船导航系统瘫痪，犯下“海上劫掠”罪行。该发言人警告称，伊朗武装部队将很快对美军的这种海盗行径和武装抢劫行为予以回应和报复。（央视）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>国际油价大幅高开，美股期货跌近1%</title>
+      <link>https://wallstreetcn.com/livenews/3090667</link>
+      <guid>https://wallstreetcn.com/livenews/3090667</guid>
+      <description>国际原油期货周一开盘跳涨逾7%。 布油上涨逾7美元，触及97.50美元/桶高位。 美国原油期货（WTI）触及每桶91.20美元高位，上涨超过7美元。 标普500指数期货跌0.9%，纳斯达克100指数期货跌近1%。 现货黄金低开逾1%。 此前伊朗再次关闭霍尔木兹海峡。</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>伊朗：美军向伊朗商船开火，革命卫队海军逼退美军</title>
+      <link>https://wallstreetcn.com/livenews/3090666</link>
+      <guid>https://wallstreetcn.com/livenews/3090666</guid>
+      <description>据伊朗迈赫尔通讯社19日晚报道，部署在阿曼海周边海域的美军当天向一艘伊朗商船开火，企图迫使后者返回伊朗领海。伊朗伊斯兰革命卫队海军部队及时赶到现场，迅速支援这艘伊朗商船，美军被迫撤退，逃离这一海域。报道没有提及这艘伊朗商船的船名。这篇报道的说法似乎与美国总统特朗普所说直接矛盾。 当天稍早时候，特朗普在社交媒体发文，称美军一艘导弹驱逐舰当天在阿曼湾拦截试图突…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
     </item>
     <item>
       <title>伊朗议会要员：美国必须接受霍尔木兹海峡新秩序</title>
@@ -2330,7 +2674,7 @@
       <title>伊朗媒体：伊朗已为战火重燃做好准备</title>
       <link>https://wallstreetcn.com/livenews/3090655</link>
       <guid>https://wallstreetcn.com/livenews/3090655</guid>
-      <description>据伊朗塔斯尼姆通讯社19日报道，伊朗已为战火重燃做好准备，一旦重新开打，会让敌人经历永生难忘的“地狱时刻”。 报道说，鉴于美军近期动向，包括军舰调动、武器运输、侦察飞行和防空部署，伊朗方面判断，局势会出现两种可能性，并已采取必要应对措施。 第一种情况 是，美方意图利用这些军事准备工作制造心理压力，以便在谈判桌上索要筹码。但正如过去此类压力和威胁未能影响谈判…</description>
+      <description>据伊朗塔斯尼姆通讯社19日报道，伊朗已为战火重燃做好准备，一旦重新开打，会让敌人经历永生难忘的“地狱时刻”。报道说，鉴于美军近期动向，包括军舰调动、武器运输、侦察飞行和防空部署，伊朗方面判断，局势会出现两种可能性，并已采取必要应对措施。 第一种情况 是，美方意图利用这些军事准备工作制造心理压力，以便在谈判桌上索要筹码。但正如过去此类压力和威胁未能影响谈判一…</description>
       <source>华尔街见闻实时快讯</source>
       <category>华尔街见闻实时快讯</category>
     </item>
@@ -2479,204 +2823,12 @@
       <category>华尔街见闻实时快讯</category>
     </item>
     <item>
-      <title>以防长：若受威胁将以“全部力量”反击</title>
-      <link>https://wallstreetcn.com/livenews/3090636</link>
-      <guid>https://wallstreetcn.com/livenews/3090636</guid>
-      <description>当地时间19日，以色列国防部长卡茨表示，尽管以色列与黎巴嫩已达成临时停火，但如以军遭遇任何威胁，将动用“全部力量”予以反击。卡茨称，以色列总理内塔尼亚胡以及他本人已指示以军地面和空中部队，全力保障目前部署在黎巴嫩的以军士兵安全。他还表示，以军将拆除以黎边境附近部分村庄的房屋。他称这些地点被以军视为黎巴嫩真主党的前沿据点，对以色列社区构成安全威胁。（央视）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）</title>
-      <link>https://wallstreetcn.com/livenews/3090635</link>
-      <guid>https://wallstreetcn.com/livenews/3090635</guid>
-      <description>美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）</title>
-      <link>https://wallstreetcn.com/livenews/3090634</link>
-      <guid>https://wallstreetcn.com/livenews/3090634</guid>
-      <description>美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>韩国将强化电子烟监管，与传统卷烟同标准</title>
-      <link>https://wallstreetcn.com/livenews/3090633</link>
-      <guid>https://wallstreetcn.com/livenews/3090633</guid>
-      <description>韩国政府宣布，将从本月24日起把电子烟纳入烟草产品管理，与传统卷烟适用同样的监管标准。 此前，电子烟在韩国法律中不被视为烟草产品。根据修订后的《烟草商业法》，所有由烟草或尼古丁制成的产品均被列为烟草产品，电子烟也由此被列入其中。 韩国保健福祉部说，将在新法生效后实施检查，确保制造商、零售商和进口商遵守相关规定，并与地方政府和相关机构联合监督禁烟区的落实情况…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>泰国一船只通过霍尔木兹海峡</title>
-      <link>https://wallstreetcn.com/livenews/3090631</link>
-      <guid>https://wallstreetcn.com/livenews/3090631</guid>
-      <description>泰国外交部19日晚发布通告说，泰国一艘船只已经通过霍尔木兹海峡。通告称，泰国外交部长西哈萨15日至17日访问阿曼。此访旨在促进双边关系，其中包括请阿曼进一步与伊朗协调，为受困于霍尔木兹海峡的泰国船只提供援助。本次通行的船只属于泰国暹罗水泥集团，是此前泰国外交部请求伊朗协助保障安全通行的两艘船只之一。（新华社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。</title>
-      <link>https://wallstreetcn.com/livenews/3090630</link>
-      <guid>https://wallstreetcn.com/livenews/3090630</guid>
-      <description>美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>白宫澄清：美国副总统万斯将赴巴基斯坦参加会谈</title>
-      <link>https://wallstreetcn.com/livenews/3090629</link>
-      <guid>https://wallstreetcn.com/livenews/3090629</guid>
-      <description>4月19日，美国白宫证实，美副总统万斯将与美总统特使威特科夫以及总统的女婿库什纳一同前往巴基斯坦，出席下一轮关于伊朗问题的会谈。此前，美国总统特朗普曾否认万斯会出席最新一轮会谈。伊朗方面消息人士则表示，如果美国副总统万斯未出席相关谈判，伊方级别较高的官员，例如伊朗议会议长卡利巴夫，也不会出现在谈判团队中。 据消息人士透露，美特勤局不希望万斯与总统同时身处同…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>匈牙利Orban：如果乌克兰恢复源自俄罗斯的石油供应，匈牙利政府可以支持欧盟对乌克兰的资金支持。</title>
-      <link>https://wallstreetcn.com/livenews/3090628</link>
-      <guid>https://wallstreetcn.com/livenews/3090628</guid>
-      <description>匈牙利Orban：如果乌克兰恢复源自俄罗斯的石油供应，匈牙利政府可以支持欧盟对乌克兰的资金支持。</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）</title>
-      <link>https://wallstreetcn.com/livenews/3090627</link>
-      <guid>https://wallstreetcn.com/livenews/3090627</guid>
-      <description>白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>国家发展改革委下达2026年第二批“两重”建设项目清单</title>
-      <link>https://wallstreetcn.com/livenews/3090626</link>
-      <guid>https://wallstreetcn.com/livenews/3090626</guid>
-      <description>从国家发展改革委获悉，近日，国家发展改革委会同有关部门组织下达2026年第二批“两重”建设项目清单，共安排超长期特别国债资金2168亿元支持336个重大项目。相关项目涉及人工智能、城市地下管网建设改造、长江经济带交通基础设施、高标准农田、高等教育提质升级、“三北”工程等重点领域。加上此前已下达的3897亿元，今年累计安排“两重”建设资金6065亿元，占全年…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国官员：副总统万斯将（再次）率领美国代表团前往伊斯兰堡。（Axios）</title>
-      <link>https://wallstreetcn.com/livenews/3090624</link>
-      <guid>https://wallstreetcn.com/livenews/3090624</guid>
-      <description>美国官员：副总统万斯将（再次）率领美国代表团前往伊斯兰堡。（Axios）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判</title>
-      <link>https://wallstreetcn.com/livenews/3090623</link>
-      <guid>https://wallstreetcn.com/livenews/3090623</guid>
-      <description>据美国《纽约邮报》19日报道，美国总统特朗普当天在接受该报采访时说，美国总统特使威特科夫和他的女婿库什纳将前往巴基斯坦同伊朗谈判。报道称，美国副总统万斯将不参与此次谈判。而上一轮美伊谈判中，美方代表团由万斯率领。 不过，美国广播公司当天援引美国驻联合国大使的话报道，万斯还将率领美国代表团赴巴基斯坦同伊朗进行谈判。 目前，美方尚未正式宣布美代表团成员。特朗普…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>星途EX7上市，19.99万起售</title>
-      <link>https://wallstreetcn.com/livenews/3090622</link>
-      <guid>https://wallstreetcn.com/livenews/3090622</guid>
-      <description>4月19日，星途品牌3.0时代首款车型星途EX7上市，定位大五座SUV，售价19.99万-26.39万元。新车搭载EMB线控制动，纯电版支持800V高压快充，全系标配猎鹰700端到端驾辅。</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>韩国财政部长（在会见美国财长贝森特之后表示）：美国同意，韩元过度波动不可取。</title>
-      <link>https://wallstreetcn.com/livenews/3090621</link>
-      <guid>https://wallstreetcn.com/livenews/3090621</guid>
-      <description>韩国财政部长（在会见美国财长贝森特之后表示）：美国同意，韩元过度波动不可取。</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN...</title>
-      <link>https://wallstreetcn.com/livenews/3090620</link>
-      <guid>https://wallstreetcn.com/livenews/3090620</guid>
-      <description>美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>日本国会周围3.6万人集会，抗议高市修宪企图</title>
-      <link>https://wallstreetcn.com/livenews/3090619</link>
-      <guid>https://wallstreetcn.com/livenews/3090619</guid>
-      <description>日本超3万民众19日下午聚集在国会议事堂周围，强烈抗议高市早苗政府的修宪企图，呼吁守护宪法。 据组织方介绍，当天的集会有约3.6万人参加。这是自4月8日以来，日本国会附近再度出现3万人左右大规模的反修宪集会。抗议者们手举写有“反对战争”“不许破坏宪法第九条”“高市下台”等字样的标语，呼吁守护和平宪法。（新华社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>特朗普边称要谈判边威胁伊朗</title>
-      <link>https://wallstreetcn.com/livenews/3090618</link>
-      <guid>https://wallstreetcn.com/livenews/3090618</guid>
-      <description>美国总统特朗普19日在社交媒体上称，美国代表将于20日晚抵达巴基斯坦伊斯兰堡参加谈判。伊朗方面尚未对此作出回应。 特朗普写道：“我的代表们将前往巴基斯坦伊斯兰堡——他们明晚抵达那里进行谈判。” 特朗普称，美方提出了“非常公平合理”的协议。“我希望他们接受，因为如果他们不接受，美国将摧毁伊朗的每一个发电厂和每一座桥梁。好说话的日子结束了。” 特朗普称，伊朗1…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>专家解读：房地产市场积极信号进一步增强</title>
-      <link>https://wallstreetcn.com/livenews/3090617</link>
-      <guid>https://wallstreetcn.com/livenews/3090617</guid>
-      <description>重庆大学副校长刘贵文认为，从最新公布的统计数据和各地的市场表现来看，当前房地产市场正处于从“修复”向“稳定”过渡的关键阶段，市场呈现出一系列积极变化，市场回稳的基础不断夯实。 市场表现量稳价升，积极信号提振信心。一是销售量降幅收窄。国家统计局最新数据显示，今年一季度全国新建商品房销售面积同比降幅较1—2月收窄3.1个百分点；销售额降幅收窄3.5个百分点。二…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国能源部长Wright：（船只）通过霍尔木兹海峡并不安全。 （与伊朗的）谈判进展不错。 （谈及率团前往巴基斯坦）一直都是副总统万斯。 如果伊朗干扰霍尔木兹海...</title>
-      <link>https://wallstreetcn.com/livenews/3090616</link>
-      <guid>https://wallstreetcn.com/livenews/3090616</guid>
-      <description>美国能源部长Wright：（船只）通过霍尔木兹海峡并不安全。 （与伊朗的）谈判进展不错。 （谈及率团前往巴基斯坦）一直都是副总统万斯。 如果伊朗干扰霍尔木兹海峡的航运，美方将重新封锁。（CNN）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）</title>
-      <link>https://wallstreetcn.com/livenews/3090615</link>
-      <guid>https://wallstreetcn.com/livenews/3090615</guid>
-      <description>谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>伊朗和巴基斯坦外长通话讨论地区最新动态</title>
-      <link>https://wallstreetcn.com/livenews/3090614</link>
-      <guid>https://wallstreetcn.com/livenews/3090614</guid>
-      <description>据伊朗塔斯尼姆通讯社19日报道，伊朗外长阿拉格齐和巴基斯坦副总理兼外长达尔19日通话，就地区最新动态、国际形势及双边关系交流了意见。（新华社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国驻联合国大使（驳斥总统特朗普的论调）：副总统万斯将率领美国代表团与伊朗在巴基斯坦对话。（ABC新闻）</title>
-      <link>https://wallstreetcn.com/livenews/3090612</link>
-      <guid>https://wallstreetcn.com/livenews/3090612</guid>
-      <description>美国驻联合国大使（驳斥总统特朗普的论调）：副总统万斯将率领美国代表团与伊朗在巴基斯坦对话。（ABC新闻）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>美国总统特朗普：因为安全的缘故，副总统万斯不会前往巴基斯坦。 伊朗承诺无限期搁置核计划。（MS Now）</title>
-      <link>https://wallstreetcn.com/livenews/3090611</link>
-      <guid>https://wallstreetcn.com/livenews/3090611</guid>
-      <description>美国总统特朗普：因为安全的缘故，副总统万斯不会前往巴基斯坦。 伊朗承诺无限期搁置核计划。（MS Now）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>伊朗未证实伊美复谈消息</title>
-      <link>https://wallstreetcn.com/livenews/3090610</link>
-      <guid>https://wallstreetcn.com/livenews/3090610</guid>
-      <description>据伊朗塔斯尼姆社今天（4月19日）报道，关于“伊朗代表团下周二（4月21日）会前往巴基斯坦首都伊斯兰堡”的相关消息，目前尚未得到伊朗官方证实。（CCTV国际时讯）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
-    </item>
-    <item>
-      <title>伊朗外交部发言人：美方蓄意封锁已构成战争罪和反人类罪</title>
-      <link>https://wallstreetcn.com/livenews/3090609</link>
-      <guid>https://wallstreetcn.com/livenews/3090609</guid>
-      <description>伊朗外交部发言人巴加埃19日在社交媒体上表示，美国对伊朗港口和海岸线的蓄意封锁违反了停火协议，是对伊朗民众实施集体惩罚，已构成战争罪和反人类罪。（新华社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>华尔街见闻早餐FM-Radio | 2026年4月20日</title>
+      <link>https://wallstreetcn.com/articles/3770305</link>
+      <guid>https://wallstreetcn.com/articles/3770305</guid>
+      <description>华见早安之声 请各位听众升级为见闻最新版APP，以便成功收听以下音频。 市场概述 上周五，霍尔木兹海峡重开助长长期停火希望 ，美股再涨、 纳指连涨13日、创1992年来最长连涨 ， 和标普 连续 三日收创新高 ， 均创将近一年最大周涨幅 ，三大美股指均连涨三周、全周至少涨超3%。 芯片指数涨超2%、两日跑赢大盘，微软和特斯拉全周涨超10%； 旅行、航司和油…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
       <title>美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议</title>
@@ -2879,50 +3031,114 @@
       <category>效率火箭</category>
     </item>
     <item>
-      <title>巴基斯坦总理与伊朗总统通话讨论地区局势</title>
-      <link>https://m.thepaper.cn/detail/33007763</link>
-      <guid>https://m.thepaper.cn/detail/33007763</guid>
-      <description>新华社伊斯兰堡4月19日消息，巴基斯坦总理府19日发表声明说，巴总理夏巴兹当天与伊朗总统佩泽希齐扬通电话，就当前地区局势进行深入交流。 声明说，两位领导人通话45分钟，氛围“亲切友好”。 声明说，夏巴兹向佩泽希齐扬介绍了他近期与沙特阿拉伯、卡塔尔和土耳其等地区国家领导人会晤的情况。他表示，这些互动对于凝聚共识、继而推动以对话和外交途径为饱受战争蹂躏的地区带…</description>
+      <title>苏超归来，摸着自己过河</title>
+      <link>https://m.thepaper.cn/detail/33004229</link>
+      <guid>https://m.thepaper.cn/detail/33004229</guid>
+      <description>“相比职业联赛面向特定的球迷群体，苏超面向的对象是千万级的市民群体、大量家庭观众，这个人群基数和购买力可比普通球迷大多了。” 文 /巴九灵（微信公众号：吴晓波频道） 去年轰动全国的苏超，其实从上周4月11日就正式开赛，但直到一周后，才在社交媒体有了相匹配的热度。 热度的来源，也很苏超，是“项羽”。 4月18日晚上，最近因硬汉形象意外翻红的演员何润东，以一身…</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>特朗普：美军武力拦截并控制一艘伊朗货船</title>
-      <link>https://m.thepaper.cn/detail/33007593</link>
-      <guid>https://m.thepaper.cn/detail/33007593</guid>
-      <description>新华社华盛顿4月19日消息，美东时间19日下午，美国总统特朗普在社交媒体上发文，称美军当天在阿曼湾武力拦截并控制了一艘试图突破美军海上封锁的伊朗货船。 特朗普说，这艘货船名为“TOUSKA”，悬挂伊朗国旗，长近900英尺（274米），重量相当于一艘航空母舰。美军“斯普鲁恩斯”号导弹驱逐舰在阿曼湾拦截这艘货船，要求停船，但货船船员拒绝听从美军指令。美舰“把货…</description>
+      <title>伊朗在霍尔木兹海峡划定新航线，命名为“拉腊克走廊”</title>
+      <link>https://m.thepaper.cn/detail/33008065</link>
+      <guid>https://m.thepaper.cn/detail/33008065</guid>
+      <description>据伊朗伊斯兰共和国广播电视台19日报道，伊朗伊斯兰革命卫队海军已划定一条从霍尔木兹岛以南至拉腊克岛以南水域的新航线。 报道说，该航线被命名为“拉腊克走廊”，未经革命卫队海军许可不得通行。</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>伊朗拟出台霍尔木兹海峡管理法，禁止以色列关联船只通行</title>
-      <link>https://m.thepaper.cn/detail/33007267</link>
-      <guid>https://m.thepaper.cn/detail/33007267</guid>
-      <description>总台记者当地时间4月19日获悉，伊朗议会土木工程委员会主席雷扎伊科奇当天表示，伊朗已制定一部关于霍尔木兹海峡管理的综合性法律，该法律即将最终定稿。 根据该项法律，与以色列政权有关联的货物和船舶的通行将被禁止。交战国未经伊朗最高国家安全委员会许可，也将被禁止通行。此外，凡对伊朗造成损害的国家，在支付赔偿金之前，将被禁止通过霍尔木兹海峡。 根据该方案，各国船只…</description>
+      <title>诗画节气｜谷雨，蚕桑里的暮春长卷</title>
+      <link>https://m.thepaper.cn/detail/32984098</link>
+      <guid>https://m.thepaper.cn/detail/32984098</guid>
+      <description>雨生百谷，春尽夏生，二十四节气里的谷雨，是春天的最后一个节气，也是蚕桑人家最忙碌的时节。从《耕织图》的劝农长卷，到《蚕织图卷》的市井烟火，再到文人笔下的蚕桑小品，记录了古人顺应天时、勤勉劳作的生存智慧。 记得小时候，每到谷雨前后，就会有同学带来巴掌大的报纸纸片，上面缀满黑色的点点，悄悄分给大家，那是尚未孵化的蚕宝宝的卵。同学们小心地藏在铅笔盒里带回家，放在…</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>美发射翻新“新格伦”运载火箭并成功回收一级箭体</title>
-      <link>https://m.thepaper.cn/detail/33007069</link>
-      <guid>https://m.thepaper.cn/detail/33007069</guid>
-      <description>美国蓝色起源公司4月19日发射一枚翻新的“新格伦”重型运载火箭，并成功在海上回收了火箭第一级箭体。 该公司直播画面显示，美国东部时间19日7时25分（北京时间19日19时25分），“新格伦”从佛罗里达州卡纳维拉尔角的太空军基地发射升空。3分钟后，火箭一二级成功分离。升空9分钟后，火箭第一级按计划降落在大西洋的回收船上。 与一级箭体分离后，搭载“蓝鸟”7号卫…</description>
+      <title>小楼一夜听春雨：中国山水画里的谷雨时节</title>
+      <link>https://m.thepaper.cn/detail/33006606</link>
+      <guid>https://m.thepaper.cn/detail/33006606</guid>
+      <description>“小楼一夜听春雨，深巷明朝卖杏花。”宋代诗人陆游写下这两句时，正闲居杭州，等待召见。窗外一夜雨声，他没有写雨有多大，没有写风有多急，只写了一个“听”字，是一种独处时的细密感知。 谷雨，恰恰是一个需要“听”的节气，不似惊蛰般戏剧，也没有清明那般的清朗肃穆。谷雨安静，静到似乎能听见水渗入泥土的声音，茶芽在雾中舒展的声音，农人赤脚踩过田埂时泥巴从趾缝挤出的声音。…</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>伊朗媒体：伊美“二谈”消息不实，谈判前景不明</title>
-      <link>https://m.thepaper.cn/detail/33006844</link>
-      <guid>https://m.thepaper.cn/detail/33006844</guid>
-      <description>新华社德黑兰4月19日消息，据伊朗伊斯兰共和国通讯社19日独家报道，伊朗与美国谈判前景不明，有关在巴基斯坦首都伊斯兰堡举行第二轮伊美谈判的消息不实。这家媒体还在社交媒体发布一句话消息，称伊朗拒绝参加与美国的第二轮谈判。 报道说，美方提出过分要求、不切实际的期望，立场不断变化且自相矛盾，同时继续对伊朗实施被视为违反停火协议的海上封锁、发出威胁性言辞，迄今阻碍…</description>
+      <title>美议员：本届美政府只为富翁和战争服务</title>
+      <link>https://m.thepaper.cn/detail/33006285</link>
+      <guid>https://m.thepaper.cn/detail/33006285</guid>
+      <description>当地时间4月18日，美国民主党籍联邦众议员罗·康纳批评本届美国政府是“为亿万富翁和战争服务”的政府。他指出，白宫至今都拒绝透露对伊朗战争的成本。</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>美国路易斯安那州发生枪击，8名儿童死亡</title>
-      <link>https://m.thepaper.cn/detail/33006716</link>
-      <guid>https://m.thepaper.cn/detail/33006716</guid>
-      <description>新华社纽约4月19日消息，美国路易斯安那州什里夫波特市19日发生一起群体性枪击事件，造成8名儿童死亡，枪手被警方击毙。 什里夫波特警方发言人说，当天早6时左右，市警察局接到“家庭纠纷”报警，警员随即赶到现场，发现10人中弹，其中8名1岁至14岁儿童死亡。犯罪现场涉及两栋房屋和附近街区一栋房屋。 事发后，嫌疑人在案发现场附近劫车逃离。多名警员展开追捕，开枪击…</description>
+      <title>媒体：“伪洋牌”曝光是一记警钟，跨境保健品不能成监管盲区</title>
+      <link>https://m.thepaper.cn/detail/33007948</link>
+      <guid>https://m.thepaper.cn/detail/33007948</guid>
+      <description>最近，多个网购平台上销量第一的叶黄素品牌“澳洲优思益”的伪装被彻底撕掉。经媒体曝光，这个号称原装进口的爆款产品实为“伪洋牌”——所谓墨尔本生产地址是汽车维修站，产品系国内代工。 “澳洲优思益”的运作模式揭示出当下一些“伪洋牌”的典型套路。先虚构海外身份，委托营销公司“洋品牌化”，编造海外研发、认证等虚假背景；再伪造“光环”，购买国际奖项，聘请外籍人员冒充权…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>重访“新闻名篇”｜31年后，人们还记得孔繁森</title>
+      <link>https://m.thepaper.cn/detail/33005899</link>
+      <guid>https://m.thepaper.cn/detail/33005899</guid>
+      <description>1995年4月7日，《人民日报》头版刊发长篇通讯《领导干部的楷模——孔繁森》。从此，孔繁森的事迹传遍大江南北，影响了一代又一代人。31年后，澎湃新闻记者来到孔繁森的家乡山东聊城。我们想知道，他的家人，如今怎样了？他生前牵挂的村庄，变了没有？</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>重访“新闻名篇”｜31年后再访孔繁森家乡：人们还记得他</title>
+      <link>https://m.thepaper.cn/detail/32990866</link>
+      <guid>https://m.thepaper.cn/detail/32990866</guid>
+      <description>【编者按】 共和国新闻史上，有不少新闻名篇曾经震撼人心，今天读来依旧心潮澎湃。 春天，是出发的季节。这个春天，澎湃新闻记者重访“新闻名篇”故事发生地、人物出生地，再现壮阔的历史瞬间，更实地感受今昔沧桑巨变。那是共和国的来时路。 今天回访的是新闻名篇《领导干部的楷模——孔繁森》一文主人公孔繁森的家乡——山东聊城。 设计：王璐瑶 4月10日，山东聊城。 一把二…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>廿四帧光阴里的哲学｜谷雨</title>
+      <link>https://m.thepaper.cn/detail/33005661</link>
+      <guid>https://m.thepaper.cn/detail/33005661</guid>
+      <description>谷雨，雨生百谷，万物在洗礼中抽枝拔节。人生，唯有洗净浮华与杂念，生命的纹理才愈发清晰，在润泽中回归真实，于沉淀里蓄积生长的力量。</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>历史上的今天｜1966年4月20日，红旗渠竣工通水典礼举行</title>
+      <link>https://m.thepaper.cn/detail/32993812</link>
+      <guid>https://m.thepaper.cn/detail/32993812</guid>
+      <description>1966年4月20日，河南林县红旗渠竣工通水典礼举行。半个多世纪以来，红旗渠水滋润着林州人民，而红旗渠精神则成为伟大民族精神的一部分，历久弥新。</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>人民论坛：从问题出发、对结果负责，基层治理要养成“闭环意识”</title>
+      <link>https://m.thepaper.cn/detail/33007920</link>
+      <guid>https://m.thepaper.cn/detail/33007920</guid>
+      <description>老旧小区加装电梯，街头巷尾停车治理，政务服务“只跑一次”……观察近年来许多基层难题的纾解，一个共同的闭环逻辑愈发清晰：发现问题、快速响应、协同处置、反馈评估，环环相扣。这既是增进党群相互信任的基石，也蕴藏着“致广大而尽精微”的治理方法论。 从问题出发，对结果负责，正是“民有所呼、我有所应”的生动注脚。 过去，一些治理痼疾之所以久拖不决，往往源于部门壁垒下的…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>春日上海满城花海：旋转木马浪漫梦幻，云南花摊客流如织</title>
+      <link>https://m.thepaper.cn/detail/33005669</link>
+      <guid>https://m.thepaper.cn/detail/33005669</guid>
+      <description>夜幕降临，灯光亮起，上海新天地太平湖中央的旋转木马缓缓转动，在平静的水面上映出倒影。几乎每一位路过的市民游客都忍不住用镜头记录下了这一场景。“是很梦幻又很浪漫，有人文气息的感觉。”一名游客赏花行至此处时不禁感叹。 新天地太平湖中，旋转木马“马上走花路”如梦似幻。 随着2026上海国际花卉节于4月18日正式启幕，近日在网上火爆出圈的旋转木马“马上走花路”已全…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>人民日报：从“上海定制”看中国“魅力势能”</title>
+      <link>https://m.thepaper.cn/detail/33007921</link>
+      <guid>https://m.thepaper.cn/detail/33007921</guid>
+      <description>持续夯实经济根基、释放制度效能、增进文化共鸣，中国发展的“魅力势能”是共识，更能共赢 一个国际旅游测评网站推出“上海必玩榜”，有着20年历史的南外滩轻纺面料市场，成“榜上新贵”。 这个藏在董家渡弄堂、挂着各色布样、裁缝铺子挨着铺子的“小店集散地”，正被越来越多外国游客“拉”进旅行清单。不少人写下点评，英文、日文、西班牙文等俱有，表达同一个意思：到上海，做一…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>人民日报读者点题·共同关注：超大规模市场优势如何成为发展优势</title>
+      <link>https://m.thepaper.cn/detail/33007918</link>
+      <guid>https://m.thepaper.cn/detail/33007918</guid>
+      <description>经常听到“超大规模市场优势”的说法，该怎么理解？我看到今年一季度，内需对经济增长的贡献率达到84.7%。如何让超大规模市场优势成为我国的发展优势？——人民网网友 网友的提问切中关键，既是对经济热词的追问，更是对未来发展的关切。 提到超大规模市场，离不开对“量”的讨论，其实“体量大”本身就是一种优势。 我国拥有14亿多人口和世界上规模最大的中等收入群体，任何…</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -2931,54 +3147,6 @@
       <link>https://m.thepaper.cn/detail/33006713</link>
       <guid>https://m.thepaper.cn/detail/33006713</guid>
       <description>这是2025年2月19日拍摄的霍尔木兹海峡的资料照片。新华社记者 汪强 摄 新华社北京4月19日报道，美以伊战事对世界经济影响的外溢效应正从资本市场空头与多头的剧烈博弈，蔓延到实实在在的生产生活。从欧洲航空运营商油库告急，到春播季化肥短缺，再到制造业关键原材料供应不足，多重冲击正由近及远、由局部到整体地波及全球经济。 分析人士指出，当前局势给世界经济拧上了…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>3.6万人聚集日本国会周围，强烈抗议高市修宪企图</title>
-      <link>https://m.thepaper.cn/detail/33006696</link>
-      <guid>https://m.thepaper.cn/detail/33006696</guid>
-      <description>日本超3万民众4月19日下午聚集在国会议事堂周围，强烈抗议高市早苗政府的修宪企图，呼吁守护宪法。 据组织方介绍，当天的集会有约3.6万人参加。这是自4月8日以来，日本国会附近再度出现3万人左右大规模的反修宪集会。抗议者们手举写有“反对战争”“不许破坏宪法第九条”“高市下台”等字样的标语，呼吁守护和平宪法。 “这么多人聚集在这里抗议高市政府强推修宪，说明日本…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>从《垂帘听政》到《捕风追影》，梁家辉五封香港金像奖影帝</title>
-      <link>https://m.thepaper.cn/detail/33006669</link>
-      <guid>https://m.thepaper.cn/detail/33006669</guid>
-      <description>4月19日，第44届香港电影金像奖颁奖，梁家辉凭借《捕风追影》收获第五个“最佳男主角”奖，前四次分别是《垂帘听政》《92黑玫瑰对黑玫瑰》《黑社会》和《寒战》。</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>2026香港金像奖：梁家辉五封影帝，舒淇入行30年拿新人奖</title>
-      <link>https://m.thepaper.cn/detail/33006608</link>
-      <guid>https://m.thepaper.cn/detail/33006608</guid>
-      <description>4月19日晚，第44届香港电影金像奖颁奖礼在香港文化中心大剧院落幕。作为香港电影界的年度盛事，现场星光璀璨。《风林火山》今年12项提名领跑，最终几乎拿下所有技术类奖项；当晚的大奖最佳影片由《再见UFO》获得，该片同时获得最佳导演、最佳编剧、最佳女配、最佳电影原创歌剧等奖项，堪称当晚最大赢家。梁家辉凭借《捕风追影》第五次斩获最佳男主角，创下横跨五个十年获奖的…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>一拍虹动、乒出精彩！乒乓球嘉年华虹口区选拔赛启幕</title>
-      <link>https://m.thepaper.cn/detail/33006592</link>
-      <guid>https://m.thepaper.cn/detail/33006592</guid>
-      <description>4月18日，2026上海乒乓球嘉年华虹口区选拔赛在凯德虹口商业中心启幕，赛事以 “一拍虹动、乒出精彩” 为主题，晋级队伍将于五一期间角逐全市总决赛名额。</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>白宫称美国副总统万斯将赴巴基斯坦参加会谈</title>
-      <link>https://m.thepaper.cn/detail/33006604</link>
-      <guid>https://m.thepaper.cn/detail/33006604</guid>
-      <description>当地时间4月19日，美国白宫证实，美副总统万斯将与美总统特使威特科夫以及总统的女婿库什纳一同前往巴基斯坦，出席下一轮关于伊朗问题的会谈。 此前，美国总统特朗普曾否认万斯会出席最新一轮会谈。伊朗方面消息人士则表示，如果美国副总统万斯未出席相关谈判，伊方级别较高的官员，例如伊朗议会议长卡利巴夫，也不会出现在谈判团队中。 据消息人士透露，美特勤局不希望万斯与总统…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>刚办的培训班就宣布退费？国家档案局档案干部教育中心打假</title>
-      <link>https://m.thepaper.cn/detail/33006470</link>
-      <guid>https://m.thepaper.cn/detail/33006470</guid>
-      <description>4月19日，国家档案局档案干部教育中心发布声明称，近期有多名学员向该单位反馈收到诈骗短信，内容为冒用该单位名义在全国12315平台上发布的退费公告，其中含有诱导扫码的内容。 国家档案局档案干部教育中心指出，我单位从未发布任何形式的“退费公告”，亦未授权任何第三方机构或个人以我单位名义开展所谓的退费工作；我单位从未要求学员通过扫码方式办理退费，该公告中使用的…</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -2999,34 +3167,10 @@
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>比赛提前结束，WSBK荷兰站第二轮正赛张雪机车斩获第七名</title>
-      <link>https://m.thepaper.cn/detail/33006076</link>
-      <guid>https://m.thepaper.cn/detail/33006076</guid>
-      <description>北京时间4月19日晚，WSBK（世界超级摩托车锦标赛）荷兰站第二轮正赛上演。 经过激烈比拼，中国摩托车制造商“张雪机车”的车手德比斯收获第七名。 在上轮葡萄牙站的比赛中，德比斯包揽第一轮与第二轮正赛双冠，帮助张雪机车一举打破了欧美制造商长达百年的垄断。 张雪机车由此收获了极高的关注度，并得到了多家企业赞助，随后赛车也换上了新涂装。 来到荷兰站的比赛，张雪机…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>王健林彻底告别万达电影，公司名称变更为“儒意电影娱乐股份有限公司”</title>
-      <link>https://m.thepaper.cn/detail/33005897</link>
-      <guid>https://m.thepaper.cn/detail/33005897</guid>
-      <description>在历经了近两年的资本更迭后，万达电影这家原先由王健林实控的国内院线龙头正式更名易主。 4月19日，万达电影（002739.SZ）公告称，公司已完成工商变更登记手续，并取得换发的《营业执照》。公司名称由“万达电影股份有限公司”变更为“儒意电影娱乐股份有限公司”，证券简称由“万达电影”变更为“儒意电影”，证券代码“002739”保持不变。新证券简称自2026年…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
       <title>我们要不要向AI说谢谢？</title>
       <link>https://m.thepaper.cn/detail/33005512</link>
       <guid>https://m.thepaper.cn/detail/33005512</guid>
       <description>最近一段时间，关于AI失控的新闻时不时冒出来。有人用它写代码，收到的是一句“自己不会吗”。有人生成内容，结果夹带着莫名其妙的冒犯性表达。官方通常解释为“小概率异常”，然后迅速修复。 可另一边，事情又在朝着完全不同的方向发展。近日，OpenAI与麻省理工媒体实验室联合发布的研究显示，随着聊天机器人越来越像人，一部分高频用户已经不再只是把它当工具，而是当作陪伴…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动</title>
-      <link>https://m.thepaper.cn/detail/33005667</link>
-      <guid>https://m.thepaper.cn/detail/33005667</guid>
-      <description>东部战区新闻发言人徐承华陆军大校表示，4月19日，中国人民解放军东部战区组织133号舰艇编队过航横当水道，赴西太平洋海域开展演训活动，检验部队远海作战能力。这是根据年度计划组织的例行性训练，符合相关国际法和国际实践，不针对特定国家和目标。</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -3103,252 +3247,20 @@
       <category>知乎热榜</category>
     </item>
     <item>
+      <title>宇树人形机器人打破人类 1500 米世界纪录，人形机器人疯狂竞速，实际落地价值在哪儿？</title>
+      <link>https://zhihu.com/question/2029148050057077679</link>
+      <guid>https://zhihu.com/question/2029148050057077679</guid>
+      <description>宇树科技官方今日上午发布消息，在4月16日北京人形机器人马拉松排位赛，宇树H1（23年改版）自主跑完1.9公里多弯道赛程，用时4分13秒，打破人类1500米世界纪录（按比例计算）。 4月11日，宇树科技宣布H1机器人刷新人形机器人百米测试奔跑速度的世界纪录。视频显示，H1机器人在此次测试中实测峰值速度达到10米/秒。 今年3月，宇树科技创始人王兴兴在亚布力…</description>
+      <source>知乎热榜</source>
+      <category>知乎热榜</category>
+    </item>
+    <item>
       <title>DeepSeek开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？</title>
       <link>https://zhihu.com/question/2029139595183367444</link>
       <guid>https://zhihu.com/question/2029139595183367444</guid>
       <description>多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek首开外部融资_腾讯新闻</description>
       <source>知乎热榜</source>
       <category>知乎热榜</category>
-    </item>
-    <item>
-      <title>最新民调：超六成美国人反对扩大对伊军事行动</title>
-      <link>https://yicai.com/news/103140399.html</link>
-      <guid>https://yicai.com/news/103140399.html</guid>
-      <description>最新民调：超六成美国人反对扩大对伊军事行动 据央视新闻，当地时间4月19日，最新公布的一项联合民调显示，由于美民众不满特朗普政府的经济表现及其对伊朗问题的处理方式，美国总统特朗普当前的支持率为37%。 该民调于3月30日至4月13日进行，共调查了32433名美国成年人，误差幅度为正负1.8个百分点。结果显示，特朗普在应对通胀和生活成本问题上的支持率为32%…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>内存价格可能还要涨 HBM千亿美元大市场来了</title>
-      <link>https://yicai.com/news/103140396.html</link>
-      <guid>https://yicai.com/news/103140396.html</guid>
-      <description>内存价格可能还要涨 HBM千亿美元大市场来了 据央视财经，长江证券电子行业资深分析师蔡少东表示：“HBM （高带宽内存）这个新的产品在过去三年其实完成了10倍以上的增长，我们可以看到2025年整个市场规模是在350亿美元，预计2027到2028年整个市场应该会突破1000亿美元。”“我们自己的判断是，在二季度合约的价格，有希望环比上涨30%到50%，有一些…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>白宫称美国副总统万斯将赴巴基斯坦参加会谈</title>
-      <link>https://yicai.com/news/103140394.html</link>
-      <guid>https://yicai.com/news/103140394.html</guid>
-      <description>白宫称美国副总统万斯将赴巴基斯坦参加会谈 据央视新闻，当地时间4月19日，美国白宫证实，美副总统万斯将与美总统特使威特科夫以及总统的女婿库什纳一同前往巴基斯坦，出席下一轮关于伊朗问题的会谈。 此前，美国总统特朗普曾否认万斯会出席最新一轮会谈。伊朗方面消息人士则表示，如果美国副总统万斯未出席相关谈判，伊方级别较高的官员，例如伊朗议会议长卡利巴夫，也不会出现在…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>晓数点丨一周个股动向：创业板指周涨超6% 最牛股周涨62%</title>
-      <link>https://yicai.com/news/103140390.html</link>
-      <guid>https://yicai.com/news/103140390.html</guid>
-      <description>多图速览&gt;&gt; 本周（4月13日至4月17日）A股指数均累计上涨，沪指本周累计涨1.64%，深成指涨4.02%，创业板指涨6.65%，科创综指涨5.70%。 ► 牛熊股：7股涨超50%，最牛股周涨62% Wind数据显示，本周（4月13日至4月17日）共有7只个股涨幅超50%，有15只个股涨幅超40%。 品高股份本周涨幅居首，周涨幅达62.01%。圣阳股份、…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>一周主力丨有色金属板块获资金青睐 华工科技遭抛售超53亿</title>
-      <link>https://yicai.com/news/103140389.html</link>
-      <guid>https://yicai.com/news/103140389.html</guid>
-      <description>一周主力丨有色金属板块获资金青睐 华工科技遭抛售超53亿 按申万一级行业来看，本周（4月13日至4月17日）五个交易日内，有色金属、交通运输、房地产、银行、商贸零售等板块获得主力资金青睐。电力设备、电子、通信、机械设备、计算机、医药生物、传媒等板块遭净流出额居前。其中电力设备、电子板块遭抛售均超130亿元。 个股方面，本周C大普微-UW获净流入25.98亿…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>美发射翻新“新格伦”运载火箭并成功回收一级箭体</title>
-      <link>https://yicai.com/news/103140387.html</link>
-      <guid>https://yicai.com/news/103140387.html</guid>
-      <description>美发射翻新“新格伦”运载火箭并成功回收一级箭体 据央视新闻，美国蓝色起源公司19日发射一枚翻新的“新格伦”重型运载火箭，并成功在海上回收了火箭第一级箭体。 该公司直播画面显示，美国东部时间19日7时25分（北京时间19日19时25分），“新格伦”从佛罗里达州卡纳维拉尔角的太空军基地发射升空。3分钟后，火箭一二级成功分离。升空9分钟后，火箭第一级按计划降落在…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>一周牛熊股丨7股涨超50%，最牛股周涨62%</title>
-      <link>https://yicai.com/news/103140385.html</link>
-      <guid>https://yicai.com/news/103140385.html</guid>
-      <description>一周牛熊股丨7股涨超50%，最牛股周涨62% Wind数据显示，本周（4月13日至4月17日）共有7只个股涨幅超50%，有15只个股涨幅超40%。 品高股份本周涨幅居首，周涨幅达62.01%。圣阳股份、博云新材、宝丽迪周涨幅居前，分别为61.12%、61.11%、59.34%。 跌幅榜中，本周30只个股跌幅超20%，棒杰股份周跌33.49%居首，柳化股份、…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>伊朗确认将参加2026年美加墨世界杯</title>
-      <link>https://yicai.com/news/103140381.html</link>
-      <guid>https://yicai.com/news/103140381.html</guid>
-      <description>伊朗确认将参加2026年美加墨世界杯 当地时间19日，伊朗国家足球队媒体部门表示，随着部分联赛赛事安排调整，国家队训练工作将按照教练组技术安排有序推进，以保障球队备战2026年世界杯的整体计划。 该部门表示，伊朗男足将根据既定备战方案开展阶段性集训，并通过系统训练提升球队整体竞争力，为在2026年美加墨世界杯赛场取得良好表现做好准备。 此外，伊朗男足还公布…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>机构本周首次青睐51只个股</title>
-      <link>https://yicai.com/news/103140377.html</link>
-      <guid>https://yicai.com/news/103140377.html</guid>
-      <description>机构本周首次青睐51只个股 Wind数据显示，机构本周首次关注51只个股，其中6股被给予目标价。 -巨人网络获东方证券给予“买入”评级，目标价为36.54元，该股最新收盘价为32.34元； -航发动力获国信证券“优大于市”评级，目标价为55.56至59.28元，最新收盘价为49.77元； -众鑫股份获天风证券给予“买入”评级，目标价为87.00至110.0…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>特朗普：若美伊达成协议 “很可能”前往伊斯兰堡</title>
-      <link>https://yicai.com/news/103140368.html</link>
-      <guid>https://yicai.com/news/103140368.html</guid>
-      <description>特朗普：若美伊达成协议 “很可能”前往伊斯兰堡 据新华社，美国总统特朗普19日在接受美国《纽约邮报》采访时说，如果美国和伊朗能在巴基斯坦首都伊斯兰堡达成协议，他“很可能”会前往伊斯兰堡。当记者问特朗普是否会前往伊斯兰堡时，特朗普先是说：“我想可能会在稍晚一些的时候再说。我们得看看明天的情况如何。”当记者追问时，特朗普称，他不会在谈判取得进展前作决定，但“很…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>机构最新调研路线图出炉 杰瑞股份最受关注</title>
-      <link>https://yicai.com/news/103140359.html</link>
-      <guid>https://yicai.com/news/103140359.html</guid>
-      <description>机构最新调研路线图出炉 杰瑞股份最受关注 Wind数据显示，机构本周（4月13日至4月17日）共调研了363家上市公司，其中杰瑞股份最获关注，参与调研的机构为261家。恒逸石化、润泽科技、晶盛机电分别获192家、186家、179家机构调研。 据统计，潍柴重机获机构调研4次，中国重汽、广发证券、安洁科技等5股获调研3次。 从调研行业来看，机构持续聚焦商品化工…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>国投智能：公司已构建全链条AI安全能力体系</title>
-      <link>https://yicai.com/news/103140343.html</link>
-      <guid>https://yicai.com/news/103140343.html</guid>
-      <description>国投智能：公司已构建全链条AI安全能力体系 国投智能在业绩说明会上表示，端侧AI Agent快速爆发带来系统性安全挑战，是规模化落地的关键瓶颈。公司已构建全链条AI安全能力体系，覆盖检测（美亚“慧眼”鉴真）、防护（“星盾”平台）、取证（OpenClaw专项取证模块）、治理（研究“龙虾证”实现AI行为责任认定）全环节。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>土外长称以色列试图在黎巴嫩制造“既成事实”</title>
-      <link>https://yicai.com/news/103140339.html</link>
-      <guid>https://yicai.com/news/103140339.html</guid>
-      <description>土外长称以色列试图在黎巴嫩制造“既成事实” 据新华社，土耳其外长费丹19日说，以色列试图在美伊谈判背景下在黎巴嫩制造“既成事实”，这是不能被允许的。费丹当天在安塔利亚外交论坛上被记者问及黎巴嫩局势时表示，正当美伊之间的谈判成为焦点时，以色列似乎正试图借此机会在黎巴嫩制造既成事实。这种情况是不能被允许的。费丹18日指责以色列以安全为借口占领更多土地。他说，从…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>特朗普称其女婿及美国总统特使将参与美伊谈判</title>
-      <link>https://yicai.com/news/103140337.html</link>
-      <guid>https://yicai.com/news/103140337.html</guid>
-      <description>特朗普称其女婿及美国总统特使将参与美伊谈判 据新华社，美国《纽约邮报》19日报道，美国总统特朗普当天在接受该报采访时说，美国总统特使威特科夫和他的女婿库什纳将前往巴基斯坦同伊朗谈判。特朗普说，威特科夫将于20日晚抵达巴基斯坦首都伊斯兰堡，库什纳也将参加定于21日举行的美伊谈判。报道称，美国副总统万斯将不参与此次谈判。而上一轮美伊谈判中，美方代表团由万斯率领…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>巴基斯坦外长：持续对话对促进地区和平至关重要</title>
-      <link>https://yicai.com/news/103140334.html</link>
-      <guid>https://yicai.com/news/103140334.html</guid>
-      <description>巴基斯坦外长：持续对话对促进地区和平至关重要 据新华社，巴基斯坦副总理兼外交部长达尔19日表示，持续对话和接触对于尽快解决当前问题，从而促进中东地区乃至更大范围内的和平与稳定至关重要。达尔是在当天同伊朗外长阿拉格齐通电话时作出上述表态。根据巴基斯坦外交部当天发表的声明，双方一致同意保持密切联系，并同意安排伊朗总统与巴基斯坦总理19日晚些时候通电话。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>一季报汇总丨这家公司一季度净利润同比增长240.58%</title>
-      <link>https://yicai.com/news/103140328.html</link>
-      <guid>https://yicai.com/news/103140328.html</guid>
-      <description>一季报汇总丨这家公司一季度净利润同比增长240.58% ►增长 力源信息：一季度净利润1.37亿元 同比增长240.58% 大豪科技：一季度净利润2.38亿元 同比增长41.32% 华测检测：一季度净利润1.78亿元 同比增长30.93% 中荣股份：一季度净利润4274.56万元 同比增长8.61% 益生股份：一季度净利润1.03亿元 同比扭亏为盈 ►下降…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>伊朗媒体说伊朗尚未决定派出谈判代表团</title>
-      <link>https://yicai.com/news/103140325.html</link>
-      <guid>https://yicai.com/news/103140325.html</guid>
-      <description>伊朗媒体说伊朗尚未决定派出谈判代表团 据新华社，伊朗媒体19日报道，伊朗尚未决定派出谈判代表团同美国谈判。只要有海上封锁，就没有谈判。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>霍尔木兹海峡19日无船舶通行记录</title>
-      <link>https://yicai.com/news/103140323.html</link>
-      <guid>https://yicai.com/news/103140323.html</guid>
-      <description>霍尔木兹海峡19日无船舶通行记录 据央视新闻，当地时间19日，总台记者自美国方面获悉，基于船舶追踪数据，截至英国时间的19日下午，霍尔木兹海峡当日未观测到任何船舶通行记录。据悉，18日至少13艘油轮在尝试驶离波斯湾过程中改变航向并掉头返航，放弃继续通过该海峡。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>中际旭创：公司核心原材料供应稳定</title>
-      <link>https://yicai.com/news/103140311.html</link>
-      <guid>https://yicai.com/news/103140311.html</guid>
-      <description>中际旭创：公司核心原材料供应稳定 中际旭创在互动平台表示，公司核心原材料供应稳定。此外，公司一直在合规有序的安排生产，以应对客户需求的快速增长并保障高质交付。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>以军称继续在黎巴嫩南部开展军事行动</title>
-      <link>https://yicai.com/news/103140309.html</link>
-      <guid>https://yicai.com/news/103140309.html</guid>
-      <description>以军称继续在黎巴嫩南部开展军事行动 据央视新闻，当地时间19日，以色列国防军发表声明称，以军目前有五个师正在与以色列海军部队协同，在黎巴嫩南部开展军事行动，旨在摧毁黎巴嫩真主党的军事基础设施，并防范其对以色列北部社区构成直接威胁。声明同时公布了以军在黎南部的行动区域。以色列国防军总参谋长扎米尔当天也表示，以军针对黎巴嫩真主党的军事行动仍在继续。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>以防长：若受威胁将以“全部力量”反击</title>
-      <link>https://yicai.com/news/103140307.html</link>
-      <guid>https://yicai.com/news/103140307.html</guid>
-      <description>以防长：若受威胁将以“全部力量”反击 据央视新闻，当地时间19日，以色列国防部长卡茨表示，尽管以色列与黎巴嫩已达成临时停火，但如以军遭遇任何威胁，将动用“全部力量”予以反击。卡茨称，以色列总理内塔尼亚胡以及他本人已指示以军地面和空中部队，全力保障目前部署在黎巴嫩的以军士兵安全。他还表示，以军将拆除以黎边境附近部分村庄的房屋。他称这些地点被以军视为黎巴嫩真主…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>国家发展改革委下达2026年第二批“两重”建设项目清单</title>
-      <link>https://yicai.com/news/103140295.html</link>
-      <guid>https://yicai.com/news/103140295.html</guid>
-      <description>国家发展改革委下达2026年第二批“两重”建设项目清单 据新华社，记者19日从国家发展改革委获悉，近日，国家发展改革委会同有关部门组织下达2026年第二批“两重”建设项目清单，共安排超长期特别国债资金2168亿元支持336个重大项目。记者了解到，相关项目涉及人工智能、城市地下管网建设改造、长江经济带交通基础设施、高标准农田、高等教育提质升级、“三北”工程等…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>泰国一船只通过霍尔木兹海峡</title>
-      <link>https://yicai.com/news/103140293.html</link>
-      <guid>https://yicai.com/news/103140293.html</guid>
-      <description>泰国一船只通过霍尔木兹海峡 据新华社，泰国外交部19日晚发布通告说，泰国一艘船只已经通过霍尔木兹海峡。通告称，泰国外交部长西哈萨15日至17日访问阿曼。此访旨在促进双边关系，其中包括请阿曼进一步与伊朗协调，为受困于霍尔木兹海峡的泰国船只提供援助。本次通行的船只属于泰国暹罗水泥集团，是此前泰国外交部请求伊朗协助保障安全通行的两艘船只之一。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>周日重大事件汇总</title>
-      <link>https://yicai.com/news/103140291.html</link>
-      <guid>https://yicai.com/news/103140291.html</guid>
-      <description>周日重大事件汇总 【时事新闻】 ①商务部：数码和智能产品成为消费品以旧换新新热点； ②第139届广交会一期境外客商与参展机构、外企大增； ③五一假期售票开始以来，12306已拒绝“抢票软件”出票105.6万张； ④我国摧毁特大假酒网络； ⑤特朗普称美伊20日将在伊斯兰堡举行谈判； ⑥特朗普称美伊仍能达成协议； ⑦伊朗未证实伊美复谈消息； ⑧美伊互指对方违反…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>去年翻倍赚钱的基金，今年怎么样了？</title>
-      <link>https://yicai.com/news/103140286.html</link>
-      <guid>https://yicai.com/news/103140286.html</guid>
-      <description>从2025年业绩翻倍到今年单位净值-17%，偏股产品遭遇赛道押注代价 2025年，A股科技赛道走出了一轮气势如虹的结构性行情。 AI算力、光模块、人形机器人等概念轮番爆发，重仓电子元器件、通信设备与半导体产业链的主动权益基金成为2025年A股市场的最大赢家。 据第一财经基于Wind数据统计，2025年全市场净值增长率超过99%的“翻倍基”共有94只（仅统计…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>外资再喊“东稳西荡”，中国资产成全球配置核心选项</title>
-      <link>https://yicai.com/news/103140285.html</link>
-      <guid>https://yicai.com/news/103140285.html</guid>
-      <description>2026年初以来，外资机构调研A股上市公司超过400家，调研总次数达到上千次。 在全球地缘政治波动的背景下，日前发布的中国经济一季报表现优于预期，进一步增强了全球资本增配中国资产的动力。 摩根士丹利中国首席经济学家邢自强将这一趋势概括为“全球多元化配置的必然结果”。他在近日举行的“全球金融机构走进中国金融市场”银行间市场专场活动上表示，在“东稳西荡”的宏观…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>百亚股份：海外市场目前仍处于探索培育期 短期对整体业绩无重大影响</title>
-      <link>https://yicai.com/news/103140284.html</link>
-      <guid>https://yicai.com/news/103140284.html</guid>
-      <description>百亚股份：海外市场目前仍处于探索培育期 短期对整体业绩无重大影响 百亚股份近日在电话会议中表示，即时零售是公司重点布局的新兴渠道之一。公司将即时零售设为独立的一级销售部门，并完成了大多数的闪电仓布局，也与美团、淘宝闪购、京东到家等平台开展合作，通过线上线下融合，为消费者提供更便捷的购买体验。公司将持续加大即时零售渠道投入，优化产品组合和配送效率，提升用户消…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>特朗普称万斯不参加美伊复谈</title>
-      <link>https://yicai.com/news/103140282.html</link>
-      <guid>https://yicai.com/news/103140282.html</guid>
-      <description>特朗普称万斯不参加美伊复谈 据CCTV国际时讯，美国媒体报道，美国总统特朗普今天（4月19日）在接受采访时说，“由于安全原因，美国副总统万斯将不参加美伊再次谈判”。按特朗普的说法，美总统特使威特科夫和库什纳将于美东时间4月20日晚抵达巴基斯坦首都伊斯兰堡，参与定于4月21日举行的美伊谈判。对于特朗普说的美伊即将复谈，目前伊朗方面尚未证实。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>百亚股份：全年电商销售增速预计将超过行业平均水平</title>
-      <link>https://yicai.com/news/103140280.html</link>
-      <guid>https://yicai.com/news/103140280.html</guid>
-      <description>百亚股份：全年电商销售增速预计将超过行业平均水平 百亚股份近日在电话会议中表示，公司电商业务全年策略是实现有质量可持续发展，一季度的业绩表现体现了这一策略的有效性。全年电商销售增速预计将超过行业平均水平，基于公司对费用和投放效率的不断优化，其盈利能力有可持续性。</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
-    </item>
-    <item>
-      <title>年报汇总丨这家公司2025年净利润同比增长269.29%</title>
-      <link>https://yicai.com/news/103140278.html</link>
-      <guid>https://yicai.com/news/103140278.html</guid>
-      <description>年报汇总丨这家公司2025年净利润同比增长269.29% ►增长 甘化科工：2025年净利润7575.79万元 同比增长269.29% 森特股份：2025年净利润同比增长40.14% 拟10派1元 弘景光电：2025年净利润同比增长16.69% 拟10转4派5元 顺控发展：2025年净利润同比增长13.4% 拟10派2.31元 东方环宇：2025年净利润同…</description>
-      <source>第一财经最新</source>
-      <category>第一财经最新</category>
     </item>
   </channel>
 </rss>
