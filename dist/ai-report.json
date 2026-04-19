@@ -1,5 +1,133 @@
 {
-  "global_brief": "当前无 AI 相关新闻输入。",
-  "highlight_facts": [],
-  "highlight_opinions": []
+  "global_brief": "Anthropic公开了Claude系统提示词的历史版本，成为唯一公布此信息的主要AI实验室。社区对本地LLM的使用、AI代理的基准测试和工具化部署展现出浓厚兴趣。同时，中国多所高校正在组建人工智能学院，以响应国家战略。",
+  "highlight_facts": [
+    {
+      "title": "Anthropic公开Claude系统提示词历史版本",
+      "summary": "Anthropic发布了Claude Opus 4.6与4.7版本之间的系统提示词变更，使其成为唯一公布其用户端聊天系统提示词的主要AI实验室 。",
+      "references": [
+        {
+          "source_name": "Simon Willison's Blog",
+          "link": "https://simonwillison.net/2026/Apr/18/extract-system-prompts"
+        },
+        {
+          "source_name": "Simon Willison's Blog",
+          "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt"
+        }
+      ]
+    },
+    {
+      "title": "多所中国高校组建人工智能学院",
+      "summary": "近期，包括郑州师范学院在内的多所中国高校完成了人工智能产业学院的组建，以响应国家人工智能发展战略并深化产教融合 。",
+      "references": [
+        {
+          "source_name": "澎湃新闻头条",
+          "link": "https://m.thepaper.cn/detail/33004495"
+        }
+      ]
+    },
+    {
+      "title": "开源工具BenchJack用于扫描AI代理基准测试漏洞",
+      "summary": "一个名为BenchJack的开源项目发布，旨在扫描AI代理基准测试中的可攻击性漏洞 。",
+      "references": [
+        {
+          "source_name": "Hacker News AI",
+          "link": "https://github.com/benchjack/benchjack"
+        }
+      ]
+    },
+    {
+      "title": "教程发布：在CUDA上运行PrismML Bonsai 1位LLM",
+      "summary": "MarkTechPost发布了一篇编码教程，详细介绍了如何在CUDA上使用GGUF格式运行PrismML Bonsai 1位大语言模型，并涵盖基准测试、聊天、JSON和RAG功能 。",
+      "references": [
+        {
+          "source_name": "MarkTechPost",
+          "link": "https://marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag"
+        }
+      ]
+    },
+    {
+      "title": "技术文章探讨LLM的高斯分布权重",
+      "summary": "一篇技术文章探讨了用于大语言模型的高斯分布权重，作为对4位浮点格式FP4的补充研究 。",
+      "references": [
+        {
+          "source_name": "johndcook.com",
+          "link": "https://johndcook.com/blog/2026/04/18/qlora"
+        }
+      ]
+    },
+    {
+      "title": "AI代理致电爱尔兰所有酒吧统计健力士啤酒价格",
+      "summary": "一个AI代理通过电话联系了爱尔兰的所有酒吧，以建立健力士啤酒的价格索引 。",
+      "references": [
+        {
+          "source_name": "Hacker News AI",
+          "link": "https://guinndex.ai/"
+        }
+      ]
+    }
+  ],
+  "highlight_opinions": [
+    {
+      "title": "社区对本地LLM的实际应用场景存在广泛探索",
+      "summary": "技术社区正在积极讨论本地LLM（如Gemma 4, Qwen 3.6）的具体用例，反映出从模型发布到实际落地应用的关注点转移 。",
+      "references": [
+        {
+          "source_name": "Hacker News Ask",
+          "link": "https://news.ycombinator.com/item?id=47816187"
+        }
+      ]
+    },
+    {
+      "title": "AI代理工具与平台正朝多任务协作与安全管理方向发展",
+      "summary": "开发者社区展示了多个面向Claude、Gemini等模型的多智能体任务管理平台 ，并分享注重安全的沙盒化AI代理设置方案 ，表明代理工具生态趋于成熟和实用化。",
+      "references": [
+        {
+          "source_name": "Hacker News Show",
+          "link": "https://agentrq.com/"
+        },
+        {
+          "source_name": "Hacker News AI",
+          "link": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026"
+        }
+      ]
+    },
+    {
+      "title": "主流闭源LLM订阅服务的比较成为社区热议话题",
+      "summary": "关于ChatGPT、Gemini和Claude哪家订阅服务更优的讨论在社区中热度很高，显示出用户对商用AI服务性价比和能力的持续关注 。",
+      "references": [
+        {
+          "source_name": "Hacker News LLM",
+          "link": "https://artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best"
+        }
+      ]
+    },
+    {
+      "title": "针对LLM的专业化与垂直领域优化成为开源社区新趋势",
+      "summary": "社区出现了多个针对特定领域（如宗教文本、圣经考据）进行优化的开源LLM项目 ，以及专注于解决LLM在特定方面（如可靠性可视化）问题的工具，表明开源生态正向深度专业化发展。",
+      "references": [
+        {
+          "source_name": "Hacker News LLM",
+          "link": "https://github.com/salaamalykum/quran-semantic-search"
+        },
+        {
+          "source_name": "Hacker News LLM",
+          "link": "https://github.com/Jossifresben/BibCrit"
+        },
+        {
+          "source_name": "Hacker News LLM",
+          "link": "https://adamsohn.com/reliably-incorrect"
+        }
+      ]
+    },
+    {
+      "title": "代码生成AI的生产力提升与实际开发效率之间存在认知差距",
+      "summary": "尽管有观点认为AI写代码速度提升百倍，但社区同时也在质疑为何整体软件开发生产率未见同等幅度增长，引发对工具集成度、工作流和人类角色转变的思考 。",
+      "references": [
+        {
+          "source_name": "Hacker News AI",
+          "link": "https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt"
+        }
+      ]
+    }
+  ]
 }

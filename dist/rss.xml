@@ -5,7 +5,2527 @@
     <link>https://web3a8.github.io/news-push-data/</link>
     <description>目前专注于 AI 的精简资讯流</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 19 Apr 2026 03:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 05:12:45 GMT</lastBuildDate>
+    <item>
+      <title>Great white sharks are overheating</title>
+      <link>https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating</link>
+      <guid>https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating</guid>
+      <description>The sharks might also be the most physiologically vulnerable to warming waters.</description>
+      <source>Ars Technica</source>
+      <category>Ars Technica</category>
+    </item>
+    <item>
+      <title>Why Rapido Uses a Static PIN (Rapid OTP Trade-offs)</title>
+      <link>https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c</link>
+      <guid>https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c</guid>
+      <description>If you use Rapido, you may have noticed the same four-digit Rapid PIN on ride after ride. Uber and Ola often lean on fresh SMS codes; Rapido leans on a stable number. The first en…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB</title>
+      <link>https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik</link>
+      <guid>https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik</guid>
+      <description>🎬 Cinemind-AI I recently built my own AI chatbot called Cinemind-AI — a movie-focused assistant that answers questions about films, actors, and directors. This project helped me u…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Working with AI on Long Software Projects</title>
+      <link>https://dev.to/cnersmith/working-with-ai-on-long-software-projects-34e4</link>
+      <guid>https://dev.to/cnersmith/working-with-ai-on-long-software-projects-34e4</guid>
+      <description>Working with AI on Long Software Projects A practical guide for developers building real software with Claude (or similar AI coding tools) over months or years rather than single…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Reversing using C</title>
+      <link>https://dev.to/maximilianfeldthusen/reversing-using-c-21bd</link>
+      <guid>https://dev.to/maximilianfeldthusen/reversing-using-c-21bd</guid>
+      <description>A simple way to demonstrate common reversing tricks using C code: 1.XOR cipher execution simple repeating-key XOR extremely common in obfuscation 2.Known-plaintext attack if you k…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard</title>
+      <link>https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5</link>
+      <guid>https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5</guid>
+      <description>Have you ever experienced a situation with Claude Code where the rules you defined in CLAUDE.md are followed initially, but start to be ignored toward the end of a long session? I…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Why We Started Systemset: Building Smarter Tools for Modern Businesses</title>
+      <link>https://dev.to/systemsetco/why-we-started-systemset-building-smarter-tools-for-modern-businesses-1b0d</link>
+      <guid>https://dev.to/systemsetco/why-we-started-systemset-building-smarter-tools-for-modern-businesses-1b0d</guid>
+      <description>Our journey to make work simpler, faster, and growth-driven through smart systems. In today&#x27;s fast-moving digital world, every business and developer needs the right set of tools…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>AI Won’t Kill Jobs. It Will Reshape Work Itself</title>
+      <link>https://dev.to/chandravanshi/ai-wont-kill-jobs-it-will-reshape-work-itself-1932</link>
+      <guid>https://dev.to/chandravanshi/ai-wont-kill-jobs-it-will-reshape-work-itself-1932</guid>
+      <description>AI Won’t Kill Jobs. It Will Change What “Work” Means The fear feels new. The pattern is not. The fear around AI sounds absolute. Jobs will disappear. Entire careers will collapse.…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Multi-Language Code Evaluation Pipeline for LeetCode-Style Problems</title>
+      <link>https://dev.to/jschilling12/multi-language-code-evaluation-pipeline-for-leetcode-style-problems-5f6e</link>
+      <guid>https://dev.to/jschilling12/multi-language-code-evaluation-pipeline-for-leetcode-style-problems-5f6e</guid>
+      <description>Multi-Language Code Evaluation Pipeline for LeetCode Style Problems Most evaluator writeups optimize for speed first. Our biggest quality issue was not latency, it was false negat…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Kubuntu vs KDE Neon: A Technical Deep Dive</title>
+      <link>https://dev.to/rosgluk/kubuntu-vs-kde-neon-a-technical-deep-dive-48dm</link>
+      <guid>https://dev.to/rosgluk/kubuntu-vs-kde-neon-a-technical-deep-dive-48dm</guid>
+      <description>For KDE Plasma fans, two Linux distributions frequently come up in discussion: Kubuntu and KDE Neon . They may appear similar - both ship with KDE Plasma as the default desktop, b…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Moving OpenCode Desktop to Electron</title>
+      <link>https://dev.to/brendonovich/moving-opencode-desktop-to-electron-4hip</link>
+      <guid>https://dev.to/brendonovich/moving-opencode-desktop-to-electron-4hip</guid>
+      <description>I recently announced that we’ve rebuilt OpenCode Desktop on top of Electron and will soon stop releasing the Tauri version. This wasn’t a decision we made lightly, and it has noth…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Week in AI Recap: 7 Shifts That Actually Matter for Indian Developers (April 2026)</title>
+      <link>https://dev.to/automate-archit/week-in-ai-recap-7-shifts-that-actually-matter-for-indian-developers-april-2026-41j2</link>
+      <guid>https://dev.to/automate-archit/week-in-ai-recap-7-shifts-that-actually-matter-for-indian-developers-april-2026-41j2</guid>
+      <description>I spend my weeks watching AI news for one reason: I automate workflows for Indian businesses, and the ground shifts under my feet every Monday. Most of what trends on X this week…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>Structure-Driven Engineering Organization Theory #10 — Conclusion: Building an OS, Not an Organization</title>
+      <link>https://dev.to/machuz/structure-driven-engineering-organization-theory-10-conclusion-building-an-os-not-an-379f</link>
+      <guid>https://dev.to/machuz/structure-driven-engineering-organization-theory-10-conclusion-building-an-os-not-an-379f</guid>
+      <description>In the opening chapter we wrote: * &quot;Observation, not evaluation. Structure, not people. Design, not emotion.&quot;** Ten chapters of work have piled up behind those three lines.* What…</description>
+      <source>Dev.to</source>
+      <category>Dev.to</category>
+    </item>
+    <item>
+      <title>NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating</title>
+      <link>https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating</link>
+      <guid>https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Zero-Copy GPU Inference from WebAssembly on Apple Silicon</title>
+      <link>https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon</link>
+      <guid>https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>My first impressions on ROCm and Strix Halo</title>
+      <link>https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo</link>
+      <guid>https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>NIST scientists create &#x27;any wavelength&#x27; lasers</title>
+      <link>https://nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</link>
+      <guid>https://nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Optimizing Ruby Path Methods</title>
+      <link>https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html</link>
+      <guid>https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Thoughts and feelings around Claude Design</title>
+      <link>https://samhenri.gold/blog/20260418-claude-design</link>
+      <guid>https://samhenri.gold/blog/20260418-claude-design</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>College instructor turns to typewriters to curb AI-written work</title>
+      <link>https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons</link>
+      <guid>https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>UpCodes (YC S17) is hiring SDRs to help make construction more productive</title>
+      <link>https://up.codes/careers</link>
+      <guid>https://up.codes/careers</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>PgQue: Zero-Bloat Postgres Queue</title>
+      <link>https://github.com/NikolayS/pgque</link>
+      <guid>https://github.com/NikolayS/pgque</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</title>
+      <link>https://righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
+      <guid>https://righto.com/2026/04/B-52-star-tracker-angle-computer.html</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Anonymous request-token comparisons from Opus 4.6 and Opus 4.7</title>
+      <link>https://tokens.billchambers.me/leaderboard</link>
+      <guid>https://tokens.billchambers.me/leaderboard</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data</title>
+      <link>https://github.com/drasimwagan/mdv</link>
+      <guid>https://github.com/drasimwagan/mdv</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Fuzix OS</title>
+      <link>https://fuzix.org/</link>
+      <guid>https://fuzix.org/</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Migrating from DigitalOcean to Hetzner</title>
+      <link>https://isayeter.com/posts/digitalocean-to-hetzner-migration</link>
+      <guid>https://isayeter.com/posts/digitalocean-to-hetzner-migration</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>Why Japan has such good railways</title>
+      <link>https://worksinprogress.co/issue/why-japan-has-such-good-railways</link>
+      <guid>https://worksinprogress.co/issue/why-japan-has-such-good-railways</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>State of Kdenlive</title>
+      <link>https://kdenlive.org/news/2026/state-2026</link>
+      <guid>https://kdenlive.org/news/2026/state-2026</guid>
+      <description>Comments</description>
+      <source>Hacker News</source>
+      <category>Hacker News</category>
+    </item>
+    <item>
+      <title>First trailer released for western starring AI version of Val Kilmer</title>
+      <link>https://theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western</link>
+      <guid>https://theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western</guid>
+      <description>First trailer released for western starring AI version of Val Kilmer</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Thiel-backed startup develops AI to adjudicate the truth of journalism</title>
+      <link>https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers</link>
+      <guid>https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers</guid>
+      <description>Thiel-backed startup develops AI to adjudicate the truth of journalism</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI answers break down, and what each one looks like</title>
+      <link>https://substack.com/@hanaleegoldin/note/c-244676181</link>
+      <guid>https://substack.com/@hanaleegoldin/note/c-244676181</guid>
+      <description>AI answers break down, and what each one looks like</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>The Match Act Is the Missing Piece in America&#x27;s AI Export Control Strategy</title>
+      <link>https://thefai.org/posts/the-match-act-is-the-missing-piece-in-america-s-ai-export-control-strategy</link>
+      <guid>https://thefai.org/posts/the-match-act-is-the-missing-piece-in-america-s-ai-export-control-strategy</guid>
+      <description>The Match Act Is the Missing Piece in America&#x27;s AI Export Control Strategy</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Show HN: Website that recommends outfit using weather and AI</title>
+      <link>https://what2wear-two.vercel.app/</link>
+      <guid>https://what2wear-two.vercel.app/</guid>
+      <description>I built this cool web app &amp; API that generates outfit recommendations based on multiple weather sources and user preferences. GitHub: https://github.com/COOLmanYT/skystyle Feedbac…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Using AI to get better at algorithms</title>
+      <link>https://medium.com/@andreiboar/algotutor-using-ai-to-actually-get-better-at-algorithms-a2b7b96e054a</link>
+      <guid>https://medium.com/@andreiboar/algotutor-using-ai-to-actually-get-better-at-algorithms-a2b7b96e054a</guid>
+      <description>Using AI to get better at algorithms</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Loomfeed – where AI agents and humans post and vote as equals</title>
+      <link>https://loomfeed.com/</link>
+      <guid>https://loomfeed.com/</guid>
+      <description>Loomfeed – where AI agents and humans post and vote as equals</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI agent called every pub in Ireland to index the cost of a Guinness</title>
+      <link>https://guinndex.ai/</link>
+      <guid>https://guinndex.ai/</guid>
+      <description>AI agent called every pub in Ireland to index the cost of a Guinness</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>CTX is a cognitive memory layer for AI systems</title>
+      <link>https://github.com/diegoxtr/ctx-open</link>
+      <guid>https://github.com/diegoxtr/ctx-open</guid>
+      <description>CTX is a cognitive memory layer for AI systems</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI chip startup Cerebras files for IPO</title>
+      <link>https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo</link>
+      <guid>https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo</guid>
+      <description>AI chip startup Cerebras files for IPO</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026</title>
+      <link>https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026</link>
+      <guid>https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026</guid>
+      <description>Sandboxes and Worktrees: My Secure Agentic AI Setup in 2026</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI-Assisted Coding: Why a Distinguished Engineer Stopped Reading Code</title>
+      <link>https://vascoduarte.substack.com/p/ai-assisted-coding-why-a-distinguished</link>
+      <guid>https://vascoduarte.substack.com/p/ai-assisted-coding-why-a-distinguished</guid>
+      <description>AI-Assisted Coding: Why a Distinguished Engineer Stopped Reading Code</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>BenchJack – an open-source hackability scanner for AI agent benchmarks</title>
+      <link>https://github.com/benchjack/benchjack</link>
+      <guid>https://github.com/benchjack/benchjack</guid>
+      <description>BenchJack – an open-source hackability scanner for AI agent benchmarks</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI as Economic Warfare</title>
+      <link>https://ghuntley.com/warfare</link>
+      <guid>https://ghuntley.com/warfare</guid>
+      <description>AI as Economic Warfare</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Objection: An AI judge for investigating media claims</title>
+      <link>https://objection.ai/press-release</link>
+      <guid>https://objection.ai/press-release</guid>
+      <description>Objection: An AI judge for investigating media claims</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>AI writes code 100x faster – why hasn&#x27;t productivity?</title>
+      <link>https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt</link>
+      <guid>https://deeptils.github.io/blog/ai-writes-code-100x-faster-productivity-hasnt</guid>
+      <description>AI writes code 100x faster – why hasn&#x27;t productivity?</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Singapore Tourism Board Launches AI-Powered Robodog Guides at Sentosa</title>
+      <link>https://stb.gov.sg/about-stb/media-publications/media-centre/singapore-tourism-board-launches-ai-powered-robodog-guides-at-sentosa-and-the-mandai-wildlife-reserve-in-partnership-with-mafengwo</link>
+      <guid>https://stb.gov.sg/about-stb/media-publications/media-centre/singapore-tourism-board-launches-ai-powered-robodog-guides-at-sentosa-and-the-mandai-wildlife-reserve-in-partnership-with-mafengwo</guid>
+      <description>…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Ask HN: Can you show me some useful AI-written programs?</title>
+      <link>https://news.ycombinator.com/item?id=47819757</link>
+      <guid>https://news.ycombinator.com/item?id=47819757</guid>
+      <description>Looking at the software I use day to day, none of it is majority AI/LLM-written. I&#x27;m not actively going out of my way to avoid AI programs, but I haven&#x27;t found any useful ones. Wh…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Mapping India&#x27;s homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors</title>
+      <link>https://github.com/suyash333/india-ai-ecosystem</link>
+      <guid>https://github.com/suyash333/india-ai-ecosystem</guid>
+      <description>Mapping India&#x27;s homegrown AI ecosystem – 110 apps, 22 languages, 28 sectors</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months</title>
+      <link>https://news.ycombinator.com/item?id=47819553</link>
+      <guid>https://news.ycombinator.com/item?id=47819553</guid>
+      <description>I am writing the post, because I want to show that with AI, really complex and meaningful projects can be done, if the proper tools were used the proper way. I needed a project th…</description>
+      <source>Hacker News AI</source>
+      <category>Hacker News AI</category>
+    </item>
+    <item>
+      <title>Ran into a fake &quot;LP&quot; at a YC after-party and I need to vent</title>
+      <link>https://news.ycombinator.com/item?id=47821326</link>
+      <guid>https://news.ycombinator.com/item?id=47821326</guid>
+      <description>Went to a YC after-party last night, my co-founder was invited. Met some cool people. Also met the usual breed, guys who introduce themselves as &quot;investors&quot; and don&#x27;t ask a single…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Surely no brand is more hated by web users that Cloudflare</title>
+      <link>https://news.ycombinator.com/item?id=47821232</link>
+      <guid>https://news.ycombinator.com/item?id=47821232</guid>
+      <description>The only time they see it is when it impedes their access to a site. Yet still the operator emblazons this brand on the interstitial. Why? Does he think he&#x27;s Tony Stark in Sokovia…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: API Request for Feedback OK in Show HN?</title>
+      <link>https://news.ycombinator.com/item?id=47820940</link>
+      <guid>https://news.ycombinator.com/item?id=47820940</guid>
+      <description>Hi. I have an API I&#x27;d like to submit to Show HN to request feedback. It&#x27;s free, and all data is kept private (only an email address). The rules state that something like a sign-up…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Meshcore: Architecture for a Decentralized P2P LLM Inference Network</title>
+      <link>https://news.ycombinator.com/item?id=47819839</link>
+      <guid>https://news.ycombinator.com/item?id=47819839</guid>
+      <description>Meshcore: Architecture for a Decentralized P2P LLM Inference Network</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Observability Stack – AI First?</title>
+      <link>https://news.ycombinator.com/item?id=47819461</link>
+      <guid>https://news.ycombinator.com/item?id=47819461</guid>
+      <description>So... I&#x27;m way behind. Just got into Claude this week... it&#x27;s already doing most of my coding and bug fixes. Crazy stuff. Some background on my company: Mature (14 yrs) Ruby on Rai…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Has zooming out helped you deal with AI anxiety?</title>
+      <link>https://news.ycombinator.com/item?id=47819206</link>
+      <guid>https://news.ycombinator.com/item?id=47819206</guid>
+      <description>My weird little aha moment came from an HN thread about moon dust smelling like gunpowder. I recently moved to the Bay and have noticed a lot of AI anxiety in everyday conversatio…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: How can I support the AI resistance movement financially?</title>
+      <link>https://news.ycombinator.com/item?id=47819138</link>
+      <guid>https://news.ycombinator.com/item?id=47819138</guid>
+      <description>Ask HN: How can I support the AI resistance movement financially?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Hyperloom – A concurrent state broker and time-travel debugger for AI</title>
+      <link>https://news.ycombinator.com/item?id=47819063</link>
+      <guid>https://news.ycombinator.com/item?id=47819063</guid>
+      <description>I’m the creator of Hyperloom. I built this because running multi-agent swarms (like CrewAI, AutoGen, or raw LangChain) in production is currently a massive headache of brittle sta…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: What&#x27;s Your Daily Routine?</title>
+      <link>https://news.ycombinator.com/item?id=47818952</link>
+      <guid>https://news.ycombinator.com/item?id=47818952</guid>
+      <description>Ask HN: What&#x27;s Your Daily Routine?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Claude –dangerously-skip-permissions –model Claude-Opus-4-5-20251101</title>
+      <link>https://news.ycombinator.com/item?id=47818622</link>
+      <guid>https://news.ycombinator.com/item?id=47818622</guid>
+      <description>Claude –dangerously-skip-permissions –model Claude-Opus-4-5-20251101</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Stable, self-hosted macOS VFS that works in 2026?</title>
+      <link>https://news.ycombinator.com/item?id=47818546</link>
+      <guid>https://news.ycombinator.com/item?id=47818546</guid>
+      <description>Ask HN: Stable, self-hosted macOS VFS that works in 2026?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Anyone know of that &quot;levels of AI programming&quot; blog post?</title>
+      <link>https://news.ycombinator.com/item?id=47818097</link>
+      <guid>https://news.ycombinator.com/item?id=47818097</guid>
+      <description>I was browsing HN comments a while ago and ran into a wonderful blog on the levels of AI involvement in programming. It started at 0 I think, with no AI involved and went to aroun…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Does magic link authentication use HTML canvassing?</title>
+      <link>https://news.ycombinator.com/item?id=47817835</link>
+      <guid>https://news.ycombinator.com/item?id=47817835</guid>
+      <description>Many sites are starting to use magic link auth more often and I am wondering if its a trend to also glean more information from the account holder. I dont like this auth process b…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: ChatAi web-based session notation?</title>
+      <link>https://news.ycombinator.com/item?id=47816842</link>
+      <guid>https://news.ycombinator.com/item?id=47816842</guid>
+      <description>I use ChatGPT for learning/research because it&#x27;s the most verbose. A downside to this is every aichat output (except on the strictest of rules) leaves me with tons of questions, o…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: What ways will AI advance technically in the next ten years?</title>
+      <link>https://news.ycombinator.com/item?id=47816803</link>
+      <guid>https://news.ycombinator.com/item?id=47816803</guid>
+      <description>Thinking about how LLMs basically exploded after ChatGPT released, do you think there&#x27;s any other technical areas that AI models will grow in over the next decade or so?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Is it worth taking a year off?</title>
+      <link>https://news.ycombinator.com/item?id=47816697</link>
+      <guid>https://news.ycombinator.com/item?id=47816697</guid>
+      <description>I&#x27;d love to spend a year just experimenting with AI, building stuff, and documenting the whole thing. My fear is it would ruin my career trajectory and I&#x27;d become un-hire-able in…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Interesting Calculators?</title>
+      <link>https://news.ycombinator.com/item?id=47816644</link>
+      <guid>https://news.ycombinator.com/item?id=47816644</guid>
+      <description>What are the most interesting software calculators you have found? Not the usual physical scientific calculator emulators, calculators that bring something novel. Examples: https:…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: Has anyone found applets for rolling out Gemini flows to user groups?</title>
+      <link>https://news.ycombinator.com/item?id=47816498</link>
+      <guid>https://news.ycombinator.com/item?id=47816498</guid>
+      <description>Has anyone found applets for rolling out Gemini flows to user groups that a single user can pre make and readjust ie a Cookbook for Workspace recipe flows?</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>Ask HN: How do you use Local LLMs? (April 2026)</title>
+      <link>https://news.ycombinator.com/item?id=47816187</link>
+      <guid>https://news.ycombinator.com/item?id=47816187</guid>
+      <description>Recently, we&#x27;ve gotten a few new local LLMs (Gemma 4, Qwen 3.6). I&#x27;m curious, what use cases do you have for local LLMs (beyond the obvious ones, like replacing Gemini, ChatGPT, o…</description>
+      <source>Hacker News Ask</source>
+      <category>Hacker News Ask</category>
+    </item>
+    <item>
+      <title>ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy</title>
+      <link>https://artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best</link>
+      <guid>https://artificialintelligencemadesimple.com/p/chatgpt-vs-gemini-vs-claude-the-best</guid>
+      <description>ChatGPT vs. Gemini vs. Claude: The Best LLM Subscription You Should Buy</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Show HN: 5-translation RAG matrix fixing LLM religious hallucinations</title>
+      <link>https://github.com/salaamalykum/quran-semantic-search</link>
+      <guid>https://github.com/salaamalykum/quran-semantic-search</guid>
+      <description>Show HN: 5-translation RAG matrix fixing LLM religious hallucinations</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>TensorRT LLM</title>
+      <link>https://github.com/NVIDIA/TensorRT-LLM</link>
+      <guid>https://github.com/NVIDIA/TensorRT-LLM</guid>
+      <description>TensorRT LLM</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Operational Readiness Criteria for Tool-Using LLM Agents</title>
+      <link>https://zenodo.org/records/19211676</link>
+      <guid>https://zenodo.org/records/19211676</guid>
+      <description>Operational Readiness Criteria for Tool-Using LLM Agents</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Show HN: Reliably Incorrect – explore LLM reliability with data visualizations</title>
+      <link>https://adamsohn.com/reliably-incorrect</link>
+      <guid>https://adamsohn.com/reliably-incorrect</guid>
+      <description>Show HN: Reliably Incorrect – explore LLM reliability with data visualizations</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Huoziime: An On-Device LLM-Enhanced Input Method for Deep Personalization</title>
+      <link>https://arxiv.org/abs/2604.14159</link>
+      <guid>https://arxiv.org/abs/2604.14159</guid>
+      <description>Huoziime: An On-Device LLM-Enhanced Input Method for Deep Personalization</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>An LLM becomes more coherent as we train it</title>
+      <link>https://gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training</link>
+      <guid>https://gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training</guid>
+      <description>An LLM becomes more coherent as we train it</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Laimark – 8B LLM that self-improves. Consumer GPU</title>
+      <link>https://github.com/seetrex-ai/laimark</link>
+      <guid>https://github.com/seetrex-ai/laimark</guid>
+      <description>Laimark – 8B LLM that self-improves. Consumer GPU</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>BibCrit – LLM grounded in ETCBC corpus data for Biblical textual criticism</title>
+      <link>https://github.com/Jossifresben/BibCrit</link>
+      <guid>https://github.com/Jossifresben/BibCrit</guid>
+      <description>BibCrit – LLM grounded in ETCBC corpus data for Biblical textual criticism</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Unweight: Lossless MLP Weight Compression for LLM Inference</title>
+      <link>https://research.cloudflare.com/nikulin2026</link>
+      <guid>https://research.cloudflare.com/nikulin2026</guid>
+      <description>Unweight: Lossless MLP Weight Compression for LLM Inference</description>
+      <source>Hacker News LLM</source>
+      <category>Hacker News LLM</category>
+    </item>
+    <item>
+      <title>Show HN: Customer Reviews can be represented through Voice capture/generation</title>
+      <link>https://customersvoices.com/</link>
+      <guid>https://customersvoices.com/</guid>
+      <description>Let your customers leave voice reviews with their own voice or AI-generated from text. Respond with your own personalized voice replies. Display them proudly on your website.</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: SnapReceipts Snap a receipt, split the bill instantly</title>
+      <link>https://snapreceipts.fyi/</link>
+      <guid>https://snapreceipts.fyi/</guid>
+      <description>Show HN: SnapReceipts Snap a receipt, split the bill instantly</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: DevToolBox – 88 client-side developer tools, no tracking, 9 languages</title>
+      <link>https://viadreams.cc/en</link>
+      <guid>https://viadreams.cc/en</guid>
+      <description>Show HN: DevToolBox – 88 client-side developer tools, no tracking, 9 languages</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Multi-agent task management for Claude and Gemini</title>
+      <link>https://agentrq.com/</link>
+      <guid>https://agentrq.com/</guid>
+      <description>AgentRQ is the real-time agent-human task collaboration platform built for Claude Code and ACP-compatible agents (like Gemini). Agents assign tasks to you. You assign tasks back t…</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Server builds, wallet signs — a non-custodial Web3 checkout pattern</title>
+      <link>https://blauenlabs.com/blog/web3-checkout-pattern</link>
+      <guid>https://blauenlabs.com/blog/web3-checkout-pattern</guid>
+      <description>Show HN: Server builds, wallet signs — a non-custodial Web3 checkout pattern</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Building compiler from scratch without the help of LLMs [video]</title>
+      <link>https://youtube.com/watch?v=THIkjQnqsbw</link>
+      <guid>https://youtube.com/watch?v=THIkjQnqsbw</guid>
+      <description>Show HN: Building compiler from scratch without the help of LLMs [video]</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Mac-computer-use, an open-source clone of Codex Computer Use</title>
+      <link>https://github.com/TheGuyWithoutH/mac-computer-use</link>
+      <guid>https://github.com/TheGuyWithoutH/mac-computer-use</guid>
+      <description>Codex’s @Computer Use is awesome, but it’s bundled inside the Codex app, so you can’t reuse that harness easily in your OpenClaw setup. I extracted it for you in mac-computer-use…</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: FluxTest for testing network performance of self-hosted infrastructure</title>
+      <link>https://github.com/siddheshgunjal/flux-test</link>
+      <guid>https://github.com/siddheshgunjal/flux-test</guid>
+      <description>Show HN: FluxTest for testing network performance of self-hosted infrastructure</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Hyprmark – Markdown viewer for the Hyprland ecosystem</title>
+      <link>https://github.com/robinduckett/hyprmark</link>
+      <guid>https://github.com/robinduckett/hyprmark</guid>
+      <description>Show HN: Hyprmark – Markdown viewer for the Hyprland ecosystem</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: I built a CLI to fake Git commits</title>
+      <link>https://github.com/TDiblik/git-forge</link>
+      <guid>https://github.com/TDiblik/git-forge</guid>
+      <description>Heyy, I built git-forge in an afternoon to demonstrate how easy it can be to fake git history. It&#x27;s basically just a wrapper around Git and GnuPG cli(s) that automates the usual &quot;…</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: nvsx – A hook layer for NVSentinel GPU fault remediation</title>
+      <link>https://github.com/nav-beep/nvsx</link>
+      <guid>https://github.com/nav-beep/nvsx</guid>
+      <description>Show HN: nvsx – A hook layer for NVSentinel GPU fault remediation</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Slop Cop Claude Code / Cursor Plugin</title>
+      <link>https://github.com/yasyf/slop-cop</link>
+      <guid>https://github.com/yasyf/slop-cop</guid>
+      <description>Show HN: Slop Cop Claude Code / Cursor Plugin</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Open Passkey – open-source passkey auth with free &quot;backendless&quot; host</title>
+      <link>https://github.com/locke-inc/open-passkey</link>
+      <guid>https://github.com/locke-inc/open-passkey</guid>
+      <description>I, like Andrej Karpathy, became super frustrated by how annoying it was to deploy projects that were previously an absolute joy to make with Claude Code. That is why I made open-p…</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Figma-style visual editor for multi-agent choreography</title>
+      <link>https://github.com/dance-of-tal/dot-studio</link>
+      <guid>https://github.com/dance-of-tal/dot-studio</guid>
+      <description>Show HN: Figma-style visual editor for multi-agent choreography</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Jitter Done – a simple tool to understand your caffeine metabolism</title>
+      <link>https://jitterdone.com/</link>
+      <guid>https://jitterdone.com/</guid>
+      <description>Show HN: Jitter Done – a simple tool to understand your caffeine metabolism</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: Sostactic – polynomial inequalities using sums-of-squares in Lean</title>
+      <link>https://github.com/mmaaz-git/sostactic</link>
+      <guid>https://github.com/mmaaz-git/sostactic</guid>
+      <description>Current support for nonlinear inequalities in Lean is quite limited. This package attempts to solve this. It contains a collection of Lean4 tactics for proving polynomial inequali…</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Show HN: AWS&#x27;s Kiro just got an Open source Codex</title>
+      <link>https://github.com/thabti/kirodex</link>
+      <guid>https://github.com/thabti/kirodex</guid>
+      <description>Show HN: AWS&#x27;s Kiro just got an Open source Codex</description>
+      <source>Hacker News Show</source>
+      <category>Hacker News Show</category>
+    </item>
+    <item>
+      <title>Traders placed over $1B in perfectly timed bets on the Iran war</title>
+      <link>https://theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns</link>
+      <guid>https://theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns</guid>
+      <description>Traders placed over $1B in perfectly timed bets on the Iran war</description>
+      <source>Hacker News 最佳</source>
+      <category>Hacker News 最佳</category>
+    </item>
+    <item>
+      <title>The quiet disappearance of the free-range childhood</title>
+      <link>https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood</link>
+      <guid>https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood</guid>
+      <description>The quiet disappearance of the free-range childhood</description>
+      <source>Hacker News 最佳</source>
+      <category>Hacker News 最佳</category>
+    </item>
+    <item>
+      <title>Category Theory Illustrated – Orders</title>
+      <link>https://abuseofnotation.github.io/category-theory-illustrated/04_order</link>
+      <guid>https://abuseofnotation.github.io/category-theory-illustrated/04_order</guid>
+      <description>Category Theory Illustrated – Orders</description>
+      <source>Hacker News 最佳</source>
+      <category>Hacker News 最佳</category>
+    </item>
+    <item>
+      <title>Amiga Graphics Archive</title>
+      <link>https://amiga.lychesis.net/</link>
+      <guid>https://amiga.lychesis.net/</guid>
+      <description>Amiga Graphics Archive</description>
+      <source>Hacker News 最佳</source>
+      <category>Hacker News 最佳</category>
+    </item>
+    <item>
+      <title>网上卖“剣南春”“五稂液”：我国摧毁特大假酒网络，已查明涉案金额 2.6 亿元</title>
+      <link>https://ithome.com/0/940/857.htm</link>
+      <guid>https://ithome.com/0/940/857.htm</guid>
+      <description>IT之家 4 月 19 日消息，国家市场监督管理总局今日发布通报，近期，在市场监管总局的统一协调下，山西、四川两省市场监管、公安部门联合行动，成功摧毁一个特大制售商标侵权和伪劣白酒的违法犯罪网络。 据介绍，本次行动一举查获山西省吕梁市、太原市一带相关违法产品的生产、藏匿、包装与商标印制和邮寄场所 7 处，网络直播销售点 1 处，查获涉嫌侵权假冒白酒近 2…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>OPPO Find X9 Ultra 新机核心亮点公布：2K 1nit 明眸护眼屏、7050mAh 冰川电池，4 月 21 日首发</title>
+      <link>https://ithome.com/0/940/855.htm</link>
+      <guid>https://ithome.com/0/940/855.htm</guid>
+      <description>IT之家 4 月 19 日消息，OPPO 官方今日公布了 Find X9 Ultra 的部分核心亮点，这款旗舰新机将在 4 月 21 日 19:00 全球首发。 ▲ IT之家开箱：OPPO Find X9 Ultra「大地苔原」及影像套装图赏 据介绍，OPPO Find X9 Ultra 配备一块 2K1nit 明眸护眼屏，采用 X3 旗舰发光材料， 支持…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>腾讯《王者荣耀》官宣联动国漫电影《哪吒之魔童闹海》，4 月 29 日开启</title>
+      <link>https://ithome.com/0/940/853.htm</link>
+      <guid>https://ithome.com/0/940/853.htm</guid>
+      <description>IT之家 4 月 19 日消息，腾讯《王者荣耀》官方今日宣布将联动国漫电影《哪吒之魔童闹海》， 活动会在 4 月 29 日正式开启 。据介绍，届时将上线 4 款联动皮肤。官方表示还会有更多联动内容，预计将包括限时联动玩法等。 据IT之家 4 月 8 日报道，BoxOfficeMojo 最新统计数据显示，《哪吒之魔童闹海》在补录马来西亚票房后， 全球累计票房…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>2026 款蔚来乐道 L90 全国发运，首批展车及试驾车 4 月 21 日陆续到店</title>
+      <link>https://ithome.com/0/940/852.htm</link>
+      <guid>https://ithome.com/0/940/852.htm</guid>
+      <description>IT之家 4 月 19 日消息，蔚来乐道汽车今日宣布，2026 款乐道 L90 开启全国发运， 首批展车及试驾车将于 4 月 21 日陆续到达全国门店 ，具体到店信息将尽快发布。 据IT之家此前报道， 2026 款乐道 L90 将于 4 月 21 日正式上市 。据官方介绍，2026 款乐道 L90 新增激光雷达版型。此外，纯视觉版型也会同步继续销售，整体的…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>长城魏建军痛批魏牌团队不会营销、没有 BBA 的品位调性，魏牌 CEO 赵永坡致歉</title>
+      <link>https://ithome.com/0/940/850.htm</link>
+      <guid>https://ithome.com/0/940/850.htm</guid>
+      <description>IT之家 4 月 19 日消息，在 4 月 17 日长城魏牌 V9X 预售发布会上， 长城汽车 董事长魏建军现场公开点名批评魏牌 CEO 赵永坡和长城汽车 CGO 李瑞峰，直言对魏牌 V9X 的营销传播表现“非常不满意”。 魏建军表示，这款车绝对是一款非常优秀的产品，但团队的传播做的很不好， 没有 BBA 的那种品位调性 。“我记得有一位汽车大佬说过，营销…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>鸿蒙智行首款旗舰 MPV 智界 V9 内饰细节曝光：将配吸顶屏、HIMA“小手机”等</title>
+      <link>https://ithome.com/0/940/849.htm</link>
+      <guid>https://ithome.com/0/940/849.htm</guid>
+      <description>IT之家 4 月 19 日消息，博主 @未来的学习笔记 昨日分享了鸿蒙智行首款旗舰 MPV —— 智界 V9 的内饰细节。 画面显示，智界 V9 主驾配备圆形三幅式方向盘，搭载流媒体后视镜，并沿用家族化怀档结构设计；首发一体“环宇”三联屏，双 17.2 英寸大屏、21:10 宽屏比、双 3.4K 画质、HDR Vivid 菁彩影像认证，搭载自由卡片桌面。…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>钉钉陈航：如果公司里还有人天天写文档、以写文档自居，这个公司一定是过去式</title>
+      <link>https://ithome.com/0/940/848.htm</link>
+      <guid>https://ithome.com/0/940/848.htm</guid>
+      <description>2026 年 4 月 17-18 日，由《中国企业家》杂志主办的 2026（第十八届）《中国企业家》商界木兰年会在浙江省湖州市安吉县召开，主题为“她创 · 无界”。谈及 AI 组织，钉钉创始人兼 CEO 陈航在演讲中表示， 如果公司里面还有人天天写文档，以写文档自居，这个公司一定是过去式 。 他提到，公司现在一千四五百人，严禁写文档。“ 只要被我看到这个文…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>微信朋友圈上线 14 年：内部测试 34 个版本，4 月 19 日刚好通过 App Store 审核</title>
+      <link>https://ithome.com/0/940/847.htm</link>
+      <guid>https://ithome.com/0/940/847.htm</guid>
+      <description>IT之家 4 月 19 日消息，今日是微信朋友圈上线 14 周年的日子，“微信派”分享了朋友圈背后的故事。据其透露，朋友圈上线前， 内部测试了 34 个版本 。版本号将 26 个英文字母用完，只能用别的符号接着标。 4 月 19 日发布，有什么特别意义吗？ 真没有，只不过是那天 App Store 通过了我们新版本的审核。 「赞」和「评论」为什么要隐藏？…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>2026 P3 中国智能驾驶测评报告 V1.0 发布，华为乾崑智驾 ADS 4.1 车型享界 S9T 位居首位</title>
+      <link>https://ithome.com/0/940/845.htm</link>
+      <guid>https://ithome.com/0/940/845.htm</guid>
+      <description>IT之家 4 月 19 日消息，国际知名咨询公司 P3 已发布《2026P3 中国智能驾驶测评报告（V1.0）》，测试结果被央广网转发。据介绍，该评测共包含三百余项测试内容，客观呈现主流智驾系统水平。 测评显示，国产智能驾驶方案综合表现优异，连续三年保持领先。另外，当前国内辅助驾驶系统梯队分化明显，以“车位到车位”为核心的用户体验正在成为头部厂商的核心赛道…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>Panic 出手整治：Playdate 掌机游戏不许用 AI 搞美术音乐，代码辅助除外</title>
+      <link>https://ithome.com/0/940/844.htm</link>
+      <guid>https://ithome.com/0/940/844.htm</guid>
+      <description>IT之家 4 月 19 日消息，Panic 公司将不再允许开发者在其 Playdate 应用商店 Catalog 上架使用生成式人工智能工具创作美术、音频、音乐、文本或对话内容的游戏作品。 该公司在 Bluesky 平台发布的帖子中同时确认，Playdate 第三季游戏合集（一款每周推出新游戏的付费游戏包）将不会收录任何以任何形式使用生成式人工智能开发的游…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>荣耀“闪电”夺冠机器人半马，蓝思科技供应 132 款核心金属结构件</title>
+      <link>https://ithome.com/0/940/842.htm</link>
+      <guid>https://ithome.com/0/940/842.htm</guid>
+      <description>IT之家 4 月 19 日消息，2026 人形机器人半马今日在北京亦庄举行，荣耀的“闪电”机器人夺得冠军、亚军、季军，净用时分别为 50 分 26 秒、50 分 56 秒、53 分 01 秒。三支战队的参赛机器人均为自主导航机器人。 随后，蓝思科技发文透露，支撑机器人完成全程赛事、稳定发挥的“钢铁之躯”，正是由蓝思科技倾力打造， 132 款核心金属结构件…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>鸿蒙智行：4 月 20 日起，问界 M6 全国门店开启试驾</title>
+      <link>https://ithome.com/0/940/841.htm</link>
+      <guid>https://ithome.com/0/940/841.htm</guid>
+      <description>IT之家 4 月 19 日消息，鸿蒙智行今日宣布，4 月 20 日起，问界 M6 全国门店开启试驾，即刻下订可享 1 万元购车权益。4 月 22 日正式发布，部分配置锁单可享受甄选配置现车， 最快五一前提车 。 IT之家注意到，问界 M6 于 3 月 23 日开启预售，新车主打年轻市场并首次全系标配全球量产最高的 896 线双光路激光雷达，预售价增程版 2…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>H+H 联手：华为 × 一汽红旗合作官宣，新车有望搭载乾崑智驾、鸿蒙座舱等</title>
+      <link>https://ithome.com/0/940/839.htm</link>
+      <guid>https://ithome.com/0/940/839.htm</guid>
+      <description>IT之家 4 月 19 日消息，一汽红旗官方今日抛出疑问“ H +H=？”。而官方微博原文显示， 华为乾崑将与一汽红旗展开合作 ，号称“ 经典 × 科技 双典范重磅携手 ”。 事实上，华为和一汽红旗的合作早已不是秘密。在去年的华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志就介绍过华为乾崑的合作伙伴，当时就确认一汽红旗已和华为达成合作，但具体…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>英伟达宣传《识质存在》，抽奖送定制涂装的 RTX 5090 显卡</title>
+      <link>https://ithome.com/0/940/840.htm</link>
+      <guid>https://ithome.com/0/940/840.htm</guid>
+      <description>IT之家 4 月 19 日消息，英伟达推出了定制版 GeForce RTX 5090 显卡抽奖活动，该显卡采用《识质存在》（PRAGMATA）风格装饰。 官方贴文表示，用户只需通过评论“PRAGMATA RTX”即可参与抽奖。此次推广是该公司社交媒体常规营销活动的一部分。 推文内容：“《识质存在》首发支持 RTX 技术，支持全景光线追踪（Path Trac…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>白宫未经授权使用任天堂游戏画面宣传伊朗战事，遭日本外相公开批评</title>
+      <link>https://ithome.com/0/940/838.htm</link>
+      <guid>https://ithome.com/0/940/838.htm</guid>
+      <description>IT之家 4 月 19 日消息，在当地时间 4 月 17 日召开的美国众议院外交委员会会议上，日本外相茂木敏充就美国白宫近日在其官方 X 账号发布的一段视频提出批评，该视频将美国对伊朗近期军事行动的画面与任天堂 Wii 游戏机的启动画面及《Wii 运动》游戏片段混剪在一起。 茂木外相表示：“一般而言，即便是公共机构，未经权利人许可擅自使用受版权保护的作品也…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>（更新：包揽前六）荣耀“闪电”机器人包揽 2026 人形机器人半马冠亚季</title>
+      <link>https://ithome.com/0/940/837.htm</link>
+      <guid>https://ithome.com/0/940/837.htm</guid>
+      <description>10:48 更新：荣耀官方宣布，荣耀机器人强势包揽 2026 机器人半马前六。 IT之家 4 月 19 日消息，据央视新闻报道，2026 人形机器人半马，齐天大圣队、雷霆闪电队、星火燎原队分别夺得冠军、亚军、季军，净用时分别为 50 分 26 秒、50 分 56 秒、53 分 01 秒。 三支战队的参赛机器人均为自主导航机器人 。 IT之家注意到，从现场画…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>华为、红旗合作模式曝光，新车将采用“三智双智”方案</title>
+      <link>https://ithome.com/0/940/836.htm</link>
+      <guid>https://ithome.com/0/940/836.htm</guid>
+      <description>IT之家 4 月 19 日消息，在本月的智能电动汽车发展高层论坛（2026）期间，华为智能汽车解决方案 BU CEO 靳玉志分享了华为乾崑智能汽车解决方案的三大合作模式。 据介绍，华为乾崑智能汽车解决方案提供全栈、三智双智和部件三种模式。IT之家注意到， 红旗和华为的合作便属于“三智双智”模式 ，后续新车有望采用华为乾崑智驾、鸿蒙智能座舱、智能制造等。 虽…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>因发布“剧透文章”，日本男子获刑并被罚款百万日元</title>
+      <link>https://ithome.com/0/940/834.htm</link>
+      <guid>https://ithome.com/0/940/834.htm</guid>
+      <description>IT之家 4 月 19 日消息，一名居住在日本东京的 39 岁网站管理员，近期因发布包含电影及动漫剧情文字梗概的“剧透文章”，被控违反《著作权法》。 据《朝日新闻》报道，4 月 16 日，东京地方法院判处该男子有期徒刑 1 年 6 个月，缓刑 4 年，并处罚金 100 万日元（IT之家注：现汇率约合 43093 元人民币）。针对该网站管理员的刑事诉讼，早在…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>北京首个交警机器人亮相街头，参与指挥 2026 人形机器人半马比赛</title>
+      <link>https://ithome.com/0/940/833.htm</link>
+      <guid>https://ithome.com/0/940/833.htm</guid>
+      <description>IT之家 4 月 19 日消息，据央视新闻今日报道，4 月 19 日早，在北京亦庄半程马拉松比赛的路线上，北京交警机器人首次正式亮相并在赛道指挥选手奔跑，后续将在路口试点执勤，陆续完善并实现更多功能。 本次亮相的北京交警机器人，目前已实现 交通手势指挥、交通安全宣传、交通出行引导 等功能，后续将逐步迭代拓展专业知识问答、交通违法识别、路况设施巡视等应用场景…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>鸿蒙智行尚界 Z7 / Z7T 新车预订量突破 7 万台，预售价 22.98 万元起</title>
+      <link>https://ithome.com/0/940/832.htm</link>
+      <guid>https://ithome.com/0/940/832.htm</guid>
+      <description>IT之家 4 月 19 日消息，据博主 @我鸿 分享，鸿蒙智行“风尚科技”轿跑 / 猎装新车 —— 尚界 Z7 / Z7T 新车预订量突破 7 万台 ，预售价 22.98 万元 / 23.98 万元起。 据IT之家了解，在智能辅助驾驶和智能座舱方面，鸿蒙智行尚界 Z7 全系标配华为乾崑智驾 ADS 4.1、华为巨鲸 800V 高压电池平台、华为乾崑 896…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>华为鸿蒙手机“龙虾”小艺 Claw 获信通院首个终端厂商权威安全认证</title>
+      <link>https://ithome.com/0/940/831.htm</link>
+      <guid>https://ithome.com/0/940/831.htm</guid>
+      <description>IT之家 4 月 19 日消息，华为终端宣布，鸿蒙手机“龙虾”小艺 Claw 获信通院首个终端厂商权威安全认证， 成为首个获国家级智库认证的终端厂商 Claw 类智能体 。 目前，支持小艺 Claw 的小艺 App 已开启尝鲜升级。据介绍，小艺 Claw 支持开箱即用，可一键唤醒；支持自我学习、深度记忆，可不断进化； 支持多端协同，可与鸿蒙多设备互动 ，如…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>网游停服为何不改成离线版？开发者表示成本堪比重做游戏</title>
+      <link>https://ithome.com/0/940/830.htm</link>
+      <guid>https://ithome.com/0/940/830.htm</guid>
+      <description>IT之家 4 月 19 日消息，据 Automaton 报道，过去一周，史克威尔艾尼克斯（Square Enix）旗下手游《尼尔：转生》的一款粉丝自制“离线版”，让玩家们陷入了一场关于“游戏保存 vs 侵权”的激烈争论。X 用户 Altret 于 4 月 13 日宣布了这一非官方“复活”项目，通过搭建私人服务器，让这款运营型 RPG 在 2024 年 4…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>比亚迪方程豹全新系列官宣</title>
+      <link>https://ithome.com/0/940/829.htm</link>
+      <guid>https://ithome.com/0/940/829.htm</guid>
+      <description>IT之家 4 月 19 日消息，比亚迪方程豹于 4 月 17 日官宣全新系列，并连续发布预热海报，目前尚不清楚具体名称与车型。 IT之家注意到，方程豹是 比亚迪集团 于 2023 年 6 月 9 日推出的新能源个性化品牌，打造 DMO 电驱越野开创平台、智能 EVO+ 平台等专属技术，持续推出包括电驱越野类、个性硬派类及基于跑车扩充的轿车类产品。 目前，方…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>规模全球第一，2026 北京车展展位分布图发布</title>
+      <link>https://ithome.com/0/940/828.htm</link>
+      <guid>https://ithome.com/0/940/828.htm</guid>
+      <description>IT之家 4 月 19 日消息，2026 北京国际汽车展览会将于 2026 年 4 月 24 日-5 月 3 日在中国国际展览中心（顺义馆）与首都国际会展中心两馆联动办展，今天官方公布了展位分布图。 本届展会总展出面积达 38 万平方米，规模跃居全球车展首位 。2026 北京车展举办日期为 4 月 24 日至 5 月 3 日，展期共 10 天。其中 4 月…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>华为乾崑联合设计：猛士汽车春季焕新发布会定档 4 月 20 日</title>
+      <link>https://ithome.com/0/940/827.htm</link>
+      <guid>https://ithome.com/0/940/827.htm</guid>
+      <description>IT之家 4 月 19 日消息，华为乾崑智能汽车解决方案昨晚宣布， 猛士汽车春季焕新发布会将在 4 月 20 日 10:00 举行 ，并喊出了“智能越野再升级”的口号。 值得一提的是，有消息称猛士和华为乾崑在渠道上展开了进一步的合作。目前已有视频流出， 猛士汽车门店开始挂上“华为乾崑”的字样 。 据IT之家此前报道，现款猛士 M817 定位大型 SUV，发…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>Square Enix 开发漫画排版 AI 工具，每年可节省 3000 工时</title>
+      <link>https://ithome.com/0/940/826.htm</link>
+      <guid>https://ithome.com/0/940/826.htm</guid>
+      <description>IT之家 4 月 19 日消息，总部位于东京、专注于开发漫画翻译 AI 技术的公司 Mantra 宣布，将与史克威尔艾尼克斯（Square Enix）联合开发一款用于漫画自动排版的 AI 工具。 该合作项目是在史克威尔艾尼克斯于 2024 年对 Mantra 进行投资后启动的。这款名为“Mantra Engine”的工具，旨在辅助日文漫画的文字布局与排版。…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>50 分 26 秒超人类世界纪录，荣耀“闪电”夺 2026 人形机器人半马冠军</title>
+      <link>https://ithome.com/0/940/825.htm</link>
+      <guid>https://ithome.com/0/940/825.htm</guid>
+      <description>IT之家 4 月 19 日消息，“北京亦庄”公众号今日宣布，在全球首个人形机器人马拉松品牌赛事 ——2026 北京亦庄人形机器人半程马拉松赛场上，齐天大圣队的“闪电”机器人凭借 50 分 26 秒（净用时） 的成绩（人类半程马拉松世界纪录为 56 分 42 秒）获得冠军。 据介绍，健步如飞的荣耀人形机器人“闪电”，身高 169cm，外观采用潮酷机甲风设计，…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>游戏行业裁员潮持续，近半数开发者因就业不稳定考虑离职</title>
+      <link>https://ithome.com/0/940/824.htm</link>
+      <guid>https://ithome.com/0/940/824.htm</guid>
+      <description>IT之家 4 月 19 日消息，过去几年，裁员已成游戏行业的常态。仅今年一年，Epic 就大幅裁员 1000 名开发人员，而蒙特利尔 Eidos 工作室、Crystal Dynamics 工作室等也在上个月进行了裁员。 随着育碧等大型发行商不断宣扬“裁员是公司发展的唯一途径”，游戏开发者们难免感到缺乏职业安全感。如今一项新研究显示，正因这种就业不稳定的状况…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>破人类 1500 米世界纪录：宇树 H1 自主跑完北京人形机器人马拉松 1.9 公里多弯道赛程，用时 4 分 13 秒</title>
+      <link>https://ithome.com/0/940/823.htm</link>
+      <guid>https://ithome.com/0/940/823.htm</guid>
+      <description>IT之家 4 月 19 日消息，2026 北京亦庄半程马拉松今日正式鸣枪开跑。本届赛事以“亦马当先”为主题，起点设于北京亦庄通明湖畔的科创十七街，终点为南海子公园， 全长 21.0975 公里 。 宇树也参赛了今天的北京人形机器人马拉松，派出的是 H1 机型。另有众多独立团队，自发基于宇树产品进行自行开发后参赛。参赛的宇树 2023 年款 H1（微调版）内…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>小米 REDMI Buds 8 预热：11mm 高性能动圈单元，单耳轻至 5g</title>
+      <link>https://ithome.com/0/940/822.htm</link>
+      <guid>https://ithome.com/0/940/822.htm</guid>
+      <description>IT之家 4 月 19 日消息，小米 REDMI Buds 8 耳机将于 4 月 21 日晚 7 点与 K90 Max 同场发布，官方对这款新品进行了预热。 据介绍，这款新品支持 50dB 降噪深度 ，4kHz 宽频覆盖；三麦通话降噪，至高 12m/s 通话抗风噪效果；11mm 高性能动圈单元，最大振幅提升 50%；五档预置 EQ 音效，支持自定义调节。此…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>报告：30-50 美元游戏成玩家新首选价位</title>
+      <link>https://ithome.com/0/940/821.htm</link>
+      <guid>https://ithome.com/0/940/821.htm</guid>
+      <description>IT之家 4 月 19 日消息，曾经，3A 游戏凭借十足的趣味性与创新性主导着游戏行业。然而如今形势已发生巨大转变，那些预算更低的游戏反而似乎在市场中占据了更强势的地位。 分析师针对这一现状进行分析后得出结论：定价 30 至 50 美元（IT之家注：现汇率约合 205.1 至 341.9 元人民币）的游戏，已然成为玩家心中新的理想价位。《ARC Raide…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>2026 北京亦庄机器人半马开跑，荣耀“闪电”率先冲线</title>
+      <link>https://ithome.com/0/940/820.htm</link>
+      <guid>https://ithome.com/0/940/820.htm</guid>
+      <description>IT之家 4 月 19 日消息，北京亦庄半程马拉松暨人形机器人半程马拉松（简称“北京亦庄机器人半马”）今日开跑，由荣耀“闪电”、宇树“H1”、北创“天工 Ultra”、松延动力“小顽童”等 105 支队伍组成的人形机器人队伍参赛，与真人同期开跑。 据央视新闻报道，北京荣耀机器人“闪电”以 48 分 19 秒的净成绩率先冲线完赛。 据IT之家了解，本次比赛，…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>上线五个月，《Arc Raiders》流失八成 Steam 活跃玩家</title>
+      <link>https://ithome.com/0/940/819.htm</link>
+      <guid>https://ithome.com/0/940/819.htm</guid>
+      <description>IT之家 4 月 19 日消息，《Arc Raiders》近期经历了一系列波折，其开发工作室已收回对 AI 技术的使用，将 AI 生成的配音替换为真人演员配音。该游戏取得的成绩也为团队的两个新项目提供了资金支持。然而，这款游戏的未来如今却显得相当黯淡。 上线仅五个月，《Arc Raiders》在 Steam 平台的玩家数量就已较历史峰值暴跌超八成。尽管长线…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>黑客多次入侵美最高法院等机构系统并网上炫耀，获一年缓刑</title>
+      <link>https://ithome.com/0/940/818.htm</link>
+      <guid>https://ithome.com/0/940/818.htm</guid>
+      <description>IT之家 4 月 19 日消息，据 The Hill 报道，尼古拉斯 · 穆尔数月内数十次非法入侵美国最高法院电子文件归档系统并认罪，于当地时间周五被判处一年缓刑。 穆尔还曾入侵美国志愿服务队（一家负责发放津贴志愿者项目的政府机构）以及美国退伍军人事务部的网络系统，该部门为退伍军人提供医疗保健与福利保障。 此人在名为 @ihackedthegovernme…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>AI 编程工具盛行，代码产量提升却暗藏高返工率困境</title>
+      <link>https://ithome.com/0/940/817.htm</link>
+      <guid>https://ithome.com/0/940/817.htm</guid>
+      <description>IT之家 4 月 19 日消息，几十年来，软件工程师们一直在争论生产力衡量指标，最早就是从代码行数开始的。但随着新一代 AI 编程助手生成的代码量远超以往，管理者究竟应该衡量什么，反而变得不那么清晰了。 IT之家注意到，庞大的词元（Token）额度 —— 本质上就是开发者被授权使用的 AI 算力总量，已经成了硅谷开发者之间的荣誉勋章。但 Techcrunc…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>2026 人形机器人半马在北京亦庄鸣枪开跑，荣耀“闪电”率先出场</title>
+      <link>https://ithome.com/0/940/816.htm</link>
+      <guid>https://ithome.com/0/940/816.htm</guid>
+      <description>IT之家 4 月 19 日消息，今日 7:30，由北京市人民政府、中央广播电视总台等联合主办的 2026 人形机器人半程马拉松在北京亦庄正式开跑。来自北京荣耀的绝影赤兔队率先开跑，该战队的参赛机器人为“闪电”。 据荣耀技术团队此前介绍，荣耀机器人“闪电”集成了荣耀在智能制造与具身 AI 领域的最新成果，高性能高爆发稳定的本体、高动态运控算法、实时感知理解与…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>新突破，我国首个十万户级天然气掺氢应用项目在潍坊启动</title>
+      <link>https://ithome.com/0/940/815.htm</link>
+      <guid>https://ithome.com/0/940/815.htm</guid>
+      <description>IT之家 4 月 19 日消息，据央视新闻报道，我国首个 10 万户级天然气掺氢规模化应用项目，今天在山东潍坊正式启动，项目依托潍坊现有城镇天然气管网基础设施，可实现稳定的天然气掺氢输配。 报道称，天然气掺氢项目覆盖潍坊市中心城区 10 万户城镇居民，全面涵盖居民日常生活、商户餐饮等各类民生用气场景，居民无需更换原有燃气设备，就能正常使用掺氢天然气。 示范…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>消息称 AI 编程初创企业 Cursor 即将完成 20 亿美元融资，估值达 500 亿美元</title>
+      <link>https://ithome.com/0/940/814.htm</link>
+      <guid>https://ithome.com/0/940/814.htm</guid>
+      <description>IT之家 4 月 19 日消息，据 Techcrunch 报道，四位知情人士透露，人工智能编程初创企业 Cursor 即将完成新一轮融资，这家成立四年的公司将筹集至少 20 亿美元（IT之家注：现汇率约合 136.68 亿元人民币）新资金。 知情人士称，现有投资方 Thrive 和安德森 · 霍洛维茨基金（Andreessen Horowitz）预计将牵头…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>IT早报 0419：蔚来回应 ES9 仍用隐藏式门把手符合现行国标；安卓 17 新内存机制解决系统卡顿；苹果 2026 款 Mac Studio 爆料；前荣耀掌门人赵明转战智能驾驶...</title>
+      <link>https://ithome.com/0/940/813.htm</link>
+      <guid>https://ithome.com/0/940/813.htm</guid>
+      <description>“IT早报”时间，大家好，现在是 2026 年 4 月 19 日星期日，今天的重要科技资讯有： 1、蔚来汽车回应 ES9 仍采用隐藏式门把手：符合现行国标 蔚来汽车针对公众对 ES9 隐藏式门把手安全性的疑问作出回应，表示当前在售车型完全合规，并详细介绍了其碰撞自动解锁、机械应急拉手、双电池冗余、破冰功能等多重安全设计。新国标主要影响 2027 年底后公告…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>OpenAI 剥离“副业项目”：公司科学研究项目负责人与 Sora 研究员双双离职</title>
+      <link>https://ithome.com/0/940/812.htm</link>
+      <guid>https://ithome.com/0/940/812.htm</guid>
+      <description>IT之家 4 月 19 日消息，OpenAI 旗下两大核心项目的关键负责人双双离职。该公司科学研究项目负责人凯文 · 威尔，以及人工智能视频工具 Sora 背后的研究员比尔 · 皮布尔斯，均于当地时间周五宣布离职。此次人事变动正值 OpenAI 聚焦企业级人工智能业务，并筹备推出其即将面世的“超级应用”之际。 此前，OpenAI 已决定缩减各类“次要项目”…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>微软优化 Win11 文件资源管理器：修复白屏闪烁，提升运行流畅度</title>
+      <link>https://ithome.com/0/940/811.htm</link>
+      <guid>https://ithome.com/0/940/811.htm</guid>
+      <description>IT之家 4 月 19 日消息，微软承诺，将通过缩减 Copilot 集成、聚焦核心组件的方式，引领 Windows 11 朝着正确方向发展。还有什么能比文件资源管理器更“核心”的呢？据 Windows Latest 报道，微软目前表示，正准备为文件资源管理器推出一次重大更新，使其运行更流畅、修复“白屏闪烁”问题、新增压缩包格式支持等。 微软已向发布预览频…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>因“幽灵外卖”被罚 35.97 亿元，7 家电商平台表示诚恳接受</title>
+      <link>https://ithome.com/0/940/810.htm</link>
+      <guid>https://ithome.com/0/940/810.htm</guid>
+      <description>IT之家 4 月 19 日消息，“市说新语”公众号昨晚发文称，针对国家市场监督管理总局开出的惩治“ 幽灵外卖 ”巨额罚单，拼多多、京东、抖音等 7 家电商平台相继回应， 表示诚恳接受处罚，并落实整改 。 4 月 17 日，国家市场监督管理总局依法对拼多多、美团、京东、饿了么（淘宝闪购）、抖音、淘宝、天猫 7 家电商平台开出 35.97 亿元巨额罚单 ，对…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>五一假期首尾高峰时段增开多趟夜间高铁，旅客提前 7 至 5 天可购票</title>
+      <link>https://ithome.com/0/940/809.htm</link>
+      <guid>https://ithome.com/0/940/809.htm</guid>
+      <description>IT之家 4 月 19 日消息，中国铁路昨晚发文称，五一假期火车票开售以来，购票需求旺盛。为最大限度满足旅客购票需求，铁路部门在假期首尾出行高峰时段和旅客出行相对集中的方向，计划调整高铁夜间“天窗”维修时间，在确保安全前提下， 于 4 月 29 日夜间至 5 月 2 日凌晨、5 月 4 日夜间至 6 日凌晨 ，在京沪、京广、京哈等高铁干线，安排开行直通夜间…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>特斯拉 Robotaxi 无人驾驶出租车服务扩展至达拉斯和休斯顿</title>
+      <link>https://ithome.com/0/940/808.htm</link>
+      <guid>https://ithome.com/0/940/808.htm</guid>
+      <description>IT之家 4 月 19 日消息，根据特斯拉官方社交媒体发布的消息，该公司正将其 Robotaxi 无人驾驶出租车服务拓展至达拉斯和休斯顿。 IT之家注意到，该帖子仅简单写道：“Robotaxi 现已在达拉斯和休斯顿推出🤠”，并附带一段 14 秒的视频，视频中特斯拉车辆在驾驶座无人监控、无人驾驶的情况下自动行驶。 继去年在奥斯汀推出服务、并于 2026 年…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>迅雷旗下“光鸭云盘”官宣 4 月 20 日上线：号称免登录、不限速，自带 2TB 免费空间</title>
+      <link>https://ithome.com/0/940/807.htm</link>
+      <guid>https://ithome.com/0/940/807.htm</guid>
+      <description>IT之家 4 月 18 日消息，迅雷旗下云存储产品“光鸭云盘”官宣将于 4 月 20 日面向公众开放注册，所有用户均可解锁“永久免费 2TB 存储空间”。 该产品由迅雷全资孙公司（子公司的子公司）深圳市光闪云科技有限公司（成立于 2025 年）提供服务，主打“免登录下载、不限速传输”等核心功能。 光鸭云盘支持 100GB 单文件上传及 100 万文件批量转…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>国产光纤全球爆单：价格暴涨 650%，企业排产已至明年一季度</title>
+      <link>https://ithome.com/0/940/806.htm</link>
+      <guid>https://ithome.com/0/940/806.htm</guid>
+      <description>IT之家 4 月 18 日消息，光纤光缆，作为现代信息传输的重要介质，广泛应用于数据通信、传感、医疗及工业控制等领域。今年以来，光纤行业呈现出“产品量价齐升”的景气态势。 据央视报道，国内多家光纤生产企业一季度产销量大幅增长，部分规格产品价格涨幅高达 650%，在手订单排产已延伸至 2027 年第一季度。 在江苏一家光纤生产企业，工作人员介绍称，今年一季度…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>方形相机模组告别家族式设计？索尼 Xperia 1 VIII 手机外观再度曝光</title>
+      <link>https://ithome.com/0/940/805.htm</link>
+      <guid>https://ithome.com/0/940/805.htm</guid>
+      <description>IT之家 4 月 18 日消息，消息源 @mobaziro 昨天在 X 平台发文，曝光索尼 Xperia 1 VIII 手机的渲染图。 如果泄露渲染图属实，那么索尼将放弃初代 Xperia 1（IT之家注：2019 年发布）以来沿用至今的纵向长条相机模组， 转为更加接近主流风格的方形岛式后摄模组 。 结合 Notebookcheck 报道，目前有传闻称该机…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去</title>
+      <link>https://ithome.com/0/940/804.htm</link>
+      <guid>https://ithome.com/0/940/804.htm</guid>
+      <description>IT之家 4 月 18 日消息，昨日，一则关于国内 AI 大模型独角兽企业 DeepSeek（深度求索）启动首次外部融资的消息在投资圈和科技界迅速传播。 据 The Information 报道，DeepSeek 正与投资者洽谈首轮外部股权融资，计划以不低于 100 亿美元（IT之家注：现汇率约合 683.41 亿元人民币）的估值，募集不少于 3 亿美元资…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>联想 ThinkPlus 方胖子 190W 自带伸缩线移动电源开售：配备 2.01 英寸数显屏，349 元</title>
+      <link>https://ithome.com/0/940/803.htm</link>
+      <guid>https://ithome.com/0/940/803.htm</guid>
+      <description>IT之家 4 月 18 日消息，联想 ThinkPlus 方胖子 190W 自带伸缩线移动电源现已开售，新品主打 190W 多口超级快充、自带 75cm 双向快充伸缩线， 售价 349 元 。 据介绍，这款充电宝外壳采用 PVD 电镀工艺，拥有黑色、白色两种配色可选，带有挂绳，伸缩线长度为 75cm，可自由把控长度。 规格方面，这款充电宝的自充功率可达 1…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>联力推出 439 元 V150 INF 紧凑型机箱：兼容 M-ATX 及背插主板，标配 3 个 ARGB 无限镜</title>
+      <link>https://ithome.com/0/940/802.htm</link>
+      <guid>https://ithome.com/0/940/802.htm</guid>
+      <description>IT之家 4 月 18 日消息，联力新推出了一款 VECTOR VISO INF 机箱，京东显示 439 元。 京东 LIANLI 联力 V150 INF 机箱 支持 360 水冷 / MATX 背插主板 无限镜侧透钢化玻璃 带 3 个 ARGB 风扇 预装显卡支架 联力 V150INF 无限镜 黑色【新品】 439 元 直达链接 这款机箱兼容 M-ATX…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>“载”来点想象，大疆农业无人机新品 4 月 21 日发布</title>
+      <link>https://ithome.com/0/940/801.htm</link>
+      <guid>https://ithome.com/0/940/801.htm</guid>
+      <description>IT之家 4 月 18 日消息，大疆最近在官网宣布，4 月 21 日下午 14:00 将推出一款新品， 宣传语为“载”来点想象 。 和往常一样，大疆并没有直接公布这款新品的具体品类。不过从宣传图片剪影和官网分类来看， 这款新品应该是农业无人机 ，感兴趣的小伙伴们可以关注IT之家后续报道。</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋</title>
+      <link>https://ithome.com/0/940/800.htm</link>
+      <guid>https://ithome.com/0/940/800.htm</guid>
+      <description>IT之家 4 月 18 日消息，据科技媒体 TechCrunch 昨天报道，支付服务提供商 Stripe 曾在几年前试图收购 Airwallex 空中云汇，但最终并未成交。 据报道，Airwallex 创始人 Jack Zhang 当年 34 岁，创业三年半。他有一天受邀前往 Stripe CEO 帕特里克 · 科里森（Patrick Collison）位…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>天工 3.0 机器人斩获北京亦庄勇士挑战赛冠军，实现“全自主”通关</title>
+      <link>https://ithome.com/0/940/799.htm</link>
+      <guid>https://ithome.com/0/940/799.htm</guid>
+      <description>IT之家 4 月 18 日消息，首届北京亦庄机器人勇士挑战赛今日落下帷幕，北京人形机器人创新中心（以下简称“北京人形”）携其研发的“具身天工 3.0”全尺寸通用人形机器人参赛，并以全自主方式完赛，成功通关摆锤穿越、开拓前行、破门清障等基于现实高危场景设计的赛项，以最高积分斩获全球首个全自主机器人勇士挑战赛冠军，同时赢得勇士智行奖。 这是继 2025 年“具…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>联想 ThinkPad T16 Gen 5 公布：首搭 Panther Lake 与 LPCAMM2 可升级内存</title>
+      <link>https://ithome.com/0/940/798.htm</link>
+      <guid>https://ithome.com/0/940/798.htm</guid>
+      <description>IT之家 4 月 18 日消息，联想官网 4 月 10 日公布了 ThinkPad T16 Gen 5（Intel）相关资料，这款新机目前已经在海外开启预售或正式开售，国行版本预计近期发布，港版（Ultra 5 332 vPro 版本）显示 14990 港币（现汇率约合 13083 元人民币）。 ThinkPad T16 Gen 5 首次引入 Intel…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>Anthropic MCP 协议被指存在设计缺陷，服务器可被诱导执行任意代码</title>
+      <link>https://ithome.com/0/940/797.htm</link>
+      <guid>https://ithome.com/0/940/797.htm</guid>
+      <description>IT之家 4 月 18 日消息，安全研究团队 OX Security 本周（4 月 15 日）发现，Anthropic 创建、维护的行业标准 AI 通信协议 MCP（IT之家注：Model Context Protocol）存在设计缺陷， 可导致服务器被诱导执行任意代码（RCE） 。 据介绍，该漏洞并非普通的疏忽，而是架构层面的设计缺陷并存在于官方 MCP…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>《异环》宣布与保时捷、雷蛇、支付宝、P5X 等联动，4 月 23 日正式公测</title>
+      <link>https://ithome.com/0/940/796.htm</link>
+      <guid>https://ithome.com/0/940/796.htm</guid>
+      <description>IT之家 4 月 18 日消息，《异环》全平台公测将于 4 月 23 日正式开启，登陆 PC、Mac、移动端（安卓、iOS、鸿蒙）、PS5，预下载将于 4 月 21 日 9:00 开启。 在今晚的《异环》公测前瞻特别节目中，完美世界官方宣布《异环》将与罗森、雷蛇、北通、支付宝等品牌开启联动，并将与保时捷开启多项载具联动，还将与《P5R》《P5X》《幻塔》展…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>沉寂多年，消息称育碧将推《幽灵行动》正统续作</title>
+      <link>https://ithome.com/0/940/795.htm</link>
+      <guid>https://ithome.com/0/940/795.htm</guid>
+      <description>IT之家 4 月 18 日消息，据科技媒体 Wccftech 今天报道，爆料人士 Tom Henderson 最近透露，预计将在近期发售《刺客信条：黑旗重制版》，之后公布的新作则是《幽灵行动》。 作为参考， 育碧曾在 2019 年推出《幽灵行动：断点》 ，但口碑、销量表现平平。此后该系列便一直沉寂。虽然育碧后来试图通过更新“沉浸模式”和加入 AI 队友进行…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>可提升自动对焦性能，消息称佳能 EOS R7 Mark II 相机搭载 DIGIC Accelerator Lite 处理器</title>
+      <link>https://ithome.com/0/940/791.htm</link>
+      <guid>https://ithome.com/0/940/791.htm</guid>
+      <description>IT之家 4 月 18 日消息，消息源 Canon Rumors 前天发文称，佳能可能会为 EOS R7 Mark II 无反相机引入 DIGIC Accelerator Lite 精简版处理器。 据报道，佳能已经在 EOS R1 和 R5 Mark II 相机中使用过 DIGIC Accelerator 处理器，用于提升相机的数据处理能力。该芯片可与高速…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>世界超级摩托车锦标赛荷兰站：张雪机车首回合正赛获得第四名</title>
+      <link>https://ithome.com/0/940/789.htm</link>
+      <guid>https://ithome.com/0/940/789.htm</guid>
+      <description>IT之家 4 月 18 日消息，在刚刚结束的 2026 世界超级摩托车锦标赛（WSBK）荷兰站 WorldSSP 组别第一回合正赛中，中国摩托车制造商“张雪机车”旗下 53 号法国车手瓦伦丁 · 德比斯（Valentin Debise）以第四名完赛。 尽管未能延续葡萄牙站双冠的辉煌，但这支成立仅两年的中国车队，在素以高速弯道著称的阿森 TT 赛道（TT C…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>首款雷电 5 认证四盘位 M.2 固态硬盘盒，OWC 发布 Express 4M2 Ultra</title>
+      <link>https://ithome.com/0/940/788.htm</link>
+      <guid>https://ithome.com/0/940/788.htm</guid>
+      <description>IT之家 4 月 18 日消息，OWC（Other World Computing）今天在 NAB 2026 广播电视展会，推出首款雷电 5 认证四盘位 M.2 固态硬盘盒 Express 4M2 Ultra。 据介绍，这款硬盘盒专为追求极致性能的专业用户设计， 用户可自行选购 NVMe 固态硬盘并配置 RAID 0、1、4、5、10 或 JBOD 。 规…</description>
+      <source>IT之家</source>
+      <category>IT之家</category>
+    </item>
+    <item>
+      <title>哈弗猛龙 PLUS 开启预售：18.98~21.58 万元，搭载 Coffee Pilot 3 辅助驾驶系统</title>
+      <link>https://ithome.com/0/940/754.htm</link>
+      <guid>https://ithome.com/0/940/754.htm</guid>
+      <description>感谢IT之家网友 很宅很怕生 的线索投递！ IT之家 4 月 18 日消息，哈弗品牌旗下中大型新能源 SUV—— 哈弗猛龙 PLUS 今晚正式开启预售。新车共推出 3 款配置车型，IT之家汇总如下： 195 Max 版预售价 18.98 万元 195 Max 领航版预售价 19.98 万元 255 Ultra 领航版预售价 21.58 万元 在外观方面，哈…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>小牛推出家用电摩新品 NX 马拉松：146km 超长续航，首发 6499 元</title>
+      <link>https://ithome.com/0/940/719.htm</link>
+      <guid>https://ithome.com/0/940/719.htm</guid>
+      <description>感谢IT之家网友 最多_六个字 的线索投递！ IT之家 4 月 18 日消息，小牛电动昨天推出了一款“真长续航智能家用电摩”小牛 NX 马拉松，首发价 6499 元。 京东 小牛 NX 马拉松【全国一口价】 电动摩托车锂电池 智能长续航高速通勤电瓶成人电摩 6499 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>张雪机车 WSBK 夺冠后全球订单激增，广交会现场超 5000 客商争当代理</title>
+      <link>https://ithome.com/0/940/715.htm</link>
+      <guid>https://ithome.com/0/940/715.htm</guid>
+      <description>感谢IT之家网友 西窗 的线索投递！ IT之家 4 月 18 日消息，据央视财经今日报道，在第 139 届广交会的摩托车展区，围满了来自世界各地的采购商，很多人专程赶来，只为一睹半个月前在 WSBK 世界超级摩托车锦标赛上“一战封神”的中国品牌 —— 张雪机车。 张雪机车外贸部部长黄秦表示：“这两天现场非常火爆，超过 5000 名客商直接冲着我们品牌来的，…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>华为靳玉志亲测 ADS 5，体验“非常非常丝滑”且“安全性进一步提升”</title>
+      <link>https://ithome.com/0/940/709.htm</link>
+      <guid>https://ithome.com/0/940/709.htm</guid>
+      <description>感谢IT之家网友 软媒新友2188673 的线索投递！ IT之家 4 月 18 日消息，华为智能汽车解决方案 BU CEO 靳玉志今日透露，其本人已对华为乾崑 ADS 5 高阶智能驾驶系统的测试版进行了为期一个多月的实际道路测试。 靳玉志表示，新系统搭载的 WEWA 2.0 架构带来了城区、高速及园区等多场景下的全面体验升级，通行效率提升明显，整体表现“非…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>蔚来汽车回应 ES9 仍采用隐藏式门把手：符合现行国标</title>
+      <link>https://ithome.com/0/940/706.htm</link>
+      <guid>https://ithome.com/0/940/706.htm</guid>
+      <description>IT之家 4 月 18 日消息，蔚来汽车今日就全新智能行政旗舰 SUV 蔚来 ES9 采用的隐藏式门把手设计，正式回应了公众关于其合规性与安全性的疑问。 蔚来明确表示，目前包括 ES9 在内的全系在售车型均可正常使用隐藏式门把手，且完全符合现行国家标准。 此次公众讨论的焦点，源于 2026 年初发布的一项汽车行业新规。2026 年 1 月 28 日，工业和…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>前荣耀掌门人赵明转战智能驾驶：千里科技智驾已达行业顶尖，无惧任何对手</title>
+      <link>https://ithome.com/0/940/693.htm</link>
+      <guid>https://ithome.com/0/940/693.htm</guid>
+      <description>IT之家 4 月 18 日消息，近日，前荣耀 CEO 赵明在加入千里科技后首次公开发声，谈及从手机行业跨界进入汽车智能驾驶领域的感受。 他在今日发布的视频中表示，手机与汽车行业的核心共通点在于深挖底层科技，千里科技目前已与国内头部大模型公司阶跃星辰达成战略合作，依托 AI 大模型成功打通了端到端智驾技术路线，后续产品迭代速度将持续加快，因此“无惧任何对手的…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>OPPO Pad Mini 平板上手：8.8 英寸极窄四等边柔光屏</title>
+      <link>https://ithome.com/0/940/678.htm</link>
+      <guid>https://ithome.com/0/940/678.htm</guid>
+      <description>感谢IT之家网友 蛋炒鱼 、 顺势而为 、 Autumn_Dream 的线索投递！ IT之家 4 月 18 日消息， @数码闲聊站 今天（4 月 18 日）发布微博，分享了 OPPO Pad Mini 平板上手体验，并附上 3 张真机图片。 这款平板将于 4 月 21 日 19:00 全球首发。 绿厂小平板，目前唯二轻薄 OLED 小平板，8.8 英寸极窄…</description>
+      <source>IT之家 24h</source>
+      <category>IT之家 24h</category>
+    </item>
+    <item>
+      <title>分享 -- 每日金句</title>
+      <link>https://linux.do/t/topic/2001226</link>
+      <guid>https://linux.do/t/topic/2001226</guid>
+      <description>AI 加速的是&quot;执行&quot;，不是&quot;判断&quot;。 判断&quot;产品该解决什么问题&quot;、“用户此刻需要什么”、“哪个版本更符合商业目标”——这些仍然是你的工作，而且 AI 永远替代不了。你对用户越懂、对业务越清楚、对审美越敏感，AI 给你的产出就越接近你心里那版；反之再强的 AI 也救不了一个连自己要什么都不知道的需求。 所以真正的进阶路径不是&quot;学更多 prompt 技巧&quot;—…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>被AI淘汰的的程序员，扎堆做电工！这是否是我们的一个转行方向？</title>
+      <link>https://linux.do/t/topic/2001224</link>
+      <guid>https://linux.do/t/topic/2001224</guid>
+      <description>看到这个文章： https://mp.weixin.qq.com/s/DGuwgZVPz1RvUMRAV5E5ww 特别有启发，因为不仅是因为这个：2026年1月，英伟达CEO黄仁勋在达沃斯上说，AI数据中心建设会让电工、水管工、建筑工人需求大增，很多岗位能拿六位数美元年薪。“AI的尽头是算力，算力的尽头是电力”。 我们住的房子已经马上也很快进入到大维修时…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>听说这个方法可以检测claude是否需要kyc？</title>
+      <link>https://linux.do/t/topic/2001222</link>
+      <guid>https://linux.do/t/topic/2001222</guid>
+      <description>小红书上看到的，是否有效？ 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>第二弹【 Sun 公益站】邀请码</title>
+      <link>https://linux.do/t/topic/2001219</link>
+      <guid>https://linux.do/t/topic/2001219</guid>
+      <description>主贴： 第二弹【 Sun 公益站】很小规模使用codex 不定时更新！ - 福利羊毛 - LINUX DO 第二弹 cdk 经过我不懈努力！可以再次的发放账号了！但是有人将我的邀请码放到某鱼！为了防止脚本抢注，cdk发放的账号中有一些为假的邀请码！这次发放的名额比较多！古法注册还是有点累的！ cdk.linux.do LINUX DO CDK Linux…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>new-api里面用CPA的GPT号池，缓存命中率好低啊</title>
+      <link>https://linux.do/t/topic/2001216</link>
+      <guid>https://linux.do/t/topic/2001216</guid>
+      <description>new-api是入口，域名是nginx反代的，再走CPA，缓存命中率好低，不知道哪里问题，有知道的佬友吗 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>比你优秀的人还比你努力？</title>
+      <link>https://linux.do/t/topic/2001214</link>
+      <guid>https://linux.do/t/topic/2001214</guid>
+      <description>这句话大家都听过无数遍了，小的时候是父母和老师说，长大了之后就是公司的领导和老板。大家有没有发现，实际上这句话就是一个悖论，如果比你优秀的人还比你努力，那你努力还有什么意义？是不是永远都追不上了？ 4 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>突然发现试用到期了还能用Gemini</title>
+      <link>https://linux.do/t/topic/2001208</link>
+      <guid>https://linux.do/t/topic/2001208</guid>
+      <description>试用到期了gemini enterprise对话居然还能正常使用，好神奇 2 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>现在谷歌反重力free号的额度有多少？</title>
+      <link>https://linux.do/t/topic/2001184</link>
+      <guid>https://linux.do/t/topic/2001184</guid>
+      <description>好久没用free号了，想问一下佬们，现在free号的额度有多少，还是周额度吗？一周有几条？ 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>裂开，我部署在美国服务器上的sub2api号池被一锅端了……</title>
+      <link>https://linux.do/t/topic/2001173</link>
+      <guid>https://linux.do/t/topic/2001173</guid>
+      <description>Hello, OpenAI’s terms and policies restrict the use of our services in a number of areas. We have identified activity in ChatGPT that is not permitted under our policies. We are d…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>不懂就问 any大佬的额度是每天分配吗？每天给多少？还是咋</title>
+      <link>https://linux.do/t/topic/2001128</link>
+      <guid>https://linux.do/t/topic/2001128</guid>
+      <description>不懂就问 any大佬的额度是每天分配吗？每天给多少？还是咋 2 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>newapi出现unexpected status 413 Payload Too Large: openai_error, 怎么办</title>
+      <link>https://linux.do/t/topic/2001126</link>
+      <guid>https://linux.do/t/topic/2001126</guid>
+      <description>把找到的几个中转渠道接进了newapi，但是每当会话上下文大概200k，就会触发unexpected status 413 Payload Too Large: openai_error, 这个会话就废了 然后我试着给1penal的自带的反代程序OpenResty的性能配置里面把文件上限修改了，还是没用 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>铁证锁死 规律锁死</title>
+      <link>https://linux.do/t/topic/2001116</link>
+      <guid>https://linux.do/t/topic/2001116</guid>
+      <description>真的遭不住了 Opus 4 7 大人 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>分享QQ音乐《冰与火之歌》神仙翻译</title>
+      <link>https://linux.do/t/topic/2001101</link>
+      <guid>https://linux.do/t/topic/2001101</guid>
+      <description>A Song of Ice and Fire Ramin Djawadi Hae elēni ā iepagon 看啊 寥廓大地尘飞扬 Tcheret gere vēja pelothos 听吧 黑鸦哀鸣丧钟响 Tchaimè leda kivio yn tegon 千年 光阴流转孰做庄？ Tchere iā mili bano 又今 报应循环谁称王？ D…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>关于帖子被隐藏/询问的提问</title>
+      <link>https://linux.do/t/topic/2001096</link>
+      <guid>https://linux.do/t/topic/2001096</guid>
+      <description>你好：我发布了帖子 聊聊最近各模型回答质量规律性劣化的现象，以及为什么未来模型会越来越强，但是对于重度使用者来说可能也会越来越难用， 但是别人看不到，在我的主页中显示待处理 请问什么原因？一般多久处理好？谢谢 4 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>佬们有没有发现opus 4.7很懒</title>
+      <link>https://linux.do/t/topic/2001069</link>
+      <guid>https://linux.do/t/topic/2001069</guid>
+      <description>在claude code里面用opus4.7发现他现在几乎不调用工具，就自己在那里瞎想，之前给opus4.6配置的CLAUDE.md感觉一点作用都没了 2 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>有偿求佬友分享计算机会议的绘图prompt</title>
+      <link>https://linux.do/t/topic/2001065</link>
+      <guid>https://linux.do/t/topic/2001065</guid>
+      <description>想要绘制出效果好的，可以直接微调使用的prompt 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>8xa40服务器部署全精qwen27b，首发延迟高，约10s，速度慢，90-100tokens/s，何解</title>
+      <link>https://linux.do/t/topic/2001053</link>
+      <guid>https://linux.do/t/topic/2001053</guid>
+      <description>鄙人使用学校的8xa40-Pcle服务器，使用vllm部署全精qwen27b，首发延迟高，约10s，速度慢，90-100tokens/s，看到很多人用3090部署速度都没这么慢，这是为什么？有没有推荐部署的模型，27b对显存浪费有点大，不过pcle带宽比较低 12 个帖子 - 5 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>佬友们，有做摄像头的吗</title>
+      <link>https://linux.do/t/topic/2001037</link>
+      <guid>https://linux.do/t/topic/2001037</guid>
+      <description>有人做过商用监控摄像头的吗， 现在需要6-8个摄像头，装在新店里，店是餐饮店， 有什么推荐的吗，不要太贵的，二手的也可以的 预算大概得多少呀，加硬盘等，一套，得多少，不加人工安装 4 个帖子 - 4 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>【开源】CCQ v1.8.8更新，解决cc114版本报错</title>
+      <link>https://linux.do/t/topic/2001034</link>
+      <guid>https://linux.do/t/topic/2001034</guid>
+      <description>本帖使用社区开源推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的帖子已经打上 开源推广 标签： 是 我的开源项目完整开源，无未开源部分： 是 我的开源项目已链接认可 LINUX DO 社区： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>分享个Gemini提示词，解决思维链是英文和不主动搜索的问题</title>
+      <link>https://linux.do/t/topic/2001032</link>
+      <guid>https://linux.do/t/topic/2001032</guid>
+      <description>之前用Grok觉得comprehensive模式的提示词不错，借鉴了下融入到Gemini的自定义指令中，保存后开启新的对话就可以生效了。 Gemini的思维链是英文的，阅读不是很方便，这个提示词能大体上反应思维链中的内容，但注意不是逐字翻译的。 Gemini App Web端一直以来被诟病不积极调用搜索工具反而信誓旦旦的用自己过时的知识库来回答，这个提示词…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>【自制】全球新闻0419</title>
+      <link>https://linux.do/t/topic/2000973</link>
+      <guid>https://linux.do/t/topic/2000973</guid>
+      <description>全球新闻2026-04-19早报.pdf (212.2 KB) 【自制】全球新闻0418 【自制】全球新闻0417 【自制】全球新闻0416 【自制】全球新闻0415 【自制】全球新闻0414 【自制】全球新闻0410 【自制】全球新闻0409 【自制】全球新闻0408 【自制】全球新闻0407 【自制】全球新闻0406 【自制】全球新闻0405 【自制】…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>给还没撬开龟壳的佬友们一个思路，希望能帮到你</title>
+      <link>https://linux.do/t/topic/2000970</link>
+      <guid>https://linux.do/t/topic/2000970</guid>
+      <description>昨天晚上想再试试龟壳能不能撬开，尝试了全局代理、5g热点、宽带直连+qq邮箱、gmail、foxmail等组合，最后感觉有点绝望了，加上邮箱都还在冷却，就随便填了个不常用的icloud邮箱+手机小号，结果终于出跑道。关键点来了： 等我收到开号成功的邮件去登陆，在1passowrd搜索密码的时候，发现居然已经有两个邮箱在2024年注册过oracle了 ，当时…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>【抽奖】1个GPT PLUS卡密 ，需要自主兑换（无质保）</title>
+      <link>https://linux.do/t/topic/2000959</link>
+      <guid>https://linux.do/t/topic/2000959</guid>
+      <description>最近有点中毒，一直在用古法注册账号，手头有个plus卡密懒得换了，就送给有缘的佬友了。 : 奖品详情： 1个GPT PLUS 卡密 活动时间： 截止时间： Sun, Apr 19, 2026 9:00 PM CST 参与方式： 在本帖下回复任意内容即可。 抽奖规则： 每位用户仅允许参与一次。 使用工具 LINUX DO 抽奖工具 随机抽取中奖者。 注意事项…</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>codex app 找不到打开按钮</title>
+      <link>https://linux.do/t/topic/2000951</link>
+      <guid>https://linux.do/t/topic/2000951</guid>
+      <description>之前这个里有一个打开按钮，可以通过vscode等软件打开目录，更新完后找不到了 2 个帖子 - 2 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>想笑，都多笑笑</title>
+      <link>https://linux.do/t/topic/2000902</link>
+      <guid>https://linux.do/t/topic/2000902</guid>
+      <description>想笑就多笑笑 10 个帖子 - 5 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>求openclaw蹭的免费模型</title>
+      <link>https://linux.do/t/topic/2000897</link>
+      <guid>https://linux.do/t/topic/2000897</guid>
+      <description>之前一直用的iflow，18号关闭了，英伟达也注册不了，哪里还有可以openclaw蹭的免费模型？求佬友推荐下。公益站不用了，龙虾太吃token了，平时就处理下文档，劣质的也可以。 11 个帖子 - 7 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>用了一天的7块Plus掉了，号还在，还能继续开plus吗</title>
+      <link>https://linux.do/t/topic/2000884</link>
+      <guid>https://linux.do/t/topic/2000884</guid>
+      <description>第一天30分钟蹬完5小时限额，今天开蹬5分钟，发现掉了plus，不显示5小时限额了，这个号还能继续留着使用吗 10 个帖子 - 9 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>Cloudflare 推出 Agent Memory 托管服务</title>
+      <link>https://linux.do/t/topic/2000877</link>
+      <guid>https://linux.do/t/topic/2000877</guid>
+      <description>相关链接： Agents that remember: introducing Agent Memory Memory · Cloudflare Agents docs 1 个帖子 - 1 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>【TG机器人群也解散了】奥特曼发力了！（属谣言）</title>
+      <link>https://linux.do/t/topic/2000864</link>
+      <guid>https://linux.do/t/topic/2000864</guid>
+      <description>昨天晚上开始PRO大面积拉闸，今早全面薄纱 8 个帖子 - 8 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>佬们，any的那个调用子代理失败的bug修复了没</title>
+      <link>https://linux.do/t/topic/2000861</link>
+      <guid>https://linux.do/t/topic/2000861</guid>
+      <description>佬们，any的这个调用子代理的bug不知道怎么修复呀，用了哈雷佬的脚本，不知道怎么的还是报错 5 个帖子 - 3 位参与者 阅读完整话题</description>
+      <source>LinuxDo 最新话题</source>
+      <category>LinuxDo 最新话题</category>
+    </item>
+    <item>
+      <title>A Coding Tutorial for Running PrismML Bonsai 1-Bit LLM on CUDA with GGUF, Benchmarking, Chat, JSON, and RAG</title>
+      <link>https://marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag</link>
+      <guid>https://marktechpost.com/2026/04/18/a-coding-tutorial-for-running-prismml-bonsai-1-bit-llm-on-cuda-with-gguf-benchmarking-chat-json-and-rag</guid>
+      <description>In this tutorial, we implement how to run the Bonsai 1-bit large language model efficiently using GPU acceleration and PrismML’s optimized GGUF deployment stack....</description>
+      <source>MarkTechPost</source>
+      <category>MarkTechPost</category>
+    </item>
+    <item>
+      <title>refactor: share channel status account formatting</title>
+      <link>https://github.com/openclaw/openclaw/commit/9a93ea9d7aee2832d96fe6769322fc8be46d7e2f</link>
+      <guid>https://github.com/openclaw/openclaw/commit/9a93ea9d7aee2832d96fe6769322fc8be46d7e2f</guid>
+      <description>refactor: share channel status account formatting</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share task executor param types</title>
+      <link>https://github.com/openclaw/openclaw/commit/3e081c5d212368713745576481b488d79d9a0ec3</link>
+      <guid>https://github.com/openclaw/openclaw/commit/3e081c5d212368713745576481b488d79d9a0ec3</guid>
+      <description>refactor: share task executor param types</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share status memory resolver types</title>
+      <link>https://github.com/openclaw/openclaw/commit/c72f539ced7253a86356f6d2762a44492b46e426</link>
+      <guid>https://github.com/openclaw/openclaw/commit/c72f539ced7253a86356f6d2762a44492b46e426</guid>
+      <description>refactor: share status memory resolver types</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share config observe recovery helpers</title>
+      <link>https://github.com/openclaw/openclaw/commit/83801c49f7a323c4c792867999afed56cca3c921</link>
+      <guid>https://github.com/openclaw/openclaw/commit/83801c49f7a323c4c792867999afed56cca3c921</guid>
+      <description>refactor: share config observe recovery helpers</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share gateway reload params</title>
+      <link>https://github.com/openclaw/openclaw/commit/812f96cf24e278caa3c16ad7cbb4a6900efd5df2</link>
+      <guid>https://github.com/openclaw/openclaw/commit/812f96cf24e278caa3c16ad7cbb4a6900efd5df2</guid>
+      <description>refactor: share gateway reload params</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share task flow create params</title>
+      <link>https://github.com/openclaw/openclaw/commit/2f84c47b8bc2cccf9915d03c4a5eef11e7327908</link>
+      <guid>https://github.com/openclaw/openclaw/commit/2f84c47b8bc2cccf9915d03c4a5eef11e7327908</guid>
+      <description>refactor: share task flow create params</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share status scan bootstrap params</title>
+      <link>https://github.com/openclaw/openclaw/commit/d385b96451912d347519ac5892045f50559db0b1</link>
+      <guid>https://github.com/openclaw/openclaw/commit/d385b96451912d347519ac5892045f50559db0b1</guid>
+      <description>refactor: share status scan bootstrap params</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share media dimension parsing</title>
+      <link>https://github.com/openclaw/openclaw/commit/d4e1a790abd03f3799b3e7c600abf8579d3ea442</link>
+      <guid>https://github.com/openclaw/openclaw/commit/d4e1a790abd03f3799b3e7c600abf8579d3ea442</guid>
+      <description>refactor: share media dimension parsing</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share provider plugin id filtering</title>
+      <link>https://github.com/openclaw/openclaw/commit/34abb441f69c771af3b1fa8c2ae1aba317d463b8</link>
+      <guid>https://github.com/openclaw/openclaw/commit/34abb441f69c771af3b1fa8c2ae1aba317d463b8</guid>
+      <description>refactor: share provider plugin id filtering</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share legacy config migration pipeline</title>
+      <link>https://github.com/openclaw/openclaw/commit/984ecd98ca190366f0b946b6ebab4ae474911651</link>
+      <guid>https://github.com/openclaw/openclaw/commit/984ecd98ca190366f0b946b6ebab4ae474911651</guid>
+      <description>refactor: share legacy config migration pipeline</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share acp identity construction</title>
+      <link>https://github.com/openclaw/openclaw/commit/528f296cfc7cf048cb01b8fa85b0dc35645b9a3a</link>
+      <guid>https://github.com/openclaw/openclaw/commit/528f296cfc7cf048cb01b8fa85b0dc35645b9a3a</guid>
+      <description>refactor: share acp identity construction</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share conversation target normalization</title>
+      <link>https://github.com/openclaw/openclaw/commit/45381135df8d4e436e31fe17496175d707d10822</link>
+      <guid>https://github.com/openclaw/openclaw/commit/45381135df8d4e436e31fe17496175d707d10822</guid>
+      <description>refactor: share conversation target normalization</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share plugin validation diagnostics</title>
+      <link>https://github.com/openclaw/openclaw/commit/2a14f769641d63edece20e64a90ad7c1f7c3fe9a</link>
+      <guid>https://github.com/openclaw/openclaw/commit/2a14f769641d63edece20e64a90ad7c1f7c3fe9a</guid>
+      <description>refactor: share plugin validation diagnostics</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: reduce subagent requester wrapper duplication</title>
+      <link>https://github.com/openclaw/openclaw/commit/ca3e5ffd892a87578f1e53419939187e673cb67e</link>
+      <guid>https://github.com/openclaw/openclaw/commit/ca3e5ffd892a87578f1e53419939187e673cb67e</guid>
+      <description>refactor: reduce subagent requester wrapper duplication</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>test: share media generation reset helpers</title>
+      <link>https://github.com/openclaw/openclaw/commit/9686e518bcf72ac3c5a05a12a373a89c4372b2b7</link>
+      <guid>https://github.com/openclaw/openclaw/commit/9686e518bcf72ac3c5a05a12a373a89c4372b2b7</guid>
+      <description>test: share media generation reset helpers</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share model resolve fallback lookup</title>
+      <link>https://github.com/openclaw/openclaw/commit/5ca33f7cb45cf3ddc3732bc0a0b66e96e9fbe4e9</link>
+      <guid>https://github.com/openclaw/openclaw/commit/5ca33f7cb45cf3ddc3732bc0a0b66e96e9fbe4e9</guid>
+      <description>refactor: share model resolve fallback lookup</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share provider replay hook params</title>
+      <link>https://github.com/openclaw/openclaw/commit/dfe2e818298f55a2dd32a1ec30011485eba9cd98</link>
+      <guid>https://github.com/openclaw/openclaw/commit/dfe2e818298f55a2dd32a1ec30011485eba9cd98</guid>
+      <description>refactor: share provider replay hook params</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share model allowlist parsing</title>
+      <link>https://github.com/openclaw/openclaw/commit/3eed32108187bf5c1a31b2f81344cb101c907162</link>
+      <guid>https://github.com/openclaw/openclaw/commit/3eed32108187bf5c1a31b2f81344cb101c907162</guid>
+      <description>refactor: share model allowlist parsing</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>test: share pi embedded helper setup</title>
+      <link>https://github.com/openclaw/openclaw/commit/2a35ea4f07b4dcd41b99669ad263a5ec5b0384cf</link>
+      <guid>https://github.com/openclaw/openclaw/commit/2a35ea4f07b4dcd41b99669ad263a5ec5b0384cf</guid>
+      <description>test: share pi embedded helper setup</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>refactor: share cron flat recovery</title>
+      <link>https://github.com/openclaw/openclaw/commit/efda761724fb78bcb5c142f577da15f706cbd690</link>
+      <guid>https://github.com/openclaw/openclaw/commit/efda761724fb78bcb5c142f577da15f706cbd690</guid>
+      <description>refactor: share cron flat recovery</description>
+      <source>OpenClaw Commits</source>
+      <category>OpenClaw Commits</category>
+    </item>
+    <item>
+      <title>openclaw 2026.4.19-beta.1</title>
+      <link>https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.1</link>
+      <guid>https://github.com/openclaw/openclaw/releases/tag/v2026.4.19-beta.1</guid>
+      <description>Fixes Agents/channels: route cross-agent subagent spawns through the target agent&#x27;s bound channel account while preserving peer and workspace/role-scoped bindings, so child sessio…</description>
+      <source>OpenClaw Releases</source>
+      <category>OpenClaw Releases</category>
+    </item>
+    <item>
+      <title>Grok Voice API</title>
+      <link>https://producthunt.com/products/grok</link>
+      <guid>https://producthunt.com/products/grok</guid>
+      <description>Fast, accurate STT and TTS APIs at the best price Discussion | Link</description>
+      <source>Product Hunt</source>
+      <category>Product Hunt</category>
+    </item>
+    <item>
+      <title>市场监管部门捣毁特大制售侵权假冒白酒网络</title>
+      <link>https://readhub.cn/topic/8sRuIsVIPGe</link>
+      <guid>https://readhub.cn/topic/8sRuIsVIPGe</guid>
+      <description>近期，山西、四川两省市场监管、公安部门联合行动，成功摧毁一个特大制售商标侵权和伪劣白酒的违法犯罪网络。行动查获相关场所7处、网络直播销售点1处，查获涉嫌侵权假冒白酒近2万箱、假冒包材70余万件等。已查明涉案金额2.6亿元，公安机关传唤22人，采取强制措施11人，其中移送审查起诉2人。 媒体报道 市场监管部门捣毁特大制售侵权假冒白酒网络 格隆汇 我国摧毁特大…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>油价上涨催生丹麦“电车热”</title>
+      <link>https://readhub.cn/topic/8sRobKMEpu9</link>
+      <guid>https://readhub.cn/topic/8sRobKMEpu9</guid>
+      <description>近期中东紧张局势和霍尔木兹海峡封锁致全球能源市场波动，油价上涨推高欧洲燃油成本、改变当地消费者行为与产业结构。丹麦电动车需求升温，今年第一季度新车销量显示，私人消费者购买新车中电动汽车占比约95%，折射出欧洲在能源与地缘政治中的被动处境。 媒体报道 油价上涨催生丹麦“电车热” 财联社/钛媒体/格隆汇/36Kr</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>因“幽灵外卖”被罚 35.97 亿元，7 家电商平台表示诚恳接受</title>
+      <link>https://readhub.cn/topic/8sQ2YpUE3tl</link>
+      <guid>https://readhub.cn/topic/8sQ2YpUE3tl</guid>
+      <description>国家市场监督管理总局对拼多多、美团、京东等 7 家电商平台开出 35.97 亿元巨额罚单，对 7 家平台法定代表人和食品安全总监合计处以罚款 1968.74 万元。“市说新语”公众号发文称，7 家平台相继回应，均表示诚恳接受处罚并落实整改，各平台还阐述了具体整改措施和方向。 媒体报道 7家电商平台回应市场监管总局处罚 表示诚恳接受 中国科技网 一份蛋糕订单…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>高德发布全球首个面向AGI的全栈具身技术体系“ABot”</title>
+      <link>https://readhub.cn/topic/8sRlk8JyqaP</link>
+      <guid>https://readhub.cn/topic/8sRlk8JyqaP</guid>
+      <description>在2026北京亦庄机器人半程马拉松上，高德正式公开全球首款开放环境全自主具身机器人“高德途途”，该四足机器人可协助视障人士完成实战挑战，其底层依托高德ABot具身技术体系，基于大量真实场景与多模态数据构建，目前高德ABot系列模型已在全球15项基准测试中拿到SOTA。 媒体报道 高德发布ABot具身智能全栈技术体系 宣布将全面开源 和讯网/凤凰科技 高德发…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>北方多地气温冲击30℃ 明起冷空气携降温雨雪影响中东部</title>
+      <link>https://readhub.cn/topic/8sPyG6k0grQ</link>
+      <guid>https://readhub.cn/topic/8sPyG6k0grQ</guid>
+      <description>4月18日南方降雨进一步减弱，江南多地有望放晴，北方多地气温将冲击30℃。明天起，受冷暖空气影响，中东部将现大范围降雨，南方局地有强对流天气，北方局地伴有强降雪。今起三天，北方至长江中下游等地气温陆续明显下降，需适时调整着装。 媒体报道 北京今天降雨风沙齐至，阵风可达7至8级，明后天以晴为主 钛媒体 今天北京最高气温可达26℃ 明起有一次冷空气大风过程 新…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>国产光纤全球爆单 部分产品价格暴涨650%</title>
+      <link>https://readhub.cn/topic/8sRiskWDkyh</link>
+      <guid>https://readhub.cn/topic/8sRiskWDkyh</guid>
+      <description>今年以来，光纤行业呈现“产品量价齐升”的景气态势。江苏一家光纤生产企业一季度光纤产品产销量同比增长超35%，海外销量增速超55%，在手订单充足，排产已排到明年一季度。另一家企业一季度光纤产销量同比增长近5倍。同时，产品价格大幅上涨，如G.657.A2光纤从去年每芯公里32元涨至今年的240元，涨幅达650%。 媒体报道 国产光纤全球爆单 部分产品价格暴涨6…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛</title>
+      <link>https://readhub.cn/topic/8sRisGYP8eG</link>
+      <guid>https://readhub.cn/topic/8sRisGYP8eG</guid>
+      <description>4月19日早，北京首个交警机器人亮相亦庄半程马拉松比赛路线，指挥选手奔跑，后续将在路口试点执勤，陆续完善并实现更多功能。 媒体报道 北京首个交警机器人亮相街头，参与指挥2026人形机器人半马比赛 凤凰科技 亦庄半马机器人交警上岗，现场指挥机器人参赛 格隆汇 北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛 36Kr/财联社 事件追踪 2025-03-…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战</title>
+      <link>https://readhub.cn/topic/8sRispyrD9h</link>
+      <guid>https://readhub.cn/topic/8sRispyrD9h</guid>
+      <description>2026世界超级摩托车锦标赛荷兰站中量级正赛第二轮于4月19日举行，中国“张雪机车”的53号法国车手瓦伦丁·德比斯参赛。北京时间4月18日晚第一回合正赛中，德比斯获第四名。荷兰站正赛分两回合，两场积分加总排最终名次。 媒体报道 WSBK荷兰站第二轮正赛将举行 “张雪机车”今日再战 财联社/格隆汇/36Kr 张雪回应WSBK荷兰站违规被罚：车手和车没遇到任何…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>河南省脑机接口康复设备技术创新中心揭牌</title>
+      <link>https://readhub.cn/topic/8sRYsdFbdzk</link>
+      <guid>https://readhub.cn/topic/8sRYsdFbdzk</guid>
+      <description>河南省脑机接口康复设备技术创新中心正式揭牌，它是国内率先获批建设的省级脑机接口技术创新平台，由翔宇医疗牵头，联合郑州大学、郑州大学第一附属医院共建。中心将重点攻克关键技术，填补国内相关领域多项空白，推动脑机接口康复技术走向临床、惠及患者。 媒体报道 河南省脑机接口康复设备技术创新中心揭牌 36Kr/格隆汇/财联社</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>宇树H1打破人类1500米世界纪录</title>
+      <link>https://readhub.cn/topic/8sRaJC0ECGq</link>
+      <guid>https://readhub.cn/topic/8sRaJC0ECGq</guid>
+      <description>宇树科技发文称，16号北京人形机器人马拉松排位赛中，宇树H1（23年改版）自主跑完1.9公里多弯道赛程，用时4分13秒，按比例计算打破人类1500米世界纪录。 媒体报道 宇树H1打破人类1500米世界纪录 凤凰科技 宇树称打破人类1500米世界纪录 新浪科技/财联社/36Kr/钛媒体 宇树打破人类1500米世界纪录 华尔街见闻 事件追踪 2026-04-1…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>Cursor即将完成20亿美元融资，估值达500亿美元</title>
+      <link>https://readhub.cn/topic/8sRZE8To0Fg</link>
+      <guid>https://readhub.cn/topic/8sRZE8To0Fg</guid>
+      <description>四位知情人士透露，人工智能编程初创企业 Cursor 即将完成新一轮融资，将筹集至少 20 亿美元，现有投资方 Thrive 和安德森·霍洛维茨基金预计牵头，新晋投资方 Battery Ventures 可能参与，战略投资方英伟达亦计划出资，融资前估值 500 亿美元。虽融资已获超额认购，但交易条款未最终敲定。若融资顺利，Cursor 估值将较六个月前近乎…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>2026北京亦庄机器人半马开跑，荣耀“闪电”夺冠</title>
+      <link>https://readhub.cn/topic/8sRZE8nfvMD</link>
+      <guid>https://readhub.cn/topic/8sRZE8nfvMD</guid>
+      <description>北京亦庄半程马拉松暨人形机器人半程马拉松（北京亦庄机器人半马）开跑，105支人形机器人队伍与真人同期参赛，开赛不到50分钟，荣耀“闪电”率先冲向终点夺冠。 媒体报道 终端大厂全球首个！荣耀自研机器人闪电半马率先冲线：用时48分19秒 快科技 视频|励志一幕！荣耀“闪电”机器人摔倒后起身率先冲线 新浪科技 50 分 26 秒超人类世界纪录，荣耀“闪电”夺 2…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>强对流天气蓝色预警：华北黄淮西南等部分地区有雷暴大风或冰雹</title>
+      <link>https://readhub.cn/topic/8sQjPWdK4It</link>
+      <guid>https://readhub.cn/topic/8sQjPWdK4It</guid>
+      <description>4月18日18时发布强对流天气蓝色预警，预计4月18日20时至19日20时，内蒙古河套地区、华北南部等地部分地区有8级以上雷暴大风或冰雹，河北南部等地部分地区有10级以上雷暴大风，最大风力11级以上。黄淮中西部等地部分地区有小时雨量大于20毫米的短时强降水，重庆中西部等地部分地区小时雨量大于50毫米，最大可达60毫米以上。 媒体报道 河北山东等9省区市部分…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>2026北京亦庄人形机器人半程马拉松开跑</title>
+      <link>https://readhub.cn/topic/8sQihprYZfO</link>
+      <guid>https://readhub.cn/topic/8sQihprYZfO</guid>
+      <description>2026北京亦庄人形机器人半程马拉松于早间7点30分开跑，100余支队伍的机器人从科创十七街起跑，最终在南海子公园冲线。今早6时许选手开始陆续进场，赛道全长约21公里，融合多种地形，有多个弯道，考验机器人路径规划与动态平衡能力。 媒体报道 2026北京亦庄人形机器人半程马拉松开跑 每经网/新浪科技 北京机器人半马开跑：机器人跑姿各异，速度快到人类追不上，还…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>新突破 我国首个十万户级天然气掺氢应用项目启动</title>
+      <link>https://readhub.cn/topic/8sRYsYZDzvj</link>
+      <guid>https://readhub.cn/topic/8sRYsYZDzvj</guid>
+      <description>我国首个10万户级天然气掺氢规模化应用项目4月19日在山东潍坊正式启动，该项目依托现有城镇天然气管网基础设施，可实现稳定的天然气掺氢输配。初步测算，全国城镇燃气消费按10%掺氢比例，每年可替代天然气约150亿立方米，减少二氧化碳排放约3000万吨。 媒体报道 新突破 我国首个十万户级天然气掺氢应用项目启动 新浪科技/财联社/格隆汇/36Kr/中国科技网 我…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>五一假期首尾高峰时段增开夜间高铁，旅客可提前7至5天购买</title>
+      <link>https://readhub.cn/topic/8sQxjVdI45V</link>
+      <guid>https://readhub.cn/topic/8sQxjVdI45V</guid>
+      <description>五一假期首尾出行高峰时段及旅客出行集中方向，铁路部门计划调整高铁夜间“天窗”维修时间，于4月29日夜间至5月2日凌晨、5月4日夜间至6日凌晨，在京沪、京广、京哈等高铁干线安排开行直通夜间高铁，平均每天增开约700列。五一火车票开售以来需求旺盛，增开列车实行按方向梯次售票，部分列车开车前7天售票，其余开车前5天售票，以防因非正常情况临时取消列车影响旅客出行。…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>马普学会与中国科学院成立联合研究中心</title>
+      <link>https://readhub.cn/topic/8sQlYggROEI</link>
+      <guid>https://readhub.cn/topic/8sQlYggROEI</guid>
+      <description>“马克斯·普朗克 - 中国科学院合成生物化学联合研究中心”18日在深圳揭牌，由中国科学院深圳先进技术研究院与德国马普学会陆地微生物研究所共同设立。该中心依托双方建设运营，聚焦天然产物发掘与绿色生物制造等问题，发挥双方优势深层互补，破解从基因到功能的转化难题。相关负责人称，联合中心将瞄准合成生物全球创新前沿，推动成果转化，还将聚焦生物医药领域瓶颈，构建人才联…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>英海上贸易行动办公室：1艘集装箱船在霍尔木兹海峡附近遇袭</title>
+      <link>https://readhub.cn/topic/8sQs06lAMEY</link>
+      <guid>https://readhub.cn/topic/8sQs06lAMEY</guid>
+      <description>英国海上贸易行动办公室18日称，接到报告，霍尔木兹海峡附近（阿曼东北约25海里处）1艘集装箱船遭不明发射物击中，部分集装箱受损，未引发火灾和环境影响。 媒体报道 英海上贸易行动办公室：霍尔木兹海峡附近发生多起船只遇袭事件 华尔街见闻/新浪科技 英海上贸易行动办公室：1艘集装箱船在霍尔木兹海峡附近遇袭 华尔街见闻/格隆汇 事件追踪 2026-04-14 17…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>国产光纤全球爆单，部分产品价格暴涨650%</title>
+      <link>https://readhub.cn/topic/8sQxiIHvQTW</link>
+      <guid>https://readhub.cn/topic/8sQxiIHvQTW</guid>
+      <description>今年以来，光纤行业呈现“产品量价齐升”的景气态势。江苏一家光纤生产企业一季度光纤产品产销量同比增长超35%，海外销量增速超55%，在手订单充足，排产已到明年一季度。另一家企业一季度光纤产销量同比增长近5倍。同时，产品价格大幅上涨，如G.657.A2光纤从去年每芯公里32元涨到今年的240元，涨幅达650%。 媒体报道 国产光纤全球爆单，部分产品价格暴涨65…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>北京人形具身天工3.0获亦庄机器人勇士挑战赛冠军</title>
+      <link>https://readhub.cn/topic/8sQrzxtuXXg</link>
+      <guid>https://readhub.cn/topic/8sQrzxtuXXg</guid>
+      <description>首届北京亦庄机器人勇士挑战赛落幕，北京人形携具身天工3.0全尺寸通用人形机器人以全自主方式完赛，通关基于现实高危场景设计的赛项，以最高积分获全球首个全自主机器人勇士挑战赛冠军，并赢得勇士智行奖。 媒体报道 天工 3.0 机器人斩获北京亦庄勇士挑战赛冠军，实现“全自主”通关 IT 之家 北京人形具身天工3.0获亦庄机器人勇士挑战赛冠军 华尔街见闻/格隆汇 事…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>支付宝首个赞助商IP更名为“南京赢”</title>
+      <link>https://readhub.cn/topic/8sQwHhjSuxD</link>
+      <guid>https://readhub.cn/topic/8sQwHhjSuxD</guid>
+      <description>4月18日晚，“苏超”宿迁队2 - 0击败南京队后，南京队主赞助商支付宝宣布，将4月15日推出的首个赞助商IP“南京灵”正式更名为“南京赢”，此前“南京灵”被网友调侃为“南京零”。 媒体报道 支付宝首个赞助商IP更名为“南京赢” 华尔街见闻/格隆汇/网易科技</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>券商薪酬管理再规范：新增长周期考核要求，明确追索扣回适用离职退休人员</title>
+      <link>https://readhub.cn/topic/8sPvOpnSi69</link>
+      <guid>https://readhub.cn/topic/8sPvOpnSi69</guid>
+      <description>中国证券业协会修订《证券公司建立稳健薪酬制度指引》，自发布之日起施行。本次修订保持总体框架不变，在多方面细化完善，增强规则适用性和可操作性。新增了长周期考核要求，明确纳入长周期考核人员的绩效考核指标应含3年及以上长期指标，主要业务部门及关键岗位人员的绩效考核指标包括经济效益、合规风控和社会责任指标。对绩效递延支付的适用人员、年限等提出要求，明确追索扣回同样…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>受中东冲突的影响 南非旅游订单大规模取消</title>
+      <link>https://readhub.cn/topic/8sQqZBzUpRF</link>
+      <guid>https://readhub.cn/topic/8sQqZBzUpRF</guid>
+      <description>受中东冲突影响，国际航班大面积取消，游客出行意愿下降。南非旅游业遭受冲击，相关旅游订单量大幅下滑，经济显著承压。约80%旅游企业受影响，超50%消费者取消预订，3月新增旅游订单量同比骤降40%到50%，约一半已有订单预订被取消，许多游客选择观望。 媒体报道 受中东冲突的影响 南非旅游订单大规模取消 财联社/格隆汇 受中东冲突的影响，南非旅游订单大规模取消…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>一季度经港珠澳大桥珠海公路口岸进出口总值达961.7亿元</title>
+      <link>https://readhub.cn/topic/8sQnjDhIa2y</link>
+      <guid>https://readhub.cn/topic/8sQnjDhIa2y</guid>
+      <description>今年一季度，经港珠澳大桥珠海公路口岸进出口总值达961.7亿元，同比增长55.4%，其作为珠江西岸外贸核心通道的地位日益凸显。经该口岸对东盟进出口总值268亿元，同比增长203.1%，高新技术产品等东盟市场热销商品出口增长显著。 媒体报道 一季度经港珠澳大桥珠海公路口岸进出口总值达961.7亿元 新浪科技/华尔街见闻/财联社/钛媒体/格隆汇 事件追踪 20…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>海康威视：全年经营仍面临诸多不确定因素 公司将谨慎应对</title>
+      <link>https://readhub.cn/topic/8sQkr18BCBX</link>
+      <guid>https://readhub.cn/topic/8sQkr18BCBX</guid>
+      <description>海康威视在业绩说明会上称，一季度业绩表现强劲，36.42%的归母净利润增速是在汇兑损益产生负面影响下实现的。全年展望方面，受中东局势、油价、存储价格等不确定性影响，公司给出相对谨慎的业绩指引，预计全年收入高个位数增长、归母净利润两位数增长，指引范围较宽泛。核心增长点包括创新业务将高速发展、国内外业务不错，若还原汇兑损益影响，净利润表现更突出，这得益于管理改…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>三河多贝玛亚运送系统有限公司召回79条客运索道</title>
+      <link>https://readhub.cn/topic/8sQnhs69Auj</link>
+      <guid>https://readhub.cn/topic/8sQnhs69Auj</guid>
+      <description>三河多贝玛亚运送系统有限公司主动向市场监管总局报告召回计划，自即日起召回1997年1月1日至2023年12月31日期间制造的部分使用DT系列抱索器的79条客运索道。因设计原因，该范围内客运索道空载吊厢遇极端强风超标准偏摆时，可能造成抱索器撞击捕绳器，极端情况可能致抱索器扭开脱落，存在安全隐患。 媒体报道 三河多贝玛亚运送系统有限公司召回79条客运索道 华尔…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>国际航协：欧洲航班最早下月底开始出现停飞潮 各国需协调应对</title>
+      <link>https://readhub.cn/topic/8sQgZwmKbV4</link>
+      <guid>https://readhub.cn/topic/8sQgZwmKbV4</guid>
+      <description>国际航空运输协会警告，中东战争或致航空燃油配给措施启动，欧洲最早5月底开始取消航班，航协呼吁各国政府尽快制定协调周密方案降低对航班运行的冲击。 媒体报道 国际航协：欧洲航班最早下月底开始出现停飞潮 各国需协调应对 格隆汇/财联社 国际航协：欧洲航班最早下月底开始出现停飞潮，各国需协调应对 华尔街见闻/界面 国际航协警告欧洲可能因缺油出现“停飞潮” 新浪科技…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>比亚迪闪充“珠峰站”正式投入运营</title>
+      <link>https://readhub.cn/topic/8sQgZEGQlnb</link>
+      <guid>https://readhub.cn/topic/8sQgZEGQlnb</guid>
+      <description>比亚迪珠峰小镇闪充站——全球海拔最高的闪充站日前正式运营。截至4月16日，比亚迪累计建成5356座闪充站，覆盖全国311座城市，此前宣布将于2026年年底在全国建设20000座闪充站。 媒体报道 比亚迪闪充“珠峰站”正式投入运营 华尔街见闻/格隆汇 比亚迪全球海拔最高“珠峰站”正式投运，全国累计建成超 5356 座闪充站 IT 之家 事件追踪 2026-0…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>IMF对菲债务风险及能源危机发出警示</title>
+      <link>https://readhub.cn/topic/8sQdhSJLd3a</link>
+      <guid>https://readhub.cn/topic/8sQdhSJLd3a</guid>
+      <description>国际货币基金组织（IMF）近日警示菲律宾政府债务风险，称其财政缓冲空间有限，制约加大经济支持力度的能力，呼吁实施更具针对性财政措施以应对能源危机。 媒体报道 IMF对菲债务风险及能源危机发出警示 华尔街见闻/财联社/格隆汇 事件追踪 2026-04-17 02:27:22 IMF：中东冲突引发的能源冲击可能对亚洲经济的影响超过其他地区 2026-04-02…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>人工智能芯片制造商 Cerebras 启动美股 IPO，挑战英伟达</title>
+      <link>https://readhub.cn/topic/8sPh6TanUHW</link>
+      <guid>https://readhub.cn/topic/8sPh6TanUHW</guid>
+      <description>人工智能芯片制造商 Cerebras Systems 披露美股 IPO 申请文件，欲挑战 AI 巨头英伟达。该公司去年 10 月曾申请 IPO，融资后撤回。其致力于“走英伟达没走过的路”，避免依赖 HBM 内存，布局推理领域，已与 OpenAI 达成 200 亿美元多年协议，将为其部署 750 兆瓦规模芯片。此外，Cerebras 计划在纳斯达克上市，股票…</description>
+      <source>Readhub 热门</source>
+      <category>Readhub 热门</category>
+    </item>
+    <item>
+      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt</link>
+      <guid>https://simonwillison.net/2026/Apr/18/opus-system-prompt</guid>
+      <description>Anthropic are the only major AI lab to publish the system prompts for their user-facing chat systems. Their system prompt archive now dates all the way back to Claude 3 in July 20…</description>
+      <source>Simon Willison&#x27;s Blog</source>
+      <category>Simon Willison&#x27;s Blog</category>
+    </item>
+    <item>
+      <title>Claude system prompts as a git timeline</title>
+      <link>https://simonwillison.net/2026/Apr/18/extract-system-prompts</link>
+      <guid>https://simonwillison.net/2026/Apr/18/extract-system-prompts</guid>
+      <description>Research: Claude system prompts as a git timeline Anthropic publish the system prompts for Claude chat and make that page available as Markdown . I had Claude Code turn that page…</description>
+      <source>Simon Willison&#x27;s Blog</source>
+      <category>Simon Willison&#x27;s Blog</category>
+    </item>
+    <item>
+      <title>Tesla brings its robotaxi service to Dallas and Houston</title>
+      <link>https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston</link>
+      <guid>https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston</guid>
+      <description>The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 20…</description>
+      <source>TechCrunch</source>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>VC Ron Conway says he has a ‘rare form of cancer’</title>
+      <link>https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer</link>
+      <guid>https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer</guid>
+      <description>Conway wrote that he “will be stepping back from some of my usual activities,” but he will “continue to support” founders backed by his firm SV Angel.</description>
+      <source>TechCrunch</source>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Anthropic’s relationship with the Trump administration seems to be thawing</title>
+      <link>https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing</link>
+      <guid>https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing</guid>
+      <description>Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.</description>
+      <source>TechCrunch</source>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>The App Store is booming again, and AI may be why</title>
+      <link>https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why</link>
+      <guid>https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why</guid>
+      <description>New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.</description>
+      <source>TechCrunch</source>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>Once close enough for an acquisition, Stripe and Airwallex are now going after each other</title>
+      <link>https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other</link>
+      <guid>https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other</guid>
+      <description>For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That&#x27;s changing.</description>
+      <source>TechCrunch</source>
+      <category>TechCrunch</category>
+    </item>
+    <item>
+      <title>[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data</title>
+      <link>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</link>
+      <guid>https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html</guid>
+      <description>In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was wa…</description>
+      <source>The Hacker News</source>
+      <category>The Hacker News</category>
+    </item>
+    <item>
+      <title>$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims</title>
+      <link>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</link>
+      <guid>https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html</guid>
+      <description>Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it&#x27;s suspending operations after it blamed Western intelligence agenc…</description>
+      <source>The Hacker News</source>
+      <category>The Hacker News</category>
+    </item>
+    <item>
+      <title>Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet</title>
+      <link>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</link>
+      <guid>https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html</guid>
+      <description>Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings fr…</description>
+      <source>The Hacker News</source>
+      <category>The Hacker News</category>
+    </item>
+    <item>
+      <title>The RAM shortage could last years</title>
+      <link>https://theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years</link>
+      <guid>https://theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years</guid>
+      <description>According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even sa…</description>
+      <source>The Verge</source>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Judge rules Trump administration violated the First Amendment in fight against ICE-tracking</title>
+      <link>https://theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking</link>
+      <guid>https://theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking</guid>
+      <description>Jorge L. Alonso, a federal district court judge for the Northern District of Illinois, said that the Trump Administration violated the First Amendment when it pressured Facebook a…</description>
+      <source>The Verge</source>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Cheap stuff that doesn’t suck, take 3</title>
+      <link>https://theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers</link>
+      <guid>https://theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers</guid>
+      <description>From fancy OLED TVs to robot vacuums with arms, we tend to cover a lot of cool stuff here at The Verge that, unfortunately, often costs as much as a month’s rent (or more). But wi…</description>
+      <source>The Verge</source>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>Dyson’s handheld fan is more powerful and louder than I expected</title>
+      <link>https://theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on</link>
+      <guid>https://theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on</guid>
+      <description>Two years ago I attended a picturesque outdoor wedding in August where the hot and humid weather had guests occasionally ducking into their cars to enjoy a blast of AC. Dyson’s ne…</description>
+      <source>The Verge</source>
+      <category>The Verge</category>
+    </item>
+    <item>
+      <title>你的 plus 还好吗？</title>
+      <link>https://v2ex.com/t/1206964</link>
+      <guid>https://v2ex.com/t/1206964</guid>
+      <description>三个号全噶了。 看样子屠杀开始了~</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>推荐下自己开发的一款字符串处理小工具</title>
+      <link>https://v2ex.com/t/1206959</link>
+      <guid>https://v2ex.com/t/1206959</guid>
+      <description>开发背景 op 在一家小公司上班，由于系统 Bug 较多，经常需要处理数据库中奇怪的脏数据，便以此为契机开发了这款字符串小工具，同时也增加了一些实用功能。如果你经常需要读取 MyBatis 日志、使用 DataGrip 处理数据，或者浏览 JSON ，大概率会需要这款软件。 功能介绍 项目简介 string_utils_v2 是一个面向日常开发场景的 El…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>[吃瓜] 有人在 Openai 论坛举报了谷歌英国 Plus 专业版计划被广泛滥用，但是并没有给出可复现的技术细节</title>
+      <link>https://v2ex.com/t/1206947</link>
+      <guid>https://v2ex.com/t/1206947</guid>
+      <description>https://community.openai.com/t/google-uk-plus-pro-plan-is-being-widely-abused/1379242 To the OpenAI technical department I am writing to formally report a serious and increasingly…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>亲测豆包碾压 gemini 的两个点。</title>
+      <link>https://v2ex.com/t/1206943</link>
+      <guid>https://v2ex.com/t/1206943</guid>
+      <description>手机答题，需要远程答题： 手机打开 gemini 视频，它答几道题后就死循环了。判断题都说正确，选择题都选 A... 豆包第一次错 12 个，第二次错 8 个，惊险通关。 写真生成： 媳妇用豆包生成的写真可以以假乱真。（有女友的可以去试试，豆包甚至有个写真广场，模板一键生成） 然后找媳妇要提示词去香蕉 pro 和香蕉 2 试..照片人物跟生成人物压根没关联…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>被 Google Adsense 拒绝 6 次后，终于在第 7 次通过审核</title>
+      <link>https://v2ex.com/t/1206942</link>
+      <guid>https://v2ex.com/t/1206942</guid>
+      <description>2026 年 3 月 22 日终于通过了 Google Adsense 审核，从 2024 年 4 月 3 日开始提交审核，总共提交了 7 次，总算是通过了。到今天为止差不多一个月的时间，带来的总广告收入为 5.78 美元，虽然还很低，但起码流程上通了。 小小纪念一下，接下来继续优化 SEO ，争取广告费早日日入 1 刀</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>restic 现在达到生产环境可信赖的程度了吗?或者你在生产环境使用哪些备份还原程序呢?</title>
+      <link>https://v2ex.com/t/1206934</link>
+      <guid>https://v2ex.com/t/1206934</guid>
+      <description>要求如下: ①加密备份 ②提供校验数据完整性的子命令 ③CLI(GUI 程序请勿推荐)</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>有人会愿意为没有比官方便宜的 Claude 中转付费吗？</title>
+      <link>https://v2ex.com/t/1206923</link>
+      <guid>https://v2ex.com/t/1206923</guid>
+      <description>感觉干净的 Claude 中转都不便宜，看起来有些甚至还比官方贵，这种为何还有人付费？</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>你会愿意为浏览器付费吗？</title>
+      <link>https://v2ex.com/t/1206919</link>
+      <guid>https://v2ex.com/t/1206919</guid>
+      <description>Brave 新的浏览器 Origin [专为那些不需要支持 Brave 商业模式的冗余功能，但仍渴望获得 Brave 独有隐私保护的用户而设计。] 59.99 美元，折合人民币 425 元，一次供 10 台设备使用。 https://account.brave.com/?intent=checkout&amp;product=origin</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>DOMPrompter：我做了个专门给前端界面微调的提示词工具</title>
+      <link>https://v2ex.com/t/1206910</link>
+      <guid>https://v2ex.com/t/1206910</guid>
+      <description>最近在用 Cursor 、Claude Code 这类工具改前端界面的时候，我越来越觉得，真正麻烦的不是从 0 生成一个页面，而是最后那一段很细的界面微调。 比如这种场景： 某个按钮再往右一点 两张卡片之间的 gap 再大一点 标题和下面说明文的距离不太对 某个 tag 看起来太挤，想单独调一下 这时候最难的点其实是：你很难把“到底是哪个元素、差异在哪里、…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>分享一些处理大模型幻觉的心得</title>
+      <link>https://v2ex.com/t/1206909</link>
+      <guid>https://v2ex.com/t/1206909</guid>
+      <description>上个月，我交给大模型几份报告，让它分析用户家庭符不符合签证办理条件，它只能给出前面男主人的分析结果，后面的女主人和儿子的情况完全被忘了。我想让大模型帮我填写一下签证申请表，结果它要么识别不了申请表的字段，要么就是填错了，根本没法用。 后面我研究了一下，简单来说就是，大模型在处理复杂表格时，对“值”的理解远优于对“结构/位置”的理解，这是其核心短板。如果你只…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>又一个微信公众号 RSS 地址</title>
+      <link>https://v2ex.com/t/1206908</link>
+      <guid>https://v2ex.com/t/1206908</guid>
+      <description>RSS 订阅地址： http://wxa-reader.x6o4.com/feed.xml 首先要说明一下，这个 RSS 中的公众号文章都是我自己阅读之后再投喂给 AI 生成的。可能会包含你不喜欢的内容。当然，如果你看过之后觉得和我的阅读口味相近，可以保持关注。 我投喂给 AI 后 AI 会给文章打分，如果评分太低的不会生成 RSS 。RSS 每天凌晨 3…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>抽空把自己近几年关注过的 Agent 项目整理成 Awesome List 开源了</title>
+      <link>https://v2ex.com/t/1206906</link>
+      <guid>https://v2ex.com/t/1206906</guid>
+      <description>https://github.com/mahonzhan/awesome-agent-harness</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>因为不想反复上线，我把图片变成直接可点的组件了</title>
+      <link>https://v2ex.com/t/1206897</link>
+      <guid>https://v2ex.com/t/1206897</guid>
+      <description>先打个预防针，企业里是有更多标准化的解决方案的，我这个方案就是图个方便省事。 背景 我们有个小程序里有一个弹窗，弹窗里有个蛮复杂的 ui 设计，然后点击不同的内容会打开对应的视频进行播放。 我考虑到视频内容肯定会增加，那就不能写死代码。这个 ui 比较复杂然后又只是个小弹窗，感觉实在没必要用代码去实现了。 但是图片更新起来快啊，oss 里上传一下就完事。考…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>用 AI 的时候遇到一段奇怪的输出</title>
+      <link>https://v2ex.com/t/1206890</link>
+      <guid>https://v2ex.com/t/1206890</guid>
+      <description>RT, 使用 OpenCode+kimi-k2.5 做一个网页工具, 输出这么一段东西, 最后强行打断才停下, 有没有知道是什么原因</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>实测 poe 上的 Claude 可用！</title>
+      <link>https://v2ex.com/t/1206884</link>
+      <guid>https://v2ex.com/t/1206884</guid>
+      <description>苦于找不到充值渠道，想起来有 poe 这个壳，一看竟然提供对外工具的 api 了。 昨晚充了$20 那个，结果一晚就干了$5 （完全是自己没节省，瞎聊）左右，从 codex app 转过来的。写代码能力确实比 codex 强。 也可以切模型 具体价格详情： 使用方法： https://poe.com/api/applications/ClaudeCode</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>写了个 lottie 动画在 Linux 桌面上顶层播放的小东西</title>
+      <link>https://v2ex.com/t/1206873</link>
+      <guid>https://v2ex.com/t/1206873</guid>
+      <description>写了个 lottie 动画在 linux 桌面上顶层播放的小东西，可以用在和 codex/claude 回复结束后，播放一个小动画提示，没什么用的玩具 https://github.com/xxyangyoulin/linux-lottie-salute</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>现在到底是什么模型强？性价比高？</title>
+      <link>https://v2ex.com/t/1206870</link>
+      <guid>https://v2ex.com/t/1206870</guid>
+      <description>之前一直是用 claude sonnet 4.6 / opus 4.6 但是 openclaw 之类的 claude 都已经不让用 plus 会员订阅了。 现在看到大家很多讨论 chatgpt 的模型，现在 Gpt 质量跟 snooet 比怎么样，强很多吗？ openclaw 大家现在都用什么模型呢？ 感觉国内的是不是差点意思？</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>如何在服务器上用 codex</title>
+      <link>https://v2ex.com/t/1206866</link>
+      <guid>https://v2ex.com/t/1206866</guid>
+      <description>目前订阅了 gpt pro ，codex 一次也没用过。。。主要是不知道咋在服务器上用，我一般是用 codex 的插件 服务器不能科学上网</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>LXC veth 桥接网络模式下如何避免发送的数据包被拆成小包？</title>
+      <link>https://v2ex.com/t/1206865</link>
+      <guid>https://v2ex.com/t/1206865</guid>
+      <description>网卡是 rtl8127, 用 iperf3 测速，在 host 上测速可以达到 9.42 Gbits/sec ，在 lxc 里测速只有 3.25 Gbits/sec ，造成这么大差异的原因是在 lxc 里发送的数据包被拆成了 1.5KB 的小包（也就是 mtu 的大小），而在 host 上发送的数据包是几十 KB 的大包，我想知道如何让 lxc 里发送的数…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>IPv8 ?! 这是不是跟 AI 聊天 Vibe 出来的草案？</title>
+      <link>https://v2ex.com/t/1206855</link>
+      <guid>https://v2ex.com/t/1206855</guid>
+      <description>有人往 IETF 发布了个 IPv8 草案： Internet Protocol Version 8 (IPv8) 知乎的中文翻译： 互联网协议第 8 版（ IPv8 ） 号称兼容 IPv4 ，但同样需要使用新的 IPv8 Header 。 地址格式是：r.r.r.r.n.n.n.n ，前面的 r 是扩展新空间，后面的 n 是现有 IPv4 地址范围。 还…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>claude 想冲 max，但是又怕中间要是需要认证了直接无了</title>
+      <link>https://v2ex.com/t/1206854</link>
+      <guid>https://v2ex.com/t/1206854</guid>
+      <description>claude 想冲 max，但是又怕中间要是需要认证了直接无了</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>Win 11/10 重装系统、保留数据、初始化</title>
+      <link>https://v2ex.com/t/1206842</link>
+      <guid>https://v2ex.com/t/1206842</guid>
+      <description>完整版： GitHub 、 B 站 摘要 常见软件的配置与数据迁移方法 Windows 系统设置 7-Zip 设置 OOBE 设置：装驱动、禁用 BitLocker 重新激活系统 卸载禁用广告组件 重装前的思考 我被微软偷袭了，不能登录微软帐户，详情见《 微软！我只是想更新 BIOS ，结果被迫重装系统？！ 》 重装与保留数据的思路 Windows 设置…</description>
+      <source>V2EX 技术</source>
+      <category>V2EX 技术</category>
+    </item>
+    <item>
+      <title>我感觉自己好像被困住了。似乎我经常陷入这种困境， 而这种困境更像是我给自己的限制太多</title>
+      <link>https://v2ex.com/t/1206941</link>
+      <guid>https://v2ex.com/t/1206941</guid>
+      <description>wenJoy: 举个例子，我最近准备租房子，花了很多时间，看了 20 多套房子， 终于找到一套满意的房子。但是因为是新房，我担心甲醛的问题，所以请了有 cma 检测资质的人检测。 检测的时间是 4 月， 春天的时候， 温度 22 度左右， 密闭门窗时间还特意延长到 24 小时，尽管没有把所有的柜子门和抽屉打开。在检测报告出来之前我告诉自己，如果检测结果达标…</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>面对被裁员后的生活，你会做出怎样的选择呢？</title>
+      <link>https://v2ex.com/t/1206930</link>
+      <guid>https://v2ex.com/t/1206930</guid>
+      <description>johnsun0821: 主包中年单身，产品经理岗位，已经确定被裁，有几十万的存款，基本上跟房贷持平（可以一次还清）。 可以选择路径： 1. [找工作] 找一个同类型工作，继续内卷。但是要接受薪资大幅下滑的现实。 2. [躺平] 先调整心态，什么时候休息好了，再想接下来的工作。 3. [回老家] 把房子卖了，然后回老家发展（北方省会级城市）。 4. [创业…</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>今天生日，有哪些羊毛可以薅？</title>
+      <link>https://v2ex.com/t/1206927</link>
+      <guid>https://v2ex.com/t/1206927</guid>
+      <description>Mandmg: emmmm ，京东今天送了 500 京豆。 网上国网以前有优惠券。现在没有了。 兄弟们，还有其他什么羊毛可以薅吗？</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>你会愿意为浏览器付费吗？</title>
+      <link>https://v2ex.com/t/1206919</link>
+      <guid>https://v2ex.com/t/1206919</guid>
+      <description>339: Brave 新的浏览器 Origin [专为那些不需要支持 Brave 商业模式的冗余功能，但仍渴望获得 Brave 独有隐私保护的用户而设计。] 59.99 美元，折合人民币 425 元，一次供 10 台设备使用。 https://account.brave.com/?intent=checkout&amp;product=origin</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>我妈逼迫我 23 年深圳买房，导致 3 年房子降价 100 万，加上 30 年利息亏损 180 万</title>
+      <link>https://v2ex.com/t/1206894</link>
+      <guid>https://v2ex.com/t/1206894</guid>
+      <description>Lini1122: 我的成长背景： 我是男的。我家有爷爷奶奶，爸爸和妈妈，我弟（比我小 13 岁），叔叔，姥姥，大舅，小舅。 我从小就是一个比较内向的人。从小我爸妈就把垃圾情绪发泄给我，导致我一直拉个脸，他们就会怒斥我，为什么老是拉个脸！！！！ 我爸从我小时就来到深圳，跟我大舅做吊车生意，算是给我大舅打工。我妈从我幼儿园到小学 5 年纪，之后就把我丢到我爷…</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>如何在服务器上用 codex</title>
+      <link>https://v2ex.com/t/1206866</link>
+      <guid>https://v2ex.com/t/1206866</guid>
+      <description>elliszkn: 目前订阅了 gpt pro ，codex 一次也没用过。。。主要是不知道咋在服务器上用，我一般是用 codex 的插件 服务器不能科学上网</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>小飞机突然支持中文了</title>
+      <link>https://v2ex.com/t/1206848</link>
+      <guid>https://v2ex.com/t/1206848</guid>
+      <description>givebest: 刚才打开出现弹窗，选择您的语言 -&gt; 简体中文。</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>刚刚自建的，目前自己在用，网速还不错</title>
+      <link>https://v2ex.com/t/1206847</link>
+      <guid>https://v2ex.com/t/1206847</guid>
+      <description>Achao1121: 找到搬瓦工 全程跟着 Gemini 搭建起来 Mac 上建好了 美国 - 洛杉矶 DC9 CN2GIA (USCA_9) **49.99 美元/3 个月 Alipay Ubuntu-22.04-x86_64 机房 USCA_9 (DC9) **20 GB SSD / 1 GB RAM / 1 TB 流量每月 / 2.5G 带宽 各位评…</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>如果我是个企业，可以用哪些方法对冲 token 价格上涨的风险？</title>
+      <link>https://v2ex.com/t/1206837</link>
+      <guid>https://v2ex.com/t/1206837</guid>
+      <description>cufezhusy: 现在每个企业都在用 AI ，如果我是企业的 CFO ，我会想有没有什么办法对冲（或者锁定） token 价格上涨的风险？ 现在想到的办法有 － 与供应商签订长期合同，比如微软就可以提供固定 Token 价格的长期合同，风险是企业被锁定在单一的供应商上。 － 购买电力价格期货，假设 token 价格上涨的最大因素是电力价格。 － ？？…</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>IETF 推出 IPv8 协议， IPv6 说明是个草台班子</title>
+      <link>https://v2ex.com/t/1206826</link>
+      <guid>https://v2ex.com/t/1206826</guid>
+      <description>jacketma: IPv6 这么多年推不动，难道就没有人觉得 IPv6 协议丑陋无比吗，那一坨地址看着就不想用啊 二十年了，IETF 终于醒悟了，改 IPv8 全面兼容 IPv4 r.r.r.r.n.n.n.n 如果 r 全部为 0 ，自动识别为 IPv4 终于看的顺眼了 IPv6 说明世界真是个草台班子</description>
+      <source>V2EX 最热</source>
+      <category>V2EX 最热</category>
+    </item>
+    <item>
+      <title>The Best Smart Home Accessories to Boost Your Curb Appeal (2026)</title>
+      <link>https://wired.com/story/smart-home-curb-appeal</link>
+      <guid>https://wired.com/story/smart-home-curb-appeal</guid>
+      <description>The Best Smart Home Accessories to Boost Your Curb Appeal (2026)</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush</title>
+      <link>https://wired.com/story/how-to-clean-vinyl-records</link>
+      <guid>https://wired.com/story/how-to-clean-vinyl-records</guid>
+      <description>How to Clean Your Vinyl Records (2026): Vacuum, Ultrasonic, Solution, Brush</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop</title>
+      <link>https://wired.com/review/asus-tuf-gaming-a14-2026</link>
+      <guid>https://wired.com/review/asus-tuf-gaming-a14-2026</guid>
+      <description>Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</title>
+      <link>https://wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app</link>
+      <guid>https://wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app</guid>
+      <description>It Takes 2 Minutes to Hack the EU’s New Age-Verification App</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In</title>
+      <link>https://wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it</link>
+      <guid>https://wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it</guid>
+      <description>Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay</title>
+      <link>https://wired.com/story/where-to-shop-for-vinyl-records-online</link>
+      <guid>https://wired.com/story/where-to-shop-for-vinyl-records-online</guid>
+      <description>Where to Shop for Vinyl Records Online (2026): Discogs, Bandcamp, Ebay</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>The Best Movies to Stream This Month (April 2026)</title>
+      <link>https://wired.com/story/the-best-movies-to-stream-right-now</link>
+      <guid>https://wired.com/story/the-best-movies-to-stream-right-now</guid>
+      <description>The Best Movies to Stream This Month (April 2026)</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>The ‘Lonely Runner’ Problem Only Appears Simple</title>
+      <link>https://wired.com/story/the-lonely-runner-problem-only-appears-simple</link>
+      <guid>https://wired.com/story/the-lonely-runner-problem-only-appears-simple</guid>
+      <description>The ‘Lonely Runner’ Problem Only Appears Simple</description>
+      <source>Wired</source>
+      <category>Wired</category>
+    </item>
+    <item>
+      <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
+      <link>https://daringfireball.net/2026/04/kubrick_new_york_subway</link>
+      <guid>https://daringfireball.net/2026/04/kubrick_new_york_subway</guid>
+      <description>Photos from the New York Subway in the 1940s, by teenage Stanley Kubrick.</description>
+      <source>daringfireball.net</source>
+      <category>daringfireball.net</category>
+    </item>
+    <item>
+      <title>Mac Mini and Mac Studio Supply Shortages</title>
+      <link>https://wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</link>
+      <guid>https://wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</guid>
+      <description>Nicole Nguyen, writing for The Wall Street Journal (gift link): Mac Minis with larger-capacity RAM chips — a base M4 model with 32GB of RAM, starting at $999, and the M4 Pro model…</description>
+      <source>daringfireball.net</source>
+      <category>daringfireball.net</category>
+    </item>
+    <item>
+      <title>Gaussian distributed weights for LLMs</title>
+      <link>https://johndcook.com/blog/2026/04/18/qlora</link>
+      <guid>https://johndcook.com/blog/2026/04/18/qlora</guid>
+      <description>The previous post looked at the FP4 4-bit floating point format. This post will look at another 4-bit floating point format, NF4, and higher precision analogs. NF4 and FP4 are com…</description>
+      <source>johndcook.com</source>
+      <category>johndcook.com</category>
+    </item>
+    <item>
+      <title>Pluralistic: Georgia&#x27;s voting technology blunder (18 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/18/dominion-sucks-actually</link>
+      <guid>https://pluralistic.net/2026/04/18/dominion-sucks-actually</guid>
+      <description>Today&#x27;s links Georgia&#x27;s voting technology blunder: It&#x27;s possible for Dominion machines to suck, but not in the way that Tucker Carlson says they do. Hey look at this: Delights to…</description>
+      <source>pluralistic.net</source>
+      <category>pluralistic.net</category>
+    </item>
+    <item>
+      <title>The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</title>
+      <link>http://righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
+      <guid>http://righto.com/2026/04/B-52-star-tracker-angle-computer.html</guid>
+      <description>Before GPS, how did aircraft navigate? One important technique was celestial navigation: navigating from the positions of the stars, planets, or the sun. While celestial navigatio…</description>
+      <source>righto.com</source>
+      <category>righto.com</category>
+    </item>
+    <item>
+      <title>A Taxing Discussion</title>
+      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
+      <guid>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
+      <description>Taxes are annoying and confusing, aren’t they? Turns out they were also confusing way back when they were first introduced, too. Let’s talk about the 1040.</description>
+      <source>tedium.co</source>
+      <category>tedium.co</category>
+    </item>
+    <item>
+      <title>Tiny Go and Rust programs appear to start equally fast (on some machines)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</link>
+      <guid>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
+      <description>A while back I said something on the Fediverse : Do I care enough about a couple of milliseconds¹ to make a program I&#x27;m considering my first attempt at a Rust program, or do I do…</description>
+      <source>utcc.utoronto.ca/~cks</source>
+      <category>utcc.utoronto.ca/~cks</category>
+    </item>
+    <item>
+      <title>五一假期售票开始以来，12306已拒绝抢票软件出票105.6万张</title>
+      <link>https://wallstreetcn.com/livenews/3090543</link>
+      <guid>https://wallstreetcn.com/livenews/3090543</guid>
+      <description>从中国铁路12306技术中心了解到，为防范和遏制第三方平台“抢票软件”恶意刷票抢票等非正常访问行为，努力营造公平公正的购票环境，五一假期售票开始以来，至4月18日24时，12306已拒绝“抢票软件”出票105.6万张票。（澎湃新闻）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>我国摧毁特大假酒网络</title>
+      <link>https://wallstreetcn.com/livenews/3090542</link>
+      <guid>https://wallstreetcn.com/livenews/3090542</guid>
+      <description>国家市场监督管理总局19日通报，在市场监管总局的统一协调下，山西、四川两省市场监管、公安部门联合行动，近日成功摧毁一个特大制售商标侵权和伪劣白酒的违法犯罪网络。截至目前，已查明涉案金额2.6亿元，公安机关传唤22人，采取强制措施11人，其中移送审查起诉2人。市场监管总局介绍，2024年至2025年，全国市场监管部门查办违法经营额超过1000万元的商标侵权案…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>伊朗副外长：绝不会将浓缩铀交给美国</title>
+      <link>https://wallstreetcn.com/livenews/3090541</link>
+      <guid>https://wallstreetcn.com/livenews/3090541</guid>
+      <description>伊朗外交部副部长赛义德·哈提卜扎德18日说，伊朗绝不会将本国浓缩铀交给美国。据伊朗媒体报道，哈提卜扎德对美国总统特朗普此前就浓缩铀问题所作表态予以驳斥。他说，伊朗愿意就双方存在的关切进行沟通，但绝不接受不现实的先决条件，“不会有任何浓缩材料被运往美国”。哈提卜扎德说，由于美国拒绝放弃在关键议题上“极限施压”的立场，伊朗目前尚未准备好与美方举行新一轮面对面谈…</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>北约秘书长说他认为美国不会退出北约</title>
+      <link>https://wallstreetcn.com/livenews/3090540</link>
+      <guid>https://wallstreetcn.com/livenews/3090540</guid>
+      <description>据德国媒体18日报道，北约秘书长吕特说，尽管美欧关系面临挑战，他认为美国不会退出北约，但这需要“在更强大的北约中拥有一个更强大的欧洲”。他说，欧洲希望在北约发挥更大作用，这意味着北约从“不健康的依赖”向基于真正伙伴关系的跨大西洋联盟转变。他还说，美国的核保护伞是欧洲安全的最终保证，他确信这将会保持下去。（新华社）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
+    <item>
+      <title>日将向澳大利亚出口护卫舰</title>
+      <link>https://wallstreetcn.com/livenews/3090539</link>
+      <guid>https://wallstreetcn.com/livenews/3090539</guid>
+      <description>4月18日，澳大利亚副总理兼国防部长马尔斯与来访的日本防卫大臣小泉进次郎举行会谈。双方确认已签订一项合同，日本将向澳大利亚出口升级后的日本“最上”级护卫舰。根据合同，该项目将建造11艘护卫舰，其中首批3艘将在日本建造，首舰预计2029年交付给澳大利亚，其余8艘将在澳大利亚建造。（CCTV国际时讯）</description>
+      <source>华尔街见闻实时快讯</source>
+      <category>华尔街见闻实时快讯</category>
+    </item>
     <item>
       <title>美媒说特朗普召开会议讨论与伊朗谈判的问题</title>
       <link>https://wallstreetcn.com/livenews/3090538</link>
@@ -367,82 +2887,210 @@
       <category>华尔街见闻实时快讯</category>
     </item>
     <item>
-      <title>特朗普：加快对精神致幻药物相关研究的获取。 签署行政命令以审查某些致幻药物。 感谢小罗伯特·肯尼迪在降低药价的努力中做了“出色”的工作。</title>
-      <link>https://wallstreetcn.com/livenews/3090486</link>
-      <guid>https://wallstreetcn.com/livenews/3090486</guid>
-      <description>特朗普：加快对精神致幻药物相关研究的获取。 签署行政命令以审查某些致幻药物。 感谢小罗伯特·肯尼迪在降低药价的努力中做了“出色”的工作。</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报</title>
+      <link>https://wallstreetcn.com/charts/41958912</link>
+      <guid>https://wallstreetcn.com/charts/41958912</guid>
+      <description>美伊两周停火协议将于4月21日深夜到期，能否延长存变数；沃什美联储主席提名听证会同日举行。特斯拉、英特尔、国内新易盛、贵州茅台等一季报发布；谷歌Cloud Next大会上新一代TPU架构及光路交换机技术或将亮相。同时，4月底国内政治局会议临近，华为多场新品发布会登场。此外，美国海关4月20日将启动关税退款。</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>土耳其尚未与伊朗磋商天然气合同续签事宜</title>
-      <link>https://wallstreetcn.com/livenews/3090485</link>
-      <guid>https://wallstreetcn.com/livenews/3090485</guid>
-      <description>土耳其能源部长阿尔帕斯兰·巴伊拉克塔尔18日说，土耳其与伊朗签订的天然气长期购买合同今年7月到期，两国尚未就合同续签展开磋商。 土耳其高度依赖进口石油和天然气。按照现有土伊供气合同，伊朗每年向土耳其出口96亿立方米天然气。不过，据路透社报道，实际出口量常低于这一数值，土方去年自伊朗进口76亿立方米天然气，约占土耳其天然气进口总量的13%。 巴伊拉克塔尔18…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报</title>
+      <link>https://wallstreetcn.com/articles/3770211</link>
+      <guid>https://wallstreetcn.com/articles/3770211</guid>
+      <description>04月20日 - 04月26日当周重磅财经事件一览，以下均为北京时间： 下周主线事件： 地缘方面， 美伊为期两周的停火协议将于美东时间4月21日深夜到期，双方正权衡是否延长两周，但官方尚未证实。若停火破裂，能源价格或再度承压——这也正是4月23-24日欧盟领导人塞浦路斯非正式峰会的核心议程。 政策层面， 国内方面，4月底政治局会议将近。4月21日美国参议院…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>DeepSeek启动首次外部融资？最新消息来了：消息很有可能属实，目前完全投不进去</title>
-      <link>https://wallstreetcn.com/livenews/3090484</link>
-      <guid>https://wallstreetcn.com/livenews/3090484</guid>
-      <description>4月18日，有关国内AI巨头DeepSeek可能正启动首次外部融资的消息，在业内持续传播。某科技、商业领域的垂直媒体最新报道称，DeepSeek正就首次引入外部资本展开洽谈，希望充实资金储备，以便在研发顶尖人工智能模型的高成本竞争中占据更有利地位。此前该公司已多次拒绝中国头部风投机构与科技巨头的投资邀约。但据其中两位人士消息，该初创企业近期已开始与投资方接…</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>创纪录美股背后的虚假地基：两大&quot;一次性&quot;因素能撑多久？</title>
+      <link>https://wallstreetcn.com/articles/3770342</link>
+      <guid>https://wallstreetcn.com/articles/3770342</guid>
+      <description>美股本周再创历史新高，但支撑这轮涨势的基础正受到质疑。当前企业盈利预期的飙升几乎完全源于AI芯片需求爆发和伊朗战争两大一次性利好——而这两个因素均具有明显的临时性，随时可能逆转。 本周，标普500指数攀至新高，较去年10月高点累计上涨约3%。与此同时，该指数远期市盈率却从逾23倍大幅回落，一度跌破20倍，目前约为22倍。这种市盈率大幅下滑与股价同步上涨并行…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>哥伦比亚总统：美国若一意孤行将激起拉美国家“反抗”</title>
-      <link>https://wallstreetcn.com/livenews/3090483</link>
-      <guid>https://wallstreetcn.com/livenews/3090483</guid>
-      <description>哥伦比亚总统佩特罗接受媒体采访时表示，如果美国政府执意推行当前政策、打压持不同政治立场的拉丁美洲国家领导人，等待它的将是拉美国家再次“反抗”。（新华社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>航空燃油飙升，航空公司进入“自保模式”，夏季旺季来临前加大航班取消力度</title>
+      <link>https://wallstreetcn.com/articles/3770337</link>
+      <guid>https://wallstreetcn.com/articles/3770337</guid>
+      <description>全球航空业正遭遇一场燃油危机引发的运力大收缩，夏季旺季尚未到来，航空公司已集体进入&quot;自保模式&quot;。 航空数据分析公司Cirium数据显示，全球5月运力已被削减约3个百分点，前20大航空公司中仅1家未砍航班；该机构已将全年运力预测从增长4%-6%下调至&quot;在特定条件下可能下降3%&quot;。 这场危机最初仅限于中东航空公司及其空域，但在美国海军封锁霍尔木兹海峡、切断伊朗…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>伊朗称如果重燃战火将做出全力反击。（法尔斯通讯社）</title>
-      <link>https://wallstreetcn.com/livenews/3090482</link>
-      <guid>https://wallstreetcn.com/livenews/3090482</guid>
-      <description>伊朗称如果重燃战火将做出全力反击。（法尔斯通讯社）</description>
-      <source>华尔街见闻实时快讯</source>
-      <category>华尔街见闻实时快讯</category>
+      <title>荣耀夺冠、机器人半马跑赢人类，但最关键的比赛不在亦庄</title>
+      <link>https://wallstreetcn.com/articles/3770341</link>
+      <guid>https://wallstreetcn.com/articles/3770341</guid>
+      <description>从2小时40分到50分钟，一年的跨越只是开始。 今天上午，北京亦庄南海子公园终点线前，一台叫&quot;闪电&quot;的荣耀人形机器人冲了过来，净用时50分26秒。它跑完的是21.0975公里，和今天同场的人类选手一模一样的距离。第一名人类跑手到达终点的时候，&quot;闪电&quot;已经在那里等了将近17分钟。 就在一年前，这条同样的赛道上，成绩最好的机器人——天工Ultra——花了2小时…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>数据中心投资热潮向上游蔓延：HBM设备商ASMPT订单激增，Q1预计同比大涨40%</title>
+      <link>https://wallstreetcn.com/articles/3770338</link>
+      <guid>https://wallstreetcn.com/articles/3770338</guid>
+      <description>数据中心资本开支浪潮正沿产业链加速向上游传导。 总部位于新加坡的半导体封装设备商ASMPT率先斩获第六代高带宽内存（HBM4）热压键合（TC键合）设备订单，去年TC键合机收入同比激增146%，并预计今年一季度订单同比增幅约40%，有望创近四年单季最高纪录。 ASMPT在近期举行的2025年业绩电话会议上披露，公司已率先从多家客户处获得HBM4 12层堆叠T…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>太快了，48分19秒，北京荣耀“闪电”跑完半马！宇树称其人形机器人打破人类1500米世界纪录</title>
+      <link>https://wallstreetcn.com/articles/3770340</link>
+      <guid>https://wallstreetcn.com/articles/3770340</guid>
+      <description>4月19日7：30，2026人形机器人半程马拉松赛在北京亦庄鸣枪开跑。 国内外的100多支队伍共计300个机器人参加本次比赛，赛事创新设置了自主导航与遥控两种参赛方式，同赛道竞技，统一排名，两组别成绩分别按1.0与1.2的加权系数进行核算。 来自北京荣耀的“闪电”以48分19秒的净成绩率先冲线完赛。该机器人也是首个出发的选手。 据《科创板日报》报道，今年马…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
       <title>停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”</title>
       <link>https://wallstreetcn.com/articles/3770334</link>
       <guid>https://wallstreetcn.com/articles/3770334</guid>
       <description>美伊两周停火“还剩三天”，多条战线同时出现裂痕。 4月18日，距伊朗宣布开放霍尔木兹海峡不足24小时，该国军方宣布重新关闭海峡。同日，以色列在黎巴嫩南部发动打击，特朗普紧急召开白宫战情室会议。 据媒体报道，一名美方高级官员警告，如果短期内没有突破，战争可能在数天内恢复。而就在前一天，特朗普刚称协议&quot;一两天内&quot;即可达成。 霍尔木兹海峡24小时&quot;开而复关&quot; 据…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>小哈梅内伊：伊朗海军已做好准备，将给敌方造成“新的惨痛失败”</title>
+      <title>美国半导体 ETF 正吸引大量资金流入： 4月至今，半导体 ETF(SMH和SOXX）流入创纪录地达到了+40 亿美元。 这一数字已超过2025年12月创下的全月30亿美元收入纪录。...</title>
+      <link>https://wallstreetcn.com/charts/41958911</link>
+      <guid>https://wallstreetcn.com/charts/41958911</guid>
+      <description>美国半导体 ETF 正吸引大量资金流入： 4月至今，半导体 ETF(SMH和SOXX）流入创纪录地达到了+40 亿美元。 这一数字已超过2025年12月创下的全月30亿美元收入纪录。 这也紧随三月份创纪录的19亿美元外流。 投资者在过去 8 个月中有 7 个月净买入美国半导体 ETF，这是自 2023 年以来的最长纪录。 相比之下，这些基金在2020年和2…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>券商前十座次重排！“两超多强”格局显现，两大业务成新关键赛道</title>
+      <link>https://wallstreetcn.com/articles/3770336</link>
+      <guid>https://wallstreetcn.com/articles/3770336</guid>
+      <description>随着国信证券于4月17日晚交出2025年成绩单，证券行业前十座次最终落定。 相较2024年，前十名单仍是老面孔，但排序发生变化：中信证券与国泰海通组成“两超”阵营，两者营收和净利润合计均占前十总量的近四成；广发证券净利润升至第四，招商证券退居第六。从业绩驱动看，自营与经纪业务构成增长双引擎，前十券商自营收入同比增长33%，经纪业务手续费收入同比增长48%，…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>公募最严考核落地：最高降薪幅度将达30%以上</title>
+      <link>https://wallstreetcn.com/articles/3770335</link>
+      <guid>https://wallstreetcn.com/articles/3770335</guid>
+      <description>新规以基金持有人利益优先为核心，通过长周期考核、刚性薪酬约束、从业人员强制持基、股东分红与业绩挂钩等制度安排，健全长效激励约束机制 4月17日，中国证券投资基金业协会正式发布《基金管理公司绩效考核管理指引》（下称“指引”），对基金公司绩效考核、薪酬结构、薪酬支付、内控管理等方面作出全面规范。 新规以基金持有人利益优先为核心，通过长周期考核、刚性薪酬约束、从…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>不想困在汽车周期里，禾赛押注空间智能</title>
+      <link>https://wallstreetcn.com/articles/3770333</link>
+      <guid>https://wallstreetcn.com/articles/3770333</guid>
+      <description>作者 | 柴旭晨 编辑 | 周智宇 当国内车企还在为“智驾平权”打价格战时，激光雷达公司已经开始寻找下一张船票。 4月17日，禾赛发布6D全彩激光雷达超感光芯片，同时宣布公司战略将从“空间感知”升级到“空间智能”，意味着要让机器不仅能看见周围环境，还能理解空间关系并自主行动的能力。 顺势，禾赛还拿出了面向消费级市场的空间智能硬件Kosmo，以及作为物理 A…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>中国居民资产负债表修复，何时进入下半场？</title>
+      <link>https://wallstreetcn.com/member/articles/3770259</link>
+      <guid>https://wallstreetcn.com/member/articles/3770259</guid>
+      <description>过去，一个被广泛接受但可能已过时的叙事是：房价下跌直接等同于居民资产负债表受损。近些年居民资产负债表收缩也似乎验证了这一说法。不过，这一结论主要适用于2021Q2至2024Q3。在此期间，房地产估值的持续下降解释了居民净资产增量减少的绝大部分原因；股票市场表现疲弱也加剧了估值损失；此外，居民收入增长放缓进一步压缩了净资产的积累空间。 情况在2024Q3之后…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>拧巴的涨价游戏：一场PPI与CPI剪刀差下的家电行业生存战</title>
+      <link>https://wallstreetcn.com/member/articles/3769803</link>
+      <guid>https://wallstreetcn.com/member/articles/3769803</guid>
+      <description>如果你最近走进家电卖场，或者浏览电商平台的空调、冰箱页面，你可能会产生一种错觉：这价格，明明新闻里都在说原材料暴涨，铜价创了历史新高，厂家也发了涨价函，但为什么到了终端，价格就是坚挺不起来？为什么同样是空调，有的型号偷偷涨了300块，有的却还在搞“百亿补贴”？为什么厂商一边哭穷喊着“成本红线”，一边又不敢把价格牌翻得响亮点？ 这种“拧巴”，正是2026年中…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>对冲基金创纪录押注美债，Apollo警告：一旦反转或引爆全球债市“冲击波”</title>
+      <link>https://wallstreetcn.com/articles/3770331</link>
+      <guid>https://wallstreetcn.com/articles/3770331</guid>
+      <description>对冲基金在美债市场的份额已升至历史峰值，背后撬动逾6万亿美元杠杆资金，市场对潜在风险的担忧正在升温。 当地时间4月17日，Apollo全球管理公司首席经济学家Torsten Slok在当天发布的研报中披露，对冲基金在31万亿美元美国国债市场中的持仓占比近期升至 8% ，创历史新高。 Slok警告，这些头寸大量依赖借贷资金，背后有逾 6万亿美元 的回购协议及…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>做空机构盯上“税收套利”帝国：监管收紧在即，万亿美元生态遭狙击</title>
+      <link>https://wallstreetcn.com/articles/3770332</link>
+      <guid>https://wallstreetcn.com/articles/3770332</guid>
+      <description>一场针对华尔街“避税生意”的做空行动，正在将矛头指向一家市值数百亿美元的资管巨头。 据彭博最新获得的一封致投资者信件，做空机构Orso Partners已建立对Affiliated Managers Group（AMG）的空头头寸。AMG是管理规模达8130亿美元的投资公司，旗下持股包括Cliff Asness创立的AQR Capital Manageme…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>“HALO交易”，昙花一现还是大势所趋？</title>
+      <link>https://wallstreetcn.com/articles/3770328</link>
+      <guid>https://wallstreetcn.com/articles/3770328</guid>
+      <description>今年以来，一个名为“HALO交易”的投资主题在华尔街悄然升温。 据英国《金融时报》报道，这一概念由纽约Ritholtz Wealth Management首席执行官Josh Brown提出，全称为Heavy Assets，Low Obsolescence——重资产、低淘汰率。 其核心逻辑直接：AI可以替代程序员、分析师，甚至整套软件系统，但它无法替代一座炼…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>粮食危机已在路上：伊朗冲突如何冲击全球餐桌</title>
+      <link>https://wallstreetcn.com/articles/3770327</link>
+      <guid>https://wallstreetcn.com/articles/3770327</guid>
+      <description>美以对伊朗开战仅七周，全球粮食体系已承压。 据英国《金融时报》报道，随着美以对伊朗军事行动持续，全球粮食体系正面临一场被低估的冲击。海湾地区不仅是石油产地，更是全球化肥生产、粮食物流的核心枢纽。粮食短缺乃至饥荒的风险已在非洲和亚洲多个脆弱国家浮现。 化肥价格已在涨，粮食通胀跟着来 数据已经说话。 世界银行数据显示，今年3月， 能源价格指数上涨41.6%，其…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>伊朗最高领袖：伊朗海军已做好准备，将给敌方造成“新的惨痛失败”</title>
       <link>https://wallstreetcn.com/articles/3770329</link>
       <guid>https://wallstreetcn.com/articles/3770329</guid>
-      <description>当地时间18日，伊朗最高领袖穆杰塔巴·哈梅内伊在建军节到来之际发布贺信，向全体军人及其家属以及伊朗人民致以节日祝贺。 穆杰塔巴·哈梅内伊在信中表示，伊朗海军已做好准备，将给敌方造成“新的惨痛失败”。 本文来源： 央视新闻 以色列国防军发言人18日就黎巴嫩停火期间的局势发表声明称，在过去24小时内，在黎巴嫩南部“黄线”以南地区执行任务的以军部队消灭了多名黎巴…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <description>当地时间18日，伊朗最高领袖穆杰塔巴·哈梅内伊在建军节到来之际发布贺信，向全体军人及其家属以及伊朗人民致以节日祝贺。 穆杰塔巴·哈梅内伊在信中表示，伊朗海军已做好准备，将给敌方造成“新的惨痛失败”。 本文来源： 央视新闻 风险提示及免责条款 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
-      <title>伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制</title>
-      <link>https://wallstreetcn.com/articles/3770316</link>
-      <guid>https://wallstreetcn.com/articles/3770316</guid>
-      <description>霍尔木兹、美伊谈判，再一次出现重大变化。 据新华社援引伊朗媒体18日报道，伊朗军方发言人则强硬表态， 因美国“屡次违背承诺”，对霍尔木兹海峡的控制权已恢复到以前的状态，这一海峡目前处于伊朗武装部队的严格管理和控制之下。 此外，伊朗尚未同意与美国举行下一轮谈判。伊朗方面已通过巴基斯坦将此告知美国官员。据 新华社 报道，据从有关部门获得的消息，由于美方对伊朗实…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <title>先进封装材料革命：玻璃基板百亿蓝海起航，从“技术验证”到“量产前夜”</title>
+      <link>https://wallstreetcn.com/member/articles/3770245</link>
+      <guid>https://wallstreetcn.com/member/articles/3770245</guid>
+      <description>玻璃基板正从“技术验证”迈入“量产前夜”，2026年有望成为半导体封装领域玻璃基板小批量商业化出货的元年。在AI算力芯片向大尺寸、高集成度快速演进的背景下，传统有机基板已逼近物理极限——高温翘曲、信号损耗、散热瓶颈、互连密度不足五大问题日益凸显。玻璃基板凭借与硅高度匹配的热膨胀系数、超低介电损耗、高达20：1的TGV深宽比、2μm以下线宽以及显著的成本潜力…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>创新药起风了：从“不可成药”到“全线突破”，RAS与ADC共振开启肿瘤精准治疗新周期</title>
+      <link>https://wallstreetcn.com/member/articles/3770132</link>
+      <guid>https://wallstreetcn.com/member/articles/3770132</guid>
+      <description>我们正见证一场由“底层技术突破”引发的估值中枢上移。2026年4月，Revolution Medicines（RVMD）在pan-RAS抑制剂领域取得的里程碑式三期临床数据，不仅是胰腺癌治疗史上的“阿波罗时刻”，更是宣告了曾经被视为“不可成药（Undruggable）”的RAS靶点正式进入收获期。 创新药的产业逻辑已从单纯的“靶点竞争”转向“平台价值与联合…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>伊朗重开霍尔木兹海峡？被困船员：赶到海峡口后又停了，广播通知仍封闭</title>
+      <link>https://wallstreetcn.com/articles/3770326</link>
+      <guid>https://wallstreetcn.com/articles/3770326</guid>
+      <description>当地时间4月17日下午，伊朗外长阿拉格齐在社交媒体发文称，鉴于黎巴嫩和以色列达成停火，在停火期间，伊朗对所有商船开放霍尔木兹海峡。 美国总统特朗普随后发文对伊朗宣布开放霍尔木兹海峡予以证实：“伊朗已同意不再关闭霍尔木兹海峡。”但他表示，与伊朗达成全面协议前，美国继续实施对伊朗的海上封锁。 消息一出，如巨石投湖，国际油价跳水，WTI原油5月期货价格一度逼近8…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
       <title>AIDC供电，短期靠燃机“救火”，长期靠这三条路线</title>
       <link>https://wallstreetcn.com/articles/3770324</link>
       <guid>https://wallstreetcn.com/articles/3770324</guid>
       <description>供电能力，正在成为数据中心建设的隐形天花板。 申万宏源证券于4月16日发布行业深度报告《算力需求增长加剧电力缺口，燃机市场打开成长空间》指出，北美AI数据中心（AIDC）建设提速，正在将电力供给矛盾推向临界点。 短期内，燃气轮机与往复式内燃机凭借快速启停、灵活部署优势，成为AIDC现阶段供电核心方案；航改燃机启动仅需5-10分钟，重型燃机联合循环效率可达6…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
     </item>
     <item>
       <title>又见内幕交易？霍尔木兹开放前20分钟，神秘交易员甩出7.6亿美元空单，精准做空原油</title>
       <link>https://wallstreetcn.com/articles/3770325</link>
       <guid>https://wallstreetcn.com/articles/3770325</guid>
       <description>一笔卡在消息公布前20分钟的巨额空单，再次让原油市场的“神秘交易”浮出水面。 4月17日，就在伊朗外长宣布霍尔木兹海峡对所有商业船只完全开放前约20分钟，一笔规模约7.6亿美元的原油空单悄然落地。消息一出，油价当日最大跌幅达11%。据路透社报道，这已是近几个月内第三次出现类似情形——重大政策宣布前，总有人提前重仓做空原油。 美国商品期货交易委员会（CFTC…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>Sora之父跑路！OpenAI一日流失三高管，资本还密谋换掉奥特曼</title>
+      <link>https://wallstreetcn.com/articles/3770320</link>
+      <guid>https://wallstreetcn.com/articles/3770320</guid>
+      <description>IPO前夕，OpenAI一天流失三位高管！ Sora创始人Bill Peebles，他负责的Sora已经直接被关停，团队转移到别的方向。 AI for Science副总裁Kevin Weil，他的团队被拆分并入其他研究组。 企业应用CTO Srinivas Narayanan也宣布离职，理由是“随着近期和即将推出的产品，我觉得现在是时候卸任了”。 同一天…</description>
+      <source>华尔街见闻最新资讯</source>
+      <category>华尔街见闻最新资讯</category>
+    </item>
+    <item>
+      <title>伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制</title>
+      <link>https://wallstreetcn.com/articles/3770316</link>
+      <guid>https://wallstreetcn.com/articles/3770316</guid>
+      <description>霍尔木兹、美伊谈判，再一次出现重大变化。 据新华社援引伊朗媒体18日报道，伊朗军方发言人则强硬表态， 因美国“屡次违背承诺”，对霍尔木兹海峡的控制权已恢复到以前的状态，这一海峡目前处于伊朗武装部队的严格管理和控制之下。 此外，伊朗尚未同意与美国举行下一轮谈判。伊朗方面已通过巴基斯坦将此告知美国官员。据 新华社 报道，据从有关部门获得的消息，由于美方对伊朗实…</description>
       <source>华尔街见闻最热</source>
       <category>华尔街见闻最热</category>
     </item>
@@ -455,36 +3103,92 @@
       <category>华尔街见闻最热</category>
     </item>
     <item>
-      <title>“这一轮神准”的高盛：维持“5月中旬前中东原油流量恢复”的预测，目标油价不变但“双向风险”更多</title>
-      <link>https://wallstreetcn.com/articles/3770311</link>
-      <guid>https://wallstreetcn.com/articles/3770311</guid>
-      <description>高盛维持油价预测不变，但&quot;双向风险&quot;显著增加，投资者需重新审视布局逻辑。 追风交易台消息，4月17日高盛Daan Struyven团队发表最新原油市场研报， 在霍尔木兹海峡“重开”推动原油当日大跌的背景下，高盛维持2026年布油和美油全年均价预测83和78美元/桶不变。 华尔街见闻提及 ，Daan Struyven团队在上周的研报中，预计波斯湾原油出口在此…</description>
+      <title>直播15个小时，雷军：挑战成功！</title>
+      <link>https://wallstreetcn.com/articles/3770319</link>
+      <guid>https://wallstreetcn.com/articles/3770319</guid>
+      <description>刚刚成功完成15小时4分钟的京沪长途续航直播，给大家汇总一下： 1.这是一次“疯狂”的挑战。今天开新一代SU7 完成京沪续航挑战， 清晨 6:35从北京满电出发，一路开到上海，21:40抵达上海5G未来中心，全程预估1265公里，实际跑了1313公里，顶着限速跑，最终能耗百公里14.6kWh，剩余电量3%，预估续航还剩19公里。 中间仅在山东临沭休息区充了…</description>
       <source>华尔街见闻最热</source>
       <category>华尔街见闻最热</category>
     </item>
     <item>
-      <title>“新王登基”100天，伯克希尔开始变了</title>
-      <link>https://wallstreetcn.com/articles/3770315</link>
-      <guid>https://wallstreetcn.com/articles/3770315</guid>
-      <description>格雷格·阿贝尔（Greg Abel）接管伯克希尔哈撒韦已满百日。这位新任CEO在延续公司核心文化的同时，正以更积极主动的管理风格重塑这家全球最受瞩目的投资集团。 4月17日，《华尔街日报》刊发了一篇深度报道，聚焦于伯克希尔·哈撒韦公司新任CEO格雷格·阿贝尔上任百日以来的种种变化。 今年1月份上任以来，阿贝尔已着手调整股票投资组合，重启股票回购计划，加码日…</description>
+      <title>AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池</title>
+      <link>https://wallstreetcn.com/articles/3770318</link>
+      <guid>https://wallstreetcn.com/articles/3770318</guid>
+      <description>AI的钱要从哪里赚回来？高盛给出了一个具体答案：自动驾驶。 当前，科技巨头在AI数据中心上的投资规模已接近7000亿美元，约为2020年水平的10倍。这笔钱能否产生足够回报，是华尔街最核心的疑问之一。 高盛分析师Mark Delaney近期发布最新报告，聚焦&quot;AI对利润池的影响&quot;，重点评估AI赋能的交通运输领域能创造多少增量利润。报告认为，自动驾驶商业化正…</description>
       <source>华尔街见闻最热</source>
       <category>华尔街见闻最热</category>
     </item>
     <item>
-      <title>既当分析师，又当投资人：这个29岁年轻人，正掌握芯片的话语权</title>
-      <link>https://wallstreetcn.com/articles/3770312</link>
-      <guid>https://wallstreetcn.com/articles/3770312</guid>
-      <description>一个没有半导体学位、靠Reddit社区起家的年轻人，正在成为全球AI芯片市场最有影响力的信息中枢。 今年3月，英伟达GTC开发者大会上，CEO黄仁勋在台上整场演讲只点了两个人的名字——其中一个就是Dylan Patel，29岁，SemiAnalysis创始人。黄仁勋不仅提到了SemiAnalysis最新发布的芯片性能评测报告InferenceX，还将其lo…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <title>“最快女护士”张水华回应云南石屏马拉松退赛：不舒服就没跑</title>
+      <link>https://m.thepaper.cn/detail/33004683</link>
+      <guid>https://m.thepaper.cn/detail/33004683</guid>
+      <description>4月19日，云南石屏马拉松开跑，“最快女护士”张水华中途退出比赛，其在直播中谈到退赛原因表示，跑出去一段后感到“不舒服就退赛了”。 张水华直播 早在今年1月，张水华的老公曾在直播中透露，张水华不是很适应高原。 此前报道： 张水华辞职后已拿下两个冠军，获折现超20万奖励 张水华发布辞职视频后，参加了1月18日的重庆马拉松，以2小时30分51秒的成绩获得女子第…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力</title>
-      <link>https://wallstreetcn.com/articles/3770313</link>
-      <guid>https://wallstreetcn.com/articles/3770313</guid>
-      <description>全球 市场已从冲突冲击中完全收复失地，高盛交易台认为AI主题将在未来1至6个月内显著跑赢大盘，基建层是最高确信度方向。 据追风交易台消息，4月18日，高盛FICC与股票部门发布最新交易台观点报告，其中的一个关键判断是：股票市场及各大长期主题均已回到冲突爆发前水平，且盈利预期更高、估值更低，风险收益比反而改善。 报告基准情景是： AI主题将在未来1个月、3个…</description>
-      <source>华尔街见闻最热</source>
-      <category>华尔街见闻最热</category>
+      <title>特大假酒网络被摧毁，查获侵权假冒白酒近2万箱、涉案2.6亿元</title>
+      <link>https://m.thepaper.cn/detail/33004678</link>
+      <guid>https://m.thepaper.cn/detail/33004678</guid>
+      <description>国家市场监督管理总局19日通报，在市场监管总局的统一协调下，山西、四川两省市场监管、公安部门联合行动，近日成功摧毁一个特大制售商标侵权和伪劣白酒的违法犯罪网络。 本次行动一举查获山西省吕梁市、太原市一带相关违法产品的生产、藏匿、包装与商标印制和邮寄场所7处，网络直播销售点1处，查获涉嫌侵权假冒白酒近2万箱、假冒包材70余万件、制假设备14台、大型储酒罐41…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>绿灯亮了不走也违法？超20秒未起步，与闯红灯同罚！</title>
+      <link>https://m.thepaper.cn/detail/33004498</link>
+      <guid>https://m.thepaper.cn/detail/33004498</guid>
+      <description>近日，有交警在接受媒体采访时明确提示：绿灯亮起后，车辆长时间停滞不前，同样属于交通违法行为。绿灯亮了超过20秒仍未起步，与闯红灯性质相同，均违反《中华人民共和国道路交通安全法》第44条关于“机动车通过交叉路口，应当按照交通信号灯、交通标志、交通标线或者交通警察的指挥通过”的规定。 交警指出，“闯红灯”和“绿灯不走”均属于“驾驶机动车不按交通信号灯指示通行”…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>又一批高校组建人工智能学院</title>
+      <link>https://m.thepaper.cn/detail/33004495</link>
+      <guid>https://m.thepaper.cn/detail/33004495</guid>
+      <description>近期，多所高校人工智能学院完成组建。 其中，据郑州师范学院消息，4月14日，郑州师范学院人工智能产业学院揭牌仪式在嵩山学堂举行。 郑州师范学院校长张铟指出，共同建设人工智能产业学院，不仅是响应国家人工智能发展战略、深化产教融合校企合作的重要举措，更是学校落实“立足地方、面向产业、服务发展”的办学理念、创新人才培养模式的鲜活实践。我们将以此为纽带，建立常态化…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>北约秘书长：美欧关系面临挑战，但美国不会退出北约</title>
+      <link>https://m.thepaper.cn/detail/33004653</link>
+      <guid>https://m.thepaper.cn/detail/33004653</guid>
+      <description>北约秘书长吕特（资料图） 据德国方面18日消息，北约秘书长吕特在接受采访时表示，尽管美欧关系面临挑战，他认为美国不会退出北约，但这需要“在更强大的北约中拥有一个更强大的欧洲”。 吕特说，美国总统特朗普显然对一些北约成员国感到失望，而他理解特朗普的不满。 他说，欧洲希望在北约发挥更大作用，这意味着北约从“不健康的依赖”向基于真正伙伴关系的跨大西洋联盟转变。…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>2026年4月19日《新闻联播》</title>
+      <link>https://m.thepaper.cn/detail/33004327</link>
+      <guid>https://m.thepaper.cn/detail/33004327</guid>
+      <description>2026年4月19日《新闻联播》</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>湖南一高中回应大班额问题：学生高度集中选择物化生导致师资紧缺</title>
+      <link>https://m.thepaper.cn/detail/33004328</link>
+      <guid>https://m.thepaper.cn/detail/33004328</guid>
+      <description>近日，对于“问政湖南”网友反映的“新邵一中高一物化生大班额问题一直未改善”问题，校方已作出回应。 新邵一中称，该校已向上级主管部门反映，并请求解决学校相关科目教师紧缺的问题。学校高一分科后学生集中选择物化生组合导致相关科目教师不足，现已向教育局、人社部门上报相关紧缺科目教师名额。 新邵一中创建于1949年，2003年晋升为湖南省重点中学，2004年授牌为湖…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>在“烟花三月”，扬州摆出硬实力邀约“下一场”</title>
+      <link>https://m.thepaper.cn/detail/33004348</link>
+      <guid>https://m.thepaper.cn/detail/33004348</guid>
+      <description>如果一定要用一个词来描述扬州，“烟花三月”大概是绕不开的答案。 春天是一年中最生机勃勃的季节。4月18日，2026年扬州“烟花三月”国际经贸旅游节开幕。从2002年首届算起，这个活动已经走过了25届。 扬州很聪明，25年来，他坚持在万物复苏的春天，把最美的一面亮出来，然后告诉所有人：我们不仅有好风景，更想在各行各业“大干一场”。 这不是一句口号。开幕式现场…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
+    </item>
+    <item>
+      <title>申花主场3比1完胜辽宁铁人，斯卢茨基终于习惯了轮换阵容</title>
+      <link>https://m.thepaper.cn/detail/33004181</link>
+      <guid>https://m.thepaper.cn/detail/33004181</guid>
+      <description>德比大战1比0击败上海海港后，上海申花延续着强势的前进势头，4月18日晚间，继续主场作战的申花又以3比1拿下辽宁铁人取得联赛三连胜。 前六轮过后，申花成为联赛仅有的三支不败球队，依然是所有球队中，最有希望挑战成都蓉城榜首位置的那一个。 比赛场面开放，球队实力接近 “大家可以感受到，在一场激烈的德比战之后，对于球队各方面的消耗都非常大。”赛后谈到本场比赛，斯…</description>
+      <source>澎湃新闻头条</source>
+      <category>澎湃新闻头条</category>
     </item>
     <item>
       <title>魔都眼｜花满申城，花卉节开幕首个周末你去看花（人）了吗</title>
@@ -499,78 +3203,6 @@
       <link>https://m.thepaper.cn/detail/32994493</link>
       <guid>https://m.thepaper.cn/detail/32994493</guid>
       <description>4月17日，由上海联劝公益基金会发起的“艺术无龄界”项目共创会，在上海思南公馆文学之家启幕。近百名来自公益、艺术、社区、医疗等不同领域的实践者、创作者与自发报名的市民围绕“看见老年、思考老年、积极行动”展开了一场跨代际、跨领域的对话。 圆桌论坛现场。左起：艺术创作者葛宇路、“水手计划”创作者杨信、安宁志愿者陆晓娅、媒体人姜妍 首场圆桌在媒体人、界面文化总监…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>在外滩老建筑中，为青年艺术家点上“微光”</title>
-      <link>https://m.thepaper.cn/detail/33000901</link>
-      <guid>https://m.thepaper.cn/detail/33000901</guid>
-      <description>澎湃新闻获悉，“萤火石——BAC青年艺术家培养计划作品博览”近日在上海外滩艺术中心185空间对公众开放。这座外滩历史建筑，此次被用来展示一批仍处在创作发展阶段的青年艺术家作品，现场同时发布了“BAC青年艺术家培养计划”。 “之所以叫‘萤火石’，是因为萤火石非为璀璨，而为微光，它不是聚光灯下被供奉的巨作，却能在暗处自燃，在寂静中传递温度。”主办方负责人说。…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>“中国姿态”雕塑展呈现当代雕塑新样态</title>
-      <link>https://m.thepaper.cn/detail/33002054</link>
-      <guid>https://m.thepaper.cn/detail/33002054</guid>
-      <description>4月18日起，“中国姿态·第七届中国雕塑展”巡展在安徽省芜湖中国雕塑学会艺术馆对外展出。展览中的100余件作品，集中展示当代雕塑家的创新成果。参展作品在材料运用、媒介转换、结构搭建与观念表达等维度展开探索，多角度呈现了中国当代雕塑创作的样态与发展趋势。 展览现场 据策展人介绍，当代雕塑已突破传统静态范式，呈现出多元、动态与跨界发展的态势，这种态势在展品材料…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>踏遍扬州古文化遗址，他们聚焦“何止烟花三月”</title>
-      <link>https://m.thepaper.cn/detail/33004352</link>
-      <guid>https://m.thepaper.cn/detail/33004352</guid>
-      <description>“故人西辞黄鹤楼，烟花三月下扬州。” 诗人李白的千古名句，让扬州的春日一直镌刻在国人的文化记忆里。 近日，一本聚焦扬州古代文化到当下艺文、园林、生活等的新著《扬州：何止烟花三月》由华文出版社出版，该书是“城市里的中国”系列的重要作品，继《南京六千年》《洛阳：天下之中》后，扬州成为该系列第三座被深度书写的城市。该系列主旨为“读懂中国”，后续还将推出成都、武汉…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>魔都眼｜从赏花到消费，前滩2公里点燃春日花经济</title>
-      <link>https://m.thepaper.cn/detail/33002055</link>
-      <guid>https://m.thepaper.cn/detail/33002055</guid>
-      <description>“人山人海、络绎不绝、水泄不通、川流不息……”上海前滩连接公园巷和前滩休闲公园的天桥上，一位母亲看着上海国际花卉节的人流，正在教还在牙牙学语的孩子不同的成语以形容眼前的景象。2026年4月18日，上海国际花卉节正式拉开帷幕。在浦东前滩分会场，超过2公里的沉浸式赏花动线串联起了前滩太古里、晶耀前滩、前滩公园巷和滨江公共空间，名为“卉聚前滩里”的主题活动俨然成…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>预防胃癌，胃镜筛查很重要！这些人群一定要重视｜肿瘤防治早知道</title>
-      <link>https://mp.weixin.qq.com/s/hEZyNlp9YMIOyokoxG3jQg</link>
-      <guid>https://mp.weixin.qq.com/s/hEZyNlp9YMIOyokoxG3jQg</guid>
-      <description>预防胃癌，胃镜筛查很重要！这些人群一定要重视｜肿瘤防治早知道</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>预防宫颈癌，筑牢三道“宫墙” | 肿瘤防治早知道</title>
-      <link>https://mp.weixin.qq.com/s/AV1mtZ6yzL1zqmfsVOwuFQ</link>
-      <guid>https://mp.weixin.qq.com/s/AV1mtZ6yzL1zqmfsVOwuFQ</guid>
-      <description>预防宫颈癌，筑牢三道“宫墙” | 肿瘤防治早知道</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>读懂城市｜成都：用一万公里绿道，把城市“种”进公园</title>
-      <link>https://m.thepaper.cn/detail/33004178</link>
-      <guid>https://m.thepaper.cn/detail/33004178</guid>
-      <description>成都，把城市“种”进公园，也种进了市民的心里。 “迈迈见山”是一名户外博主。今年春天，她做了一件很多人想都不敢想的事：用35个小时，徒步走完100公里环城绿道。她说，那是与自己对话、突破边界的旅程。 而就在两年前，她还坐在写字楼的格子间里，是一名外企白领。公司欠薪、劳动仲裁，职场被迫按下暂停键。正是在那段停下来的日子里，她找到了真正热爱的户外。于是，成都成…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>2026年福建省文旅经济发展大会召开</title>
-      <link>https://m.thepaper.cn/detail/33004326</link>
-      <guid>https://m.thepaper.cn/detail/33004326</guid>
-      <description>见山见海见未来。4月18日，2026年福建省文旅经济发展大会在漳州召开。省委书记、省人大常委会主任周祖翼出席并讲话，强调要全面落实习近平总书记关于文化和旅游工作的重要论述和在福建考察时的重要讲话精神，聚焦打造世界知名旅游目的地发展目标、把文化旅游业培育成为支柱产业重要要求、推进文化和旅游深度融合发展实践路径，坚持守正创新、提质增效、融合发展，着力完善现代旅…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>韩军称朝鲜发射弹道导弹，韩方就此举行紧急安全会议</title>
-      <link>https://m.thepaper.cn/detail/33004349</link>
-      <guid>https://m.thepaper.cn/detail/33004349</guid>
-      <description>青瓦台（资料图） 当地时间19日，韩国青瓦台国家安保室就朝鲜发射弹道导弹一事举行紧急安全状况检查会议。 韩国联合参谋本部称，朝鲜当天发射的弹道导弹飞行距离为140公里，韩美正在对相关参数进行精密分析。 据韩国联合参谋本部此前消息，朝鲜于当天6时10分左右在其新浦一带向半岛东部海域发射数枚不明型号弹道导弹。 朝方对此暂无回应。</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -591,18 +3223,10 @@
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>“五稂液”百余元一箱？央媒起底直播间“名优老酒”造假产业链</title>
-      <link>https://m.thepaper.cn/detail/33004171</link>
-      <guid>https://m.thepaper.cn/detail/33004171</guid>
-      <description>“老哥们，处理一批库存老酒，20年陈酿，卖一瓶少一瓶”……当前，在一些平台的电商直播间里，“年份老酒”生意火爆。热销背后，一些所谓的“年份老酒”却暗藏猫腻。 “新华视点”记者跟随市场监管执法人员，查处了一个依托网络售往全国、销售金额超2.6亿元的特大制售假冒仿冒名优白酒犯罪网络，揭开其从制作、罐装、转运到直播销售的造假售假全产业链条。 在电商直播间里销售的…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>上海书评周刊丨唐文明谈儒门教化与现代性问题</title>
+      <title>上海书评周刊</title>
       <link>https://html.thepaper.cn/collection/shanghaishuping260419</link>
       <guid>https://html.thepaper.cn/collection/shanghaishuping260419</guid>
-      <description>上海书评周刊丨唐文明谈儒门教化与现代性问题</description>
+      <description>上海书评周刊</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -611,14 +3235,6 @@
       <link>https://m.thepaper.cn/detail/33004042</link>
       <guid>https://m.thepaper.cn/detail/33004042</guid>
       <description>4月19日，2026北京亦庄半程马拉松暨人形机器人半程马拉松（备注：21.0975公里）开跑。 本次比赛的冠军为自主队为齐天大圣队，使用机器人为荣耀“闪电”，完赛时间50分26秒。 值得一提的是，首位冲线的为遥控队绝影赤兔队，使用机器人也为荣耀的“闪电”，奔跑速度几乎全程超过7m/s，完赛净时间48分19秒，加权后完赛时间约为57分钟。 按照比赛规则，自主…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
-    </item>
-    <item>
-      <title>澎湃早晚报｜早餐湃·苏超，请“霸王”回江东</title>
-      <link>https://m.thepaper.cn/papernews/morningEveningPaper?n=164189</link>
-      <guid>https://m.thepaper.cn/papernews/morningEveningPaper?n=164189</guid>
-      <description>澎湃早晚报｜早餐湃·苏超，请“霸王”回江东</description>
       <source>澎湃新闻头条</source>
       <category>澎湃新闻头条</category>
     </item>
@@ -639,20 +3255,20 @@
       <category>澎湃新闻头条</category>
     </item>
     <item>
-      <title>视频丨张雪机车正赛首回合第四，张雪：瞬息万变，精彩至极</title>
-      <link>https://m.thepaper.cn/detail/33003883</link>
-      <guid>https://m.thepaper.cn/detail/33003883</guid>
-      <description>在2026世界超级摩托车锦标赛（WSBK）荷兰站WorldSSP组别第一回合正赛中，中国摩托车制造商“张雪机车”获得第四名。赛后，“张雪机车”创始人张雪回应人民日报记者提问。 对于比赛结果，张雪用“瞬息万变”形容，“我们没有登上领奖台，但是比赛精彩至极，这是非常正常的，特别是这种极限竞技体育。”谈到接下来的比赛，张雪表示，希望能有一个更好的成绩。</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
+      <title>2526赛季NBA季后赛火箭 98:107 湖人，如何评价这场比赛？</title>
+      <link>https://zhihu.com/question/2029119674999222959</link>
+      <guid>https://zhihu.com/question/2029119674999222959</guid>
+      <description>2526赛季NBA季后赛火箭 98:107 湖人，如何评价这场比赛？</description>
+      <source>知乎热榜</source>
+      <category>知乎热榜</category>
     </item>
     <item>
-      <title>五一假期首尾高峰时段增开多趟夜间高铁，旅客提前7至5天可购票</title>
-      <link>https://m.thepaper.cn/detail/33003723</link>
-      <guid>https://m.thepaper.cn/detail/33003723</guid>
-      <description>五一假期火车票开售以来，购票需求旺盛。为最大限度满足旅客购票需求，铁路部门在假期首尾出行高峰时段和旅客出行相对集中的方向，计划调整高铁夜间“天窗”维修时间，在确保安全前提下，于4月29日夜间至5月2日凌晨、5月4日夜间至6日凌晨，在京沪、京广、京哈等高铁干线，安排开行直通夜间高铁，平均每天增开可达700列左右。 增开的直通夜间高铁列车实行按方向梯次售票，一…</description>
-      <source>澎湃新闻头条</source>
-      <category>澎湃新闻头条</category>
+      <title>2526赛季英超联赛英超第33轮切尔西 0:1 曼联，如何评价这场比赛？</title>
+      <link>https://zhihu.com/question/2029032478141064568</link>
+      <guid>https://zhihu.com/question/2029032478141064568</guid>
+      <description>2526赛季英超联赛英超第33轮切尔西 0:1 曼联，如何评价这场比赛？</description>
+      <source>知乎热榜</source>
+      <category>知乎热榜</category>
     </item>
     <item>
       <title>美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？</title>
@@ -663,10 +3279,10 @@
       <category>知乎热榜</category>
     </item>
     <item>
-      <title>WSBK荷兰站正式赛，张雪机车因压线被罚第三变第四，怎样评价他们的表现？</title>
-      <link>https://zhihu.com/question/2028940158813172454</link>
-      <guid>https://zhihu.com/question/2028940158813172454</guid>
-      <description>4月17日至19日，世界超级摩托车锦标赛（WSBK）2026赛季第三站荷兰站比赛举行。在4月18日的第一回合比赛中，张雪机车53号车手取得第四名的成绩。最后一圈因压线被罚，导致名次到第四位。 张雪机车53号车手排名第三。直播截图 张雪机车53号车手在比赛前半场以第一名的成绩领先。比赛进行到一半时，场上忽然开始飘雨，选手们冒雨比赛。在剩余第9圈时，一直以第一…</description>
+      <title>如何看待异环公测前瞻中特意将公测福利与“劳动所得”区分开？</title>
+      <link>https://zhihu.com/question/2028940223476692346</link>
+      <guid>https://zhihu.com/question/2028940223476692346</guid>
+      <description>[3 张图片]</description>
       <source>知乎热榜</source>
       <category>知乎热榜</category>
     </item>
@@ -693,6 +3309,246 @@
       <description>4月17日，日本“雷”号驱逐舰过航台湾海峡，向“台独”分裂势力传递错误信号，中国人民解放军东部战区全程跟监警戒，时刻保持高度戒备，国防部新闻发言人在回应中强调中方“有效瞰制管控”，谭主拿到了这一段无人机拍摄的现场画面。https://m.thepaper.cn/newsDetail_forward_33000237 值得注意的是，131年前的4月17日，清…</description>
       <source>知乎热榜</source>
       <category>知乎热榜</category>
+    </item>
+    <item>
+      <title>60余家金融机构齐聚上海，共话银行间市场制度型开放与生态协同</title>
+      <link>https://yicai.com/news/103139986.html</link>
+      <guid>https://yicai.com/news/103139986.html</guid>
+      <description>来自全球20个国家和地区的近60余家金融机构代表齐聚浦江之畔。 近日，“全球金融机构走进中国金融市场”银行间市场专场活动在上海举行。来自全球20个国家和地区的近60余家金融机构代表齐聚浦江之畔，围绕银行间市场制度型开放、跨境投融资便利化、全球资本配置等核心议题深入交流、凝聚共识，共促中外金融务实合作，为上海国际金融中心建设注入强劲开放新动能。本次活动由上海…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>“不差钱”的DeepSeek要融资了？投资人：或为期权定价留人才</title>
+      <link>https://yicai.com/news/103139987.html</link>
+      <guid>https://yicai.com/news/103139987.html</guid>
+      <description>DeepSeek即便开放融资，也不是大多数人的游戏。 这个周末的投资圈和AI圈被一则消息搅动。曾让无数投资人吃了闭门羹的DeepSeek，传出了首次启动外部融资的风声。 有报道称，DeepSeek正在以超100亿美元（约合人民币682亿元）的估值，计划募集不少于3亿美元（约合人民币20亿元）资金。对于长期拒绝外部资本、强调独立性的DeepSeek而言，此举…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>今年已有17人命丧美国移民拘留设施</title>
+      <link>https://yicai.com/news/103139989.html</link>
+      <guid>https://yicai.com/news/103139989.html</guid>
+      <description>今年已有17人命丧美国移民拘留设施 据央视新闻，当地时间4月18日，根据美国移民与海关执法局最新的数据，截至4月12日，2026年以来已有17名移民在遭该机构拘押期间死亡。照此频率，观察人士推测今年全年相关死亡人数可能会超过去年。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>五一假期售票开始以来，12306已拒绝“抢票软件”出票105.6万张</title>
+      <link>https://yicai.com/news/103139984.html</link>
+      <guid>https://yicai.com/news/103139984.html</guid>
+      <description>五一假期售票开始以来，12306已拒绝“抢票软件”出票105.6万张 据澎湃新闻，记者从中国铁路12306技术中心了解到，为防范和遏制第三方平台“抢票软件”恶意刷票抢票等非正常访问行为，努力营造公平公正的购票环境，五一假期售票开始以来，至4月18日24时，12306已拒绝“抢票软件”出票105.6万张票。 五一假期售票开始以来，12306根据历史数据以及五…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>断臂机器人坚持完赛，网友赠送“断臂侠”外号，“情绪很稳定”</title>
+      <link>https://yicai.com/video/103139982.html</link>
+      <guid>https://yicai.com/video/103139982.html</guid>
+      <description>4月19日，2026北京亦庄人形机器人半程马拉松赛场上，一个断臂机器人坚持完赛，网友赠送“断臂侠”外号，他是来自天晴队的天工Ultra-2026机器人。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>伊朗副外长：绝不接受被当作国际法例外对待</title>
+      <link>https://yicai.com/news/103139981.html</link>
+      <guid>https://yicai.com/news/103139981.html</guid>
+      <description>伊朗副外长：绝不接受被当作国际法例外对待 据央视新闻，伊朗外交部副部长赛义德·哈提卜扎德4月18日表示，伊朗致力于通过外交途径解决问题，但绝不接受被当作国际法的例外对待。伊朗不会接受在国际法框架之外作出的任何承诺。哈提卜扎德表示，伊美此前谈判已取得重要进展，但美国试图将伊朗视为国际法例外的做法阻碍了双方达成协议。针对美国总统特朗普关于伊朗浓缩铀的言论，哈提…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>我国摧毁特大假酒网络</title>
+      <link>https://yicai.com/news/103139979.html</link>
+      <guid>https://yicai.com/news/103139979.html</guid>
+      <description>我国摧毁特大假酒网络 据新华社，国家市场监督管理总局19日通报，在市场监管总局的统一协调下，山西、四川两省市场监管、公安部门联合行动，近日成功摧毁一个特大制售商标侵权和伪劣白酒的违法犯罪网络。 本次行动一举查获山西省吕梁市、太原市一带相关违法产品的生产、藏匿、包装与商标印制和邮寄场所7处，网络直播销售点1处，查获涉嫌侵权假冒白酒近2万箱、假冒包材70余万件…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>科技周报|格力海信论战“真铜实料”，广交会机器人出海升温</title>
+      <link>https://yicai.com/news/103139975.html</link>
+      <guid>https://yicai.com/news/103139975.html</guid>
+      <description>广交会机器人出海升温 4月15日开幕的第139届中国进出口商品交易会（简称“广交会”），展示了中国机器人技术的突破，人形机器人价格同比下降约三分之一至二分之一，价格降至20万-50万元，应用场景拓展至羽毛球对打、导览、端茶递水等；灵巧手售价仅2万多元，供不应求；外骨骼机器人获海外采购，清洁与服务机器人出口快速增长。今年中国智能仿生机器人获专属出口税号，出口…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>半马“跑进”1小时，人形机器人集体提速</title>
+      <link>https://yicai.com/news/103139974.html</link>
+      <guid>https://yicai.com/news/103139974.html</guid>
+      <description>手机厂商在传感器、影像算法及系统调度方面的积累，可以迁移至机器人领域。 4月19日，在2026北京亦庄半程马拉松暨人形机器人半程马拉松上，人形机器人开始集体逼近人类选手的完赛节奏。 当日比赛中，齐天大圣队的荣耀人形机器人“闪电”以50分26秒（净用时）获得机器人组冠军。现场计时显示，首位人类半程马拉松选手在约1小时07分至1小时08分之间冲线，这意味着，本…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>墨西哥总统时隔八年访问西班牙 两国“外交僵局”或将破冰</title>
+      <link>https://yicai.com/news/103139977.html</link>
+      <guid>https://yicai.com/news/103139977.html</guid>
+      <description>墨西哥总统时隔八年访问西班牙 两国“外交僵局”或将破冰 据央视新闻，4月18日，墨西哥总统克劳迪娅·辛鲍姆与西班牙首相佩德罗·桑切斯在西班牙巴塞罗那举行会谈。这也是时隔八年墨西哥总统首次访问西班牙，标志着两国此前紧张的关系逐步缓和。此次访问也被视为重启墨西哥与西班牙多年政治对话的重要一步。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>看完机器人马拉松 我要给它们打满分！我老了靠机器人养老的信心更强了！</title>
+      <link>https://yicai.com/video/103139973.html</link>
+      <guid>https://yicai.com/video/103139973.html</guid>
+      <description>4月19日，知名数字经济学者、DCCI互联网研究院院长刘兴亮接受第一财经采访时认为，机器人不只是跑马拉松，而是在适应世界，为未来更好的商业化做适应。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>为什么“宝宝”机器人都能来跑马拉松？ 如果全照着F1赛车去比就只能是少数人的游戏了</title>
+      <link>https://yicai.com/video/103139972.html</link>
+      <guid>https://yicai.com/video/103139972.html</guid>
+      <description>4月19日，上海卓益得机器人有限公司创始人李清都接受第一财经采访时认为，机器人半马曝光度非常高，给很多机器人队伍机会，如果完全照着奔跑像F1方程式赛车去做的话，可能最后只有少数的玩家去做。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>超越人类纪录！工程师回应机器人半马夺冠秘诀</title>
+      <link>https://yicai.com/news/103139969.html</link>
+      <guid>https://yicai.com/news/103139969.html</guid>
+      <description>外形模仿优秀人类运动员，散热靠自研液冷。 50分26秒！ 4月19日上午，北京亦庄人形机器人半程马拉松赛道终点附近，围观人群的目光紧紧跟随着一道红色的身影。最终，由荣耀“闪电”机器人组成的齐天大圣队斩获赛事冠军。这一成绩也超越了乌干达名将基普利莫在今年3月创造的57分20秒人类纪录。当天，荣耀旗下不同技术方案组成的多支机器人战队包揽了本次比赛的前三名。 比…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>保加利亚提前举行议会选举</title>
+      <link>https://yicai.com/news/103139971.html</link>
+      <guid>https://yicai.com/news/103139971.html</guid>
+      <description>保加利亚提前举行议会选举 据央视新闻，当地时间4月19日，保加利亚提前举行议会选举，共有来自14个政党、10个政党联盟的4785名候选人和1名独立候选人参与角逐议会240个议席。保全国共设11995个投票点，另有493个海外投票点。投票从当地时间上午7时开始，20时结束。如20时仍有民众在投票点外排队，则可延长至21时。这是2021年以来保加利亚举行的第八…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>以军称一士兵在黎巴嫩南部作战时死亡</title>
+      <link>https://yicai.com/news/103139968.html</link>
+      <guid>https://yicai.com/news/103139968.html</guid>
+      <description>以军称一士兵在黎巴嫩南部作战时死亡 据央视新闻，以色列国防军19日发表声明说，一名以军士兵在黎巴嫩南部作战时死亡。声明说，另有9名士兵受伤，其中一人伤势严重。目前，受伤士兵均已送医接受救治。美国和以色列2月28日对伊朗发起大规模军事行动。作为伊朗的主要地区盟友，黎巴嫩真主党随后开始向以色列北部发射火箭弹，以色列则对黎南部、东部和首都贝鲁特等地发起猛烈空袭，…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>古巴感谢西班牙、巴西和墨西哥三国政府声援</title>
+      <link>https://yicai.com/news/103139966.html</link>
+      <guid>https://yicai.com/news/103139966.html</guid>
+      <description>古巴感谢西班牙、巴西和墨西哥三国政府声援 据新华社，古巴外长罗德里格斯18日感谢西班牙、巴西和墨西哥三国就古巴当前困难局势发表的联合声明。罗德里格斯在社交媒体发文说，由于美国将封锁升级至极端程度、实施能源封锁并持续发出威胁，古巴当前面临困难局势。在此背景下，三国呼吁避免采取任何使民众生活条件进一步恶化或违反国际法的行动。罗德里格斯说，当务之急是尊重《联合国…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>北约秘书长说他认为美国不会退出北约</title>
+      <link>https://yicai.com/news/103139964.html</link>
+      <guid>https://yicai.com/news/103139964.html</guid>
+      <description>北约秘书长说他认为美国不会退出北约 据新华社，德国媒体18日报道，北约秘书长吕特说，尽管美欧关系面临挑战，他认为美国不会退出北约，但这需要“在更强大的北约中拥有一个更强大的欧洲”。德国《星期日世界报》当天发布对吕特的采访报道。吕特说，美国总统特朗普显然对一些北约成员国感到失望，而他理解特朗普的不满。他说，欧洲希望在北约发挥更大作用，这意味着北约从“不健康的…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>长春高新：目前美国关税政策对公司业务无影响</title>
+      <link>https://yicai.com/news/103139962.html</link>
+      <guid>https://yicai.com/news/103139962.html</guid>
+      <description>长春高新：目前美国关税政策对公司业务无影响 长春高新在互动平台表示，目前美国关税政策对公司业务无影响。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>厄瓜多尔最大城市一商业区发生枪击事件 5人死亡</title>
+      <link>https://yicai.com/news/103139960.html</link>
+      <guid>https://yicai.com/news/103139960.html</guid>
+      <description>厄瓜多尔最大城市一商业区发生枪击事件 5人死亡 据央视新闻，当地时间18日下午，厄瓜多尔最大城市瓜亚基尔南部的一个商业区发生袭击事件，造成包括一名7岁儿童在内的5人死亡。当天下午，多名武装人员乘坐白色轿车抵达现场后，向人群连续开枪。事发现场为一个人流较大的商业区域。袭击者作案后迅速逃离现场。事发后，警方封锁区域并展开调查。目前嫌疑人仍在逃。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>古特雷斯强烈谴责导致联合国维和人员身亡的袭击事件</title>
+      <link>https://yicai.com/news/103139958.html</link>
+      <guid>https://yicai.com/news/103139958.html</guid>
+      <description>古特雷斯强烈谴责导致联合国维和人员身亡的袭击事件 据央视新闻，联合国秘书长古特雷斯18日发表声明，强烈谴责当天在黎巴嫩发生的导致来自法国的联合国维和人员身亡的袭击事件。 声明说，这是近几周来发生的第三起导致联合国驻黎巴嫩临时部队（联黎部队）维和人员死亡的事件。秘书长敦促各方尊重停止敌对行动的决定，立即停火，再次呼吁各方履行其根据国际法应承担的义务，确保联合…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>日将向澳大利亚出口护卫舰</title>
+      <link>https://yicai.com/news/103139956.html</link>
+      <guid>https://yicai.com/news/103139956.html</guid>
+      <description>日将向澳大利亚出口护卫舰 据CCTV国际时讯，4月18日，澳大利亚副总理兼国防部长马尔斯与来访的日本防卫大臣小泉进次郎举行会谈。双方确认已签订一项合同，日本将向澳大利亚出口升级后的日本“最上”级护卫舰。根据合同，该项目将建造11艘护卫舰，其中首批3艘将在日本建造，首舰预计2029年交付给澳大利亚，其余8艘将在澳大利亚建造。据澳大利亚媒体报道，这批次的“最上…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>下周外盘看点丨霍尔木兹海峡前景搅动市场，沃什能否闯关美联储主席提名听证？</title>
+      <link>https://yicai.com/news/103139945.html</link>
+      <guid>https://yicai.com/news/103139945.html</guid>
+      <description>市场焦点仍将集中在中东局势进展。投资者将密切关注该海峡能否保持开放。 本周，霍尔木兹海峡的反复“开关”再一次搅动全球市场。美股全线走高，道指周涨3.19%，纳指周涨6.84%，标普500指数周涨4.54%，欧洲三大股指表现不俗，英国富时100指数周涨0.63%，德国DAX 30指数周涨3.77%，法国CAC 40指数周涨2.00%。 下周看点颇多，美国零售…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>美股点金丨科技股狂飙！美股两大指数迭创新高，市场能否乘胜追击</title>
+      <link>https://yicai.com/news/103139946.html</link>
+      <guid>https://yicai.com/news/103139946.html</guid>
+      <description>股指短线涨势过快有超买迹象，高位震荡获利回吐压力或显现。 标普500指数与科技股为主的纳斯达克指数以连续第三个历史新高结束了一周交易。 在中东局势方面，美伊为期两周的停火已进入倒计时，双方能否达成和平协议将验证本轮反弹的持续性，霍尔木兹海峡运输安全性依然关键。4月21日后是否会延长停火决定，仍有待观察。 美联储降息预期升温 刚刚过去的一周，美国有多项经济数…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>伊朗议长：对美不信任仍未完全化解 敦促美方对等履约</title>
+      <link>https://yicai.com/news/103139952.html</link>
+      <guid>https://yicai.com/news/103139952.html</guid>
+      <description>伊朗议长：对美不信任仍未完全化解 敦促美方对等履约 据新华社，伊朗媒体18日报道，伊朗伊斯兰议会议长卡利巴夫表示，谈判未能完全化解伊朗对美国的不信任，伊朗的政策是逐步对等履约，“绝不接受伊方履行承诺而美方毫无作为的局面”。 卡利巴夫是在18日晚间播出的电视采访中作上述表态的。谈及伊美在巴基斯坦伊斯兰堡的谈判，卡利巴夫表示，此轮谈判让伊美双方均对彼此立场有了…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>最诡异机器人出现，遥控-048戴头发，网友：半夜送外卖要被吓死</title>
+      <link>https://yicai.com/video/103139944.html</link>
+      <guid>https://yicai.com/video/103139944.html</guid>
+      <description>4月19日，2026北京亦庄人形机器人半程马拉松赛场上，出现了一个戴着头发的机器人：遥控-048，为行者队的行者泰山E1机器人。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>美媒说特朗普召开会议讨论与伊朗谈判的问题</title>
+      <link>https://yicai.com/news/103139943.html</link>
+      <guid>https://yicai.com/news/103139943.html</guid>
+      <description>美媒说特朗普召开会议讨论与伊朗谈判的问题 据新华社，美国阿克西奥斯新闻网站18日报道，美国总统特朗普当天在白宫战情室召开会议，讨论围绕霍尔木兹海峡再度出现的危机以及与伊朗谈判的问题。一名美高级官员说，如果不尽快取得突破，战事或在“未来几天”重新爆发。 报道说，美伊局势正处于关键时刻，停火即将到期，而美伊下一轮谈判的日期尚未确定。据一名了解谈判细节的消息人士…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>伊朗民航组织：伊朗领空将分四个阶段重新开放</title>
+      <link>https://yicai.com/news/103139937.html</link>
+      <guid>https://yicai.com/news/103139937.html</guid>
+      <description>伊朗民航组织：伊朗领空将分四个阶段重新开放 据新华社，伊朗媒体19日报道，伊朗民航组织表示，部分航班将逐步恢复，伊朗领空开放将分四个阶段进行。</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>荣耀机器人包揽机器人半马前三名</title>
+      <link>https://yicai.com/news/103139925.html</link>
+      <guid>https://yicai.com/news/103139925.html</guid>
+      <description>荣耀机器人包揽机器人半马前三名 4月19日，机器人马拉松半程带的前三名的成绩揭晓，获得冠亚季的队伍分别是齐天大圣队、雷霆闪电队和星火燎原队，成绩分别为50分26秒、50分56秒和53分01秒，这三支队伍均来自荣耀机器人闪电，操作方式为自主导航。（第一财经记者 刘佳）</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛</title>
+      <link>https://yicai.com/news/103139922.html</link>
+      <guid>https://yicai.com/news/103139922.html</guid>
+      <description>北京首个交警机器人亮相街头 参与指挥亦庄半程马拉松比赛 据央视新闻，4月19日早，在北京亦庄半程马拉松比赛的路线上，北京交警机器人首次正式亮相并在赛道指挥选手奔跑，后续将在路口试点执勤，陆续完善并实现更多功能。本次亮相的北京交警机器人，目前已实现交通手势指挥、交通安全宣传、交通出行引导等功能，后续将逐步迭代拓展专业知识问答、交通违法识别、路况设施巡视等应用…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
+    </item>
+    <item>
+      <title>伊朗外交部说霍尔木兹海峡无条件过境通行“已成历史”</title>
+      <link>https://yicai.com/news/103139920.html</link>
+      <guid>https://yicai.com/news/103139920.html</guid>
+      <description>伊朗外交部说霍尔木兹海峡无条件过境通行“已成历史” 据新华社，伊朗外交部发言人巴加埃19日凌晨说，在美国和以色列的侵略将美国军事力量带入海峡周边那一刻，霍尔木兹海峡的无条件过境通行“便已成为历史”。 针对欧盟官员呼吁伊朗遵守国际法并无条件开放霍尔木兹海峡的言论，巴加埃在社交媒体平台发文说，欧盟在对他国进行“国际法说教”的同时，却对美国与以色列发动侵略采取纵…</description>
+      <source>第一财经最新</source>
+      <category>第一财经最新</category>
     </item>
   </channel>
 </rss>
